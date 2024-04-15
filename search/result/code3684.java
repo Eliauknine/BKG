@@ -1,0 +1,1 @@
+ public void setStrongReferencePolicy(CDOAdapterPolicy adapterPolicy){   { if (adapterPolicy == null)     {  adapterPolicy = CDOAdapterPolicy.NONE;     }  if (adapterReferencePolicy != adapterPolicy) } } 

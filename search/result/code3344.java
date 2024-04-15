@@ -1,0 +1,1 @@
+ */ public class CommonNavigatorUtils {  private static final String ERROR_LOG_ID = "org.eclipse.pde.runtime.LogView";  public static Object createMessageProvider(final String message, final MessageType type)   { } } 

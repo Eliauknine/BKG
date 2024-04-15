@@ -1,0 +1,1 @@
+  if (isDisposed()) return;  loadingFigureController.showLoadingFigure(false);	// Bring down only the loading figure.  processParseError(true);	// Treat it as parse error, the model parser couldn't even get far enough to signal parse error.  setReloadEnablement(true);	// Because it was disabled.							 }

@@ -1,0 +1,1 @@
+  this.stage.focusedProperty().addListener(this::handledFocus);  this.stage.setFullScreen(this.fullscreen);  this.stage.fullScreenProperty().addListener(this::handleFullscreen);  if (this.dispatcher != null) { } }

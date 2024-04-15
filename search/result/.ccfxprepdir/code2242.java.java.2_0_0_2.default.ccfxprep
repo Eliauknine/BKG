@@ -1,0 +1,14 @@
+1.33.32	+1	s_@
+1.34.33	+10	id|SuppressWarnings
+1.44.43	+0	c_func
+1.44.43	+1	(paren
+1.45.44	+d	l_string|"restriction"
+1.52.51	+1	)paren
+1.54.53	+6	r_public
+1.5b.5a	+5	r_class
+1.61.60	+17	id|ECPReferenceServiceImpl
+1.79.78	+a	r_implements
+1.84.83	+10	id|ReferenceService
+1.95.94	+1	(brace
+1.97.96	+1	)brace
+2.1.9a	+0	eof

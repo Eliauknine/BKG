@@ -1,0 +1,1 @@
+  protected Collection<String> getEncodings() { if (encodings == null) {  encodings = new ArrayList<>();  for (StringTokenizer stringTokenizer = new StringTokenizer(DocumentstructuretemplateEditorPlugin.INSTANCE.getString("_UI_XMLEncodingChoices")); stringTokenizer.hasMoreTokens();)  				{  encodings.add(stringTokenizer.nextToken()); 				} } } }

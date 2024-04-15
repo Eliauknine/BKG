@@ -1,0 +1,1 @@
+ 	 * @param parent the composite to layout	 */  private static synchronized void layoutDelayed(Composite parent) {  requestedLayouts.add(parent);  if (thread != null) {  return; 		}  thread = new Thread(new Runnable() { } } }

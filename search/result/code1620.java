@@ -1,0 +1,1 @@
+  gridData = new GridData(GridData.FILL_BOTH | GridData.GRAB_HORIZONTAL);  gridData.horizontalSpan = 2;  gridData.heightHint = 280; // TODO remove this "magic number"?  filter.setLayoutData(gridData);  tv = filter.getViewer(); }

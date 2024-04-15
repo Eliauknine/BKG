@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.tests.model1.Supplier;import org.eclipse.emf.cdo.util.CDOUtil; import org.eclipse.emf.internal.cdo.CDOSessionImpl; import org.eclipse.emf.internal.cdo.CDOTransactionImpl; import org.eclipse.emf.common.notify.Adapter; import org.eclipse.emf.common.notify.Notification; }

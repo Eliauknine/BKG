@@ -1,0 +1,1 @@
+  packages.add("http://org/eclipse/emf/ecp/view/viewproxy/model");   packages.add("http://org/eclipse/emf/ecp/view/section/model");   packages.add("http://www.eclipse.org/emf/ecp/view/template/style/textcontrol/enablement/model");  	}  private void addQ7Models1(Set<String> packages) { }

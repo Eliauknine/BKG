@@ -1,0 +1,1 @@
+  loginContainer.setLayout(new GridLayout(3, false));  loginContainer.setLayoutData(new GridData(SWT.FILL, SWT.FILL, true,  true, 1, 1));  loginContainer.setBounds(0, 0, 64, 64);  createUsernameLabel(loginContainer);  createUsernameCombo(loginContainer); }

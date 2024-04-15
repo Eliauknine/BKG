@@ -1,0 +1,1 @@
+ import org.eclipse.papyrus.ui.toolbox.notification.INotification; import org.eclipse.papyrus.ui.toolbox.notification.dialogs.PapyrusPopup; /**  * The INotification corresponding to the popup builder }

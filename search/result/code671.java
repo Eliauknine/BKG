@@ -1,0 +1,1 @@
+ import org.eclipse.fordiac.ide.model.libraryElement.Resource; import org.eclipse.fordiac.ide.model.libraryElement.SubApp; import org.eclipse.fordiac.ide.model.libraryElement.VarDeclaration; import org.eclipse.gef.commands.CompoundCommand; import org.eclipse.ui.IEditorInput; }

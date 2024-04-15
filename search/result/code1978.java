@@ -1,0 +1,1 @@
+	public ClassInstanceCreation(int start, int end, AST ast,			ClassName className, List ctorParams) { 		this(start, end, ast, className, ctorParams == null ? null 				: (Expression[]) ctorParams.toArray(new Expression[ctorParams 						.size()])); 	} 

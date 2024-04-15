@@ -1,0 +1,1 @@
+  private boolean isContained(FBNetworkElement e) {  for(Object ne : selection){  if(ne instanceof SubAppForFBNetworkEditPart && ((SubAppForFBNetworkEditPart)ne).getModel().equals(e)){  return true; 			} 		} } }

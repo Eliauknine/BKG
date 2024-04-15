@@ -1,0 +1,1 @@
+ 	} private String getMemento() throws CoreException {  if ( fUseDefaultRegisterGroups || fRegisterGroups == null )  return "";   Document document = DebugPlugin.newDocument();  Element element = document.createElement( ELEMENT_REGISTER_GROUP_LIST ); }

@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.common.model.CDOPackage; import org.eclipse.emf.cdo.server.hibernate.IHibernateMappingProvider; import org.eclipse.emf.cdo.server.hibernate.IHibernateStore; import org.eclipse.emf.cdo.server.internal.hibernate.HibernateUtil; import org.eclipse.emf.cdo.server.internal.hibernate.bundle.OM; }

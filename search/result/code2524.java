@@ -1,0 +1,1 @@
+ protected Object removeListItem(EObject object, EStructuralFeature feature, int{  EObject selected = null; if (index<map.length-1)  selected = list.get(map[index+1]);  list.remove(map[index]);  return selected; 	} 

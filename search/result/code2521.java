@@ -1,0 +1,1 @@
+ private void setSourceRef(DataAssociation association, ItemAwareElement value, E{  association.getSourceRef().clear(); else  association.getSourceRef().add(value); 			}  else {  if (container!=null) { } } 

@@ -1,0 +1,17 @@
+1.2.1	+6	r_public
+1.9.8	+4	r_void
+1.e.d	+12	id|resetHiddenEditors
+1.20.1f	+0	c_func
+1.20.1f	+1	(paren
+1.21.20	+1	)paren
+1.23.22	+1	(brace
+1.25.24	+6	id|E4Util
+1.2b.2a	+1	s_.
+1.2c.2b	+b	id|unsupported
+1.37.36	+0	c_func
+1.37.36	+1	(paren
+1.38.37	+26	l_string|"resetHiddenEditors not supported yet"
+1.5e.5d	+1	)paren
+1.5f.5e	+1	suffix:semicolon
+1.63.62	+1	)brace
+2.1.66	+0	eof

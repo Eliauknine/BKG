@@ -1,0 +1,1 @@
+  if (!path.startsWith(PREFIX)) {  throw new MalformedRequestException("Path " + path + " not recognized as aggregator path. Has to start with " + PREFIX); 		}  path = path.replace(PREFIX, "");  path = VABPathTools.stripSlashes(path);  return path; 	}

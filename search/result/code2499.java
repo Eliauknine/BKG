@@ -1,0 +1,1 @@
+public abstract class AbstractCalendarItemProvider extends AbstractPropertyObserver implements ICalendarItemProvider {  private static final IScoutLogger LOG = ScoutLogManager.getLogger(AbstractCalendarItemProvider.class);  public static final long DAY_MILLIS = 24L * 3600L * 1000L;  public static final long MONTH_MILLIS = DAY_MILLIS * 32L;  private P_ReloadJob m_reloadJob; } 

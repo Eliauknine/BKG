@@ -1,0 +1,12 @@
+1.af.ae	+9	r_protected
+1.b9.b8	+4	r_void
+1.be.bd	+2d	id|addReferenceOwnerExpressionPropertyDescriptor
+1.eb.ea	+0	c_func
+1.eb.ea	+1	(paren
+1.ec.eb	+6	id|Object
+1.f3.f2	+6	id|object
+1.f9.f8	+1	)paren
+1.fb.fa	+1	(brace
+1.fd.fc	+1	)brace
+1.ff.fe	+1	)brace
+2.1.101	+0	eof

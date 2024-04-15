@@ -1,0 +1,1 @@
+ public boolean createReport(final String reportType, final TestSuite suite, fina{  final IReportGenerator report = ReportTools.getReport(reportType); if (report != null) {  final String reportData = report.createReport(title, description, suite);  getEnvironment().getModule(ResourcesModule.class).writeFile(file, reportData, ResourcesModule.WRITE);  return true; 		} } 

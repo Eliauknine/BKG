@@ -1,0 +1,1 @@
+  if (manager != null) { dialog = new PreferenceDialogWrapper(getShell(), manager);  dialog.create();  WorkbenchHelp.setHelp(dialog.getShell(),  IWorkbenchHelpContextIds.PREFERENCE_DIALOG);  for (Object element : manager.getElements( } }

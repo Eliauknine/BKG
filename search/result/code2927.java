@@ -1,0 +1,1 @@
+ import org.eclipse.papyrus.views.modelexplorer.core.ui.pagebookview.ModelExplorerDecorationAdapter; import org.eclipse.swt.graphics.Image; import org.eclipse.swt.graphics.Point; import org.eclipse.ui.internal.navigator.NavigatorDecoratingLabelProvider; /** }

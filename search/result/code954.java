@@ -1,0 +1,1 @@
+ import org.eclipse.ui.IWorkbenchPartReference;import org.eclipse.ui.PartInitException; import org.eclipse.ui.PlatformUI; import org.eclipse.ui.dialogs.ElementTreeSelectionDialog; import org.eclipse.ui.dialogs.ISelectionStatusValidator; import org.eclipse.ui.dialogs.ListSelectionDialog; }

@@ -1,0 +1,1 @@
+  Copyright (c) 2017-2018 fortiss GmbH                    2018 Johannes Kepler University Linz                     2019 Andrea Zoitl    This program and the accompanying materials are made available under the  terms of the Eclipse Public License 2.0 which is available at }

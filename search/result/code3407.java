@@ -1,0 +1,1 @@
+ protected IStatus performNavigation(IProgressMonitor monitor) throws CoreExcepti{  String symbol = (String) result.getResult(); reportSymbolLookupFailure(symbol);  break;  default:  reportSelectionMatchFailure();  break; } 

@@ -1,0 +1,1 @@
+ sed -i "s/orion\.buildId\=/orion\.buildId\=${1}/" orionode/orion.conf{ sed -i "s/var BUILD_ID \= \"unknown\"\;/var BUILD_ID \= \"${1}\"\;/" orionode/lib/version.jstar -czf "orionode_$1.tar.gz" orionode/ cp "orionode_$1.tar.gz" ${DOWNLOADS}/orion/orionode/ } 

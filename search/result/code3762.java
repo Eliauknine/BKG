@@ -1,0 +1,1 @@
+ protected int loadRevisionCollectionChunkSize;  public LoadRevisionIndication()   {   }  @Override  protected short getSignalID()   {  return CDOProtocolConstants.SIGNAL_LOAD_REVISION;   }  @Override 

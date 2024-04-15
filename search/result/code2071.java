@@ -1,0 +1,1 @@
+ import org.eclipse.emf.common.util.Diagnostic;import org.eclipse.emf.ecore.EObject; import org.eclipse.emf.ecore.EStructuralFeature; import org.eclipse.emf.ecp.view.internal.core.swt.MessageKeys; import org.eclipse.emf.ecp.view.spi.context.ViewModelContext; import org.eclipse.emf.ecp.view.spi.model.LabelAlignment; import org.eclipse.emf.ecp.view.spi.model.VControl; }

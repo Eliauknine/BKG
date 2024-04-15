@@ -1,0 +1,1 @@
+ 		};	}  protected void parseCommandAndSend(String commandMessage, String channelName) {  synchronized (this) {  if (connection != null) {  try {  String lowerCase = commandMessage.toLowerCase();  if (lowerCase.startsWith("/msg ")) {   commandMessage = commandMessage.substring(5);  int index = commandMessage.indexOf(COMMAND_DELIM); } } } }

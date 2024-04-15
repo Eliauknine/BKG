@@ -1,0 +1,1 @@
+ public static final URI getDocumentStructureFileEcoreURI(final IDocumentStructur{  if (false == uri.isPlatform()) {  // we convert local URI as platform resource URI  final String projectName = generatorConfiguration.eResource().getURI().segment(1);  uri = URI.createPlatformResourceURI(projectName, true).appendSegment(folderName); 		}  if (uri.isPlatform()) { } } 

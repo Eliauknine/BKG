@@ -1,0 +1,1 @@
+  id="org.eclipse.emf.cdo.tests.hibernate"  download-size="0"  install-size="0"  version="0.0.0"  unpack="false"/>    <plugin  id="org.eclipse.emf.cdo.tests.hibernate.client"  download-size="0"  install-size="0"  version="0.0.0"  unpack="false"/>    <plugin  id="org.eclipse.emf.cdo.tests.model3" }

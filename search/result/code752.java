@@ -1,0 +1,1 @@
+	 *                ASN.1 files, to efficiently handle module renaming. 	 * */  public void updateSyntax(final TTCN3ReparseUpdater reparser, final ProjectSourceParser sourceParser) throws ReParseException {  // edited outside the module  if (reparser.getDamageEnd() < location.getOffset()) {  // before the module } } 

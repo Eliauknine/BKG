@@ -1,0 +1,1 @@
+  return true;} bool ForteBootFileLoader::checkCommandEnding(CIEC_STRING &line){ #ifdef FORTE_DYNAMIC_TYPE_LOAD  return (strcmp(line.getValue() + line.length() - 11, "</Request>\n")); #else  return line.getValue()[line.length() - 1] != '\n'; #endif }

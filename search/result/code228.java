@@ -1,0 +1,1 @@
+ protected void doBeforeActivate() throws Exception{  checkNull(mappingStrategy, Messages.getString("DBStore.2"));   checkNull(dbAdapter, Messages.getString("DBStore.1"));   checkNull(dbConnectionProvider, Messages.getString("DBStore.0"));    } 

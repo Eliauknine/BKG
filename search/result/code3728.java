@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.eresource.CDOResource;import org.eclipse.emf.cdo.tests.model1.PurchaseOrder; import org.eclipse.emf.cdo.tests.model1.Supplier; import org.eclipse.emf.cdo.tests.model4.GenRefSingleNonContained; import org.eclipse.emf.cdo.tests.model4.model4Package; import org.eclipse.emf.cdo.util.CDOUtil; }

@@ -1,0 +1,1 @@
+ protected void init(){  CDOResource resource = transaction.createResource(realmPath); realm = createRealm();  resource.getContents().add(realm);     }  else     {  CDOResource resource = transaction.getResource(realmPath);  realm = (Realm)resource.getContents().get(0);     } 

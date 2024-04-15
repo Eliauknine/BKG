@@ -1,0 +1,14 @@
+1.2.1	+6	r_public
+1.9.8	+6	id|Object
+1.10.f	+14	id|getProtectableObject
+1.24.23	+0	c_func
+1.24.23	+1	(paren
+1.25.24	+1	)paren
+1.26.25	+1	(brace
+1.2a.29	+1	(brace
+1.2c.2b	+6	r_return
+1.33.32	+11	id|protectableObject
+1.44.43	+1	suffix:semicolon
+1.48.47	+1	)brace
+1.4a.49	+1	)brace
+2.1.4d	+0	eof

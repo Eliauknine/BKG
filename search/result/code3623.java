@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.server.IStoreAccessor;import org.eclipse.emf.cdo.server.IStoreChunkReader; import org.eclipse.emf.cdo.server.StoreThreadLocal; import org.eclipse.emf.cdo.server.IStoreChunkReader.Chunk; import org.eclipse.emf.cdo.spi.common.revision.InternalCDORevision; }

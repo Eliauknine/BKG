@@ -1,0 +1,15 @@
+1.4.3	+1	s_*
+1.5.4	+1	s_/
+1.7.6	+6	r_public
+1.e.d	+3	id|Map
+1.11.10	+1	s_<
+1.12.11	+5	id|CDOID
+1.17.16	+1	s_,
+1.19.18	+11	id|InternalCDOObject
+1.2a.29	+1	s_>
+1.2c.2b	+a	id|getObjects
+1.36.35	+0	c_func
+1.36.35	+1	(paren
+1.37.36	+1	)paren
+1.38.37	+1	suffix:semicolon
+2.1.56	+0	eof

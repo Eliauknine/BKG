@@ -1,0 +1,1 @@
+import org.eclipse.ease.modules.ModuleDefinition; import org.eclipse.ease.ui.completion.LoadedModuleCompletionProvider; /**  * @author VIDURA  *  */ public class EditorToolTipGenerator {  protected static String getToolTipText(String text) {  String toolTipText = ""; } } 

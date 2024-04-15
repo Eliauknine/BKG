@@ -1,0 +1,1 @@
+  * @returns The node, or NOT_EXIST if the path did not exist. */ Prefs.prototype.get = function(path) {  var root = this.json, segs = path.substr(1).split('/'); // substr(1) to strip the leading slash  var result;  if (segs[0] === '') {  result = root; } } }

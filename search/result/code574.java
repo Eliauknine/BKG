@@ -1,0 +1,1 @@
+  Object obj = element.next(); Object refObject = null;  if(obj instanceof FB){  //if an FB is selected we need to open the according root node and use FB for selecting  refObject = obj;  obj = getFBRootNode((FB)obj); 			}else if (obj instanceof Device){  refObject = obj;  obj = ((Device)obj).getSystemConfiguration();				 } }

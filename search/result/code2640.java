@@ -1,0 +1,1 @@
+  ******************************************************************************/ package org.eclipse.scout.rt.ui.rap.mobile.window; import org.eclipse.scout.commons.StringUtility; import org.eclipse.scout.rt.client.ui.desktop.IUrlTarget; import org.eclipse.scout.rt.client.ui.desktop.UrlTarget; import org.eclipse.scout.rt.ui.rap.window.BrowserWindowHandler; /** }

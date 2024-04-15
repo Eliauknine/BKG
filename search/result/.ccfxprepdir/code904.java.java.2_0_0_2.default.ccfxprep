@@ -1,0 +1,16 @@
+1.2.1	+6	id|define
+1.8.7	+0	c_func
+1.8.7	+1	(paren
+1.9.8	+1	s_[
+1.a.9	+1	(brace
+1.d.c	+4	r_this
+1.11.10	+1	s_.
+1.12.11	+1e	id|desktopSelectionPolicyCheckbox
+1.30.2f	+1	s_.
+1.31.30	+e	id|enableCheckBox
+1.3f.3e	+0	c_func
+1.3f.3e	+1	(paren
+1.40.3f	+1	)paren
+1.41.40	+1	suffix:semicolon
+1.43.42	+1	)brace
+2.1.46	+0	eof

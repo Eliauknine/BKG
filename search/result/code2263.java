@@ -1,0 +1,1 @@
+     <eLiterals name="Resource" value="4" literal="Resource"/>     <eLiterals name="LocalResource" value="5" literal="LocalResource"/>     <eLiterals name="URI" value="6" literal="URI"/>   </eClassifiers>   <eClassifiers xsi:type="ecore:EEnum" name="ResourcePropertyRepresentation">     <eLiterals name="reference" literal="reference"/> }

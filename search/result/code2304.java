@@ -1,0 +1,1 @@
+public class SessionsView extends DefaultView { private static final long serialVersionUID = 4697127041507442841L;  private SessionInspector m_selectedSession;  private SortInfo m_table1SortInfo;  public SessionsView(AdminSession as) {  super(as); } } 

@@ -1,0 +1,1 @@
+	 * This constructs an instance from factory and notifier.	 * <!-- begin-user-doc --> 	 * <!-- end-user-doc --> 	 * 	 * @generated 	 */  public ReadOnlyColumnConfigurationItemProvider(AdapterFactory adapterFactory) { } 

@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.common.model.CDOType;import org.eclipse.emf.cdo.common.revision.CDOList; import org.eclipse.emf.cdo.common.revision.CDOListFactory; import org.eclipse.emf.cdo.common.revision.CDOReferenceProxy; import org.eclipse.emf.cdo.spi.common.InternalCDOList; import org.eclipse.emf.cdo.spi.common.InternalCDORevision; }

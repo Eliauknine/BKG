@@ -1,0 +1,1 @@
+ private void removeXSDDiagnosticMarker(final IResource resource) throws CoreExce{  /** 	 * Remove all markers of type {@link IXMLMarker.XML_WELLFORMEDNESS_PROBLEM} present on the resource. 	 *  	 * @param resource 	 *            the target {@link IResource} 	 * @see IMarker#getType() } 

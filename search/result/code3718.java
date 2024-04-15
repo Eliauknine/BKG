@@ -1,0 +1,1 @@
+ public void testAddingObjectAndCrawl() throws Exception  {  CDOSession session = openModel1Session();  CDOTransactionImpl transaction = (CDOTransactionImpl)session.openTransaction();  new CDOAutoAttacher(transaction);  CDOResource resource1 = transaction.getOrCreateResource("/test1"); } 

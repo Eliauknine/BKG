@@ -1,0 +1,1 @@
+  ******************************************************************************/ package org.eclipse.emf.ecp.diffmerge.internal.renderer.swt; import org.eclipse.emf.common.notify.AdapterFactory; import org.eclipse.emf.common.notify.Notification; import org.eclipse.emf.common.notify.impl.AdapterImpl; }

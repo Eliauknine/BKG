@@ -1,0 +1,1 @@
+ action.navigateNext.image=next_nav.gif{ action.navigatePrevious.label=Go to Previous Difference action.navigatePrevious.tooltip=Go to Previous Difference action.navigatePrevious.description=Go to Next Difference action.navigatePrevious.image=prev_nav.gif action.removePage.label=&Remove Current Synchronization } 

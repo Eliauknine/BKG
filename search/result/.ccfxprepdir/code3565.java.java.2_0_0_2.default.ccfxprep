@@ -1,0 +1,30 @@
+1.2.1	+9	r_protected
+1.c.b	+4	r_void
+1.11.10	+12	id|writeRevisionDelta
+1.23.22	+0	c_func
+1.23.22	+1	(paren
+1.24.23	+18	id|InternalCDORevisionDelta
+1.3d.3c	+d	id|revisionDelta
+1.4a.49	+1	s_,
+1.4c.4b	+4	r_long
+1.51.50	+1	id|c
+1.52.51	+1	(brace
+1.55.54	+5	r_throw
+1.5b.5a	+3	r_new
+1.5f.5e	+1f	id|ConcurrentModificationException
+1.7e.7d	+0	c_func
+1.7e.7d	+1	(paren
+1.7f.7e	+1a	l_string|"Trying to update object "
+1.9a.99	+1	s_+
+1.9c.9b	+d	id|revisionDelta
+1.a9.a8	+1	s_.
+1.aa.a9	+5	id|getID
+1.af.ae	+0	c_func
+1.af.ae	+1	(paren
+1.b0.af	+1	)paren
+1.bb.ba	+1	s_+
+1.bd.bc	+1c	l_string|" that was already modified"
+1.d9.d8	+1	)paren
+1.da.d9	+1	suffix:semicolon
+1.e0.df	+1	)brace
+2.1.e3	+0	eof

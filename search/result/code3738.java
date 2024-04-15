@@ -1,0 +1,1 @@
+ private void handleException(Throwable ex){   { OM.LOG.error(ex);  String storeClass = transaction.getRepository().getStore().getClass().getSimpleName();  rollbackMessage = "Rollback in " + storeClass + ": " + StringUtil.formatException(ex);  rollback();   }  protected long createTimeStamp() } 

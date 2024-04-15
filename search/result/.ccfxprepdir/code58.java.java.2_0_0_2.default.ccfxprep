@@ -1,0 +1,26 @@
+1.3.2	+c	id|clientRunner
+1.f.e	+1	s_.
+1.10.f	+3	id|run
+1.13.12	+0	c_func
+1.13.12	+1	(paren
+1.14.13	+1	)paren
+1.15.14	+1	suffix:semicolon
+1.1f.1e	+1	)brace
+1.21.20	+5	r_catch
+1.27.26	+1	(paren
+1.28.27	+9	id|Exception
+1.32.31	+1	id|e
+1.33.32	+1	)paren
+1.35.34	+1	(brace
+1.38.37	+6	id|logger
+1.3e.3d	+1	s_.
+1.3f.3e	+5	id|error
+1.44.43	+0	c_func
+1.44.43	+1	(paren
+1.45.44	+24	l_string|"Exception in getModelPropertyValue"
+1.69.68	+1	s_,
+1.6b.6a	+1	id|e
+1.6c.6b	+1	)paren
+1.6d.6c	+1	suffix:semicolon
+1.77.76	+1	)brace
+2.1.79	+0	eof

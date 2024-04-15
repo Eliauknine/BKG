@@ -1,0 +1,1 @@
+ protected CreateInterfaceElementCommand newCreateCommand(IInterfaceElement inter{  getType().getInterface(), isInput, pos);	}  @Override  protected SubApp getInputType(Object input) {  if (input instanceof SubAppForFBNetworkEditPart) { } } 

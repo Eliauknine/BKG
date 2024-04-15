@@ -1,0 +1,1 @@
+ public CalendarItemProviderNewOperation(String typeName, IType declaringType, boolean formatSource) {  super(typeName, declaringType, formatSource);  setOrderDefinitionType(TypeUtility.getType(IRuntimeClasses.ICalendarItemProvider));   } 

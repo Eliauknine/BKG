@@ -1,0 +1,1 @@
+ public void createFBInstance(final FBDeploymentData fbData, final Resource res){  Map<String, AdapterType> adapters = getAdapterTypes(fbData.fb.getType().getInterfaceList()); if (!adapters.isEmpty()) {  queryAdapterTypes(adapters, res); 		}  queryFBTypes(fbData.fb, res);  super.createFBInstance(fbData, res); } 

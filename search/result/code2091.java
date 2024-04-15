@@ -1,0 +1,1 @@
+  ******************************************************************************/package org.eclipse.emf.ecp.view.spi.core.swt; import org.eclipse.emf.common.util.Diagnostic; import org.eclipse.emf.ecore.EStructuralFeature.Setting; import org.eclipse.emf.ecp.view.internal.core.swt.Activator; import org.eclipse.emf.ecp.view.internal.core.swt.renderer.RendererMessages; }

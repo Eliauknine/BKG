@@ -1,0 +1,13 @@
+1.3.2	+1	)brace
+1.4.3	+4	r_else
+1.8.7	+0	c_cond
+1.8.7	+1	(brace
+1.a.9	+a	id|nextWindow
+1.14.13	+1	s_.
+1.15.14	+7	id|destroy
+1.1c.1b	+0	c_func
+1.1c.1b	+1	(paren
+1.1d.1c	+1	)paren
+1.1e.1d	+1	suffix:semicolon
+1.21.20	+1	)brace
+2.1.23	+0	eof

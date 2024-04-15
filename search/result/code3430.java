@@ -1,0 +1,1 @@
+ public synchronized void setGeneratedPackageEmulationEnabled(boolean generatedPa{  this.generatedPackageEmulationEnabled = generatedPackageEmulationEnabled; // TODO Check inconsistent state if switching off?  fireEvent(new GeneratedPackageEmulationEventImpl());       } 

@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecore.resource.impl.ResourceSetImpl; import org.eclipse.emf.ecore.util.EContentAdapter; import org.eclipse.emf.ecore.util.EcoreUtil; import org.eclipse.emf.ecp.edit.spi.ReferenceService; import org.eclipse.emf.ecp.ui.view.ECPRendererException; import org.eclipse.emf.ecp.ui.view.swt.DefaultReferenceService; }

@@ -1,0 +1,1 @@
+ public AbstractCDORevision(CDODataInput in) throws IOException  {  READING.start(this);  classAdapter = CDOModelUtil.getClassInfo((EClass)in.readCDOClassifierRefAndResolve());  id = in.readCDOID();  version = in.readInt(); } 

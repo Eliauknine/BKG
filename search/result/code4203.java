@@ -1,0 +1,1 @@
+ protected void handleFileImage( String imageFile, IImageContent imageContent ){  IResourceLocator.IMAGE ); if ( url != null ) 			{  String fileName = url.getFile( );  if ( fileName != null ) 				{  imageFile = fileName; 				} 			} 		} 

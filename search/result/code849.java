@@ -1,0 +1,1 @@
+ private final Set<EStructuralFeatureValueConverter> converters = // new LinkedHashSet<EStructuralFeatureValueConverter>();  @Override  @Reference(cardinality = ReferenceCardinality.MULTIPLE)  public void addValueConverter(EStructuralFeatureValueConverter converter) { } 

@@ -1,0 +1,1 @@
+  for (int i = 0; i < extensionAndException.getNofComps(); i++) { checkComponentField(extensionAndException.getCompByIndex(i), typeName, componentName); 			} 		}  for (int i = 0; i < componentTypeList2.getNofComps(); i++) { }

@@ -1,0 +1,1 @@
+ public abstract class AbstractDataSetPage extends Page{  /** The current selection */ private IStructuredSelection m_currentSelection;  /** Constants for the button actions */  private enum TestDataRowAction {   /** Add button clicked */ } } 

@@ -1,0 +1,17 @@
+1.2.1	+c	id|commandStack
+1.f.e	+1	s_=
+1.11.10	+12	id|commandStackBuffer
+1.23.22	+1	suffix:semicolon
+1.25.24	+1	)brace
+1.28.27	+1	s_@
+1.29.28	+8	id|Override
+1.33.32	+6	r_public
+1.3a.39	+4	r_void
+1.3f.3e	+1b	id|addSelectionChangedListener
+1.5a.59	+0	c_func
+1.5a.59	+1	(paren
+1.5b.5a	+19	id|ISelectionChangedListener
+1.75.74	+8	id|listener
+1.7d.7c	+1	)paren
+1.7f.7e	+1	(brace
+2.1.463	+0	eof

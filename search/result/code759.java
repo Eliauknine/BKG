@@ -1,0 +1,1 @@
+  if((true == QI()) && (false == QO())){  //this is the first time init is called try to load boot file       ForteBootFileLoader loader(*this);     } #endif  CCommFB::executeEvent(pa_nEIID);  //initialize the underlying server FB }

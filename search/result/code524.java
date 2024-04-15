@@ -1,0 +1,1 @@
+ 			Collection<IScriptCompletionProposal> proposals) throws CoreException {		ISourceModule cu = context.getCompilationUnit(); 		ASTNode selectedNode = problem.getCoveringNode(context.getASTRoot()); 		if (selectedNode == null) { 			return; 		} } }

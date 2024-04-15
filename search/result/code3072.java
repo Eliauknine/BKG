@@ -1,0 +1,1 @@
+ define(['require', 'dojo', 'dijit','orion/explorer', 'orion/util', 'orion/fileCl{  icon = dojo.create("span", null, span, "last"); dojo.addClass(icon, "imageSprite");  dojo.addClass(icon, "core-sprite-rightarrow");  }  link = dojo.create("a", {className: "navlink", id: tableRow.id+"NameColumn", href: href} 

@@ -1,0 +1,1 @@
+ Export-Package: org.eclipse.emf.cdo.common;version="4.9.0",{  org.eclipse.emf.cdo.server.net4j, org.eclipse.emf.cdo.ui,  org.eclipse.emf.cdo.tests",  org.eclipse.emf.cdo.internal.common.id;version="4.9.0";  x-friends:="org.eclipse.emf.cdo.common,  org.eclipse.emf.cdo.common.db,  org.eclipse.emf.cdo, } 

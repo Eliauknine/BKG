@@ -1,0 +1,1 @@
+ public void testInvalidateAndCache() throws Exception{  CDOSession sessionA = openModel1Session(); msg("Opening transactionA");  final CDOTransactionImpl transactionA = (CDOTransactionImpl)sessionA.openTransaction();  final CDOID cdoidA;  // ************************************************************* } 

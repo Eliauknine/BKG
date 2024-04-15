@@ -1,0 +1,1 @@
+ import org.eclipse.buildship.ui.view.MultiPageView;import org.eclipse.buildship.ui.view.PageSite; import org.eclipse.buildship.ui.view.ObservableMapCellWithIconLabelProvider; import org.eclipse.buildship.ui.external.viewer.FilteredTree; /** }

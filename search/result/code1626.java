@@ -1,0 +1,1 @@
+  // Set column names  private final String[] roleNames = new String[] { Messages.ProjectComposite_Reader,  Messages.ProjectComposite_Writer, Messages.ProjectComposite_ProjectAdmin, Messages.ProjectComposite_ServerAdmin };  private Label lblVersion;  private Text txtVersion; }

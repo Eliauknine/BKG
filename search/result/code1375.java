@@ -1,0 +1,1 @@
+ var exports = {};{  remoteLocation = item.Location;  }  if (data.parameters.valueFor("name") && data.parameters.valueFor("url")) {  //$NON-NLS-0$  createRemoteFunction(remoteLocation, data.parameters.valueFor("name"), data.parameters.valueFor("url"), data.parameters.valueFor("isGerrit"));  //$NON-NLS-0$  }  } 

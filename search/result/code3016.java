@@ -1,0 +1,1 @@
+  private String getPortIndex(String text, Position curr, InterfaceItem item) {  proceedToToken(text, curr);  if (text.charAt(curr.pos)!='[')  return null; 		++curr.pos;  String token = getIndex(text, curr);  if (text.charAt(curr.pos)!=']')  return null; 		++curr.pos; } }

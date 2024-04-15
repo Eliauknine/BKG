@@ -1,0 +1,1 @@
+ public interface IComparisonMethod extends IComparisonConfiguration,{    */ boolean isThreeWay();  /**    * Set the editing domain in which comparison must take place.    * If null and the comparison method does not have the ability to create } 

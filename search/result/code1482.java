@@ -1,0 +1,1 @@
+  "Location":"/gitapi/commit/"+ util.encodeURIComponent(scope) +"/file" + req.params[0], "CloneLocation": "/gitapi/clone" + fileDir  };  if (page && !over) {  var nextLocation = url.parse(req.originalUrl, true); }

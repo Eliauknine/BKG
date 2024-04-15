@@ -1,0 +1,1 @@
+ import org.eclipse.net4j.util.ObjectUtil; import org.eclipse.net4j.util.concurrent.IRWLockManager.LockType; import org.eclipse.net4j.util.om.trace.ContextTracer; import org.eclipse.emf.common.notify.Adapter; }

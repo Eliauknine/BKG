@@ -1,0 +1,24 @@
+1.8.7	+1	s_<
+1.9.8	+7	id|command
+1.12.11	+e	id|defaultHandler
+1.20.1f	+1	s_=
+1.21.20	+4d	l_string|"org.eclipse.emf.ecp.emf2web.ui.json.internal.handler.ExportJSONFormsHandler"
+1.70.6f	+2	id|id
+1.72.71	+1	s_=
+1.73.72	+3d	l_string|"org.eclipse.emf.ecp.emf2web.ui.json.exportJSONSchemaCommand"
+1.b2.b1	+4	id|name
+1.b6.b5	+1	s_=
+1.b7.b6	+15	l_string|"Export to JSONForms"
+1.cc.cb	+1	s_>
+1.d4.d3	+1	s_<
+1.d5.d4	+1	s_/
+1.d6.d5	+7	id|command
+1.dd.dc	+1	s_>
+1.e2.e1	+1	s_<
+1.e3.e2	+1	s_/
+1.e4.e3	+9	id|extension
+1.ed.ec	+1	s_>
+1.f2.f1	+1	s_<
+1.f3.f2	+9	id|extension
+1.fd.fc	+1	)brace
+2.1.ff	+0	eof

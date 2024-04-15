@@ -1,0 +1,14 @@
+1.2.1	+6	r_public
+1.9.8	+7	r_boolean
+1.11.10	+13	id|hasFullRevisionInfo
+1.24.23	+0	c_func
+1.24.23	+1	(paren
+1.25.24	+1	)paren
+1.26.25	+1	(brace
+1.2a.29	+1	(brace
+1.2c.2b	+6	r_return
+1.33.32	+4	r_true
+1.37.36	+1	suffix:semicolon
+1.3b.3a	+1	)brace
+1.3d.3c	+1	)brace
+2.1.40	+0	eof

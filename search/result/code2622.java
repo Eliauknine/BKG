@@ -1,0 +1,1 @@
+ public List<IItemPropertyDescriptor> getPropertyDescriptors(Object object){  addDirectResourceDescriptor(object); addReadLockedDescriptor(object);  addWriteLockedDescriptor(object);  addAdaptersDescriptor(object);  addChangeSubscriptionPoliciesDescriptor(object);  addURIDescriptor(object); } 

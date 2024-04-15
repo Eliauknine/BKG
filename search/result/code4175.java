@@ -1,0 +1,1 @@
+  addButton = new Button(buttonArea, SWT.PUSH);  addButton.setFont(composite.getFont());  setButtonLayoutData(addButton);  addButton 					.setText(WorkbenchMessages.ContentTypes_fileAssociationsAddLabel);  addButton.setEnabled(false);  addButton.addSelectionListener(new SelectionAdapter() {  /* 				 * (non-Javadoc) } }

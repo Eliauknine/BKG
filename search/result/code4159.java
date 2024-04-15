@@ -1,0 +1,1 @@
+    <extension point="org.eclipse.ui.preferencePages">       <page   category="org.eclipse.ecf.ui.category"  class="org.eclipse.ecf.internal.example.collab.ui.ClientPreferencePage"  name="Collaboration"  id="org.eclipse.ecf.example.collab.ui.preferences"/>    </extension>  <!--    <extension }

@@ -1,0 +1,1 @@
+ public void refreshUserFavorites(IProgressMonitor monitor) throws CoreException{ 				} catch (Exception ex) { //FIXME we should use the wizard page's status line to show errors, but that's unreachable from here...  MarketplaceClientCore.error(Messages.MarketplaceDiscoveryStrategy_FavoritesRetrieveError, ex);  addRetryErrorItem(catalogCategory, ex); 				} 			} 

@@ -1,0 +1,1 @@
+ 		// check whether enclosing element is not class 		try { 			IModelElement enclosingElement = sourceModule.getElementAt(offset); 			while (enclosingElement instanceof IField) { 				enclosingElement = enclosingElement.getParent(); 			} } }

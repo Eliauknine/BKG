@@ -1,0 +1,1 @@
+ public void writeRevision(CDORevisionImpl revision)   {  if (TRACER.isEnabled())     {  TRACER.format("Inserting revision: {0}", revision);     }  CDOClassImpl cdoClass = revision.getCDOClass();  IMappingStrategy mappingStrategy = getStore().getMappingStrategy(); } 

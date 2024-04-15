@@ -1,0 +1,1 @@
+  return createStatus(IStatus.ERROR, message, t);	}  protected IStatus createStatus(int severity, String message, Throwable t) {  return new Status(severity, MarketplaceClientCore.BUNDLE_ID, 0, message, t); 	}  private void checkConfiguration() {  if (baseUrl == null) {  throw new IllegalStateException(Messages.DefaultMarketplaceService_mustConfigureBaseUrl); } }

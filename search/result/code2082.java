@@ -1,0 +1,1 @@
+  private static final String ICONS_ARROW_DOWN_PNG = "icons/arrow_down.png";  private static final String ICONS_ARROW_UP_PNG = "icons/arrow_up.png";  private IObservableList model;  private IListChangeListener changeListener; }

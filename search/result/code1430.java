@@ -1,0 +1,1 @@
+    <extension point="org.eclipse.ease.modules">       <module  class="org.eclipse.ease.modules.charting.modules.ChartingModule"  id="org.eclipse.ease.modules.charting.ChartingModule"  name="Charting"  visible="true"> }

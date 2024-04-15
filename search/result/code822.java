@@ -1,0 +1,1 @@
+  "server": "INFO",  "audit-logs": "INFO",  "xfer": "ERROR",  "update": "ERROR",  "user": "INFO",  "ttyshell": "INFO",  "tasks": "INFO",  "search-worker": "ERROR",  "git": "ERROR"     },  "appenders": [         { }

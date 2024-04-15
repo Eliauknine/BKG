@@ -1,0 +1,1 @@
+	} public boolean hasOpenedDiagram(EObject modelElement) {  // Determine if model element has at least one of its diagrams opened (i.e., visible to the user)  boolean opened = false;  Set<Diagram> diagramSet = this.modelDiagramMapping.get(modelElement);  if (diagramSet != null) { } 

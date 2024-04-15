@@ -1,0 +1,1 @@
+ import org.eclipse.emf.parsley.dialogs.DetailFormBasedDialog;import org.eclipse.emf.parsley.dialogs.DialogFactory; import org.eclipse.emf.parsley.edit.IEditingStrategy; import org.eclipse.emf.parsley.util.EmfSelectionHelper; import org.eclipse.jface.dialogs.Dialog; import org.eclipse.jface.viewers.ILabelProvider; import org.eclipse.jface.window.Window; }

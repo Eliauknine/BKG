@@ -1,0 +1,1 @@
+  private void scheduleJobs() { try {  URL indexZipUrl = new URL(Constants.PROBLEMS_STATUS_INDEX_ZIP_URL);  new CheckServerAvailabilityJob(settings).schedule(MILLISECONDS.convert(10, SECONDS));  new ProblemsDatabaseUpdateJob(problemsDb, indexZipUrl, settings).schedule(MILLISECONDS.convert(1, MINUTES));         } catch (Exception e) {  Throwables.propagate(e);         } } }

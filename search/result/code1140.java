@@ -1,0 +1,1 @@
+  View view = (View) ((IGraphicalEditPart) editpart).getModel(); if (view != null) {  IFile f = WorkspaceSynchronizer.getFile(view.eResource());  return f != null ? Collections.singletonList(f) : Collections.EMPTY_LIST; 				} 			}

@@ -1,0 +1,1 @@
+ public class EMFFormsSpreadsheetTableControlRendererService implements{  private VTViewTemplateProvider vtViewTemplateProvider; private EMFFormsIdProvider emfFormsIdProvider;  private EMFFormsSpreadsheetValueConverterRegistry converterRegistry;  /** 	 * The VTViewTemplateProvider to use. } 

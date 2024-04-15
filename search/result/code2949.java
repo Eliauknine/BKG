@@ -1,0 +1,1 @@
+ 						<arg value="-i" /> 						<arg value="org.eclipse.ant.launching" /> 						<arg value="-i" /> 						<arg value="org.eclipse.emf.cdo.releng.version.headless.feature.group" /> 						<arg value="-i" /> 						<arg value="org.eclipse.emf.cdo.releng.apireports.feature.group" /> }

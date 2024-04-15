@@ -1,0 +1,17 @@
+1.168.167	+6	r_public
+1.16f.16e	+8	r_abstract
+1.178.177	+8	id|Response
+1.181.180	+10	id|postNonRDFSource
+1.191.190	+0	c_func
+1.191.190	+1	(paren
+1.192.191	+b	id|InputStream
+1.19e.19d	+7	id|content
+1.1a5.1a4	+1	s_,
+1.1a7.1a6	+6	id|String
+1.1ae.1ad	+c	id|stripCharset
+1.1ba.1b9	+1	s_,
+1.1bc.1bb	+6	id|String
+1.1c3.1c2	+4	id|slug
+1.1c7.1c6	+1	)paren
+1.1c8.1c7	+1	suffix:semicolon
+3.1.1d0	+0	eof

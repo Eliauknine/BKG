@@ -1,0 +1,1 @@
+  if (manager == null) { manager = new ToolBarManager(orientation | SWT.WRAP | SWT.FLAT 					| SWT.RIGHT);  linkModelToManager((MToolBar) element, manager); 		}  ToolBar bar = manager.createControl(parent); }

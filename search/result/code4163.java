@@ -1,0 +1,1 @@
+  TableColumn col = new TableColumn(t1, SWT.NONE);  col.setText(Messages.getString("ToolSelectionDialog.1"));   col.setWidth(200);  Composite c2 = new Composite(composite, SWT.BORDER);  c2.setLayoutData(new GridData(GridData.FILL_VERTICAL)); }

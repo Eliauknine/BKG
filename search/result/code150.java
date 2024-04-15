@@ -1,0 +1,1 @@
+  createSysconfSection(toolkit, bottomComp); if (null != system) {  typeInfo.initialize(system, getCommandStack());  typeInfo.refresh();  appTreeViewer.setInput(system.getApplication());  sysConfTreeViewer.setInput(system.getSystemConfiguration()); } }

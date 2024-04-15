@@ -1,0 +1,1 @@
+ public Object preCloseParts(List editorsToClose, boolean save,{  // EditorManager.saveAll  int response = SaveableHelper.savePart(saveablePart2, window,  true);  // only include this part in the following logic if it returned  // DEFAULT  if (response != ISaveablePart2.DEFAULT) {  continue; 				} 			} 

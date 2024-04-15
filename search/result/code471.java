@@ -1,0 +1,1 @@
+  *******************************************************************************/package org.eclipse.passage.lic.base.conditions; import java.util.ArrayList; import java.util.Collections; import java.util.List; import java.util.Map; import org.eclipse.passage.lic.runtime.conditions.ConditionMiner; import org.eclipse.passage.lic.runtime.conditions.ConditionMinerRegistry; }

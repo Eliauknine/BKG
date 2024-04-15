@@ -1,0 +1,1 @@
+	 *	 * @generated 	 */  public static final List<String> FILE_EXTENSIONS = Collections.unmodifiableList(Arrays.asList(DocumentstructuretemplateEditorPlugin.INSTANCE.getString("_UI_DocumentStructureTemplateEditorFilenameExtensions").split("\\s*,\\s*")));    /** 	 * A formatted list of supported file extensions, suitable for display. 

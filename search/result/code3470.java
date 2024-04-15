@@ -1,0 +1,1 @@
+ public void validate(ExecutionContext ctx, final Collection<?> colToCheck, final{  boolean warnIfNothingChecked) { try {  if (ctx.getCallback() != null) {  ctx.getCallback().pre(this, ctx); 			}  // get the type for which the check should be evaluated  final Type typeToCheck = ctx.getTypeForName(type.getValue()); } } } 

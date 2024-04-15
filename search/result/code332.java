@@ -1,0 +1,1 @@
+ E_DEPRECATED => 'Deprecated', E_USER_DEPRECATED => 'User Deprecated'     );    protected $warnings;    public function handle($errno, $errstr, $errfile, $errline)     {  parent::handle($errno, $errstr, $errfile, $errline); } 

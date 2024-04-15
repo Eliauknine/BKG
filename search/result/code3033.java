@@ -1,0 +1,1 @@
+ 				}			} 		}  for (final XtendClass xtendClass : file.getXtendClasses()) {  ICompositeNode node = NodeModelUtils.findActualNodeFor(xtendClass);  if (node != null) {  for (INode n : node.getAsTreeIterable()) { }

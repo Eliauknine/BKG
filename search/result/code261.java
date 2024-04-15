@@ -1,0 +1,1 @@
+  *   Monika Wenger - initial implementation *   Alois Zoitl - moved adapter search code to palette  *   Bianca Wiesmayr - create command now has enhanced guess  *******************************************************************************/ package org.eclipse.fordiac.ide.application.properties; }

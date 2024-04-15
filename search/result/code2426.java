@@ -1,0 +1,1 @@
+ // ignore		} catch (final ESException e) {  WorkspaceUtil.logException(e.getMessage(), e);  RunInUI.run(new Callable<Void>() {  public Void call() throws Exception {  MessageDialog.openError(getShell(),  Messages.UICommitProjectController_CommitFailed,  e.getMessage());  return null; 				} 			}); 		

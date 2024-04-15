@@ -1,0 +1,1 @@
+  final IScriptService scriptService = PlatformUI.getWorkbench().getService(IScriptService.class); final List<ModuleDefinition> modules = new ArrayList<ModuleDefinition>(scriptService.getAvailableModules().values());  for (final ModuleDefinition module : modules) {  if (module.getModuleClass().equals(method.getDeclaringClass()))  return module; 		}  return null; 	}

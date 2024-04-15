@@ -1,0 +1,1 @@
+ protected final Control renderControl(SWTGridCell gridCell, Composite parent){ 	 * @return true if unsettable, false otherwise	 */  protected boolean isUnsettable() {  return getVElement().getDomainModelReference().getEStructuralFeatureIterator().next().isUnsettable(); 	}  private Control createUnsettableControl(Composite parent) { } } 

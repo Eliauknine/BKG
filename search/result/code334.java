@@ -1,0 +1,1 @@
+ private function encodeJson($array){ class ZendPHPUnitErrorHandlerTracer extends ZendPHPUnitErrorHandler {    private static $ZendPHPUnitErrorHandlerTracer;    /**      *      * @return ZendPHPUnitErrorHandlerTracer } } 

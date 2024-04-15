@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecp.view.spi.context.ViewModelContextFactory;import org.eclipse.emf.ecp.view.spi.model.VView; import org.eclipse.emf.ecp.view.spi.model.VViewPackage; import org.eclipse.jface.layout.GridDataFactory; import org.eclipse.jface.layout.GridLayoutFactory; import org.eclipse.swt.SWT; }

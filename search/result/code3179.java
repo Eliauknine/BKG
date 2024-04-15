@@ -1,0 +1,1 @@
+ public void execute(InternalCDOObject object, CDOState state, CDOEvent event,{  InternalCDOTransaction transaction = transactionAndContents.getElement1(); List<InternalCDOObject> contents = transactionAndContents.getElement2();  boolean reattaching = transaction.getFormerRevisionKeys().containsKey(object);  if (!reattaching)       { } } 

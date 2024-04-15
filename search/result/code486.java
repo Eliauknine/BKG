@@ -1,0 +1,1 @@
+ import org.eclipse.fordiac.ide.model.libraryElement.LibraryElementFactory;import org.eclipse.fordiac.ide.model.libraryElement.Resource; import org.eclipse.fordiac.ide.model.libraryElement.VarDeclaration; import org.eclipse.swt.widgets.Display; import org.xml.sax.InputSource; import org.xml.sax.SAXException; }

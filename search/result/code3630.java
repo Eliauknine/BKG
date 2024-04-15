@@ -1,0 +1,1 @@
+public class ResourceLoaderDefaultImpl implements ResourceLoader {  private static final String FILE_PREFIX = "file:";  public final InputStream getResourceAsStream(String path) {  URL resource = getResource(path);  if (resource != null) { } } } 

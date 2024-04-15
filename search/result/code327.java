@@ -1,0 +1,1 @@
+        } else { $exception = 'Error_Error';         }    throw new $exception($errstr, $errno, $errfile, $errline, $trace = null);     }    public function start()     {         set_error_handler(array(             &$this,  'handle'         ));     

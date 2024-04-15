@@ -1,0 +1,1 @@
+  Label encodingLabel = new Label(composite, SWT.LEFT); 			{  encodingLabel.setText(DocumentstructuretemplateEditorPlugin.INSTANCE.getString("_UI_XMLEncoding"));   GridData data = new GridData();  data.horizontalAlignment = GridData.FILL; } }

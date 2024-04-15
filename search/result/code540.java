@@ -1,0 +1,1 @@
+  TypeManagementPreferencesHelper.setupIdentification(type); TypeManagementPreferencesHelper.setupVersionInfo(type);  performTypeSetup((SubAppType) type);  AbstractTypeExporter.saveType(entry);  entry.setType(type);  if (newFilePage.getOpenType()) { } }

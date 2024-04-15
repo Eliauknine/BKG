@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.eresource.CDOResource;import org.eclipse.emf.cdo.server.ILockingManager; import org.eclipse.emf.cdo.session.CDOSession; import org.eclipse.emf.cdo.spi.server.InternalLockManager; import org.eclipse.emf.cdo.tests.model1.Company; import org.eclipse.emf.cdo.transaction.CDOTransaction; }

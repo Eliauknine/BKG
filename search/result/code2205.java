@@ -1,0 +1,1 @@
+	}  private void createOpenInBrowserMenu(final Menu popupMenu) {  MenuItem copyItem = new MenuItem(popupMenu, SWT.POP_UP);  copyItem.setText(Messages.ShareSolutionLink_OpenInBrowser);  copyItem.addSelectionListener(new SelectionAdapter() {  @Override  public void widgetSelected(SelectionEvent e) {  copyLinkToClipboard(); 			} 		}); 	

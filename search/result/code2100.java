@@ -1,0 +1,1 @@
+  return false;		}  if (customizeDMRPage.getvControl().getDomainModelReference().getEStructuralFeatureIterator() == null) {  return false; 		}  if (!customizeDMRPage.getvControl().getDomainModelReference().getEStructuralFeatureIterator().hasNext()) {  return false; 		}

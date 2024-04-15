@@ -1,0 +1,1 @@
+ 		} else if (parent.getType() == ASTNode.FULLY_QUALIFIED_TRAIT_METHOD_REFERENCE) {			FullyQualifiedTraitMethodReference reference = (FullyQualifiedTraitMethodReference) parent; 			typeBinding = reference.getClassName().resolveTypeBinding(); 		}

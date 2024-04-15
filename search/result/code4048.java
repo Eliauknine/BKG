@@ -1,0 +1,1 @@
+ bin.includes = .,\{                about.ini,\                about.mappings,\                about.properties,\                modeling32.png jars.compile.order = . source.. = src/ output.. = bin/ } 

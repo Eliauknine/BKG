@@ -1,0 +1,1 @@
+ .core-sprite-horizontal:before{ content:'\E042'; }.core-sprite-vertical:before{ content:'\E041'; } .core-sprite-pip:before{ content:'\E067'; } .core-sprite-questionmark:before{ content:'?'; } /* icons for file types - possibly more to come - at least one for images */  }

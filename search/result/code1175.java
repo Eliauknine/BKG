@@ -1,0 +1,1 @@
+ private SearchResult processSearchRequest(String relativeUrl, String queryText,{  result.setMatchCount(category.getNode().size()); result.setNodes(category.getNode()); 			} else {  throw new CoreException(createErrorStatus(Messages.DefaultMarketplaceService_unexpectedResponse, null)); 			} 

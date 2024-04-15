@@ -1,0 +1,1 @@
+	 * */  public boolean add(final ModuleImportation chainLink) {  int index = -1;  for (int i = 0; i < chainLinks.size() && index == -1; i++) {  if (chainLinks.get(i).identifier.getDisplayName().equals(chainLink.getIdentifier().getDisplayName())) {  index = i; 			} 		} } 

@@ -1,0 +1,15 @@
+1.2.1	+6	r_public
+1.9.8	+7	id|CDOLock
+1.11.10	+c	id|cdoWriteLock
+1.1d.1c	+0	c_func
+1.1d.1c	+1	(paren
+1.1e.1d	+1	)paren
+1.1f.1e	+1	suffix:semicolon
+1.21.20	+6	r_public
+1.28.27	+4	r_void
+1.2d.2c	+9	id|cdoReload
+1.36.35	+0	c_func
+1.36.35	+1	(paren
+1.37.36	+1	)paren
+1.38.37	+1	suffix:semicolon
+2.1.3b	+0	eof

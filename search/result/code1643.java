@@ -1,0 +1,1 @@
+  private void createPasswordLabel(Composite parent) { final Label passwordLabel = new Label(parent, SWT.NONE);  final GridData gridData = new GridData(SWT.LEFT, SWT.CENTER, false, false, 1, 1);  gridData.widthHint = 80;  passwordLabel.setLayoutData(gridData);  passwordLabel.setText(Messages.LoginDialog_Password); 	} }

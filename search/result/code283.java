@@ -1,0 +1,1 @@
+import org.eclipse.swt.widgets.Table;import org.eclipse.swt.widgets.TableColumn; import org.eclipse.swt.widgets.TableItem; import org.eclipse.ui.views.properties.tabbed.TabbedPropertySheetWidgetFactory; public class StructViewingComposite extends Composite implements CommandExecutor, I4diacTableUtil { } 

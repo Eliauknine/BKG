@@ -1,0 +1,1 @@
+  HashSet<String> readOnly = new HashSet<String>(); readOnly.add(DCTerms.created.getURI());  readOnly.add(DCTerms.modified.getURI());    return readOnly; 	}    protected Model readModel(String baseURI, InputStream stream, String contentType) {  final Model model = ModelFactory.createDefaultModel();  if (LDPConstants.CT_APPLICATION_JSON.equals(contentType)) { } }

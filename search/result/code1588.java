@@ -1,0 +1,1 @@
+ Require-Bundle: org.eclipse.ui,{  org.eclipse.xtend.lib.macroBundle-Vendor: %providerName Bundle-ActivationPolicy: lazy Bundle-Version: 0.7.0 Bundle-Localization: plugin Bundle-Name: %pluginName Bundle-Activator: org.eclipse.papyrus.designer.components.modellibs.core.Activator } 

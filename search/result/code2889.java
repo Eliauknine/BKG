@@ -1,0 +1,1 @@
+ public static VTableFactory init(){  try		{  VTableFactory theTableFactory = (VTableFactory) EPackage.Registry.INSTANCE 				.getEFactory(VTablePackage.eNS_URI);  if (theTableFactory != null) 			{  return theTableFactory; } } } 

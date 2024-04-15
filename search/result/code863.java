@@ -1,0 +1,1 @@
+ private void checkValue(final CompilationTimeStamp timestamp, final IValue value{  break; 		}  final IType governor = temp.getExpressionGovernor(timestamp, Expected_Value_type.EXPECTED_DYNAMIC_VALUE);  if (governor == null) {  getLocation().reportSemanticError("Cannot determine the type of the argument");  isErroneous = true; } 

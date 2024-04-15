@@ -1,0 +1,1 @@
+ 			// of the next token			int taskEnd; 			if (nextTaskTag != null) { 				taskEnd = Math.min(nextTaskTag.start(), lineEnd); 			} else { 				taskEnd = lineEnd; 			} 			String taskStr = document.get(offset, taskEnd - offset); }

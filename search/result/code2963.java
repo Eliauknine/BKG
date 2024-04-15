@@ -1,0 +1,1 @@
+ private MimeMessage createMimeMessageFromWordArchiveInternal(File archiveDir, St{  boolean hasHtml = false; if (htmlFile.exists()) {  Reader reader = new FileReader(htmlFile);  htmlMessage = IOUtility.getContent(reader);  reader.close();  // replace directory entry  // replace all paths to the 'files directory' with the root directory } } 

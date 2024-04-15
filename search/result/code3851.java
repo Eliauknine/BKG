@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.eresource.CDOResource;import org.eclipse.emf.cdo.tests.model1.Customer; import org.eclipse.emf.cdo.tests.model1.SalesOrder; import org.eclipse.emf.common.util.EList; import org.eclipse.emf.ecore.EObject; }

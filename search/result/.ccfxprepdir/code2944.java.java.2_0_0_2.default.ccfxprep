@@ -1,0 +1,15 @@
+1.3.2	+10	id|clonedDescriptor
+1.13.12	+1	s_.
+1.14.13	+14	id|getInheritancePolicy
+1.28.27	+0	c_func
+1.28.27	+1	(paren
+1.29.28	+1	)paren
+1.2a.29	+1	s_.
+1.2b.2a	+d	id|setDescriptor
+1.38.37	+0	c_func
+1.38.37	+1	(paren
+1.39.38	+10	id|clonedDescriptor
+1.49.48	+1	)paren
+1.4a.49	+1	suffix:semicolon
+1.53.52	+1	)brace
+2.1.f3	+0	eof

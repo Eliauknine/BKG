@@ -1,0 +1,10 @@
+1.d6.d5	+6	r_public
+1.dd.dc	+13	id|HoverControlCreator
+1.f0.ef	+0	c_func
+1.f0.ef	+1	(paren
+1.f1.f0	+1a	id|IInformationControlCreator
+1.10c.10b	+22	id|informationPresenterControlCreator
+1.12e.12d	+1	)paren
+1.130.12f	+1	(brace
+1.132.131	+1	)brace
+2.1.135	+0	eof

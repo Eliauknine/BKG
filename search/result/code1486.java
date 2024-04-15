@@ -1,0 +1,1 @@
+ define([{  if (dragStartTarget) {  var fileClient = explorer.fileClient;  var tmp = dragStartTarget;  var source;  while (tmp) {  if (tmp._item) {  source = tmp._item;  break;  }  tmp = tmp.parentNode;  }  if (!source) {  return;  } } } 

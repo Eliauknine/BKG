@@ -1,0 +1,1 @@
+ protected void requesting(ExtendedDataOutputStream out) throws IOException{  if (PROTOCOL.isEnabled())     {  PROTOCOL.format("Writing disableLegacyObjects: {0}", disableLegacyObjects);     }  out.writeBoolean(disableLegacyObjects);   } 

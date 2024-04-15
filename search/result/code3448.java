@@ -1,0 +1,1 @@
+     * return an exception. Valid values are Integer or Strings that can be      * parsed to int values.      */  public static final String PESSIMISTIC_LOCK_TIMEOUT = "javax.persistence.lock.timeout";  public static final String QUERY_TIMEOUT = "javax.persistence.query.timeout"; 

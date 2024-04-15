@@ -1,0 +1,1 @@
+ public CDOSession create(String description){       } String repositoryName = result.get("repositoryName");  boolean disableLegacyObjects = TRUE.equals(result.get("disableLegacyObjects"));  boolean automaticPackageRegistry = TRUE.equals(result.get("automaticPackageRegistry"));  return createSession(repositoryName, disableLegacyObjects, automaticPackageRegistry, null);     } 

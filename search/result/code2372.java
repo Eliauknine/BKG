@@ -1,0 +1,1 @@
+ public static IField assertSerialVersionUidExists(IType type) throws JavaModelEx{  /**    * fails if the type does not have field called <code> serialVersionUID</code>.    *     * @param message    * @param type    * @return } 

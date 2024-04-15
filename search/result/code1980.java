@@ -1,0 +1,1 @@
+	 *            the new parent of this node, or <code>null</code> if none	 * @see #getParent 	 */ 	public void setParent(ASTNode parent, StructuralPropertyDescriptor location) { 		this.parent = parent; 		this.location = location; 	} 

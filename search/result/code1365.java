@@ -1,0 +1,1 @@
+ 	/*	 * (non-Javadoc) 	 *  	 * @see 	 * org.eclipse.php.internal.core.codeassist.strategies.KeywordsStrategy# 	 * filterKeyword 	 * (org.eclipse.php.internal.core.language.keywords.PHPKeywords.KeywordData) 	 */ 	@Override 	protected boolean filterKeyword(KeywordData keyword) { 		return true; } }

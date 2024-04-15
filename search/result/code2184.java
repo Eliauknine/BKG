@@ -1,0 +1,1 @@
+ public IMarker[] getValidationMarkersList(EObject eObject, int depth, String mar{  /** 	 * check if an array of IMarker contains marker with the status IStatus.ERROR 	 *  	 * @param markers 	 *            array of {@link IMarker} 	 * @return true if the status IMarker.SEVERITY_ERROR is found, false otherwise } 

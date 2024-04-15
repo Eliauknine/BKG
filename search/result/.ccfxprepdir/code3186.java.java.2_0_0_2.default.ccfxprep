@@ -1,0 +1,16 @@
+1.2.1	+9	r_protected
+1.c.b	+16	id|CDOTransactionHandler2
+1.22.21	+1	s_[
+1.23.22	+1	s_]
+1.25.24	+8	id|newArray
+1.2d.2c	+0	c_func
+1.2d.2c	+1	(paren
+1.2e.2d	+3	r_int
+1.32.31	+6	id|length
+1.38.37	+1	)paren
+1.39.38	+1	(brace
+1.3c.3b	+7	r_private
+1.44.43	+6	id|String
+1.4b.4a	+d	id|commitComment
+1.58.57	+1	suffix:semicolon
+2.1.181	+0	eof

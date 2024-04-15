@@ -1,0 +1,1 @@
+  private Scope current; private int depth = 0;  private int inClassDecl = -1;  private boolean fileScope = false;  final private static String THIS_VAR = "$this";   final private static char DOLLAR = '$'; }

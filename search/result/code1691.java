@@ -1,0 +1,1 @@
+ public void run() {  Session currentSession = session2.get();  if (currentSession != null) {  final ActivityExplorerEditor editor = ActivityExplorerManager.INSTANCE.getEditorFromSession(currentSession);  if (editor != null) {  // Handle fpages to mark them as dirty. } } } 

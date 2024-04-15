@@ -1,0 +1,1 @@
+#include <forte_string.h>#include <mgmcmdstruct.h> #include <commfb.h> /*! \brief Implementation of the DEV_MGR FB.  */ class DEV_MGR: public forte::com_infra::CCommFB {  DECLARE_FIRMWARE_FB(DEV_MGR)  public: } 

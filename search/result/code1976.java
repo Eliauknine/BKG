@@ -1,0 +1,1 @@
+ 	@Override	ASTNode clone0(AST target) { 		final List params = ASTNode.copySubtrees(target, ctorParams()); 		final ClassName cn = ASTNode.copySubtree(target, getClassName()); 		final ClassInstanceCreation result = new ClassInstanceCreation( 				this.getStart(), this.getEnd(), target, cn, params); 		return result; 	} }

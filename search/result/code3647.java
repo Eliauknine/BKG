@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.CDOInvalidationNotification;import org.eclipse.emf.cdo.common.id.CDOID; import org.eclipse.emf.cdo.common.id.CDOIDAndVersion; import org.eclipse.emf.cdo.common.revision.CDORevision; import org.eclipse.emf.cdo.view.CDOAdapterPolicy; import org.eclipse.emf.cdo.view.CDOView; }

@@ -1,0 +1,1 @@
+  iframe.frameBorder = "0"; iframe.classList.add("tabContent");  iframe.src = url;  var __dialogModule = require('electron').remote.require('dialog');  iframe.addEventListener("load", function() { } }

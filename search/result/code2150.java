@@ -1,0 +1,1 @@
+ 						.getBaseVersion().toAPI(); final ESPrimaryVersionSpec version = new UIUpdateProjectController(  getShell(), projectSpace)   .executeSub(progressMonitor);  if (version.equals(baseVersion)) {  return false; 					} }

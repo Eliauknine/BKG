@@ -1,0 +1,1 @@
+ import org.eclipse.ui.dialogs.SaveAsDialog; import org.eclipse.ui.model.WorkbenchContentProvider; import org.eclipse.ui.model.WorkbenchLabelProvider; /**  * Provides file access for workspace and file system resources. Methods accepting location objects can deal with {@link String}, {@link URI}, {@link IFile} and }

@@ -1,0 +1,1 @@
+  *******************************************************************************/package org.eclipse.fordiac.ide.fbtypeeditor.ecc.properties; import org.eclipse.fordiac.ide.model.libraryElement.Algorithm; import org.eclipse.jface.viewers.IStructuredSelection; import org.eclipse.swt.SWT; import org.eclipse.swt.custom.SashForm; import org.eclipse.swt.layout.FillLayout; }

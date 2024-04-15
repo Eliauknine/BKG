@@ -1,0 +1,1 @@
+ protected List<Node> createChildren(){  protected Node addChild(List<Node> children, Object element)     {  if (this != root || filterRootElement(element))       {  Node node = createNode(this, element); } } } 

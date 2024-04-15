@@ -1,0 +1,1 @@
+ protected void exportRevision(XMLOutput out, CDORevision revision) throws Except{         { @SuppressWarnings("unchecked")  List<Object> list = (List<Object>)rev.getValue(feature);  if (list != null)           {  for (Object value : list)             {  exportFeature(out, feature, value);             }           }         }  else         { } } 

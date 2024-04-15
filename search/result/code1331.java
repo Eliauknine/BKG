@@ -1,0 +1,1 @@
+ private static void testApiOfChildWithExtendedTableFormData(IType childWithExten{  Assert.assertEquals("inner types count of 'ChildTableRowData'", 0, childTableRowData.innerTypes().list().size());   } 

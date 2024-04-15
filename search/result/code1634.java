@@ -1,0 +1,1 @@
+ * @author Shterev */ public class CommitDialog extends EMFStoreTitleAreaDialog implements KeyListener {  private static final String COMMITDIALOG_TRAY_EXTENSION_POINT = "org.eclipse.emf.emfstore.client.ui.commitdialog.tray";   private Text txtLogMsg; } 

@@ -1,0 +1,1 @@
+ return new MarketplacePatternFilter();	}  public void setContentType(ContentType contentType) {  if (this.contentType != contentType) {  ContentType oldContentType = this.contentType;  this.contentType = contentType;  fireContentTypeChange(oldContentType, contentType);  setHeaderVisible(contentType == ContentType.SEARCH || contentType == ContentType.SELECTION);  doQuery(); 		} 	

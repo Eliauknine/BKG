@@ -1,0 +1,1 @@
+ 			class="org.eclipse.recommenders.internal.snipmatch.rcp.editors.SnippetEditor" 			contributorClass="org.eclipse.recommenders.internal.snipmatch.rcp.editors.SnippetEditorActionBarContributor" 			default="false" 			icon="icons/eview16/sample.gif" 			id="org.eclipse.recommenders.snipmatch.rcp.editors.snippet" 			name="%editors.snippet.name"/> 	</extension> }

@@ -1,0 +1,14 @@
+1.9a.99	+7	r_private
+1.a2.a1	+4	r_void
+1.a7.a6	+8	id|writeOPF
+1.af.ae	+0	c_func
+1.af.ae	+1	(paren
+1.b0.af	+4	id|File
+1.b5.b4	+7	id|opfFile
+1.bc.bb	+1	)paren
+1.be.bd	+6	r_throws
+1.c5.c4	+b	id|IOException
+1.d1.d0	+1	(brace
+1.d3.d2	+1	)brace
+1.d5.d4	+1	)brace
+2.1.d7	+0	eof

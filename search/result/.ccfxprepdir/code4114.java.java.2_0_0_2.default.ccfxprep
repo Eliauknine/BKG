@@ -1,0 +1,7 @@
+1.4.3	+1	s_*
+1.6.5	+8	id|notified
+1.f.e	+4	id|when
+1.14.13	+3	id|the
+1.18.17	+8	id|receiver
+1.20.1f	2.1.23c	l_string|'s selection changes.	 *  	 * @param listener 	 *  the listener which should no longer be notified 	 *  	 * @exception IllegalArgumentException 	 *  <ul> 	 *  <li>ERROR_NULL_ARGUMENT - if the listener is null</li> 	 *  </ul> 	 * @exception SWTException 	 * 		<ul> 	 * 		<li>ERROR_WIDGET_DISPOSED - if the receiver has been disposed</li> 	 * 		<li>ERROR_THREAD_INVALID_ACCESS - if not called from the thread that 	 * 		created the receiver</li> 	 * 		</ul> 	 *  	 * @see SelectionListener 	 * @see #addSelectionListener(SelectionListener) }&r;&n;
+2.1.23c	+0	eof

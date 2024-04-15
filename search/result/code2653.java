@@ -1,0 +1,1 @@
+ 		}); for (final VAttachment attachment : getVElement().getAttachments()) {  if (VDiffAttachment.class.isInstance(attachment)) {  attachment.eAdapters().add(new AdapterImpl() {  /** 					 * {@inheritDoc} } } }

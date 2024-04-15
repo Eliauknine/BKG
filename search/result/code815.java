@@ -1,0 +1,1 @@
+  if (platform === "linux") { electron.shell.openExternal(feedURL + '/download/channel/' + updateChannel + '/linux');  } else {  autoUpdater.setFeedURL(feedURL + '/update/channel/' + updateChannel + '/' + platform + '_' + arch + '/' + version);  autoUpdater.checkForUpdates();  } }

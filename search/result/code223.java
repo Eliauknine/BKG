@@ -1,0 +1,1 @@
+  // The initial notifications final List<Notification> initialNotifications = event.getNotifications();  // Create copy of notifications to keep only the managed one  final List<Notification> managedNotifications = new ArrayList<Notification>(initialNotifications);  final Iterator<Notification> notificationsIterator = initialNotifications.iterator();  int index = 0; }

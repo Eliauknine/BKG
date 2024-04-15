@@ -1,0 +1,1 @@
+ Require-Bundle: org.eclipse.ui,{  org.eclipse.ui.cheatsheets;bundle-version="3.4.0" Bundle-Vendor: %providerName Bundle-ActivationPolicy: lazy Bundle-Version: 0.7.0 Bundle-Localization: plugin Bundle-Name: %pluginName Bundle-Activator: org.eclipse.papyrus.designer.components.doc.Activator } 

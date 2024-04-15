@@ -1,0 +1,1 @@
+ protected void collectNewChildDescriptors(Collection<Object> newChildDescriptors{ 			(ModelPackage.Literals.PROJECT_SPACE__LOCAL_CHANGE_PACKAGE,  VersioningFactory.eINSTANCE.createChangePackage()));  newChildDescriptors.add 			(createChildParameter 			(ModelPackage.Literals.PROJECT_SPACE__MERGED_VERSION, } 

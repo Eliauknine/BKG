@@ -1,0 +1,1 @@
+ public Object[] getChildren(Object parentElement){  catch (Exception e)    {  OM.LOG.error(e);  return CommonNavigatorUtils.createMessageProviderChild("An error happened. See Error Log for more details.",  MessageType.ERROR);     }   } 

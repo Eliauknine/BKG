@@ -1,0 +1,1 @@
+ private void readValues(CDODataInput in) throws IOException{  private void writeValues(CDODataOutput out, int referenceChunk) throws IOException   {  EStructuralFeature[] features = classAdapter.getAllPersistentFeatures();  for (int i = 0; i < features.length; i++)     {  EStructuralFeature feature = features[i]; } } } 

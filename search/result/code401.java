@@ -1,0 +1,1 @@
+     </eAnnotations>    <eOperations name="getVersion" ordered="false" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString">       <eAnnotations source="http://www.eclipse.org/emf/2002/GenModel">         <details key="documentation" value="This method returns the version as String."/>       </eAnnotations>     </eOperations>   </eClassifiers> }

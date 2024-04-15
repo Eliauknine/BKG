@@ -1,0 +1,1 @@
+ 				else if (node instanceof TypeReference) {					IEvaluatedType evaluatedType = PHPTypeInferenceUtils 							.resolveExpression(sourceModule, node); 					String name = evaluatedType.getTypeName(); 					IType[] types = PHPModelUtils.getTypes(name, sourceModule, 							offset, null, null); } }

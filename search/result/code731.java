@@ -1,0 +1,1 @@
+ 		}		final int nItems = items.length; 		final IProgressMonitor ipm = new SubProgressMonitor(pm, 1); 		boolean r = false; 		for (int i = 0; i < nItems; ++i) { 			r |= collectElementsRecursive(items[i], ipm, result, flags); }

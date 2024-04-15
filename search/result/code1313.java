@@ -1,0 +1,1 @@
+public abstract class AbstractMarketplaceWizardBotTest {  private static long PROGRESS_TIMEOUT = Long.getLong("org.eclipse.epp.mpc.tests.progress.timeout", 30000);  private static final Logger logger = Logger.getLogger(AbstractMarketplaceWizardBotTest.class); } 

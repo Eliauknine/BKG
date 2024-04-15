@@ -1,0 +1,1 @@
+public class MultiOrganizeImportsHandler extends AbstractHandler { @Inject  private FileExtensionProvider fileExtensions;    /** 	 * Provider to lazy load injected fields in MultiImportOrganizer (~2 sec in context menu is to slow) 	 */ } 

@@ -1,0 +1,1 @@
+ 	 * <!-- begin-user-doc -->	 * <!-- end-user-doc --> 	 * <!-- begin-model-doc --> 	 * This method returns the version as String. 	 * <!-- end-model-doc --> 	 * 	 * @model kind="operation" required="true" ordered="false" }

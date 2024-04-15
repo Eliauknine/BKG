@@ -1,0 +1,1 @@
+ import java.lang.reflect.Field; import java.net.Authenticator; import java.net.InetAddress; import java.net.PasswordAuthentication; import java.net.URI; import java.net.URISyntaxException; import java.net.URL; import java.text.MessageFormat; import org.eclipse.core.net.proxy.IProxyData; import org.eclipse.core.net.proxy.IProxyService; }

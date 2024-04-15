@@ -1,0 +1,1 @@
+	public PhpFormatter(int start, int length, boolean isCopyPaste, 			IndentationObject indentationObject) { 		this.start = start; 		this.length = length; 		this.isCopyPaste = isCopyPaste; 		this.defaultIndentationStrategy = new DefaultIndentationStrategy( 				indentationObject); 		this.curlyCloseIndentationStrategy = new CurlyCloseIndentationStrategy(); } 

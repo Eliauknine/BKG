@@ -1,0 +1,1 @@
+ /**	 * Install the described IU 	 */  public static IStatus uninstall(IProvisioningAgent agent, String unitId, String version, IProfile profile, IProgressMonitor progress) throws ProvisionException {  if (profile == null)  return null;  IQueryResult<IInstallableUnit> units = profile.query(QueryUtil.createIUQuery(unitId, Version.create(version)), progress); } 

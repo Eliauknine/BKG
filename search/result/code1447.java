@@ -1,0 +1,1 @@
+  urlField.setAccessible(true); 			}  return (URL) urlField.get(imageDescriptor); 		} catch (SecurityException e) {  // TODO Auto-generated catch block  e.printStackTrace(); 		} catch (NoSuchFieldException e) {  // TODO Auto-generated catch block  e.printStackTrace(); 		} catch (IllegalArgumentException e) {  // TODO Auto-generated catch block  e.printStackTrace(); 		}

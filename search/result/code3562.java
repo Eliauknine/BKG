@@ -1,0 +1,1 @@
+ protected void responding(CDODataOutput out) throws IOException{  getRepository().getLockManager().unlock(lockType, view, ids); throw new IllegalArgumentException(detachedObjects.size() + " objects are not persistent anymore");     } 

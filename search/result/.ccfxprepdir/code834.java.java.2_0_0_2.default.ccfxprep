@@ -1,0 +1,17 @@
+1.2.1	+6	r_public
+1.9.8	+8	r_abstract
+1.12.11	+5	r_class
+1.18.17	+18	id|AbstractComparisonViewer
+1.31.30	+7	r_extends
+1.39.38	+6	id|Viewer
+1.3f.3e	+1	(brace
+1.6c.6b	+7	r_private
+1.74.73	+b	id|EMFDiffNode
+1.80.7f	+6	id|_input
+1.86.85	+1	suffix:semicolon
+1.c9.c8	+7	r_private
+1.d1.d0	+7	id|Command
+1.d9.d8	+16	id|_lastCommandBeforeSave
+1.ef.ee	+1	suffix:semicolon
+1.f1.f0	+1	)brace
+2.1.f4	+0	eof

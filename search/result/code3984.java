@@ -1,0 +1,1 @@
+  if (items == null)  return null;  int start = vertical ? (clipping.y + translate) : (clipping.x + translate);  int end = vertical ? (clipping.y + clipping.height + translate) : (clipping.x + clipping.width + translate); }

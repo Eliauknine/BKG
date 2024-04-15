@@ -1,0 +1,1 @@
+ 	protected StyledString appendStyledParameterSignature(StyledString buffer, String[] parameterTypes,			String[] parameterNames) { 		if (parameterNames != null) { 			for (int i = 0; i < parameterNames.length; i++) { 				if (i > 0) { 					buffer.append(','); 					buffer.append(' '); 				} 				buffer.append(parameterNames[i]); 			} 		} } }

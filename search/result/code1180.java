@@ -1,0 +1,1 @@
+	} public Market getMarket(IMarket market, IProgressMonitor monitor) throws CoreException {  if (market.getId() == null && market.getUrl() != null) {  throw new IllegalArgumentException(); 		}  List<Market> markets = listMarkets(monitor); 

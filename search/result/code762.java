@@ -1,0 +1,1 @@
+  * Replaces the node at the given path. If node === NOT_EXIST then the node is removed. */ Prefs.prototype.set = function(path, node) {  var segs = path.substr(1).split('/'); // substr(1) to strip leading slash  if (segs[0] === '') {  this.json = node;  return; } } }

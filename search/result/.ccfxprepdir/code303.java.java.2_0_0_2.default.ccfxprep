@@ -1,0 +1,12 @@
+1.4.3	+1	s_*
+1.5.4	+1	s_/
+1.7.6	+6	r_public
+1.e.d	+12	id|EStructuralFeature
+1.20.1f	+1	s_[
+1.21.20	+1	s_]
+1.23.22	+1c	id|getAllPersistentContainments
+1.3f.3e	+0	c_func
+1.3f.3e	+1	(paren
+1.40.3f	+1	)paren
+1.41.40	+1	suffix:semicolon
+2.1.c5	+0	eof

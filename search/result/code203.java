@@ -1,0 +1,1 @@
+  initValueText = createGroupText(parent, true); initValueText.addModifyListener(e -> {  removeContentAdapter();  executeCommand(new ChangeInitialValueCommand((VarDeclaration) type, initValueText.getText()));  addContentAdapter(); 		}); 	}

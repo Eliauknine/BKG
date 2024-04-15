@@ -1,0 +1,1 @@
+ public void analyze(ExecutionContext ctx, Set<AnalysationIssue> issues) { try {  if (ctx.getCallback() != null)  ctx.getCallback().pre(this, ctx);  final XtendFile xf = (XtendFile) ctx.getResourceManager().loadResource(this.getImportedId().getValue(),  XtendFile.FILE_EXTENSION);  if (xf == null) { } } } 

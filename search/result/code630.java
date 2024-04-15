@@ -1,0 +1,1 @@
+ @Override public void visit(ASTNode s) throws Exception {  if (s instanceof PHPModuleDeclaration) {  PHPModuleDeclaration module = (PHPModuleDeclaration) s;  module.traverse(new VariableValidatorVisitor(module)); 		} 	} 

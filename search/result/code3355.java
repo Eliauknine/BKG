@@ -1,0 +1,1 @@
+  try {  checkForDiffs(current, match); 		} catch (final FactoryException e) {  EMFComparePlugin.log(e, false); 		}  // we need to build this list to avoid concurrent modifications  final List<DiffElement> shouldAddToList = new ArrayList<DiffElement>(); }

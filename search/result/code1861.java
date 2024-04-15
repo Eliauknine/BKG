@@ -1,0 +1,1 @@
+ import org.eclipse.ease.Logger; import org.eclipse.ease.ui.completion.AbstractCompletionProvider; import org.eclipse.ease.ui.completion.ScriptCompletionProposal; import org.eclipse.jdt.ui.ISharedImages; import org.osgi.framework.Bundle; import org.osgi.framework.BundleContext; }

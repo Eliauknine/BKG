@@ -1,0 +1,1 @@
+	} public List<String> getFavoriteIds(final URI uri, IProgressMonitor monitor) throws IOException {  validateURI(uri);  try {  return new AbstractJSONListRequest<String>(uri, JSON_MPC_FAVORITES_PATTERN) {  @Override  protected String parseListElement(String listElement) { } } } 

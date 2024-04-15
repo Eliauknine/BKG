@@ -1,0 +1,1 @@
+import org.eclipse.fordiac.ide.model.Palette.Palette; import org.eclipse.fordiac.ide.model.Palette.PaletteEntry; import org.eclipse.ui.internal.misc.StringMatcher; public class PaletteFilter {  private final Palette palette;  public PaletteFilter(Palette palette) {  this.palette = palette; } } 

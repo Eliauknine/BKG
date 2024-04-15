@@ -1,0 +1,1 @@
+ function pushRemote(req, res, remote, branch, pushSrcRef, tags, force) {  var repo;  var remoteObj;  var task = new tasks.Task(res, false, true);   return clone.getRepo(req)  .then(function(r) { } } }

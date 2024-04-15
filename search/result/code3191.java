@@ -1,0 +1,1 @@
+ public void run(){  commitThread1.start(); commitThread2.start();  // do another commit.  sleep(2000);  CDOTransaction transaction4 = session2.openTransaction();  Company company4a = transaction4.getObject(company1a);  company4a.setName("companyA3"); } 

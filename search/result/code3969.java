@@ -1,0 +1,1 @@
+ public Object set(InternalEObject eObject, EStructuralFeature eFeature, int inde{     { value = EcoreUtil.convertToString((EDataType)eFeature.getEType(), value);     }  CDOFeatureDelta delta = new CDOSetFeatureDeltaImpl(cdoFeature, index, value);  InternalCDORevision revision = getRevisionForWriting(cdoObject, delta); } 

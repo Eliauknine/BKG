@@ -1,0 +1,1 @@
+ protected IStoreReader ensureChunk(CDORevisionImpl revision, CDOFeature feature,{  chunkReader = storeReader.createChunkReader(revision, feature);          }  int toIndex = j - 1;  if (fromIndex == toIndex)           {  chunkReader.addSimpleChunk(fromIndex);           } 

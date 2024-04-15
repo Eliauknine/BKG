@@ -1,0 +1,1 @@
+ import org.eclipse.emf.compare.uml2.diff.test.TestCommunicationDiagram;import org.eclipse.emf.compare.uml2.diff.test.TestProfile; import org.eclipse.emf.compare.uml2.diff.test.TestSequenceDiagram; import org.eclipse.emf.compare.uml2.diff.test.TestUseCaseDiagram; import org.junit.runner.RunWith; import org.junit.runners.Suite; }

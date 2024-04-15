@@ -1,0 +1,1 @@
+ private void addCleanObjectHandler(EObject target){  view.addObjectHandler(handler); // Adapt already loaded objects  for (CDOObject cdoObject : view.getObjects().values())       {  if (isContained(cdoObject))         { } } } 

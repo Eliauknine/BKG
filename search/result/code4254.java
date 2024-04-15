@@ -1,0 +1,1 @@
+ 	 */  protected String getDate(Date date) {  try {  DateFormat formatter = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SS");   return formatter.format(date); 		} catch (Exception e) {  // If there were problems writing out the date, ignore and } } }

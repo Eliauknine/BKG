@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.util.CDOUtil;import org.eclipse.emf.cdo.util.InvalidObjectException; import org.eclipse.emf.internal.cdo.CDOTransactionImpl; import org.eclipse.emf.internal.cdo.util.FSMUtil; import org.eclipse.net4j.util.event.IEvent; }

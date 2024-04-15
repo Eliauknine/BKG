@@ -1,0 +1,1 @@
+ 	<parent>		<artifactId>org.eclipse.papyrus.designer.parent</artifactId> 		<groupId>org.eclipse.papyrus.designer</groupId> 		<version>0.7.0</version> 	</parent> 	<artifactId>org.eclipse.papyrus.designer.components</artifactId> 	<packaging>pom</packaging> }

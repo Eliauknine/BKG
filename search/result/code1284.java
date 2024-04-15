@@ -1,0 +1,1 @@
+  /**     * This adds property descriptor for the Reference Owner Expression      * feature. <!-- begin-user-doc --> <!-- end-user-doc -->      *       * @generated      */  protected void addReferenceOwnerExpressionPropertyDescriptor(Object object) { } }

@@ -1,0 +1,1 @@
+ public boolean isResourceNode()   {  return classAdapter.isResourceNode();   }  public boolean isResourceFolder()   {  return classAdapter.isResourceFolder();   }  public boolean isResource()   {  return classAdapter.isResource();   }  public CDORevisionData data() 

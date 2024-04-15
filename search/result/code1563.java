@@ -1,0 +1,1 @@
+ Export-Package: org.eclipse.papyrus.designer.languages.common.extensionpointsBundle-Vendor: %providerName Bundle-ActivationPolicy: lazy Bundle-Version: 0.7.0 Bundle-Name: %pluginName Bundle-Localization: plugin Bundle-ManifestVersion: 2 }

@@ -1,0 +1,1 @@
+ 				try {					subClasses = typeHierarchyCache.get(superClass); 					if (subClasses == null) { 						IType baseClass = getByName(PHPUNIT_BASE); 						ITypeHierarchy hierarchy = baseClass.newTypeHierarchy(scriptProject, monitor); 						if (monitor != null && monitor.isCanceled()) { } } } }

@@ -1,0 +1,1 @@
+ public void notifyChanged(Notification notification){  case Notification.REMOVE:  if (notification.getOldValue() instanceof InternalCDOTransaction)         {  getXATransaction().remove((InternalCDOTransaction)notification.getNewValue());         }  break; } 

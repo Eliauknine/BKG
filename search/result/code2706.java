@@ -1,0 +1,1 @@
+  JFaceResources.getString(IDialogLabelKeys.YES_LABEL_KEY), JFaceResources.getString(IDialogLabelKeys.NO_LABEL_KEY) }, 0);  final EObject modelElement = getModelElementContext().getModelElement();  new ECPDialogExecutor(dialog) {  @Override }

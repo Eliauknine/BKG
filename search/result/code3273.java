@@ -1,0 +1,1 @@
+ public IASTCompoundStatement newCompoundStatement();  public IASTConditionalExpression newConditionalExpession(IASTExpression expr1, IASTExpression expr2, IASTExpression expr3);  public IASTContinueStatement newContinueStatement(); 

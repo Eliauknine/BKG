@@ -1,0 +1,12 @@
+1.2.1	+6	id|define
+1.8.7	+0	c_func
+1.8.7	+1	(paren
+1.9.8	+1	s_[
+1.a.9	+f	l_string|'orion/objects'
+1.19.18	+1	s_,
+1.1b.1a	+10	l_string|'orion/commands'
+1.2b.2a	+1	s_,
+1.2d.2c	+10	l_string|'orion/outliner'
+1.3d.3c	+1	s_,
+1.3f.3e	2.1.387	l_string|'orion/webui/little{  mainSplitter.splitter.toggleSidePanel(); }  this._inlineSearchPane.setSearchText(getSearchText());  this._inlineSearchPane.setSearchScope(this._lastSearchRoot); //reset search scope  this._inlineSearchPane.show();  this._inlineSearchPane.showSearchOptions();   }  }.bind(this)  });  var quickSearchCommand = new mCommands.Command({  name: messages.searchFilesCommand,  tooltip: messages.searchFilesCommand,  id: "orion.quickSearch", //$NON-NLS-0$  visibleWhen: /** @callback */ function(items, data) {  return true;  },  callback: function(data) {  if(this.editorInputManager) {  var metadata = this.editorInputManager.getFileMetadata();  if(metadata) {  var resource = recordDefaultSearchResource({items: [metadata]});  var keyword = getSearchText();  this.fillSearchPane({keyword: keyword, resource: resource});  } &r;&n;
+2.1.387	+0	eof

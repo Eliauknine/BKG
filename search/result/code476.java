@@ -1,0 +1,1 @@
+ package org.eclipse.fordiac.ide.model.structuredtext.scoping import java.util.ArrayList import org.eclipse.emf.ecore.EReference import org.eclipse.xtext.naming.QualifiedName import org.eclipse.xtext.scoping.IScope }

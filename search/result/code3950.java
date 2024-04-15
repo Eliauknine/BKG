@@ -1,0 +1,1 @@
+ public class Session extends Container<IView> implements ISession, CDOIDProvider{  private int sessionID;  private boolean disableLegacyObjects;  private ConcurrentMap<Integer, IView> views = new ConcurrentHashMap<Integer, IView>(); } 

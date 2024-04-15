@@ -1,0 +1,1 @@
+ protected byte[] encryptToken(char[] password, byte[] token){   { try     {  return SecurityUtil.encrypt(token, password, encryptionAlgorithmName, encryptionSaltBytes, encryptionIterationCount);     }  catch (RuntimeException ex)     { } } } 

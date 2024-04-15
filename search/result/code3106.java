@@ -1,0 +1,1 @@
+ String durableLockingID = transaction.enableDurableLocking(true);  InternalLockManager mgr = getRepository().getLockingManager();  final boolean[] gotCalled = new boolean[1];  mgr.addDurableViewHandler(new ILockingManager.DurableViewHandler()     {  public void openingView(CDOCommonSession session, int viewID, boolean readOnly, LockArea area)       { } } 

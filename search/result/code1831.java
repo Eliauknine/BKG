@@ -1,0 +1,1 @@
+  *   Chris Aniszczyk <caniszczyk@gmail.com> - initial implementation *   EclipseSource - Filtered Viewer  *   Robin Stocker <robin@nibor.org> - Show In support  *******************************************************************************/ package org.eclipse.egit.ui.internal.reflog; }

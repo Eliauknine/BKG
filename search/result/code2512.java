@@ -1,0 +1,1 @@
+import org.eclipse.emf.ecore.EObject;import org.eclipse.jface.viewers.ISelection; import org.eclipse.swt.widgets.Composite; import org.eclipse.ui.views.properties.tabbed.ITabbedPropertyConstants; public class TimerEventDefinitionPropertySection extends DefaultPropertySection implements ITabbedPropertyConstants { } 

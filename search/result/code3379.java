@@ -1,0 +1,1 @@
+  /** 	 * This stack contains set per method, where each set contains all global 	 * variables names delcared through 'global' keyword inside this method. 	 */  protected Stack<Set<String>> methodGlobalVars = new Stack<Set<String>>();  /** 	 * Extensions indexing visitor extensions 	 */ }

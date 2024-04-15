@@ -1,0 +1,1 @@
+  if (!isTransient) {  resourcePersister.addResource(eResource());  // resourcePersister.addResource(getLocalChangePackage().eResource());  resourcePersister.addResource(getProject().eResource());  resourcePersister.addDirtyStateChangeLister(new ESLocalProjectSaveStateNotifier(toAPI()));  ESWorkspaceProviderImpl.getObserverBus().register(resourcePersister); } }

@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecore.resource.impl.ResourceSetImpl;import org.eclipse.emf.emfstore.internal.client.importexport.IExportImportController; import org.eclipse.emf.emfstore.internal.client.model.impl.ProjectSpaceBase; import org.eclipse.emf.emfstore.internal.server.model.versioning.ChangePackage; /**  * A controller for importing changes which then will be applied upon }

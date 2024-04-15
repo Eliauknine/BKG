@@ -1,0 +1,1 @@
+  *  * Contributors:  *    Composent, Inc. - initial API and implementation  ******************************************************************************/ package org.eclipse.ecf.internal.provider.irc.container; }

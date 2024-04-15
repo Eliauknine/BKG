@@ -1,0 +1,1 @@
+ public void attach(InternalCDOObject object, InternalCDOTransaction transaction){  private void attachOrReattach(InternalCDOObject object, InternalCDOTransaction transaction)   {  // Bug 283985 (Re-attachment)  if (transaction.getFormerRevisionKeys().containsKey(object))     {  reattachObject(object, transaction);     } } } 

@@ -1,0 +1,1 @@
+ 		preferences.insert_space_before_comma_in_function_declaration = false;		preferences.insert_space_after_comma_in_function_declaration = true; 		preferences.brace_position_for_function = CodeFormatterPreferences.SAME_LINE; 		preferences.insert_space_before_opening_brace_in_function = true; 		preferences.insert_space_before_opening_paren_in_if = true; }

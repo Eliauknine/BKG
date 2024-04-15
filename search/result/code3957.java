@@ -1,0 +1,1 @@
+ public void visitDesignElement( DesignElementHandle elementHandle )	{  List scriptMethods = elementHandle.getMethods( );  if (scriptMethods != null) 		{   for ( Iterator ite = scriptMethods.iterator( ); ite.hasNext( ); ) 			{  IElementPropertyDefn elementPropDefn = (IElementPropertyDefn) ite.next( ); } } } 

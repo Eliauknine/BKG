@@ -1,0 +1,1 @@
+	public static void addAbstractTypeProposals(IInvocationContext context, IProblemLocation problem,			Collection<IScriptCompletionProposal> proposals) { 		Program astRoot = context.getASTRoot(); 		ASTNode selectedNode = problem.getCoveringNode(astRoot); 		if (selectedNode == null) { } } 

@@ -1,0 +1,1 @@
+ public void registerDomainChangeListener(ModelChangeListener modelChangeListener{  if (VDomainModelReference.class.isInstance(modelChangeListener)) {  domainModelChangeListener.add(0, modelChangeListener); 			} else {  domainModelChangeListener.add(modelChangeListener); 			} 		} else {  parentContext.registerDomainChangeListener(modelChangeListener); } 

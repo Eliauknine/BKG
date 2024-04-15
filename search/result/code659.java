@@ -1,0 +1,1 @@
+  for (IConfigurationElement mapping : mappings) { String entryId = mapping.getAttribute(MarkerSupportRegistry.MARKER_GROUPING_ENTRY);  if (idsToEntries.containsKey(entryId)) {   MarkerGroupingEntry entry = idsToEntries.get(entryId);  entry.getMarkerGroup().mapAttribute(  attributeGrouping,  entry, } } }

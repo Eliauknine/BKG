@@ -1,0 +1,1 @@
+	public void traverseBottomUp(Visitor visitor) {		if (arrayDereferenceList != null) { 			arrayDereferenceList.traverseBottomUp(visitor); 		} 		if (chainingMethodOrProperty != null) { 			for (VariableBase variableBase : chainingMethodOrProperty) { 				variableBase.traverseBottomUp(visitor); } } } 

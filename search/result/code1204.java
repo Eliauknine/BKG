@@ -1,0 +1,1 @@
+ public EditingDomain getEditingDomain() { return this.editingDomain; 	}    @Override  public Object getAdapter(@SuppressWarnings("rawtypes") final Class adapter) {  /* @SuppressWarnings("rawtypes"): gdupe> Imposed by the super class */ } 

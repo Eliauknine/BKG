@@ -1,0 +1,1 @@
+ Import-Package: javax.servlet;version="[2.3.0,3.0.0)",{  javax.servlet.http;version="[2.3.0,3.0.0)", org.apache.commons.httpclient;version="[3.0.1,4.0.0)",  org.apache.commons.httpclient.methods;version="[3.0.1,4.0.0)" Export-Package: org.eclipse.net4j.http.tests;version="4.0.0" } 

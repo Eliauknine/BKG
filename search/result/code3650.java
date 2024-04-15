@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.tests.bugzilla.Bugzilla_261218_Test; import org.eclipse.emf.cdo.tests.bugzilla.Bugzilla_265114_Test; import org.eclipse.emf.cdo.tests.bugzilla.Bugzilla_266857_Test; import org.eclipse.emf.cdo.tests.config.impl.ConfigTest; import org.eclipse.emf.cdo.tests.config.impl.ConfigTestSuite; }

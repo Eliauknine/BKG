@@ -1,0 +1,1 @@
+ define("orion/editor/actions", [ //$NON-NLS-0${  this._lastEditLocation = null;  this.init();  }  TextActions.prototype = {  init: function() {  var textView = this.editor.getTextView();    this._lastEditListener = {  onModelChanged: function(e) {  if (this.editor.isDirty()) { } } } } } 

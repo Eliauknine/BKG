@@ -1,0 +1,1 @@
+  *    mwenz - Bug 352220 - Possibility to disable guides *    Benjamin Schmeling - mwenz - Bug 367483 - Support composite connections  *    mwenz - Bug 364126 - Make GaServiceImpl extensible  *  * </copyright>  * }

@@ -1,0 +1,1 @@
+ public void setPassiveUpdateEnabled(boolean enabled); /**      */  public CDOCollectionLoadingPolicy getCollectionLoadingPolicy();  /**      */  public void setCollectionLoadingPolicy(CDOCollectionLoadingPolicy policy);   

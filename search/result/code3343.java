@@ -1,0 +1,1 @@
+ public Object[] getChildren(){     { if (!getRepositoryProject().getView().getSession().getRepositoryInfo().isSupportingBranches())       {  return CommonNavigatorUtils.createMessageProviderChild("Repository does not support branching",  MessageType.INFO);       } } } 

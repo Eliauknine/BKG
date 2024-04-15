@@ -1,0 +1,1 @@
+ 			return;		} 		processedElements.put(method, method); 		noProposal = false; 		if (!requestor.isIgnored(CompletionProposal.METHOD_REF)) { 			CompletionProposal proposal = createProposal(CompletionProposal.METHOD_REF, actualCompletionPosition); 			proposal.setExtraInfo(extraInfo); }

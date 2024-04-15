@@ -1,0 +1,1 @@
+ @Override public String toString() 	{  if (eIsProxy()) {  return super.toString(); 		}  final StringBuffer result = new StringBuffer(super.toString());  result.append(" (addRemoveDisabled: ");  result.append(addRemoveDisabled);  result.append(')'); } 

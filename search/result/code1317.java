@@ -1,0 +1,1 @@
+ Bundle-Name: Marketplace Client Tests{ Bundle-SymbolicName: org.eclipse.epp.mpc.testsBundle-Version: 1.5.1.qualifier Bundle-Vendor: Eclipse Marketplace Client Bundle-RequiredExecutionEnvironment: JavaSE-1.7 Require-Bundle: org.eclipse.osgi;bundle-version="3.6.0",  org.eclipse.core.runtime;bundle-version="3.6.0",  org.eclipse.epp.mpc.core;bundle-version="1.5.1", } 

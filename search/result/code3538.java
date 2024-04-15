@@ -1,0 +1,1 @@
+ private IRepositoryProvider repositoryProvider;  private StringCompressor packageURICompressor = new StringCompressor(false);  public CDOServerProtocol(IRepositoryProvider repositoryProvider)   { } }

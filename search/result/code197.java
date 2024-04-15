@@ -1,0 +1,1 @@
+  @Override  protected Collection<DataType> getTypes() {  FBType fbType = (FBType) getType().eContainer().eContainer();  return fbType.getTypeLibrary().getDataTypeLibrary().getDataTypesSorted(); 	} }

@@ -1,0 +1,1 @@
+        }       };  //The table does only dispose table items and columns so we have to manually dispose our container.  parent.addDisposeListener(new DisposeListener() {  private static final long serialVersionUID = 1L;  @Override  public void widgetDisposed(DisposeEvent event) {  m_container.dispose();         }       

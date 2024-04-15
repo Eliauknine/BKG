@@ -1,0 +1,1 @@
+	 *            inspected method	 * @return signature of method. 	 */  public static StyledString getSignature(final Method method, boolean useStyledReturnValue) {  final StyledString signature = new StyledString();  signature.append(method.getName()); } 

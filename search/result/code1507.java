@@ -1,0 +1,1 @@
+  iframe.contentWindow.confirm = window.confirm;  iframe.contentWindow.alert = window.alert;  iframe.contentWindow.__dialogModule = __dialogModule;  var target = iframe.contentDocument.querySelector('head > title');  var observer = new window.WebKitMutationObserver(function(mutations) { } }

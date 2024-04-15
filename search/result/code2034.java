@@ -1,0 +1,1 @@
+ import org.eclipse.e4.ui.model.application.ui.basic.MPart; import org.eclipse.e4.ui.workbench.IPresentationEngine; import org.eclipse.e4.ui.workbench.UIEvents; import org.eclipse.e4.ui.workbench.modeling.EModelService; import org.eclipse.e4.ui.workbench.modeling.EPartService; import org.eclipse.emf.ecore.EAttribute; }

@@ -1,0 +1,1 @@
+  unsetButton = new Button(toolbarComposite, SWT.PUSH); unsetButton.setEnabled(!getControl().isReadonly());  unsetButton.setToolTipText(getUnsetButtonTooltip());  unsetButton.setImage(Activator.getImage("icons/delete.png"));  		}

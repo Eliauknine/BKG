@@ -1,0 +1,1 @@
+ public static String adjustGenModel(GenModel genModel, GenDelegationKind feature{  try      {  modelProject.create(new NullProgressMonitor());  builder.append(Messages.getString("CDOMigrator.12") + "\n");         }  catch (CoreException ex)       { } } 

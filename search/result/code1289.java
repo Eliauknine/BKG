@@ -1,0 +1,1 @@
+ <h4 id="Changesinorg.eclipse.sirius.properties">Changes in{  <code>labelFontSizeExpression</code> since both of them were already treated as expression.  </li>  </ul>  <h4 id="Changesinorg.eclipse.sirius.ecore.extender">Changes in   <code>org.eclipse.sirius.ecore.extender</code>  </h4> } 

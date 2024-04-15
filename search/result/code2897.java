@@ -1,0 +1,1 @@
+public class TableColumnItemProvider extends ItemProviderAdapter  implements  IEditingDomainItemProvider,  ITreeItemContentProvider,  IItemLabelProvider,  IItemPropertySource {  /** 	 * This constructs an instance from factory and notifier. } 

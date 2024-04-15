@@ -1,0 +1,1 @@
+ The video covers the following features:{  * Outline views * Ajax libraries, classes and variables [http://il.youtube.com/watch?v=zp8sOwIMxnw&amp;feature=channel_page](http://il.youtube.com/watch?v=zp8sOwIMxnw&feature=channel_page) } 

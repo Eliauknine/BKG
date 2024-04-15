@@ -1,0 +1,1 @@
+	} @Override  public void setHeaderVisible(boolean visible) {  if (visible != isHeaderVisible()) {  if (!visible) {  filters = getViewer().getFilters();  getViewer().resetFilters(); 			} else {  if (filters != null) {  getViewer().setFilters(filters);  filters = null; 				} 			}  super.setHeaderVisible(visible); 		} 	

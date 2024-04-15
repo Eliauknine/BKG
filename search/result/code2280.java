@@ -1,0 +1,1 @@
+ import org.eclipse.emf.edit.provider.ComposedAdapterFactory;import org.eclipse.jface.dialogs.MessageDialog; import org.eclipse.jface.window.Window; import org.eclipse.swt.widgets.Composite; import org.eclipse.swt.widgets.Display; import org.eclipse.swt.widgets.Shell; }

@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecp.view.internal.swt.Activator; import org.eclipse.emf.ecp.view.internal.swt.Messages; import org.eclipse.emf.ecp.view.spi.context.ViewModelContext; import org.eclipse.emf.edit.domain.AdapterFactoryEditingDomain; import org.eclipse.emf.edit.domain.EditingDomain; import org.eclipse.emf.edit.provider.ItemPropertyDescriptor; }

@@ -1,0 +1,1 @@
+ import org.eclipse.swtbot.eclipse.finder.matchers.WidgetMatcherFactory;import org.eclipse.swtbot.eclipse.finder.widgets.SWTBotEditor; import org.eclipse.swtbot.swt.finder.SWTBot; import org.eclipse.swtbot.swt.finder.finders.UIThreadRunnable; import org.eclipse.swtbot.swt.finder.junit.ScreenshotCaptureListener; import org.eclipse.swtbot.swt.finder.results.ArrayResult; }

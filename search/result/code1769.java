@@ -1,0 +1,1 @@
+ 		if (contextClass == MethodNameContext.class) {			return new ICompletionStrategy[] { new MethodNameStrategy(context) }; 		} 		if (contextClass == ClassStatementContext.class) { 			if (((AbstractCompletionContext) context).isInUseTraitStatement()) { 				int type = ((AbstractCompletionContext) context).getUseTraitStatementContext(); } } }

@@ -1,0 +1,1 @@
+ 						.indexOf(IDLTKSearchScope.FILE_ENTRY_SEPARATOR); method = separatorIndex == -1 ? createMethodFromPath(path,  new String(simpleMethodName)) : null/* 														 * createTypeFrom( path 														 * , separatorIndex ) 														 */;  if (DLTKCore.DEBUG) {  System.err.println("TODO: Add types from zips...");  				} }

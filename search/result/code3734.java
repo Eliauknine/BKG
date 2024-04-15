@@ -1,0 +1,1 @@
+ return state;  }  @Override  public void postCommit(boolean success)   {  Repository repository = (Repository)getTransaction().getRepository();  repository.getCommitManager().remove(this);  super.postCommit(success);   }  @Override  protected void rollback()   {  super.rollback();  // Change the state to unblock call.  state.set(CommitState.ROLLED_BACK); 

@@ -1,0 +1,1 @@
+ - "Agent/Configure:adam.brousseau88@gmail.com"- "Agent/Connect:adam.brousseau88@gmail.com" - "Agent/Disconnect:adam.brousseau88@gmail.com" - "Job/Configure:adam.brousseau88@gmail.com" - "Overall/Administer:admins" - "Job/Read:anonymous" }

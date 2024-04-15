@@ -1,0 +1,1 @@
+ 				} for (Object element : sel.toArray()) {  assert((element instanceof IFolder) || (element instanceof IFile));  IPath path = ((IResource) element).getProjectRelativePath();  sff.addPattern(new PathResourceMatcher(path), type); 				}

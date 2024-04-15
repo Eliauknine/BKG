@@ -1,0 +1,1 @@
+ public void setGroupRenderer(AbstractGalleryGroupRenderer groupRenderer) {  this.groupRenderer = groupRenderer;  groupRenderer.setGallery(this);  this.updateStructuralValues(true);  this.updateScrollBarsProperties();  this.redraw(); } 

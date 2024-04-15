@@ -1,0 +1,1 @@
+ private void queryAdapterTypes(Map<String, AdapterType> adapters, Resource res){  logger.error(MessageFormat.format(Messages.DTL_QueryFailed, "Adapter Types")); 			} 		}  loopAdapterTypes(adapters, res); 	}  private void loopAdapterTypes(Map<String, AdapterType> adapters, Resource res) {  adapters.keySet().forEach(e -> {  try {  createAdapterType(e, adapters, res); } 

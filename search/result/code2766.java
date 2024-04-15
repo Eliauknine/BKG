@@ -1,0 +1,1 @@
+ public void read(CDODataInput in) throws IOException{  byte flagBits = in.readByte(); // Don't set permissions into this.falgs before readValues() flagBits |= UNCHUNKED_FLAG; // First assume all lists are unchunked; may be revised below  if ((flagBits & PERMISSION_MASK) != CDOPermission.NONE.ordinal())     {  if (!readValues(in))       { } } } 

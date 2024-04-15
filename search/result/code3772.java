@@ -1,0 +1,1 @@
+ */public class CommitTransactionCancelIndication extends CommitTransactionIndication {  public CommitTransactionCancelIndication()   {   }  @Override  protected short getSignalID()   {  return CDOProtocolConstants.SIGNAL_COMMIT_TRANSACTION_CANCEL;   }  @Override } 

@@ -1,0 +1,1 @@
+ protected void responding(ExtendedDataOutputStream out) throws IOException{  SessionManager sessionManager = repository.getSessionManager(); CDOServerProtocol serverProtocol = (CDOServerProtocol)getProtocol();  Session session = sessionManager.openSession(serverProtocol, disableLegacyObjects);  serverProtocol.setInfraStructure(session);  writeSessionID(out, session); } 

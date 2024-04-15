@@ -1,0 +1,1 @@
+ *  * @author <a href="mailto:mathieu.cartaud@obeo.fr">Mathieu Cartaud</a>  */ public class FeatureMapChangeTooltipProvider extends AbstractTooltipProvider<FeatureMapChange> implements ITooltipLabelProvider {  /** 	 * The constructor. } 

@@ -1,0 +1,1 @@
+ 		return markersToCheck; 	} 	private ArrayList<MarkerToCheck> subtype_tests_ttcn_initializer() { 		//subtype_tests.ttcn 		ArrayList<MarkerToCheck> markersToCheck = new ArrayList<MarkerToCheck>(754); }

@@ -1,0 +1,1 @@
+  return ((rootNode instanceof Application) || (rootNode instanceof SubApp));	}  private static EObject getFBRootNode(FB fb) {  EObject fbCont = fb.eContainer();  EObject rootNode = null;  if(fbCont instanceof FBNetwork){  rootNode = ((FBNetwork)fbCont).eContainer(); 		}  return rootNode; 	}

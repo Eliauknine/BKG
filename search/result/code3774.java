@@ -1,0 +1,1 @@
+ private static final ContextTracer PROTOCOL_TRACER = new ContextTracer(OM.DEBUG_PROTOCOL, ChangeSubscriptionIndication.class);  public ChangeSubscriptionIndication()   {   }  @Override  protected short getSignalID()   {  return CDOProtocolConstants.SIGNAL_CHANGE_SUBSCRIPTION;   }  @Override 

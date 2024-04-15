@@ -1,0 +1,1 @@
+  return index.writeTree(); })  .then(function(oid) {  author = git.Signature.default(theRepo);   committer = git.Signature.default(theRepo);  // Since we're creating an inital commit, it has no parents. Note that unlike  // normal we don't get the head either, because there isn't one yet. }

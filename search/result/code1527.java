@@ -1,0 +1,1 @@
+  private static final val TYPE = "type" private static final val ELEMENTS = "elements"  private static final val CONTROL = "Control"  private static final val CATEGORIZATION = "Categorization"  private static final val CATEGORY = "Category"  private static final val SCOPE = "scope" }

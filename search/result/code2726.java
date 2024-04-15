@@ -1,0 +1,1 @@
+ import org.eclipse.core.runtime.jobs.IJobChangeEvent; import org.eclipse.core.runtime.jobs.Job; import org.eclipse.core.runtime.jobs.JobChangeAdapter; import org.eclipse.pde.internal.core.IPluginModelListener; import org.eclipse.pde.internal.core.PDECore; import org.eclipse.pde.internal.core.PluginModelDelta; import org.eclipse.scout.commons.EventListenerList; }

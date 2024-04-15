@@ -1,0 +1,1 @@
+	public FullyQualifiedTraitMethodReference newFullyQualifiedTraitMethodReference( 			NamespaceName className, Identifier functionName) { 		FullyQualifiedTraitMethodReference lfDeclaration = new FullyQualifiedTraitMethodReference( } 

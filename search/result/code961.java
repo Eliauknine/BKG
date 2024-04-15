@@ -1,0 +1,1 @@
+  active.contentWindow.location.reload();  }

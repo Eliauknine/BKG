@@ -1,0 +1,13 @@
+1.2.1	+6	r_public
+1.9.8	+6	r_static
+1.10.f	+9	id|Activator
+1.1a.19	+b	id|getInstance
+1.25.24	+0	c_func
+1.25.24	+1	(paren
+1.26.25	+1	)paren
+1.28.27	+1	(brace
+1.2a.29	+6	r_return
+1.31.30	+8	id|instance
+1.39.38	+1	suffix:semicolon
+1.3c.3b	+1	)brace
+2.1.3f	+0	eof

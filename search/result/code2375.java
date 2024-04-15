@@ -1,0 +1,1 @@
+ public static IMethod assertMethodExistInSuperTypeHierarchy(IType type, String m{  /**   * fails if the <code>type</code> or any super type (interface or superclass) does not contain method named    * <code>methodName</code>.    *     * @param message    * @param type    * @param methodName } 

@@ -1,0 +1,1 @@
+  adapterFactoryLabelProvider.dispose(); adapterFactoryLabelProvider = null; 		}

@@ -1,0 +1,1 @@
+  var SETTINGS_SECTION = "/editor/settings"; //$NON-NLS-0$ var SETTINGS_KEY = "editorSettings"; //$NON-NLS-0$  var defaults = {   autoSave: false,   autoSaveVisible: true,  autoSaveLocalVisible: true,  autoSaveTimeout: 1000, } }

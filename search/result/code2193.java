@@ -1,0 +1,1 @@
+ private void removeXMLIntegrityProblemMarker(final IResource resource) throws Co{  /** 	 * Remove all markers of type {@linkplain IXMLMarker.XML_VALIDITY_PROBLEM} present on the resource. 	 *  	 * @param resource 	 *            the target {@link IResource} 	 * @see IMarker#getType() } 

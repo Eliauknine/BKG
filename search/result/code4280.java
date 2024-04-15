@@ -1,0 +1,1 @@
+	}  public void doSave(IProgressMonitor monitor) {  if (fBeanModel != null && !fBeanModel.isStateSet(IBeanDeclModel.BDM_STATE_DOWN)) {  VEModelCacheUtility.doSaveCache(fBeanModel, monitor);  // We may have stopped processing bottom up so that the model will not change.  fSrcSync.resumeProcessing(); 		} 	

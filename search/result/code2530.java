@@ -1,0 +1,1 @@
+ * <!-- end-user-doc --> * @generated  */ public class MappedSourceValueTest extends TestCase {  /**      * The fixture for this Mapped Source Value test case.      * <!-- begin-user-doc -->      * <!-- end-user-doc -->      * @generated      */  protected MappedSourceValue fixture = null;  /**      * <!-- begin-user-doc -->      * <!-- end-user-doc --> } 

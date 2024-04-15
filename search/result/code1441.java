@@ -1,0 +1,1 @@
+  return ResourceTools.toString(input);	}

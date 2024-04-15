@@ -1,0 +1,1 @@
+  if (needSwitchMarketplaceControl) {  createMarketplaceSwitcher(parent); 		} else {  updateBranding(); 		}  // bug 312411: selection listener so that we can streamline install of single product  getViewer().addSelectionChangedListener(new ISelectionChangedListener() { } }

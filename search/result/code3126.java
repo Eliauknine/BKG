@@ -1,0 +1,1 @@
+ public IToken yylex() throws IOException, LexerException{  IToken t = nextToken; nextToken = freeLexer2.yylex();  if (t.getTerminal() == Terminal.T_IDENT)         {  while ((nextToken.getTerminal() == Terminal.T_IDENT) } } 

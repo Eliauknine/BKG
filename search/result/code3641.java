@@ -1,0 +1,1 @@
+ protected Collection<CDOTimeStampContext> confirming(CDODataInput in) throws IOE{       ((CDOTimeStampContextImpl)timestampContext).setDirtyObjects(dirtyObjects);      ((CDOTimeStampContextImpl)timestampContext).setDetachedObjects(detachedObjects);  getSession().handleSyncResponse(timestampContext.getTimeStamp(), dirtyObjects, detachedObjects);     } 

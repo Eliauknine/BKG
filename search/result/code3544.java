@@ -1,0 +1,1 @@
+ public CDOList getList(EStructuralFeature feature, int size)   {  int featureIndex = classAdapter.getFeatureIndex(feature);  CDOList list = (CDOList)getValue(featureIndex);  if (list == null && size != -1)     { } } 

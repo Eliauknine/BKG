@@ -1,0 +1,1 @@
+ 	 */ private void addEntry(String markerType, EntryMapping entry) {  for (MarkerType type : getMarkerTypes(markerType)) {  Collection<EntryMapping> entries = new HashSet<>();  if (typesToMappings.containsKey(type.getId())) {  entries = typesToMappings.get(markerType); 			} else {  entries = new HashSet<>(); 			}  entries.add(entry); } } }

@@ -1,0 +1,1 @@
+ define([{  var inputManager = this.inputManager; if (textView && inputManager) {  var metadata = inputManager.getFileMetadata();  if (metadata) {  evt.session = {  get: function() {  return sessionStorage.editorViewSection ? JSON.parse(sessionStorage.editorViewSection) : {};   },  apply: function(animate) {  if (!metadata.Location) return; } } } } } 

@@ -1,0 +1,1 @@
+ import org.eclipse.bpmn2.FlowNode; import org.eclipse.bpmn2.Lane; import org.eclipse.bpmn2.SequenceFlow; import org.eclipse.bpmn2.modeler.core.features.ConnectionFeatureContainer; import org.eclipse.bpmn2.modeler.core.features.IBpmn2CreateFeature; import org.eclipse.bpmn2.modeler.core.model.Bpmn2ModelerFactory; }

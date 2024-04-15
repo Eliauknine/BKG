@@ -1,0 +1,1 @@
+  if (hasReturningPolicy()) { getReturningPolicy().initialize(session);         }  getQueryManager().initialize(session);  getEventManager().initialize(session);  getCopyPolicy().initialize(session); }

@@ -1,0 +1,1 @@
+  return getDescription(compositeOperation.getMainOperation());			}

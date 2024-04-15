@@ -1,0 +1,1 @@
+ define([{  if (evt.button === 0 && !evt.ctrlKey && !evt.metaKey) { self.hide();  }  }  for (var i=0; i<links.length; i++) {  var link = links[i];  link.addEventListener("click", clicked, false);  }  } 

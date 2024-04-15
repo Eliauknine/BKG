@@ -1,0 +1,1 @@
+ protected void fillLocalToolBar(IToolBarManager manager){  protected void fillContextMenu(IMenuManager manager, ITreeSelection selection)   {  itemProvider.fillContextMenu(manager, selection);  manager.add(new Separator(IWorkbenchActionConstants.MB_ADDITIONS));   }  protected void selectionChanged(IActionBars bars, ITreeSelection selection) } 

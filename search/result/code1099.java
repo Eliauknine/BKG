@@ -1,0 +1,1 @@
+ 		} else {  descriptionText = TextUtil.stripHtmlMarkup(descriptionText).trim(); 		}  if (descriptionText.length() > maxDescriptionLength) {  int truncationIndex = maxDescriptionLength;  for (int x = truncationIndex; x > 0; --x) { } }

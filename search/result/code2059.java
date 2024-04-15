@@ -1,0 +1,1 @@
+ return EclipseResourceFileSystemAccess2.class;	}  @SingletonBinding(eager = true)  public Class<? extends UniqueClassNameValidator> bindUniqueClassNameValidator() {  return ProjectAwareUniqueClassNameValidator.class; 

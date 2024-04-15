@@ -1,0 +1,1 @@
+ public final void init(final VELEMENT vElement, final ViewModelContext viewContext) { super.init(vElement, viewContext);  preInit();  controls = new LinkedHashMap<GridCell, Control>();  if (getViewModelContext() != null) {  listener = new ModelChangeListener() { } } } 

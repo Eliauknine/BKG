@@ -1,0 +1,1 @@
+ public void createItems ( final ItemCreator itemCreator ){  final CreationRequest<ReferenceItem> c = itemCreator.createReferenceItem ( source ); c.customizationTags ( this.mappedSourceValue.getCustomizationTags () );  c.localTags ( this.mappedSourceValue.getName () );  final ReferenceItem item = c.create ();  this.refs.add ( item ); } 

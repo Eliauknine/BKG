@@ -1,0 +1,1 @@
+  *******************************************************************************/ package org.eclipse.emf.compare.rcp.ui.internal.structuremergeviewer.actions; import org.eclipse.emf.compare.Comparison; import org.eclipse.emf.compare.rcp.ui.EMFCompareRCPUIPlugin; import org.eclipse.emf.compare.rcp.ui.internal.structuremergeviewer.filters.IDifferenceFilter; }

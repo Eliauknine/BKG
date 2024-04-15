@@ -1,0 +1,1 @@
+ * @generated * @since 2.0  */ public class CDOResourceNodeItemProvider extends ItemProviderAdapter implements IEditingDomainItemProvider,  IStructuredItemContentProvider, ITreeItemContentProvider, IItemLabelProvider, IItemPropertySource,  ITableItemLabelProvider, ITableItemColorProvider, ITableItemFontProvider, IItemColorProvider, IItemFontProvider { } 

@@ -1,0 +1,1 @@
+ <?xml version="1.0" encoding="UTF-8"?><feature  id="org.eclipse.emf.ecp.emf2web.feature"  label="EMF2Web Feature"  version="1.0.0.qualifier"  provider-name="Eclipse Modeling Project"  license-feature="org.eclipse.emf.ecp.license.feature" }

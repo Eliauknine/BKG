@@ -1,0 +1,1 @@
+  fileManager.getResource(remoteFolder).delete(EFS.NONE, null); SyncConfig syncConfig = SyncConfigManager.newConfig("tmp", "Git", fRemoteConnection, remoteFolder);  fGITConn = new GitRemoteSyncConnection(null, localFolder.getRoot().getPath(), syncConfig,  AbstractSyncFileFilter.createBuiltInDefaultFilter(), null); 	}  private void delete() { }

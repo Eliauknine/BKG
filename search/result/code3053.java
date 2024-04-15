@@ -1,0 +1,1 @@
+ 		String namespace = PHPModelUtils.extractNamespaceName(typeName,				sourceModule, offset); 		if (namespace != null) { 			return new PHPClassType(namespace, PHPModelUtils 					.extractElementName(typeName)); 		} 		return new PHPClassType(typeName); 	}

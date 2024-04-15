@@ -1,0 +1,1 @@
+  //look for parameters   CParameterParser parser(paAddress, '?', 2); //IP:PORT/PATH?PARAMETERS  const char *addressToParse = paAddress;  if(2 == parser.parseParameters() && (e_PUT == mRequestType || e_POST == mRequestType)) {  if(0 == paNoOfSDs) { //if SDs are present, the parameters in PARAMS are ignored  mReqData = parser[1]; } } }

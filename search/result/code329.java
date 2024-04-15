@@ -1,0 +1,1 @@
+        } return self::$ZendPHPUnitErrorHandler;     }    public function handle($errno, $errstr, $errfile, $errline)     {  if (! ($errno & error_reporting())) {  return false;         }    // handle errors same as PHPUnit_Util_ErrorHandler  if ($errfile === __FILE__ || (stripos($errfile, dirname(dirname(__FILE__))) === 0 && $errno !== E_USER_NOTICE)) {  return true; 

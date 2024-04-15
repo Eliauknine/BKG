@@ -1,0 +1,1 @@
+ public static Map<String, String> getProperties(Element element, int levels)   {  Map<String, String> properties = new HashMap();  collectProperties(element, "", properties, levels);  return properties;   } 

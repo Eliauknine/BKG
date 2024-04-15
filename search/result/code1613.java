@@ -1,0 +1,1 @@
+ import org.eclipse.ease.ui.completion.ScriptCompletionProposal;import org.eclipse.ease.ui.help.hovers.IHelpResolver; import org.eclipse.ease.ui.help.hovers.JavaClassHelpResolver; import org.eclipse.jdt.ui.ISharedImages; import org.eclipse.jface.resource.ImageDescriptor; import org.osgi.framework.Bundle; }

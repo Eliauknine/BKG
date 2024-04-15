@@ -1,0 +1,1 @@
+ return (CDOSession)container.getElement(PRODUCT_GROUP, TYPE, description);  }  public static CDOSessionImpl createSession(String repositoryName, boolean disableLegacyObjects,  boolean automaticPackageRegistry, IFailOverStrategy failOverStrategy)   {  CDOSessionImpl session = new CDOSessionImpl(); 

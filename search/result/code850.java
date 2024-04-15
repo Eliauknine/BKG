@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecore.EObject; import org.eclipse.emf.ecore.EStructuralFeature; import org.eclipse.emfforms.spi.common.converter.EStructuralFeatureValueConverter; import org.eclipse.emfforms.spi.common.converter.EStructuralFeatureValueConverter.Direction; import org.eclipse.emfforms.spi.common.converter.EStructuralFeatureValueConverterService; }

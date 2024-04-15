@@ -1,0 +1,1 @@
+  SERIALIZATION_OPTIONS_EXT).getFirst(); if (element != null) {  hrefCheckEnabled = element.getBoolean(HREF_CHECK_OPTION);  containmentCheckEnabled = element.getBoolean(SELF_CONTAINMENT_CHECK_OPTION); 		}  serializationOptionsInitialized = true; 	}

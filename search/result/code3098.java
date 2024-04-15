@@ -1,0 +1,1 @@
+ @Test  public void testWarWithJSTLFromDependency() throws MalformedURLException, IOException, BundleException {  String jstlLocation = "file:../ivy-cache/repository/javax.servlet/com.springsource.javax.servlet.jsp.jstl/1.2.0.v20110517/com.springsource.javax.servlet.jsp.jstl-1.2.0.v20110517.jar";  Bundle jstlBundle = this.bundleContext.installBundle(jstlLocation);  try { } } 

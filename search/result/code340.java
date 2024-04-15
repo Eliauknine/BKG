@@ -1,0 +1,1 @@
+ public function getWrappedName($e){         } return get_class($e);     }    private function cleanTest()     {  $this->status = 'pass';  $this->exception = null;  $this->warnings = array();  $this->time = 0;     }    private function writeArray($array)     {  $result = $this->writeJson($this->encodeJson($array));  return $result;     } 

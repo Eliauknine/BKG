@@ -1,0 +1,1 @@
+   */  public String getURIFragment(EObject object)   {  // if object == this ??? what we do. Is it wanted ? How we handle them ?  InternalCDOObject internalCDOObject = FSMUtil.adapt(object, cdoView());  StringBuilder builder = new StringBuilder();  CDOIDUtil.write(builder, internalCDOObject.cdoID());  return builder.toString();   } 

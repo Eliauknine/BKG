@@ -1,0 +1,1 @@
+  innerText.setSize(300, getPreferrredPopupHeight()); popupWindow.getContent().pack();  innerText.setText(text.getText());  innerText.setSelection(text.getCaretPosition());  innerText.addFocusListener(new FocusListener() {  @Override } }

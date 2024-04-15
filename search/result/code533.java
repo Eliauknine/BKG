@@ -1,0 +1,1 @@
+	 */ 	@Override 	public ASTNode getCoveredNode() { 		NodeFinder finder = new NodeFinder(getOffset(), getLength());  getASTRoot().accept(finder); 		return finder.getCoveredNode(); 	} 	 */ 	@Override 	public ASTNode getCoveringNode() { 		NodeFinder finder = new NodeFinder(getOffset(), getLength());  getASTRoot().accept(finder); 		return finder.getCoveringNode(); 	} 

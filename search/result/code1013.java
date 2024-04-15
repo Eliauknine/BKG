@@ -1,0 +1,1 @@
+  *******************************************************************************/ package org.eclipse.emf.ecp.view.spi.table.celleditor.rcp; import org.eclipse.emf.ecp.view.spi.util.swt.ImageRegistryService; import org.eclipse.swt.SWT; import org.eclipse.swt.graphics.Color; }

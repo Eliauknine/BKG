@@ -1,0 +1,1 @@
+ private CellEditor createCellEditor(final EObject tempInstance, final EAttribute{  return CellEditorFactory.INSTANCE.createCellEditor(attribute, tempInstance, table, getViewModelContext());	}  /** 	 * {@inheritDoc} 

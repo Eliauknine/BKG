@@ -1,0 +1,1 @@
+ var fs = require('fs'),{ module.exports.start = function(startServer, configParams) {  var electron = require('electron'),  autoUpdater = require('./lib/autoUpdater'),  spawn = require('child_process').spawn,  allPrefs = prefs.readPrefs(), } } 

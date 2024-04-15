@@ -1,0 +1,1 @@
+ public static String DefaultMarketplaceService_marketNotFound;  public static String DefaultMarketplaceService_mustConfigureBaseUrl;  public static String DefaultMarketplaceService_nodeNotFound;  public static String DefaultMarketplaceService_parseError;  public static String DefaultMarketplaceService_retrievingDataFrom; 

@@ -1,0 +1,1 @@
+ public Response postNonRDFSource(InputStream content, String stripCharset, Strin{  if (slug != null) { associatedResource.addProperty(Lyo.slug, slug); 			}  fGraphStore.commit();  return build(Response } 

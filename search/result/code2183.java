@@ -1,0 +1,1 @@
+  /** 	 * check if an array of IMarker contains marker with the status IStatus.WARNING 	 *  	 * @param markers 	 *            array of {@link IMarker} 	 * @return true if the status IMarker.SEVERITY_WARNING is found, false otherwise }

@@ -1,0 +1,1 @@
+ public Object getLayoutData(SWTGridCell gridCell, SWTGridDescription controlGrid{  gridCell.isVerticalFill() ? SWT.FILL : SWT.CENTER)			.grab(gridCell.isHorizontalGrab(), gridCell.isVerticalGrab()) 			.span(gridCell.getHorizontalSpan() + fullGridDescription.getColumns() 				- currentRowGridDescription.getColumns(), 1).create(); 	} 

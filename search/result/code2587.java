@@ -1,0 +1,1 @@
+package org.eclipse.scout.commons; import java.awt.Color; public final class ColorUtility {  // public constants  public static final String RED = "ff0000";  public static final String GREEN = "00ff00"; } 

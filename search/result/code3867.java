@@ -1,0 +1,1 @@
+ public void execute(InternalCDOObject object, CDOState state, CDOEvent event, Ob{  InternalCDOObject content = FSMUtil.adapt(eObject, transaction); if (content != null)           {  INSTANCE.process(content, CDOEvent.DETACH, object);           }         } 

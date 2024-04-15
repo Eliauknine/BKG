@@ -1,0 +1,1 @@
+ public void addExistingModelElements(EObject eObject, EReference eReference) { final Iterator<EObject> allElements =  ItemPropertyDescriptor.getReachableObjectsOfType(eObject, eReference.getEType())   .iterator();  final Set<EObject> elements = new LinkedHashSet<EObject>();  while (allElements.hasNext()) { } } 

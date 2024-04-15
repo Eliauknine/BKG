@@ -1,0 +1,1 @@
+ protected void indicating(ExtendedDataInputStream in) throws IOException{  newObjects = readNewObjects(in); dirtyObjects = readDirtyObjects(in);  ITransaction<IStoreWriter> storeTransaction = new Transaction(storeWriter);  addPackages(storeTransaction, newPackages);  addRevisions(storeTransaction, newResources);  addRevisions(storeTransaction, newObjects); } 

@@ -1,0 +1,1 @@
+ The video covers the following features:{  * PHPDocblocks * Templates [http://www.youtube.com/watch?v=x8WnciHjXco&amp;feature=related](http://www.youtube.com/watch?v=x8WnciHjXco&amp;feature=related) ## Eclipse PDTCourtesy of [ralphz](http://theorangeit.org/) } 

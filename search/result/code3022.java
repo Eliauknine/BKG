@@ -1,0 +1,1 @@
+ public void updateElement(UIElement element, @SuppressWarnings("rawtypes") Map p{  IProject project = this.getProject();  if (project == null) {  RDTSyncUIPlugin.getDefault().logErrorMessage(Messages.SyncMenuOperation_0);  return; 		} } 

@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.ui.ide.Node.SessionsNode;import org.eclipse.emf.cdo.ui.internal.ide.actions.RemoveResourceActionDelegate; import org.eclipse.emf.cdo.ui.internal.ide.bundle.OM; import org.eclipse.emf.cdo.util.CDOUtil; import org.eclipse.emf.cdo.view.CDOView; import org.eclipse.emf.cdo.view.CDOViewInvalidationEvent; }

@@ -1,0 +1,1 @@
+ protected Collection<CDOTimeStampContext> confirming(CDODataInput in) throws IOE{  Collection<CDOID> detachedObjects = getMap(mapofContext, revised).getDetachedObjects(); detachedObjects.add(id);     }  for (CDOTimeStampContext timestampContext : mapofContext.values())     {  Set<CDOIDAndVersion> dirtyObjects = timestampContext.getDirtyObjects(); } 

@@ -1,0 +1,1 @@
+ import java.util.Map.Entry; import org.eclipse.dltk.ast.ASTNode; import org.eclipse.dltk.ast.expressions.Expression; import org.eclipse.dltk.ast.references.VariableReference; import org.eclipse.dltk.compiler.problem.IProblemIdentifier; }

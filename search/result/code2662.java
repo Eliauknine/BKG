@@ -1,0 +1,1 @@
+ public Interface createInterface(Definitions definitions, Import imp, IType type{  definitions.getRootElements().add(intf);  ModelUtil.setID(intf);  createOperations(definitions, imp, intf, type);  return intf;     } 

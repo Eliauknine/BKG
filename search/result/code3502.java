@@ -1,0 +1,1 @@
+ import java.util.*;import org.eclipse.php.core.PHPVersion; import org.eclipse.php.internal.core.ast.match.ASTMatcher; import org.eclipse.php.internal.core.ast.visitor.Visitor; /**  * Abstract superclass of all Abstract Syntax Tree (AST) node types. }

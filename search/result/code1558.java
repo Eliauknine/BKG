@@ -1,0 +1,1 @@
+ Require-Bundle: org.eclipse.ui,{ 	<parent>		<groupId>org.eclipse.papyrus.designer</groupId> 		<artifactId>org.eclipse.papyrus.designer.languages.common</artifactId> 		<version>0.7.0</version> 	</parent> 	<artifactId>org.eclipse.papyrus.designer.languages.common.texteditor.modelexplorer</artifactId> 	<packaging>eclipse-plugin</packaging> } 

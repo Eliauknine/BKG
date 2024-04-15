@@ -1,0 +1,1 @@
+  Document doc = builder.parse(file); Element root = doc.getDocumentElement();  // Update namespaces  root.setAttribute(ELEMENTTYPECONFIGURATION_NAMESPACE_ATTRIBUTE, ELEMENTTYPECONFIGURATION_NAMESPACE_NEW);  NodeList elementTypeConfigurations = root.getElementsByTagName(ELEMENTTYPECONFIGURATIONS); }

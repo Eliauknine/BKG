@@ -1,0 +1,1 @@
+  label="%LoadUnloadFacets" style="push">                <visibleWhen  checkEnabled="false">                   <with  variable="activePart">                      <adapt  type="org.eclipse.emf.facet.efacet.core.IFacetManagerProvider">                      </adapt>                   </with>                </visibleWhen>             </command> }

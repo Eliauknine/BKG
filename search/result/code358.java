@@ -1,0 +1,1 @@
+ 	} private void initClient() {  ScopedPreferenceStore store = new ScopedPreferenceStore(ConfigurationScope.INSTANCE, KERNEL_PREFERENCES_ID);  String port = store.getString(MQTT_SERVER_PORT);  client = new ExecutionEngineDebugTargetClient("tcp://localhost:" + port, "Debug Target", this);  client.run(); }

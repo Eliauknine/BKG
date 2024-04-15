@@ -1,0 +1,1 @@
+ public static void assertServiceProxyRegistered(IProject project, IType serviceI{  /**    * fails if the given service interface is not registered as service extension in the projects plugin.xml.    *     * @param project    * @param serviceInterface    */ } 

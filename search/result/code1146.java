@@ -1,0 +1,1 @@
+ */public class CreateLollipopPortCommand extends RecordingCommand {  protected List<Object> providedInterface = new ArrayList<Object>();  protected List<Object> requiredInterface = new ArrayList<Object>();  protected PortEditPart porteditPart = null; } 

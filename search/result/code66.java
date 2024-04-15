@@ -1,0 +1,1 @@
+ public void setModelPropertyValue(String path, Object newValue) throws ProviderE{ 		} else { String[] splitted = VABPathTools.splitPath(path);  path = removeSMElementPrefix(path);  String idshortPath = path.replace("/value", "");  if (endsWithValue(splitted)) {  submodelAPI.updateSubmodelElement(idshortPath, newValue); 			} else { } } 

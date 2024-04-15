@@ -1,0 +1,1 @@
+ define([{  this.maximumEditorTabsTextfield = new SettingsTextfield({ fieldlabel: messages["maximumEditorTabs"],  fieldTitle: messages["maximumEditorTabsTooltip"],  postChange: this.setPreferences.bind(this)  }); } 

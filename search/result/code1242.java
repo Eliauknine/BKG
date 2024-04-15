@@ -1,0 +1,1 @@
+  Math.max(SIZING_WIZARD_WIDTH_2, dialog.getShell().getSize().x), SIZING_WIZARD_HEIGHT_2);  dialog.getShell().setText("CreateFileAction_title");  WorkbenchHelp.setHelp(dialog.getShell(),  new Object[] { IIDEHelpContextIds.NEW_PROJECT_WIZARD });  DialogCheck.assertDialog(dialog, this);     }

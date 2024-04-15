@@ -1,0 +1,1 @@
+ protected static boolean isSpecialOpenCurlyInQuotes({  protected void adjustDocumentOffset(DocumentCommand command) {  command.offset++;  if (command.caretOffset != -1) {  command.caretOffset++; 		} 	} } 

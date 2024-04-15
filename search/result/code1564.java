@@ -1,0 +1,1 @@
+ Export-Package: org.eclipse.papyrus.designer.languages.common.base,{ 	<parent>		<groupId>org.eclipse.papyrus.designer</groupId> 		<artifactId>org.eclipse.papyrus.designer.languages.common</artifactId> 		<version>0.7.0</version> 	</parent> 	<artifactId>org.eclipse.papyrus.designer.languages.common.base</artifactId> 	<packaging>eclipse-plugin</packaging> } 

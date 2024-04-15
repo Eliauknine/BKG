@@ -1,0 +1,1 @@
+ 			schemaInfo.generatedString = schemaFile			result.add(schemaInfo)  val controllerFile = formsGenerator.generate(view)  val controllerInfo = new GenerationInfo(GenerationInfo.VIEW_TYPE, null, view, 				schemaIdentifier + "View.json", new SeedWrapper()) }

@@ -1,0 +1,1 @@
+ public void writePackages(CDOPackageImpl... cdoPackages){   { for (CDOPackageImpl cdoPackage : cdoPackages)     {  int id = store.getNextPackageID();  PackageServerInfo.setDBID(cdoPackage, id);  if (TRACER.isEnabled())       { } } } } 

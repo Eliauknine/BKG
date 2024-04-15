@@ -1,0 +1,1 @@
+  IPackageFragmentRoot[] packageFragmentRoots = jp.getPackageFragmentRoots();  if (packageFragmentRoots != null) {  for (IPackageFragmentRoot root : packageFragmentRoots) {  if (root != null && !root.isArchive() && !root.isReadOnly()) {  return jp;                   }                 } } }

@@ -1,0 +1,1 @@
+ public Collection<? extends EStructuralFeature> getChildrenFeatures ( Object obj{  if ( childrenFeatures == null )        {  super.getChildrenFeatures ( object );  childrenFeatures.add ( ComponentPackage.Literals.COMPONENT__PROPERTIES );  childrenFeatures.add ( ComponentPackage.Literals.MAPPED_SOURCE_VALUE__INPUT );         }  return childrenFeatures; } 

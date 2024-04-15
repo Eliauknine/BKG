@@ -1,0 +1,1 @@
+ import org.eclipse.ecf.internal.presence.ui.Activator;import org.eclipse.ecf.internal.presence.ui.ChatLine; import org.eclipse.ecf.internal.presence.ui.Messages; import org.eclipse.ecf.presence.IIMMessageEvent; import org.eclipse.ecf.presence.IIMMessageListener; import org.eclipse.ecf.presence.IPresence; }

@@ -1,0 +1,1 @@
+/**  * This type represents one <i>OPS publication</i>. This includes the <i>OPF package document</i> and <i>OPS content  * documents</i>. It maintains data structure representing the entire publication and API for building it.  * <p>  * Please note that this API is provisional and should not yet be used to build applications.  * </p> 

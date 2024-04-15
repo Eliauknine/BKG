@@ -1,0 +1,1 @@
+  } if (!task || (task.username && task.username !== req.user.username)) {  // task meta saved in fs doesn't have username, while task saved in RAM and mongo does.  return writeError(404, res, "Task does not exist: " + req.id);  }  taskStore.deleteTask(getTaskMeta(req), function(err) {  if (err) { } }

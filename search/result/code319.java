@@ -1,0 +1,1 @@
+  for (var i in allEclipseEvents) {  allEclipseEvents[i].dateTime = new Date(allEclipseEvents[i].date);  if (allEclipseEvents[i]['end-date'] != undefined) {   allEclipseEvents[i].endDateTime = new Date(allEclipseEvents[i]['end-date']);  }  }  allEclipseEvents.sort(compareEventsByRankAndDate); }

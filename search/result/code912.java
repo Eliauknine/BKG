@@ -1,0 +1,1 @@
+ 			res = compareInt(o1.getAttribute(IMarker.CHAR_START, -1), o2.getAttribute(IMarker.CHAR_START, -1));			if (res == 0) { 				res = compareInt(o1.getAttribute(IMarker.CHAR_END, -1), o2.getAttribute(IMarker.CHAR_END, -1)); 			} 		}

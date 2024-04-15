@@ -1,0 +1,1 @@
+ public void testWriteNative() throws Exception{  // ************************************************************* // CDOSession session = openModel1Session();  session.setReferenceChunkSize(10);  CDOTransaction transaction = session.openTransaction();  CDOResource resource = transaction.getResource("/test1"); } 

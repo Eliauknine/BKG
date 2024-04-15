@@ -1,0 +1,1 @@
+ Font boldFont = JFaceResources.getFontRegistry().getBold(JFaceResources.DIALOG_FONT); Color red;  public ToolSelectionDialog(Shell shell ) { super (shell); }  /* (non-Javadoc) 	 * @see org.eclipse.jface.window.Window#configureShell(org.eclipse.swt.widgets.Shell) 

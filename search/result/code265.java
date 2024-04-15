@@ -1,0 +1,1 @@
+ public void createControls(final Composite parent, final TabbedPropertySheetPage tabbedPropertySheetPage) { super.createControls(parent, tabbedPropertySheetPage);  createInternalVarsControls(parent); 	}  public void createInternalVarsControls(final Composite parent) { } 

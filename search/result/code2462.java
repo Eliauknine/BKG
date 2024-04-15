@@ -1,0 +1,1 @@
+ 		<view id="org.eclipse.recommenders.snipmatch.rcp.views.snippets"			category="org.eclipse.recommenders.rcp.views.root" 			class="org.eclipse.recommenders.injection.ExtensionFactory:org.eclipse.recommenders.internal.snipmatch.rcp.SnippetsView" 			icon="icons/eview16/sample.gif" 			restorable="true" 			allowMultiple="false" 			name="%views.snippets.name"/> }

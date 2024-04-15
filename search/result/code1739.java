@@ -1,0 +1,1 @@
+ 	 * (non-Javadoc) Method declared on Dialog.	 */ 	protected void okPressed() { 		IPath path = resourceGroup.getContainerFullPath().append( 				resourceGroup.getResource()); 		// If the user does not supply file extension and if the save 		// as dialog was provided default file name append the extension } }

@@ -1,0 +1,1 @@
+ protected void drawGroup(GC gc, GalleryItem group, int x, int y, int clipX,{  int textY = baseY + 2;  for (int i = 1; i < 3; i++) {  if (group.getText(i) != null) {  textY -= fontHeight / 2 + 1; 				} 			} } 

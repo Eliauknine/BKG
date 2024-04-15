@@ -1,0 +1,1 @@
+ public void generateFile(String fileName, String outputName, CharSequence conten{  // no need to convert the string twice  newContent.reset();  file.setContents(newContent, true, true, monitor);  if (!file.isDerived() && outputConfig.isSetDerivedProperty()) {  file.setDerived(true); 						} 					} 				} 

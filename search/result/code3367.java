@@ -1,0 +1,1 @@
+ Manifest-Version: 1.0{ Bundle-Name: Tests Plug-inBundle-SymbolicName: org.eclipse.birt.data.tests;singleton:=true Bundle-ClassPath: dataenginetests.jar Bundle-Version: 2.5.2.qualifier Bundle-Activator: org.eclipse.birt.data.tests.plugin.Activator Bundle-Localization: plugin Require-Bundle: org.eclipse.birt.data, } 

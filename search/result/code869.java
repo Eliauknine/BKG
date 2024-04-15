@@ -1,0 +1,1 @@
+ return toNodes(nodeIds);	}  public static void validateURI(URI uri) {  if ("".equals(uri.toString())  				|| ((uri.getHost() == null || "".equals(uri.getHost()))  						&& (uri.getScheme() != null && uri.getScheme().toLowerCase().startsWith("http")))  

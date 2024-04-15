@@ -1,0 +1,1 @@
+  ref -> new ChangeMemberVariableOrderCommand(getType().getMemberVariables(), (VarDeclaration) ref, true), ref -> new ChangeMemberVariableOrderCommand(getType().getMemberVariables(), (VarDeclaration) ref,  false)); 	}  private void showLabel(Composite parent) { }

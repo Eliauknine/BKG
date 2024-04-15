@@ -1,0 +1,1 @@
+ return new CASTCompoundStatement();	}  public IASTConditionalExpression newConditionalExpession(IASTExpression expr1, IASTExpression expr2, IASTExpression expr3) {  return new CASTConditionalExpression(expr1, expr2, expr3); 	}  public IASTContinueStatement newContinueStatement() { 

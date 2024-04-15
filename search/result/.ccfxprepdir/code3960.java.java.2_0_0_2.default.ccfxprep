@@ -1,0 +1,15 @@
+1.2.1	+6	r_public
+1.9.8	+7	r_boolean
+1.11.10	+6	id|equals
+1.17.16	+0	c_func
+1.17.16	+1	(paren
+1.19.18	+6	id|Object
+1.20.1f	+4	id|arg0
+1.25.24	+1	)paren
+1.26.25	+1	(brace
+1.2a.29	+1	)brace
+1.2c.2b	+6	r_return
+1.33.32	+5	r_false
+1.38.37	+1	suffix:semicolon
+1.3b.3a	+1	)brace
+2.1.3e	+0	eof

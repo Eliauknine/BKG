@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.util.CDOURIUtil; import org.eclipse.emf.cdo.util.LegacyModeNotEnabledException; import org.eclipse.emf.cdo.util.ObjectNotFoundException; import org.eclipse.emf.cdo.view.CDOViewResourcesEvent; import org.eclipse.emf.internal.cdo.CDOObjectMerger; import org.eclipse.emf.internal.cdo.CDOObjectWrapper; }

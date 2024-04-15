@@ -1,0 +1,1 @@
+ protected final Control renderControl(SWTGridCell gridCell, Composite parent){  throw new IllegalArgumentException( String 					.format(  "The provided SWTGridCell (%1$s) cannot be used by this (%2$s) renderer.", gridCell.toString(), toString()));  		} 

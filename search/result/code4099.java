@@ -1,0 +1,1 @@
+ public Collection<CDOPackageInfo> readPackageInfos()   {  final Collection<CDOPackageInfo> result = new ArrayList(0);  IDBRowHandler rowHandler = new IDBRowHandler()     {  public boolean handle(int row, final Object... values) } } 

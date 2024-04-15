@@ -1,0 +1,1 @@
+ public Set<CDOObject> handleInvalidation(long timeStamp, Set<CDOIDAndVersion> di{           { CDOStateMachine.INSTANCE.invalidate(dirtyObject, dirtyOID.getVersion());  dirtyObjects.add(dirtyObject);  if (FSMUtil.isConflict(dirtyObject))             {  if (conflicts == null)               { } } } } 

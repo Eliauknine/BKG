@@ -1,0 +1,1 @@
+ public void testMergeLocalChangesPerFeature_BasicException() throws Exception{  // Resolver should be triggered. Should we always used timer ?  Thread.sleep(1000);  assertTrue(FSMUtil.isConflict(CDOUtil.getCDOObject(address2)));  assertTrue(transaction2.hasConflict());  assertEquals("OTTAWA", address2.getCity()); } 

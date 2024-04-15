@@ -1,0 +1,1 @@
+ public void testCommitting() throws Exception{  CDOAccumulateTransactionHandler handler = new CDOAccumulateTransactionHandler(); CDOSession session = openModel1Session();  CDOTransactionImpl transaction = (CDOTransactionImpl)session.openTransaction();  transaction.addHandler(handler);  transaction.getOrCreateResource("/test1"); } 

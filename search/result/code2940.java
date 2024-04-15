@@ -1,0 +1,1 @@
+  getOptimisticLockingPolicy().initializeProperties();                }

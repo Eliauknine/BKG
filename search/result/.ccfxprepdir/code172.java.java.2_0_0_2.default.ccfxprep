@@ -1,0 +1,17 @@
+1.2.1	+7	id|jenkins
+1.9.8	+1	s_:
+1.a.9	+1	(brace
+1.12.11	+1	s_-
+1.14.13	+29	l_string|"Agent/Configure:joe_dekoning@ca.ibm.com"
+1.43.42	+1	s_-
+1.45.44	+27	l_string|"Agent/Connect:joe_dekoning@ca.ibm.com"
+1.73.72	+1	s_-
+1.75.74	+2a	l_string|"Agent/Disconnect:joe_dekoning@ca.ibm.com"
+1.a6.a5	+1	s_-
+1.a8.a7	+27	l_string|"Job/Configure:joe_dekoning@ca.ibm.com"
+1.d6.d5	+1	s_-
+1.d8.d7	+2a	l_string|"Agent/Configure:peter_shipton@ca.ibm.com"
+1.109.108	+1	s_-
+1.10b.10a	+27	l_string|"Agent/Configure:rajdeep.singh@ibm.com"
+1.133.132	+1	)brace
+2.1.136	+0	eof

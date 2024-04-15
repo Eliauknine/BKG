@@ -1,0 +1,1 @@
+ import org.eclipse.emf.emfstore.internal.client.ui.common.OperationCustomLabelProvider;import org.eclipse.emf.emfstore.internal.server.model.versioning.operations.AbstractOperation; import org.eclipse.emf.emfstore.internal.server.model.versioning.operations.CompositeOperation; import org.eclipse.swt.graphics.Image; /**  * Default label provider for operations. }

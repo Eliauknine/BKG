@@ -1,0 +1,1 @@
+ licenseURL=license.html{ # should be plain text version of license agreement pointed to be "licenseURL"license=\ Eclipse Foundation Software User Agreement\n\ February 1, 2011\n\ \n\ Usage Of Content\n\ \n\ } 

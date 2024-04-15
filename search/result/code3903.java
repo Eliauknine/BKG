@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.server.ISession;import org.eclipse.emf.cdo.server.IStore; import org.eclipse.emf.cdo.server.IView; import org.eclipse.emf.cdo.server.internal.hibernate.HibernatePackageHandler; import org.hibernate.SessionFactory; import org.hibernate.cfg.Configuration; }

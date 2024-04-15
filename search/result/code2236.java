@@ -1,0 +1,1 @@
+ // FIXME seems to be obsolete  /** 	 *  	 * This method returns an <code>org.eclipse.swt.graphics.Image</code> identified by its pluginId and iconPath.<BR> 	 */  public static Image getPluginIconImage(String pluginId, String iconPath) {  String key = pluginId + iconPath;  ImageRegistry registry = getDefault().getImageRegistry();  Image image = registry.get(key); } 

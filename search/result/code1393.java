@@ -1,0 +1,1 @@
+  return clone.getRepo(req) .then(function(r) {  repo = r;  fileDir = api.join(fileRoot, repo.workdir().substring(req.user.workspaceDir.length + 1));  return git.Remote.list(r);  })  .then(function(remotes){ } }

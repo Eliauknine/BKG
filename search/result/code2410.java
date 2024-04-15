@@ -1,0 +1,1 @@
+ 				codeFormatterPreferences.brace_position_for_class);		methodDeclaration = createBracesCombo(group, numColumns, 				FormatterMessages.BracesTabPage_option_method_declaration); 		setComboValue(methodDeclaration, 				codeFormatterPreferences.brace_position_for_function); 		blocks = createBracesCombo(group, numColumns, }

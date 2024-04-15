@@ -1,0 +1,1 @@
+ public void testReadAfterUpdateAfterCommit() throws Exception{  // ************************************************************* // CDOSession session = openModel1Session();  session.setReferenceChunkSize(10);  msg("Creating resource");  CDOTransaction transaction = session.openTransaction(); } 

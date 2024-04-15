@@ -1,0 +1,25 @@
+1.2.1	+9	r_protected
+1.c.b	+4	r_void
+1.11.10	+9	id|visitType
+1.1a.19	+0	c_func
+1.1a.19	+1	(paren
+1.1b.1a	+f	id|TypeDeclaration
+1.2b.2a	+4	id|type
+1.2f.2e	+1	s_,
+1.31.30	+e	id|IBeanDeclModel
+1.40.3f	+5	id|model
+1.45.44	+1	s_,
+1.48.47	+a	id|JavaElemen
+1.52.51	+1	(brace
+1.55.54	+a	id|TimerTests
+1.5f.5e	+1	s_.
+1.60.5f	+9	id|basicTest
+1.69.68	+1	s_.
+1.6a.69	+8	id|stopStep
+1.72.71	+0	c_func
+1.72.71	+1	(paren
+1.73.72	+22	l_string|"Creating Instance Var. BeanParts"
+1.95.94	+1	)paren
+1.96.95	+1	suffix:semicolon
+1.98.97	+1	)brace
+2.1.9b	+0	eof

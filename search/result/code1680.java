@@ -1,0 +1,1 @@
+ ISelectionChangedListener { @Override  public void selectionChanged(SelectionChangedEvent event) {  EObject selectedObject = emfSelectionHelper 					.getFirstSelectedEObject(event.getSelection());  eObjectSelectionChanged(selectedObject); } } 

@@ -1,0 +1,1 @@
+ 				List<IGoal> subGoals = new LinkedList<>();				List<VarComment> varComments = phpModule.getVarComments(); 				List<VarComment> newList = new ArrayList<>(phpModule.getVarComments().size()); 				newList.addAll(varComments); 				Collections.sort(newList, new Comparator<VarComment>() { 					@Override } }

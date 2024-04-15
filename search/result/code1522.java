@@ -1,0 +1,1 @@
+ 	} protected def dispatch with(JsonObject jsonObject, String propertyName, Collection<? extends EObject> collection) {  val jsonElements = collection.map [ item | 			createJsonElement(item) 		]  val jsonArray = new JsonArray() }

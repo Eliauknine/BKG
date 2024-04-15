@@ -1,0 +1,1 @@
+ 	 * and precise PHPDoc type references handling.	 */ 	@SuppressWarnings("null") 	private void visitPHPDocType(TypeReference typeReference, ProblemSeverity severity) throws Exception { 		if (PHPDOC_TYPE_SKIP.contains(typeReference.getName().toLowerCase())) { 			return; 		} } }

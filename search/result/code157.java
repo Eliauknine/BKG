@@ -1,0 +1,1 @@
+  *******************************************************************************/package org.eclipse.fordiac.ide.gef.widgets; import org.eclipse.fordiac.ide.gef.provider.VersionContentProvider; import org.eclipse.fordiac.ide.gef.provider.VersionLabelProvider; import org.eclipse.fordiac.ide.model.commands.change.ChangeApplicationDomainCommand; }

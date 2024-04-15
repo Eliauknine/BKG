@@ -1,0 +1,1 @@
+ private final ScriptContentAssistInvocationContext context;  public ScriptTemplateCompletionProcessor(  ScriptContentAssistInvocationContext context) {  Assert.isNotNull(context);  this.context = context; 	} 

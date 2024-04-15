@@ -1,0 +1,1 @@
+public class JavaBeanModelBuilder {  public static final String ASTNODE_SOURCE_PROPERTY = "org.eclipse.ve.codegen.source";   String fFileName = null ;     //  Java Source   char[]    fFileContent = null ;  char[][]  fPackageName = null ;  CompilationUnit fastCU = null;  } 

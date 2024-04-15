@@ -1,0 +1,1 @@
+ checkDoubleClickDialog(libraryNode, TEST_SAVEABLE_TREE_FORM_VIEW);	}  @Test  public void treeViewWithMultipleRootsIsRefreshedWhenNewElementIsAdded() throws Exception {  SWTBotTree tree = prepareSaveableTreeViewForMultipleRootElements(); 

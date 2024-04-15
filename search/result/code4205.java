@@ -1,0 +1,1 @@
+ protected void drawImage( IImageArea image ){  if (null == imageContent.getURI()) return;  if(imageContent.getURI().endsWith(".svg")) {  isSvg = true;  ti = new TranscoderInput(new FileInputStream(imageContent.getURI( ))); 					} else {  img = Image.getInstance(imageContent.getURI()); 					}  break;  case IImageContent.IMAGE_URL:  if (null == imageContent.getURI()) } 

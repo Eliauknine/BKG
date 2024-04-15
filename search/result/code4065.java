@@ -1,0 +1,1 @@
+    }  }  public DBStore getStore()   {  return store;   }  public boolean isReader()   {  return reader;   }  public ISession getSession()   {  if (context instanceof IView)     {  return ((IView)context).getSession();     }  return (ISession)context;   }  public IView getView()   {  if (context instanceof IView)     {  return (IView)context;     

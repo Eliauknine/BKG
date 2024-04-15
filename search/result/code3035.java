@@ -1,0 +1,1 @@
+ @Override  public List<LookupRow> createHistogram() {  TreeMap<String, LookupRow> hist = new TreeMap<String, LookupRow>();  HashMap<String, Integer> countMap = new HashMap<String, Integer>();  for (ITableRow row : m_column.getTable().getRows()) {  String s = m_column.getDisplayText(row); } } 

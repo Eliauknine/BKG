@@ -1,0 +1,1 @@
+public interface CDOList extends MoveableList<Object> {  /**    * Returns the element at position index of this list and optinally resolves {@link CDOReferenceProxy proxies}.    * <p>    *     * @param index } 

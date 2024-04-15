@@ -1,0 +1,1 @@
+  if (parserElement == null) { return null; 		}  List<View> views = DiagramEditPartsUtil.findViews(parserElement, getViewer());  for (View view : views) {  if (AppearanceHelper.showElementIcon(view)) {  return org.eclipse.papyrus.uml.diagram.common.Activator.getDefault().getImage(parserElement.eClass()); 			} 		}  return null; 	}

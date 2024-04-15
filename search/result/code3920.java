@@ -1,0 +1,1 @@
+  * <copyright> * </copyright>  *  * $Id: MangoPackage.java,v 1.4 2008-06-03 06:41:27 estepper Exp $  */ package org.eclipse.emf.cdo.tests.mango; import org.eclipse.emf.ecore.EAttribute; import org.eclipse.emf.ecore.EClass; import org.eclipse.emf.ecore.EPackage; import org.eclipse.emf.ecore.EReference; }

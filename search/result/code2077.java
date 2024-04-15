@@ -1,0 +1,1 @@
+  numControls++; unsetButton = new Button(controlComposite, SWT.PUSH);  unsetButton.setToolTipText(getUnsetButtonTooltip());  unsetButton.setImage(Activator.getImage("icons/delete.png"));  			}  unsetButton.addSelectionListener(new SelectionAdapter() {  @Override }

@@ -1,0 +1,1 @@
+ public void removeMarkers(EObject eObject, int depth, String markerType) throws{  /** 	 * Modify the URI of markers connected with the given {@link IResource} and its children 	 *  	 * @param resource 	 *            the target {@link IResource} 	 * @param oldUri } 

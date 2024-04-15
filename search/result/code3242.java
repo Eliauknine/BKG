@@ -1,0 +1,1 @@
+ import java.util.Iterator; import org.eclipse.core.runtime.CoreException; import org.eclipse.dltk.core.*; import org.eclipse.dltk.internal.core.AbstractSourceModule; import org.eclipse.dltk.internal.core.util.MethodOverrideTester; }

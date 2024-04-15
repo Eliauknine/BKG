@@ -1,0 +1,1 @@
+ protected void responding(CDODataOutput out, IMonitor monitor) throws Exception{     {      ((XATransactionCommitContext)commitContext).getState().acquire(XATransactionCommitContext.PHASEAPPLYMAPPING);     }  catch (InterruptedException ex)     {  exceptionMessage = ex.getMessage();     } } 

@@ -1,0 +1,1 @@
+ public EnumStringSingleSelectionDialog(String title, String message, Collection<{  @Override protected Control createDialogArea(Composite container) {  Control c = super.createDialogArea(container);  getTableViewer().setSorter(new StringViewerSorter());  return c;    } } 

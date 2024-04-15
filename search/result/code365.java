@@ -1,0 +1,1 @@
+	} public void deleteRenderable(IObject_ instance) {  // Removes the relation existing between this instance and any diagram. This relationship  // is formalized through the data model.  if (instance != null && this.animatedDiagrams != null) {  Iterator<IAnimationTreeNode> nodesIterator = this.animatedDiagrams.getRoot().getChildren().iterator(); } 

@@ -1,0 +1,1 @@
+ 				} Object notifier = notification.getNotifier();  if (notifier instanceof EObject) {  if (EcoreUtil.getRootContainer(((EObject) notifier).eClass()) == NattablePackage.eINSTANCE) {  // we must verify than the notification concern the current managed table  try { } } }

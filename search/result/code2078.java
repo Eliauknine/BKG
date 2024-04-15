@@ -1,0 +1,1 @@
+ public abstract class SWTControl extends ECPAbstractControl implements ECPContro{ 	 */ protected static final String VALIDATION_ERROR_ICON = "icons/validation_error.png";  /** 	 * The label for the validation icon. 	 */ } 

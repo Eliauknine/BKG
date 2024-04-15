@@ -1,0 +1,1 @@
+ private void disassemble(InnerClassesAttribute innerClassesAttribute, StringBuff{  int length = innerClassesAttributeEntries.length;  int innerClassNameIndex, outerClassNameIndex, innerNameIndex, accessFlags;  InnerClassesAttributeEntry innerClassesAttributeEntry;  for (int i = 0; i < length; i++) {  if (i != 0) {  buffer.append(Messages.disassembler_comma); } } } 

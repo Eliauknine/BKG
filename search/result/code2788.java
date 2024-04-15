@@ -1,0 +1,1 @@
+ protected void collectNewChildDescriptors(Collection<Object> newChildDescriptors{ 	 * Return the resource locator for this item provider's resources.	 * <!-- begin-user-doc --> 	 * <!-- end-user-doc --> 	 *  	 * @generated 	 */  @Override } 

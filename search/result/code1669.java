@@ -1,0 +1,1 @@
+  assertDirtyThenSaveAndAssertNotDirty(viewName);	}  protected SWTBotTreeItem prepareSaveableTreeFormViewAndGetLibraryNode()  throws CoreException, InvocationTargetException, InterruptedException, IOException {  createProjectAndTestFiles(); }

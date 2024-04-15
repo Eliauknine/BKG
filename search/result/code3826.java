@@ -1,0 +1,1 @@
+ private void testDetachedConflict(CDOTransaction trans1, CDOTransaction trans2){  final CDOResource res1 = trans1.getOrCreateResource("/test"); trans1.commit();  final CDOResource res2 = trans2.getOrCreateResource("/test");  res1.delete(null);  final Customer customerB2 = getModel1Factory().createCustomer();  res2.getContents().add(customerB2);  trans1.commit(); } 

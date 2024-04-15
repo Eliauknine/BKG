@@ -1,0 +1,1 @@
+ import org.eclipse.jface.preference.IPreferenceStore; import org.eclipse.jface.window.Window; import org.eclipse.osgi.util.NLS; import org.eclipse.swt.SWT; import org.eclipse.swt.events.DisposeEvent; import org.eclipse.swt.events.DisposeListener; }

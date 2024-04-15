@@ -1,0 +1,1 @@
+ private Repository repository;  private Map<CDOID, String> idToPathMap = new HashMap();  private Map<String, CDOID> pathToIDMap = new HashMap();  public ResourceManager(Repository repository)   { } 

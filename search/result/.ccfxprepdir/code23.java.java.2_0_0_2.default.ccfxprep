@@ -1,0 +1,15 @@
+1.31.30	+6	r_public
+1.38.37	+6	r_static
+1.3f.3e	+5	r_final
+1.45.44	+6	id|String
+1.4c.4b	+25	id|IS_DUPLICATE_EDITOR_ALLOWED_PARAMETER
+1.72.71	+1	s_=
+1.74.73	+1a	l_string|"isDuplicateEditorAllowed"
+1.8e.8d	+1	suffix:semicolon
+1.176.175	+9	r_protected
+1.180.17f	+7	r_boolean
+1.188.187	+19	id|isDuplicateDiagramAllowed
+1.1a2.1a1	+1	s_=
+1.1a4.1a3	+5	r_false
+1.1a9.1a8	+1	suffix:semicolon
+3.1.1b1	+0	eof

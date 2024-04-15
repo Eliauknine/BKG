@@ -1,0 +1,14 @@
+1.4.3	+1	s_*
+1.5.4	+1	s_/
+1.8.7	+7	r_private
+1.10.f	+11	id|IObjectTypeMapper
+1.22.21	+10	id|objectTypeMapper
+1.32.31	+1	suffix:semicolon
+1.35.34	+6	r_public
+1.3c.3b	+21	id|AbstractHorizontalMappingStrategy
+1.5d.5c	+0	c_func
+1.5d.5c	+1	(paren
+1.5e.5d	+1	)paren
+1.62.61	+1	(brace
+1.66.65	+1	)brace
+2.1.69	+0	eof

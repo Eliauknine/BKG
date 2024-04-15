@@ -1,0 +1,1 @@
+  /**    * Gets the scout bundle with the given symbolic name or null if no such bundle could be found.<br>    * If the bundle graph is currently building, this method blocks until the build has been completed.    *     * @param symbolicName    *          the symbolic name of the scout bundle to search. }

@@ -1,0 +1,1 @@
+ 					newSize);			newRawBuildpath.addAll(Arrays.asList(rawBuildpath)); 			newRawBuildpath.add(containerEntry); 			project.setRawBuildpath(newRawBuildpath 					.toArray(new IBuildpathEntry[newSize]), null); 		}

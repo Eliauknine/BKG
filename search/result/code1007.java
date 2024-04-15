@@ -1,0 +1,1 @@
+  shell.open(); final GC gc = new GC(shell);  final Image image = new Image(control.getDisplay(), bsize.x, bsize.y);  gc.copyArea(image, 0, 0);  gc.dispose();  shell.close();  final ImageData imageData = image.getImageData();  imageData.transparentPixel = imageData.palette.getPixel(greenScreen 			.getRGB()); }

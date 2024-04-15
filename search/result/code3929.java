@@ -1,0 +1,1 @@
+ public Object process(IManagedContainer container, String productGroup, String f{  if (element instanceof CDOSessionImpl)    {  CDOSessionImpl session = (CDOSessionImpl)element;  session.setDisableLegacyObjects(disableLegacyObjects);     }  return element; } 

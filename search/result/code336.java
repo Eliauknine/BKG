@@ -1,0 +1,1 @@
+ private function writeTest(Test $test, $event, $isTestCase = false){             die();        }     }    private function writeJson($buffer)     {  if ($this->out && ! @feof($this->out)) {  return @fwrite($this->out, "$buffer\n");         }     } 

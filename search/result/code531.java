@@ -1,0 +1,1 @@
+	public static void getInterfaceExtendsClassProposals(IInvocationContext context, IProblemLocation problem,			Collection<IScriptCompletionProposal> proposals) { 		ASTNode selectedNode = problem.getCoveringNode(context.getASTRoot()); 		if (selectedNode == null) { 			return; 		} } 

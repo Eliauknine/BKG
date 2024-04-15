@@ -1,0 +1,1 @@
+	 * The actual implementation of the Eclipse <b>Plugin</b>.	 * <!-- begin-user-doc --> 	 * <!-- end-user-doc --> 	 * @generated 	 */  public static class Implementation extends EclipsePlugin {  /** 		 * Creates an instance. 		 * <!-- begin-user-doc --> 		 * <!-- end-user-doc --> 		 * @generated 		 */  public Implementation() { } } 

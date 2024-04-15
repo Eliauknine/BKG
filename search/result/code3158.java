@@ -1,0 +1,1 @@
+ void update_nodes(char *hostlist_path){                 current_hostlist = realloc(current_hostlist, current_hostlist_size * sizeof(char *)); malloc_check(current_hostlist, __FUNCTION__, __LINE__);             }             current_hostlist[current_hostlist_size++] = strdup(cp);  if (find_node(hostname) == NULL) {                 node_refcount *node; } 

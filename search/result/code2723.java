@@ -1,0 +1,1 @@
+  private boolean containsInterestingProjects(PluginModelDelta delta) throws CoreException { return delta.getChangedEntries().length > 0 || delta.getAddedEntries().length > 0 || delta.getRemovedEntries().length > 0;     }   }

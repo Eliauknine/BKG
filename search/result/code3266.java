@@ -1,0 +1,1 @@
+  trimBar.getChildren().add(idx, toolBar);			}  workbenchTrimElements.add(toolBar); 		} else if (item instanceof IContributionManager) {  new Exception("Have to deal with " + item).printStackTrace();  		}

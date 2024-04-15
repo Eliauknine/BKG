@@ -1,0 +1,1 @@
+ public void modifyMarkersURI(IResource resource, String oldUri, String newUri) t{  /** 	 * Update the uri attribute of the problem marker with the URI of the file 	 *  	 * @param resource 	 *            an IResource 	 * @throws CoreException } 

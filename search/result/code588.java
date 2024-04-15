@@ -1,0 +1,1 @@
+ import org.eclipse.ui.forms.IManagedForm;import org.eclipse.ui.forms.editor.IFormPage; import org.eclipse.ui.forms.editor.SharedHeaderFormEditor; import org.eclipse.ui.part.IPageSite; import org.eclipse.ui.views.properties.IPropertySheetPage; import org.eclipse.ui.views.properties.tabbed.ITabbedPropertySheetPageContributor; }

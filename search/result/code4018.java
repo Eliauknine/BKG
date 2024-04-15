@@ -1,0 +1,1 @@
+ Bundle-ClassPath: .,{  lib/hsqldb.jarFragment-Host: org.eclipse.net4j.db;bundle-version="[0.8.0,0.9.0)" Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.3.0,4.0.0)" Export-Package: org.eclipse.net4j.db.internal.hsqldb;version="0.8.0",  org.hsqldb.jdbc;x-friends:="org.eclipse.net4j.tests,org.eclipse.emf.cdo.tests,org.eclipse.net4j.jms.tests" } 

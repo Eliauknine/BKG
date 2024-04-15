@@ -1,0 +1,1 @@
+ protected org.eclipse.e4.xwt.animation.Timeline xwtTimeline; protected Object target;  private boolean isPlayed = false;  private boolean wait = false;  public TridentTimeline(org.eclipse.e4.xwt.animation.Timeline xwtTimeline, Object target) {  this.xwtTimeline = xwtTimeline; } 

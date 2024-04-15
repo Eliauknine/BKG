@@ -1,0 +1,15 @@
+1.2.1	+1	s_*
+1.4.3	+1	s_*
+1.5.4	+1	s_/
+1.7.6	+1	s_@
+1.8.7	+10	id|SuppressWarnings
+1.18.17	+0	c_func
+1.18.17	+1	(paren
+1.19.18	+d	l_string|"deprecation"
+1.26.25	+1	)paren
+1.28.27	+6	r_public
+1.2f.2e	+8	r_abstract
+1.38.37	+5	r_class
+1.3e.3d	+1b	id|ECPAbstractCustomControlSWT
+1.5a.59	+1	(brace
+3.1.9a	+0	eof

@@ -1,0 +1,1 @@
+ 			<viewShortcut id="org.eclipse.ui.views.ContentOutline" /> 			<viewShortcut id="org.eclipse.ui.views.ProblemView" /> 			<viewShortcut id="org.eclipse.ui.views.TaskList" />  <!-- Add other Web document wizards shortcuts to the New menu:--> 			<newWizardShortcut id="org.eclipse.php.ui.wizards.PHPProjectCreationWizard" /> }

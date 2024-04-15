@@ -1,0 +1,1 @@
+import org.eclipse.scout.sdk.ui.view.outline.pages.IPage; import org.eclipse.scout.sdk.util.type.TypeUtility; import org.eclipse.scout.sdk.workspace.type.ScoutTypeUtility; import org.eclipse.swt.widgets.Shell; public class TableColumnWidthsPasteAction extends AbstractScoutHandler { } 

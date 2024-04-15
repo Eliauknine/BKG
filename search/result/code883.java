@@ -1,0 +1,1 @@
+ @Override  public boolean visit(TypeReference node) throws Exception {  return visit(node, ProblemSeverities.Error); 	}  private boolean visit(TypeReference node, ProblemSeverity severity) throws Exception {  if (PHPSimpleTypes.isSimpleType(node.getName()) || TYPE_SKIP.contains(node.getName())) {  return true; 		}  TypeReferenceInfo tri = new TypeReferenceInfo(node, false); } 

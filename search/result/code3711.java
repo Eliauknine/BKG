@@ -1,0 +1,1 @@
+ public void testOpenSession() throws Exception  {  msg("Opening session");  CDOSessionImpl session = (CDOSessionImpl)openModel1Session();  assertNotNull(session);  assertEquals(true, session.isOpen());   } 

@@ -1,0 +1,1 @@
+ public BasicRepositoryConnector( RepositorySystemSession session, RemoteReposito{  this.logger = logger; maxThreads = ConfigUtils.getInteger( session, 5, PROP_THREADS, "maven.artifact.threads" );  boolean resumeDownloads =  ConfigUtils.getBoolean( session, true, PROP_RESUME + '.' + repository.getId(), PROP_RESUME ); } 

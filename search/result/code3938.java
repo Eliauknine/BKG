@@ -1,0 +1,1 @@
+ public CDOSession openSession(){  session = new CDOSessionImpl(); session.setConnector(connector);  session.setRepositoryName(repositoryName);  session.setDisableLegacyObjects(!legacySupportEnabled);  session.setFailOverStrategy(failOverStrategy);  session.setPackageRegistry(packageRegistry); } 

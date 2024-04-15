@@ -1,0 +1,1 @@
+ else if (value == InternalCDORevision.NIL){  protected Object basicGet(EStructuralFeature feature)   {  int featureIndex = classAdapter.getFeatureIndex(feature);  return getValue(featureIndex);   }  protected Object basicSet(EStructuralFeature feature, Object value)   {  int featureIndex = classAdapter.getFeatureIndex(feature);  try     { } } } 

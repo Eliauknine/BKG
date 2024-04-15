@@ -1,0 +1,1 @@
+ protected final Control createLabel(final Composite parent){ 						.getDefault()						.getEMFFormsLabelProvider() 						.getDisplayName(getCustomControl().getDomainModelReference(),  getViewModelContext().getDomainModel()), null, new UpdateValueStrategy() {  /** 						 * {@inheritDoc} } } 

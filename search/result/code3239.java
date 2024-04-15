@@ -1,0 +1,1 @@
+ private String handleElement(ITextEditor textEditor,{  return docBlockText;	}  private String indentPattern(String originalPattern, String indentation,  String lineDelim) {  String delimPlusIndent = lineDelim + indentation; } 

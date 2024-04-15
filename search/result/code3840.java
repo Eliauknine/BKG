@@ -1,0 +1,1 @@
+ public void testTransientResource() throws Exception{  assertTransient(resource); assertTransient(supplier);  assertContent(resource, supplier);    assertEquals(true, resourceSet.getResources().contains(resource));  resource.delete(null);  assertEquals(false, resourceSet.getResources().contains(resource)); } 

@@ -1,0 +1,1 @@
+ * An {@link ECPStringModifier} which wraps texts automatically after 80 chars. *  * @author Eugen Neufeld  *  */ public class ECPStringLineWrapper implements ECPStringModifier {  /** 	 * {@inheritDoc} 	 * } 

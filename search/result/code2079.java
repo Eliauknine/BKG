@@ -1,0 +1,1 @@
+ 		 */ private void createDeleteButton(Composite composite) {  final Button delB = new Button(composite, SWT.PUSH);  delB.setImage(Activator.getImage("icons/delete.png"));   delB.setEnabled(!getControl().isReadonly());  delB.addSelectionListener(new SelectionAdapter() {  private static final long serialVersionUID = 1L; } } }

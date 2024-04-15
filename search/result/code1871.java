@@ -1,0 +1,1 @@
+  for (final ESExtensionElement element : new ESExtensionPoint(  "org.eclipse.emf.emfstore.client.inverseCrossReferenceCache")  			.getExtensionElements()) {  useCrossReferenceAdapter &= element.getBoolean("activated");  		} }

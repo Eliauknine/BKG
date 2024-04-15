@@ -1,0 +1,1 @@
+ private CDOList getValueAsList(int i){  private void readValues(CDODataInput in) throws IOException   {  EStructuralFeature[] features = classAdapter.getAllPersistentFeatures();  initValues(features);  for (int i = 0; i < features.length; i++)     { } } } 

@@ -1,0 +1,1 @@
+ function getCommitBody(req, res) {  var scope = req.params.scope;  var filePath = path.join(req.user.workspaceDir, req.params["0"]);  var theRepo;  clone.getRepo(req)  .then(function(repo) {  theRepo = repo;  filePath = api.toURLPath(filePath.substring(repo.workdir().length));  return repo.getReferenceCommit(scope);  })  .catch(function() { } } }

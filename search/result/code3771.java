@@ -1,0 +1,1 @@
+ protected InternalCommitContext commitContext;  public CommitTransactionIndication()   {   }  @Override  protected short getSignalID()   {  return CDOProtocolConstants.SIGNAL_COMMIT_TRANSACTION;   }  @Override 

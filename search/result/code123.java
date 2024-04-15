@@ -1,0 +1,1 @@
+ public static byte[] encrypt(byte[] data, char[] password, String algorithmName,{  Cipher pbeCipher = Cipher.getInstance(algorithmName); // Initialize PBE Cipher with key and parameters  pbeCipher.init(Cipher.ENCRYPT_MODE, pbeKey, pbeParamSpec);  return pbeCipher.doFinal(data);   } 

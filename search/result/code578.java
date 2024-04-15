@@ -1,0 +1,1 @@
+  try {  EMFTVMUtil.remove(env, eo, sf, value);  fail("Expected VMException"); 		} catch (final IllegalArgumentException e) {  assertEquals("Cannot add/remove values of type Sequence to/from multi-valued field CodeBlock::code",  e.getMessage()); 		} 	}  /** 	 * Test method for {@link EMFTVMUtil#findRootMethod(Method)}

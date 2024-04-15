@@ -1,0 +1,1 @@
+ private MimeMessage createMimeMessageFromWordArchiveInternal(File archiveDir, St{  boolean hasPlainText = false; if (plainTextFile.exists()) {  Reader reader = new FileReader(plainTextFile);  plainTextMessage = IOUtility.getContent(reader);  reader.close();  hasPlainText = StringUtility.hasText(plainTextMessage);       } } 

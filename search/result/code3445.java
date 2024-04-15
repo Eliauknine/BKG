@@ -1,0 +1,1 @@
+ import javax.persistence.metamodel.ManagedType;import org.eclipse.persistence.config.EntityManagerProperties; import org.eclipse.persistence.config.FlushClearCache; import org.eclipse.persistence.descriptors.ClassDescriptor; import org.eclipse.persistence.internal.indirection.IndirectionPolicy; import org.eclipse.persistence.internal.jpa.querydef.QueryBuilderImpl; }

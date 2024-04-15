@@ -1,0 +1,1 @@
+ protected Dimension getIntrinsicDimension( IImageContent content ){  switch ( content.getImageSource( ) )		{  case IImageContent.IMAGE_FILE :  image = Image.getInstance( content.getURI( ) );  break;  case IImageContent.IMAGE_NAME :  case IImageContent.IMAGE_EXPRESSION : } } 

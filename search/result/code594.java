@@ -1,0 +1,1 @@
+		/**		 * @param informationPresenterControlCreator 		 *                                               control creator for enriched 		 *                                               hover 		 * @since 3.4 		 */ 		public HoverControlCreator(IInformationControlCreator informationPresenterControlCreator) { } 

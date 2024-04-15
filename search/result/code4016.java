@@ -1,0 +1,1 @@
+  **************************************************************************/package org.eclipse.net4j.db.internal.hsqldb; import org.eclipse.net4j.internal.db.DBAdapter; import org.hsqldb.jdbcDriver; import java.sql.Driver; import java.util.Arrays; /**  * @author Eike Stepper }

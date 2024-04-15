@@ -1,0 +1,1 @@
+ return group.getItem(pos);	}  public GalleryItem getNextItem(GalleryItem item, int key) {  if (item == null) {  // No current selection, select the first item  if (gallery.getItemCount() > 0) { } } 

@@ -1,0 +1,1 @@
+  locationField.setAccessible(true);			}  return (Class<?>) locationField.get(imageDescriptor); 		} catch (SecurityException e) {  WorkbenchPlugin.log(e); 		} catch (NoSuchFieldException e) {  WorkbenchPlugin.log(e); 		}

@@ -1,0 +1,1 @@
+  @Override protected Control createDialogArea(Composite parent) {  final Composite composite = (Composite) super.createDialogArea(parent);  try {  ECPSWTViewRenderer.INSTANCE.render(composite, eObject); 				} catch (final ECPRendererException ex) {  Activator.log(ex); 				} } }

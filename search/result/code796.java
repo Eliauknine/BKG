@@ -1,0 +1,1 @@
+  treeViewer.getControl().setLayoutData(new GridData(SWT.FILL, SWT.FILL, true, true)); treeViewer.setUseHashlookup(true);  dependencyData = new DependencyData(getCompareConfiguration());  tabFolder.setData(CompareUI.COMPARE_VIEWER_TITLE, }

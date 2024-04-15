@@ -1,0 +1,1 @@
+  dialog.getShell().setSize( Math.max(SIZING_WIZARD_WIDTH, dialog.getShell().getSize().x),  SIZING_WIZARD_HEIGHT);  WorkbenchHelp.setHelp(dialog.getShell(),  new Object[] { IWorkbenchHelpContextIds.EXPORT_WIZARD });  if (page != null) {  page.setWizard(wizard); } }

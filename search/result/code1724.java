@@ -1,0 +1,1 @@
+  if (editingDomain != null) { String uriAttribute = marker.getAttribute(EValidator.URI_ATTRIBUTE, null);  if (uriAttribute != null) {  EObject object = EcorePlatformUtil.getEObject(editingDomain, URI.createURI(uriAttribute, true));  if (object != null) {  objects.add(object); 							} } } }

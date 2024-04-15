@@ -1,0 +1,1 @@
+ private synchronized void handleCommandMessage(String[] tokens,{ 					.bind(Messages.IRCRootContainer_Command_Unrecognized, origCommand);  trace(msg + " in IRCContainer: " + getID());   showErrorMessage(channelName, msg);  		} 

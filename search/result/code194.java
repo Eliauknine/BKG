@@ -1,0 +1,1 @@
+ protected DataType getLastUsedDataType(InterfaceList interfaceList, boolean isIn{  if (null != interfaceElement) { return interfaceElement.getType(); 		}  EList<VarDeclaration> dataList = getDataList(interfaceList, isInput);  if (!dataList.isEmpty()) {  return dataList.get(dataList.size() - 1).getType(); 		} } 

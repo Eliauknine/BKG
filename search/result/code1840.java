@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecp.spi.core.InternalProject;import org.eclipse.emf.ecp.spi.core.InternalProvider; import org.eclipse.emf.ecp.spi.core.util.InternalChildrenList; import org.eclipse.emf.edit.command.DeleteCommand; import org.eclipse.emf.edit.domain.AdapterFactoryEditingDomain; import org.eclipse.emf.edit.domain.EditingDomain; }

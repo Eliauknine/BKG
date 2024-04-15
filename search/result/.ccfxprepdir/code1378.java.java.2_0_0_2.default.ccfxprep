@@ -1,0 +1,10 @@
+1.2.1	+6	id|define
+1.8.7	+0	c_func
+1.8.7	+1	(paren
+1.9.8	+1	s_[
+1.a.9	+22	l_string|'i18n!orion/navigate/nls/messages'
+1.2c.2b	+1	s_,
+1.2e.2d	+17	l_string|'orion/webui/littlelib'
+1.45.44	+1	s_,
+1.47.46	2.1.b5	l_string|'orion/i18n{  var item = getParentItem(data.items); createNewArtifact(messages["New File"], item, false);  } &r;&n;
+2.1.b5	+0	eof

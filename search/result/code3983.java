@@ -1,0 +1,1 @@
+ 	} protected void addItem(GalleryItem item, int position) {  if (position < 0 || position >= getItemCount()) {  throw new IllegalArgumentException("ERROR_INVALID_RANGE "); 		}  _addItem(item, position); }

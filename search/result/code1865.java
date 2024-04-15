@@ -1,0 +1,1 @@
+  getProject().eAdapters().remove(crossReferenceAdapter);		}

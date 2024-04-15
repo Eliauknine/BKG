@@ -1,0 +1,1 @@
+ return new OpenDeclarationResult(ResultType.FAILURE_SYMBOL_LOOKUP, symbolName); 	}  public static OpenDeclarationResult failureUnexpectedError() {  return new OpenDeclarationResult(ResultType.FAILURE_UNEXPECTED_ERROR); 	

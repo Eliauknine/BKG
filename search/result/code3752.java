@@ -1,0 +1,1 @@
+ public void detachObject(IDBStoreAccessor accessor, CDOID id, long revised, OMMo{  monitor.begin(); if (hasFullRevisionInfo())       {  writeRevisedRow(accessor, id, revised);       }     }  finally     { } 

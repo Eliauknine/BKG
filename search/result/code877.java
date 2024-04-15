@@ -1,0 +1,1 @@
+ public interface IComparisonMethod extends IComparisonConfiguration,{    */ void setTwoWayReferenceRole(Role role_p);  /**    * Swap the scope definitions that play the given roles    * @param role1_p non-null role } 

@@ -1,0 +1,1 @@
+ private final MarketplaceCatalog catalog;  public SelectionModelStateSerializer(MarketplaceCatalog catalog, SelectionModel selectionModel) {  this.catalog = catalog;  this.selectionModel = selectionModel; } 

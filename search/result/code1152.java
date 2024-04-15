@@ -1,0 +1,1 @@
+	} /** 	 * Returns the '<em><b>Preemption</b></em>' literal with the specified integer value. 	 * <!-- begin-user-doc --> 	 * <!-- end-user-doc --> 	 * @param value the integer value. 	 * @return the matching enumerator or <code>null</code>. 	 * @generated 	 */  public static Preemption get(int value) {  switch (value) {  case _UNDEFINED__VALUE: return _UNDEFINED_; 		} 

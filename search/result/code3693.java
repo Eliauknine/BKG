@@ -1,0 +1,1 @@
+ public void testModifyingObject() throws Exception{  CDOAccumulateTransactionHandler handler = new CDOAccumulateTransactionHandler(); CDOSession session = openModel1Session();  CDOTransactionImpl transaction = (CDOTransactionImpl)session.openTransaction();  transaction.addHandler(handler);  CDOResource resource1 = transaction.getOrCreateResource("/test1"); } 

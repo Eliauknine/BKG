@@ -1,0 +1,1 @@
+  protected IModelProvider createProvider(String address) { // Create address  address = VABPathTools.getFirstEndpoint(address);  address = address.replace("basyx://", "");  String hostName = address.substring(0, address.indexOf(':'));  String[] splitted = address.split("/");  int hostPort = Integer.parseInt(splitted[0].substring(address.indexOf(':') + 1)); } }

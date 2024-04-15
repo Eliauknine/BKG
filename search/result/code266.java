@@ -1,0 +1,1 @@
+import org.eclipse.swt.widgets.Text;import org.eclipse.ui.views.properties.tabbed.TabbedPropertySheetPage; public class InternalVarsSection extends ECCSection {  private static final String IV_NAME = "NAME";   private static final String IV_TYPE = "TYPE";   private static final String IV_ARRAY = "ARRAY_SIZE";  } 

@@ -1,0 +1,1 @@
+ Require-Bundle: org.eclipse.ui,{ 	<parent>		<groupId>org.eclipse.papyrus.designer</groupId> 		<artifactId>org.eclipse.papyrus.designer.languages.cpp</artifactId> 		<version>0.7.0</version> 	</parent> 	<artifactId>org.eclipse.papyrus.designer.languages.cpp.codegen.ui</artifactId> 	<packaging>eclipse-plugin</packaging> } 

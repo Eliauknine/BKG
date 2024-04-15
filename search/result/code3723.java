@@ -1,0 +1,1 @@
+ public CDOIDProvider getIDProvider(){   } @Override  protected final CommitTransactionResult confirming(ExtendedDataInputStream in, IMonitor monitor)  throws Exception   {  return confirming(new CDODataInputImpl(in)     { } } 

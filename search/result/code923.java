@@ -1,0 +1,1 @@
+   * A mapping with editing features.   * All concrete classes implementing IMapping must also implement this interface.    */  public static interface Editable extends IMapping {  /**      * Clear this mapping } 

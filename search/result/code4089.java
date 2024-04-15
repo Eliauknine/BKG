@@ -1,0 +1,1 @@
+ public VerticalMapping(VerticalMappingStrategy mappingStrategy, CDOClass cdoClas{       { if (superMappings == null)         {  superMappings = new ArrayList(0);         }  superMappings.add(superMapping); } } 

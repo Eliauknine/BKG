@@ -1,0 +1,1 @@
+ 		String prefix = context.getPrefix();		String suffix = "";  		ISourceRange replaceRange = getReplacementRange(context); 		for (String type : TYPES) { 			if (type.startsWith(prefix)) { 				reporter.reportKeyword(type, suffix, replaceRange); 			} 		} 		super.apply(reporter); }

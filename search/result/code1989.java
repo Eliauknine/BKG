@@ -1,0 +1,1 @@
+ 		boolean usePhpDoc = (mask & USE_PHPDOC) != 0;		if (usePhpDoc) { 			PHPDocMethodReturnTypeGoal phpDocGoal = new PHPDocMethodReturnTypeGoal( 					context, types, method, offset); 			evaluatedType = typeInferencer.evaluateTypePHPDoc(phpDocGoal); 			modelElements = PHPTypeInferenceUtils.getModelElements( } }

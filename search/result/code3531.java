@@ -1,0 +1,1 @@
+ private static final PerfTracer REVISION_LOADING = new PerfTracer(OM.PERF_REVISION_LOADING, CDORevisionManagerImpl.class);  private StringIO packageURICompressor = StringIO.DIRECT;  // XXX Enable compression again!  // private StringIO packageURICompressor = new StringCompressor(true);  public CDOClientProtocol()   { } 

@@ -1,0 +1,1 @@
+  var workspaceConfigParam = configParams.workspace; var contextPath = configParams["orion.context.path"] || "";  var listenContextPath = configParams["orion.context.listenPath"] || false;  var workspaceDir;  if (workspaceArg) {  // -workspace passed in command line is relative to cwd } }

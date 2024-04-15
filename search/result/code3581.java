@@ -1,0 +1,1 @@
+ protected void drawGroup(GC gc, GalleryItem group, int x, int y, int clipX,{  // Description gc.setForeground(descriptionColor);  for (int i = 1; i < 3; i++) {  if (group.getText(i) != null) {  gc.drawText(group.getText(i), baseX, textY + i 							* (2 + fontHeight), true); 				} } } 

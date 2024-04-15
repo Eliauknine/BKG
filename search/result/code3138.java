@@ -1,0 +1,1 @@
+ Import-Package: com.objy.as;version="[4.0.0,5.0.0)",{  com.objy.pm.asapp;version="[4.0.0,5.0.0)", com.objy.pm.asexcep;version="[4.0.0,5.0.0)",  com.objy.pm.tmi;version="[4.0.0,5.0.0)" Export-Package: org.eclipse.emf.cdo.tests.objectivity;version="4.0.0" } 

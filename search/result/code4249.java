@@ -1,0 +1,1 @@
+      * @return String     */  protected String getFullLabel(Object treeElement, String parentLabel) {  IPath parentName = new Path(parentLabel);  String elementText = treeLabelProvider.getText(treeElement);  if(elementText == null) {  return parentName.toString(); 		} } }

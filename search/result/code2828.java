@@ -1,0 +1,1 @@
+ TableControl_Unset=Unset{ XmlDateControlText_InvalidNumber=Invalid NumberXmlDateControlText_NoDateSetClickToSetDate=No date set\! Click to set date. XmlDateControlText_NumberInvalidValueWillBeUnset=The Number you have entered is invalid. The value will be unset. XmlDateControlText_SelectDate=Select Date XmlDateControlText_UnsetDate=Unset date } 

@@ -1,0 +1,1 @@
+ 						((CRegisterGroup)groups[i]).dispose();					}

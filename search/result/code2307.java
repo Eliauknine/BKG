@@ -1,0 +1,1 @@
+ /** * Copyright (c) THALES, 2013. All rights reserved.  */ package org.eclipse.emf.diffmerge.gmf; /**  * Copyright (c) THALES, 2013. All rights reserved.  */ package org.eclipse.emf.diffmerge.gmf; }

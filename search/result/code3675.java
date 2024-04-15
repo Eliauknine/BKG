@@ -1,0 +1,1 @@
+ private void handleConflicts(Set<CDOObject> conflicts, CDOConflictResolver[] res{  for (Iterator<CDOObject> it = remaining.iterator(); it.hasNext();)        {  CDOObject object = it.next();  if (!FSMUtil.isConflict(object))           {             ++resolved;  it.remove(); } } } 

@@ -1,0 +1,10 @@
+1.16b.16a	+6	id|String
+1.172.171	+c	id|getAttribute
+1.17e.17d	+0	c_func
+1.17e.17d	+1	(paren
+1.17f.17e	+6	id|String
+1.186.185	+d	id|attributeName
+1.193.192	+1	)paren
+1.194.193	+1	suffix:semicolon
+1.196.195	+1	)brace
+2.1.198	+0	eof

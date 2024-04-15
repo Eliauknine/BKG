@@ -1,0 +1,1 @@
+ 		if (state == STATE_GOT_RECEIVER) {			state = STATE_WAITING_METHOD_PHPDOC; 			return new PHPDocMethodReturnTypeGoal(typedGoal.getContext(), 					receiverType, expression.getName()); 		} 		// PHPDoc logic is done, start evaluating 'return' statements here: }

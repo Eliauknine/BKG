@@ -1,0 +1,1 @@
+/** * This class allows to create new DocumentTemplate instance and open the papyrus editor for it  */ public final class CreatePapyrusDocumentTemplateEditorCommand extends AbstractCreateDocumentTemplateEditorCommand implements ICreateDocumentTemplateEditorCommand {  /** 	 * Prompts the user the future document's name } 

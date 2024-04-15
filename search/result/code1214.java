@@ -1,0 +1,1 @@
+ *  * @author <a href="mailto:mathieu.cartaud@obeo.fr">Mathieu Cartaud</a>  */ public class ResourceAttachmentChangeTooltipProvider extends AbstractTooltipProvider<ResourceAttachmentChange> implements ITooltipLabelProvider {  /** 	 * The constructor. } 

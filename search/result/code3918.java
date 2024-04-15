@@ -1,0 +1,1 @@
+ public interface MangoPackage extends EPackage{    */ EAttribute getValue_Name();  /**    * Returns the factory that creates the instances of the model. <!-- begin-user-doc --> <!-- end-user-doc -->    *  } 

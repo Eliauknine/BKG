@@ -1,0 +1,1 @@
+	 */ public void setAddRemoveDisabled(boolean newAddRemoveDisabled) 	{  final boolean oldAddRemoveDisabled = addRemoveDisabled;  addRemoveDisabled = newAddRemoveDisabled;  if (eNotificationRequired()) {  eNotify(new ENotificationImpl(this, Notification.SET, VTablePackage.TABLE_CONTROL__ADD_REMOVE_DISABLED,  oldAddRemoveDisabled, addRemoveDisabled)); 		} 	}  /** 

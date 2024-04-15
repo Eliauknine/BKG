@@ -1,0 +1,1 @@
+ */public class ViewModelWizard extends Wizard implements INewWizard {  private static final String PLUGIN_ID = "org.eclipse.emf.ecp.view.model.presentation";   private Object selectedContainer;  private List<ViewModelWizardNewFileCreationPage> fileCreationPages; } 

@@ -1,0 +1,1 @@
+  if (eReference.isMany()) { break; 			}  if (!eReference.eContainer().equals(currentResolvedEObject.eClass())) {  return false; 			}  EObject child = (EObject) currentResolvedEObject.eGet(eReference); }

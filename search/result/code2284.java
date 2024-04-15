@@ -1,0 +1,1 @@
+ 				&& shouldOutlineViewBeLoaded()) { 			final ConfigurableContentOutlinePage outlinePage = (ConfigurableContentOutlinePage) adapter; 			if (fPHPOutlinePageListener == null) { 				fPHPOutlinePageListener = new OutlineSelectionChangedListener(); 				outlinePage.addDoubleClickListener(fPHPOutlinePageListener); 			} 			fPHPOutlinePageListener.install(outlinePage); } }

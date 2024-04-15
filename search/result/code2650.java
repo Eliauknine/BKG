@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecp.edit.spi.ECPControlFactory;import org.eclipse.emf.ecp.edit.spi.util.ECPApplicableTester; import org.eclipse.emf.ecp.edit.spi.util.ECPStaticApplicableTester; import org.eclipse.emf.edit.command.MoveCommand; import org.eclipse.emf.edit.command.RemoveCommand; import org.eclipse.emf.edit.domain.EditingDomain; }

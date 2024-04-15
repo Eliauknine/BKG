@@ -1,0 +1,1 @@
+ public double isApplicable(VElement vElement, ViewModelContext viewModelContext){  if (control.getDomainModelReference() == null) {  return NOT_APPLICABLE; 		}  IValueProperty valueProperty;  try {  valueProperty = databindingService.getValueProperty(control.getDomainModelReference(), } } 

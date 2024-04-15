@@ -1,0 +1,1 @@
+  // it necessarily means that DataStoreReference is created and added to the FlowElementContainer // which is the target of the ICreateContext. In addition, if the new DataStoreReference refers  // to new DataStore, one is created and added to Definitions.  //   DataStoreReference bo = null;  try {  ModelHandler mh = ModelHandler.getInstance(getDiagram()); } }

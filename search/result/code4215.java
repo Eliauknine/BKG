@@ -1,0 +1,1 @@
+  enablesFor="1"  id="nonbound.org.eclipse.team.ui.ConfigureProject">          </action>       </objectContribution>               <objectContribution  objectClass="org.eclipse.core.resources.IFile" }

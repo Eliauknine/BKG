@@ -1,0 +1,1 @@
+ private Set<String> typeDeclared = new HashSet<>(); private boolean hasNamespace;  private ISourceModule sourceModule;  private IBuildContext context;  public ValidatorVisitor(IBuildContext context) {  this.context = context;  this.sourceModule = context.getSourceModule(); 	}  @Override 

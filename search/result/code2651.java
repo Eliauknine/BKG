@@ -1,0 +1,1 @@
+ import org.eclipse.core.databinding.observable.list.ListDiff; import org.eclipse.core.databinding.observable.list.ListDiffVisitor; import org.eclipse.emf.common.util.Diagnostic; import org.eclipse.emf.databinding.edit.EMFEditObservables; import org.eclipse.emf.ecore.EStructuralFeature.Setting; import org.eclipse.emf.ecp.edit.internal.swt.Activator; }

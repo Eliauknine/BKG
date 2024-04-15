@@ -1,0 +1,1 @@
+ private void notifyChangeSubcriptionPolicy(){  List<CDOID> ids = new ArrayList<CDOID>(); if (policiesPresent)       {  for (InternalCDOObject cdoObject : getObjectsArray())         {  int count = getNumberOfValidAdapter(cdoObject);  if (count > 0)           {  ids.add(cdoObject.cdoID());  addEntry(cdoObject.cdoID(), cdoObject, count);           }         }       } } 

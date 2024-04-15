@@ -1,0 +1,1 @@
+ 		// handle function body		if (lambdaFunctionDeclaration.getBody() != null) { 			boolean isIndentationAdded = handleBlockOpenBrace( 					this.preferences.brace_position_for_function, 					this.preferences.insert_space_before_opening_brace_in_function); 			handleChars(lastPosition, lambdaFunctionDeclaration.getBody() 					.getStart()); } }

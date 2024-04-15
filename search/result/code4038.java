@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.CDOView;import org.eclipse.emf.common.notify.AdapterFactory; import org.eclipse.emf.edit.ui.provider.AdapterFactoryLabelProvider; import org.eclipse.emf.internal.cdo.InternalCDOObject; import org.eclipse.emf.internal.cdo.util.FSMUtil; }

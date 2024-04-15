@@ -1,0 +1,1 @@
+ 		return markersToCheck; 	} 	private ArrayList<MarkerToCheck> negativeTesting_ttcn_initializer() { 		//negativeTesting.ttcn 		ArrayList<MarkerToCheck> markersToCheck = new ArrayList<MarkerToCheck>(73); }

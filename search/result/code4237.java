@@ -1,0 +1,1 @@
+ Manifest-Version: 1.0{ Bundle-ManifestVersion: 2 Bundle-Name: %plugin.name Bundle-SymbolicName: org.eclipse.datatools.connectivity.oda.flatfile; singleton:=true Bundle-Version: 3.0.0.200605241 Bundle-Activator: org.eclipse.datatools.connectivity.oda.flatfile.plugin.FlatfilePlugin Bundle-Vendor: Eclipse.org Bundle-Localization: plugin } 

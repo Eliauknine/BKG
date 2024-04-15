@@ -1,0 +1,1 @@
+  *   Alois Zoitl - added mulitline selection and code cleanup. *   Bianca Wiesmayr - extract Table creation, improve insertion  *   Alois Zoitl - extracted helper for ComboCellEditors that unfold on activation  *******************************************************************************/ package org.eclipse.fordiac.ide.fbtypeeditor.ecc.properties; }

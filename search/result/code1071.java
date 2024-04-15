@@ -1,0 +1,1 @@
+  * * Contributors:  * Tom Schindl <tom.schindl@bestsolution.at> - initial API and implementation  ******************************************************************************/ package org.eclipse.e4.tools.emf.ui.common; }

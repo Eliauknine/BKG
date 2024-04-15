@@ -1,0 +1,1 @@
+  var l = path.join(refLocation, p);  var result = treeJSON(l, shortName(util.decodeURIComponent(path.basename(l))), 0, true, 0);  result.Children = tree.entries().map(function(entry) {  return treeJSON(path.join(refLocation, entry.path()), git.Tree.entryName(entry), 0, entry.isDirectory(), 0);  });  createParents(result);  return res.status(200).json(result); }

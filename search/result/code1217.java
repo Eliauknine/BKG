@@ -1,0 +1,1 @@
+ import org.eclipse.emf.compare.Match;import org.eclipse.emf.compare.ReferenceChange; import org.eclipse.emf.compare.internal.merge.MergeMode; import org.eclipse.emf.compare.provider.ITooltipLabelProvider; import org.eclipse.emf.compare.utils.ReferenceUtil; import org.eclipse.emf.ecore.EObject; import org.eclipse.emf.edit.provider.AdapterFactoryItemDelegator; }

@@ -1,0 +1,1 @@
+ @Override public Object[] create(ICreateContext context) {  RootElement element = createBusinessObject(context);  addGraphicalRepresentation(context, element);  return new Object[] { element };     }  protected abstract String getStencilImageId();  @Override 

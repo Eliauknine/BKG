@@ -1,0 +1,1 @@
+ class_alias('PHPUnit_Framework_Error_Warning', 'Error_Warning');{     class_alias('PHPUnit_Framework_Error_Notice', 'Error_Notice');     class_alias('PHPUnit_Framework_Error_Deprecated', 'Error_Deprecated');  list($version) = explode('.', PHPUnit_Runner_Version::id());       define('_RUNNER_VERSION', (int)$version); } else {     class_alias('PHPUnit\Util\Printer', 'Printer'); } 

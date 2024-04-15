@@ -1,0 +1,1 @@
+ protected void launchMarketplaceWizard() {  final MarketplaceWizardCommand marketplaceWizardCommand = new MarketplaceWizardCommand();  UIThreadRunnable.asyncExec(new VoidResult() {  public void run() { } } } 

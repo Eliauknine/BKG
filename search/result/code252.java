@@ -1,0 +1,1 @@
+import org.eclipse.swt.widgets.Text;import org.eclipse.ui.views.properties.tabbed.TabbedPropertySheetWidgetFactory; public class AlgorithmList implements CommandExecutor, I4diacTableUtil {  private class AlgorithmViewerCellModifier implements ICellModifier {  @Override } } 

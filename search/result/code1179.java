@@ -1,0 +1,1 @@
+ public Market getMarket(IMarket market, IProgressMonitor monitor) throws CoreExc{  return aMarket;				} 			} 		} else if (market.getUrl() != null) {  String marketUrl = market.getUrl();  for (Market aMarket : markets) {  if (marketUrl.equals(aMarket.getUrl())) {  return aMarket; 				} 			} 

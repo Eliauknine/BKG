@@ -1,0 +1,1 @@
+ protected void preRun() throws Exception{  builder.append("&automaticPackageRegistry=true");      }  if (!dialog.isLegacyModelSupport())       {  builder.append("&disableLegacyObjects=true");       } 

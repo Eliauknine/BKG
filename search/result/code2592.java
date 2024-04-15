@@ -1,0 +1,1 @@
+ private static int openSaveDialog(String label, final boolean canCancel, Map<Str{  choice = dialog.open();  // User pressed "Escape"  if (choice == SWT.DEFAULT) {  choice = ISaveablePart2.CANCEL;                 }  // React to the use preference choice. } 

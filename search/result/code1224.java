@@ -1,0 +1,1 @@
+ *            The parametric type of the class * @author <a href="mailto:mathieu.cartaud@obeo.fr">Mathieu Cartaud</a>  */ public abstract class AbstractTooltipProvider<T extends Diff> extends AdapterImpl {  /** 	 * The line separator used to compute tooltips. } 

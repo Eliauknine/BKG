@@ -1,0 +1,15 @@
+1.2.1	+6	r_public
+1.9.8	+4	r_void
+1.e.d	+15	id|setTableStatusVisible
+1.23.22	+0	c_func
+1.23.22	+1	(paren
+1.24.23	+7	r_boolean
+1.2c.2b	+12	id|tableStatusVisible
+1.3e.3d	+1	)paren
+1.40.3f	+1	(brace
+1.42.41	+14	id|m_tableStatusVisible
+1.57.56	+1	s_=
+1.59.58	+12	id|tableStatusVisible
+1.6b.6a	+1	suffix:semicolon
+1.6f.6e	+1	)brace
+2.1.72	+0	eof

@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.common.id.CDOID;import org.eclipse.emf.cdo.common.id.CDOIDObjectFactory; import org.eclipse.emf.cdo.common.model.CDOClass; import org.eclipse.emf.cdo.common.model.CDOFeature; import java.util.Collection; import java.util.List; }

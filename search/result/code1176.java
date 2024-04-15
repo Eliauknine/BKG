@@ -1,0 +1,1 @@
+ return getNode((INode) node, monitor);	}  public SearchResult search(IMarket market, ICategory category, String queryText, IProgressMonitor monitor)  throws CoreException {  String relativeUrl = computeRelativeSearchUrl(market, category, queryText, true); 

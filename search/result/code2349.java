@@ -1,0 +1,1 @@
+ private BrowserFunction createLocalHyperlinkFunction() {  return new BrowserFunction(m_browser, getHyperlinkFunctionName()) {  @Override  public Object function(Object[] arguments) {  String localUrl = m_hyperlinkMap.get(arguments[0]);  if (localUrl == null) {  LOG.error("Hyperlink could not be activated. No url specified."); } } } } 

@@ -1,0 +1,1 @@
+ private ESOrgUnitProvider orgUnitProvider;  public List<ESRole> getRolesFromGroups(ESOrgUnit orgUnit) {  final ArrayList<ESRole> roles = new ArrayList<ESRole>();  for (final ESGroup group : getGroups(orgUnit)) { } } 

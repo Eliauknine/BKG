@@ -1,0 +1,1 @@
+  return getWhereConstraints();   }  protected boolean isZeroTraversingAttribute(int operation, Object[] values) {  Number value1 = values != null && values.length > 0 && values[0] instanceof Number ? (Number) values[0] : null;  Number value2 = values != null && values.length > 1 && values[1] instanceof Number ? (Number) values[1] : null; }

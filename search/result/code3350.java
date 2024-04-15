@@ -1,0 +1,1 @@
+ 	} @Override  protected void catalogUpdated(boolean wasCancelled, boolean wasError) {  super.catalogUpdated(wasCancelled, wasError);  for (CatalogFilter filter : getConfiguration().getFilters()) {  if (filter instanceof MarketplaceFilter) { 				((MarketplaceFilter) filter).catalogUpdated(wasCancelled); 			} 		}  setFilters(queryMarket, queryCategory, queryText); 	}

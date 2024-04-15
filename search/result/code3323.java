@@ -1,0 +1,1 @@
+   * @generated   */  protected IAction showPropertiesViewAction = new Action(PluginDelegator.INSTANCE       .getString("_UI_ShowPropertiesView_menu_item"))   {  @Override  public void run()     {  try       {  getPage().showView("org.eclipse.ui.views.PropertySheet");       }  catch (PartInitException exception)       { } } } 

@@ -1,0 +1,1 @@
+	public void apply(ICompletionReporter reporter) throws BadLocationException { 		FunctionParameterTypeContext context = (FunctionParameterTypeContext) getContext(); 		String prefix = context.getPrefix(); } 

@@ -1,0 +1,1 @@
+  url="http://download.eclipse.org/technology/swtbot/releases/latest/"/>          <repository  url="http://sourceforge.net/projects/xtext-xdoc/files/updates-2.7"/>         </repositoryList>         <repositoryList  name="Kepler"> }

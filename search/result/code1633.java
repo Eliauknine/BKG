@@ -1,0 +1,1 @@
+ public CommitDialog(Shell parentShell, AbstractChangePackage localChangePackage,{  for (final ESExtensionElement element : new ESExtensionPoint(  COMMITDIALOG_TRAY_EXTENSION_POINT, true) 			.getExtensionElements()) {  try {  final CommitDialogTray tray = element.getClass("class",   CommitDialogTray.class); } } } 

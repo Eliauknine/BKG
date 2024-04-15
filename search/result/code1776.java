@@ -1,0 +1,1 @@
+  if (Window.OK == enumSelectionResult) { object = Enumerator.class.cast(ld.getResult()[0]).getLiteral(); 				} 			}  else if (String.class.isAssignableFrom(attribuetClazz) 				|| Number.class.isAssignableFrom(attribuetClazz) 				|| Boolean.class.isAssignableFrom(attribuetClazz)) {  try { } }

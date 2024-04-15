@@ -1,0 +1,1 @@
+ return new CDOQueryImpl(this, language, queryString);  }  /**    * @return never <code>null</code>    * @since 2.0    */  public CDOID getResourceID(String path)   {  if (StringUtil.isEmpty(path))     { } 

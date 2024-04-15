@@ -1,0 +1,1 @@
+ public void createValue(String path, Object newEntity) throws ProviderException{  private Set<String> extractTags(String path) {  path = VABPathTools.stripSlashes(path);  path = path.replace(PREFIX, "");  // Paths now does only contain ?tags=a,b,c  path = path.replace(API_ACCESS, "");  return Arrays.stream(path.split(",")).collect(Collectors.toSet()); 	} } 

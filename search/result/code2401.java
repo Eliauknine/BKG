@@ -1,0 +1,1 @@
+ 	private ArrayCreation(int start, int end, AST ast, ArrayElement[] elements,			boolean hasArrayKey, PHPArrayDereferenceList arrayDereferenceList) { 		super(start, end, ast); 		if (elements == null) { } } }

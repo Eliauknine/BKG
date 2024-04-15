@@ -1,0 +1,1 @@
+    * are reachable from the including resource as is normally the case with    * the fragmentation mechanism.    * @param including_p non-null resource    * @param included_p non-null resource    */  protected final void notifyInclusion(Resource including_p, Resource included_p) {  if (!_resources.contains(included_p))  addNewResource(included_p);  // New inclusion } }

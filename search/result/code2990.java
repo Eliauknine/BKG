@@ -1,0 +1,1 @@
+  fTopLineIndex++;  fLastTopLineIndex++;                             }

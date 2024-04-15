@@ -1,0 +1,30 @@
+1.3.2	+c	l_string|"Dependency"
+1.f.e	+1	s_:
+1.11.10	+c	l_string|"Dependency"
+1.1d.1c	+1	s_,
+1.1f.1e	+10	l_string|"UnnamedCommand"
+1.2f.2e	+1	s_:
+1.31.30	+9	l_string|"Unnamed"
+1.3a.39	+1	s_,
+1.3d.3c	+10	l_string|"searchInFolder"
+1.4d.4c	+1	s_:
+1.4f.4e	+12	l_string|"Folder Search..."
+1.61.60	+1	s_,
+1.64.63	+f	l_string|"Global Search"
+1.73.72	+1	s_:
+1.75.74	+12	l_string|"Global Search..."
+1.87.86	+1	s_,
+1.8a.89	+10	l_string|"ClickEditLabel"
+1.9a.99	+1	s_:
+1.9c.9b	+f	l_string|"Click to edit"
+1.ab.aa	+1	s_,
+1.ae.ad	+d	l_string|"ProjectInfo"
+1.bb.ba	+1	s_:
+1.bd.bc	+15	l_string|"Project Information"
+1.d2.d1	+1	s_,
+1.d5.d4	+6	l_string|"Name"
+1.db.da	+1	s_:
+1.dd.dc	+6	l_string|"Name"
+1.e3.e2	+1	s_,
+1.e5.e4	+1	)brace
+2.1.e7	+0	eof

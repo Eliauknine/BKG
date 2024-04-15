@@ -1,0 +1,1 @@
+       </properties>       <modules>  <!-- plugins -->         <module>../../plugins/org.eclipse.sirius.services.diagram</module>         <module>../../plugins/org.eclipse.sirius.services.graphql</module>         <module>../../plugins/org.eclipse.sirius.server</module> }

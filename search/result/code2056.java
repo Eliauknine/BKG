@@ -1,0 +1,1 @@
+  final InputDialog inputDialog = new InputDialog( activeShell,  Messages.UserTabContent_Enter_New_Password_For_User 					+ " '" + user.getName() + "'",   Messages.UserTabContent_Enter_New_Password,  StringUtils.EMPTY, null); }

@@ -1,0 +1,1 @@
+ public AbstractDetailComposite createSectionRoot(Composite parent, int style) { return new TimerEventDefinitionDetailComposite(parent,style); 	}  @Override  protected EObject getBusinessObjectForSelection(ISelection selection) {  EObject be = super.getBusinessObjectForSelection(selection); } 

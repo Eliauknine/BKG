@@ -1,0 +1,1 @@
+  MPerspective newPersp = (MPerspective) event.getProperty(UIEvents.EventTags.NEW_VALUE); updatePerspectiveActionSets(oldPersp, newPersp);  List<MPart> hiddenParts = new ArrayList<MPart>();  List<MPart> visibleParts = new ArrayList<MPart>(); }

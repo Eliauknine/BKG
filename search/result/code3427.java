@@ -1,0 +1,1 @@
+ public CDORemoteSessionMessage getMessage(){   } @Override  protected void listenersEmptyChanged(boolean empty)   {  IEvent[] events = null;  synchronized (this)     {  if (empty)       {  if (!forceSubscription)         {  events = unsubscribe();         }       }  else       {  if (!subscribed)         {  events = subscribe();         }       }     } } 

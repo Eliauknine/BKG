@@ -1,0 +1,1 @@
+ public void copyFile(final Object sourceLocation, final Object targetLocation) t{ 	} /** 	 * Read single line from file. To repeatedly read from file retrieve  	 * {@link IFileHandle} first using {@module #openFile(String, int)} 

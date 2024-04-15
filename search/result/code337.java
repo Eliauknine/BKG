@@ -1,0 +1,1 @@
+ private function writeTest(Test $test, $event, $isTestCase = false){  'file' => $file, 'line' => $line                     );    $method = $class->getMethod($ex[1]);  $result['test']['line'] = $method->getStartLine();                 } catch (ReflectionException $re) { } 

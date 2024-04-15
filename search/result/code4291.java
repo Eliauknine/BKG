@@ -1,0 +1,1 @@
+ /**  *  Given the BeanDOM, build the Composition Model  */ void buildCompositionModel(IProgressMonitor pm) throws CodeGenException {  if (fBeanModel == null || fVEModel == null) throw new CodeGenException ("null Builder") ;   fBeanModel.setState(IBeanDeclModel.BDM_STATE_UPDATING_JVE_MODEL,true) ;  try{  TimerTests.basicTest.startStep("Create IJavaObject Instances");  } } }

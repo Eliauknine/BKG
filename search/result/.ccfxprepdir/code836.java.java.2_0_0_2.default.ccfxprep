@@ -1,0 +1,16 @@
+1.3.2	+6	r_return
+1.a.9	+13	id|createEditingDomain
+1.1d.1c	+0	c_func
+1.1d.1c	+1	(paren
+1.1e.1d	+1	)paren
+1.1f.1e	+1	suffix:semicolon
+1.22.21	+1	)brace
+1.140.13f	+9	r_protected
+1.14a.149	+e	id|ILabelProvider
+1.159.158	+16	id|getCustomLabelProvider
+1.16f.16e	+0	c_func
+1.16f.16e	+1	(paren
+1.170.16f	+1	)paren
+1.172.171	+1	(brace
+1.174.173	+1	)brace
+2.1.176	+0	eof

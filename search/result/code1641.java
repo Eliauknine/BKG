@@ -1,0 +1,1 @@
+  final Combo combo = usernameCombo.getCombo(); combo.addModifyListener(comboListener);  final GridData gridData = new GridData(SWT.LEFT, SWT.CENTER, false, false, 1, 1);  gridData.widthHint = 285;  combo.setLayoutData(gridData);  new Label(parent, SWT.NONE); 	}

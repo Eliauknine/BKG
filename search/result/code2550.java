@@ -1,0 +1,1 @@
+ public List<IItemPropertyDescriptor> getPropertyDescriptors ( Object object ){  addBorderPropertyDescriptor ( object ); addOpaquePropertyDescriptor ( object );  addToolTipPropertyDescriptor ( object );         } 

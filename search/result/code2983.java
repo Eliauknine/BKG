@@ -1,0 +1,1 @@
+ protected void convertProject(final IProject project, IProgressMonitor monitor){  SyncManager.saveFileFilter(project, customFilter);			}  // Enable sync'ing  SyncManager.setSyncMode(project, SyncManager.SYNC_MODE.ACTIVE); 		} 

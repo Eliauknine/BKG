@@ -1,0 +1,1 @@
+ private IModelElement[] internalResolve(IStructuredDocument sDoc,{ 										&& elementName.charAt(0) != '$') {   List<IModelElement> fields = new LinkedList<IModelElement>();  for (IType t : types) {  return PHPModelUtils.getTypeField(t,  elementName, true); 									}  return fields 											.toArray(new IModelElement[fields } } 

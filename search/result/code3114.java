@@ -1,0 +1,1 @@
+ @Override  public Object getImage(Object object) {  return overlayImage(  object, getResourceLocator().getImage("full/obj16/Contribution" + (((Contribution) object).isEnabled() 					? "" 					: "Disabled"))); 	} 

@@ -1,0 +1,1 @@
+  nameField.setAccessible(true);			}  return (String) nameField.get(imageDescriptor); 		} catch (SecurityException e) {  WorkbenchPlugin.log(e); 		} catch (NoSuchFieldException e) {  WorkbenchPlugin.log(e); 		}

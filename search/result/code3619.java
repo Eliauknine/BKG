@@ -1,0 +1,1 @@
+ protected InternalCDORevision loadRevisionByTime(CDOID id, int referenceChunk, l{  if (getRepository().isSupportingAudits())    {  IStoreAccessor accessor = StoreThreadLocal.getAccessor();  return (InternalCDORevision)accessor.readRevisionByTime(id, referenceChunk, timeStamp);     }  // TODO Simon*: Is this check necessary here? } 

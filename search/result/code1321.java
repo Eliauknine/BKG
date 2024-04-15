@@ -1,0 +1,1 @@
+  return proxyServiceTracker == null ? null : (IProxyService) proxyServiceTracker.getService();	}  private static Authenticator getDefaultAuthenticator() {  try {  final Field authenticatorField = Authenticator.class.getDeclaredField("theAuthenticator");   final boolean accessible = authenticatorField.isAccessible(); } }

@@ -1,0 +1,1 @@
+ import org.eclipse.tm.terminal.internal.actions.TerminalActionSelectAll;import org.eclipse.tm.terminal.internal.actions.TerminalActionSettings; import org.eclipse.ui.IActionBars; import org.eclipse.ui.IWorkbench; import org.eclipse.ui.IWorkbenchActionConstants; import org.eclipse.ui.IWorkbenchPage; }

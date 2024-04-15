@@ -1,0 +1,1 @@
+ import org.eclipse.fordiac.ide.ui.widget.AddDeleteWidget;import org.eclipse.fordiac.ide.ui.widget.ComboBoxWidgetFactory; import org.eclipse.fordiac.ide.ui.widget.CommandExecutor; import org.eclipse.fordiac.ide.ui.widget.TableWidgetFactory; import org.eclipse.fordiac.ide.util.IdentifierVerifyListener; import org.eclipse.gef.commands.Command; }

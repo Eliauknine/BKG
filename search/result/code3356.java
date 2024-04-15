@@ -1,0 +1,1 @@
+  dialog.setText(ProvUIMessages.UpdateManagerCompatibility_ExportSitesTitle); dialog.setFileName("bookmarks.xml");   dialog.setFilterExtensions(new String[] {"*.xml", "*"});    String bookmarksFile = dialog.open();  if (bookmarksFile == null) }

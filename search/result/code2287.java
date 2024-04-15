@@ -1,0 +1,1 @@
+ 		if (element instanceof FakeConstructor) { 			IType type = (IType) element.getParent(); 			if (type instanceof AliasType) { 				type = (IType) type.getParent(); 				element = FakeConstructor.createFakeConstructor(null, type, 						false); 			} } }

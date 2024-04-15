@@ -1,0 +1,1 @@
+                 <message_argument value="Session(SessionManager, CDOServerProtocol, int, boolean)"/>            </message_arguments>         </filter>     </resource>     <resource path="src/org/eclipse/emf/cdo/internal/server/PackageManager.java" type="org.eclipse.emf.cdo.internal.server.PackageManager">         <filter id="576720909"> }

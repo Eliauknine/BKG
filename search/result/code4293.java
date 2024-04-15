@@ -1,0 +1,1 @@
+ 	</categoryActivityBinding>	</extension> </plugin> }

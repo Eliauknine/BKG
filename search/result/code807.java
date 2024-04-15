@@ -1,0 +1,1 @@
+  specializedTypes.setAttribute(HREF_ATTRIBUTE, mapSpecializationMigration.get(specialized)); elementTypeConfiguration.appendChild(specializedTypes); 								} else {  System.err.println("Couldn't find : " + specialized); 								} 							}

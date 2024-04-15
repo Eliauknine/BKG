@@ -1,0 +1,1 @@
+ 			if (fgFirstTime || history.isEmpty()) {				if (history.needConsistencyCheck()) { 					monitor.beginTask(DLTKUIMessages.TypeSelectionDialog_progress_consistency, 100); 					refreshSearchIndices(new SubProgressMonitor(monitor, 90)); 					history.checkConsistency(new SubProgressMonitor(monitor, 10)); 				} else { 					refreshSearchIndices(monitor); 				} } }

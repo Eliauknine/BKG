@@ -1,0 +1,1 @@
+ /**   * @see ResourceSet#getResource(URI, boolean)    */  public CDOResource getResource(String path, boolean loadInDemand);  /**    * @see ResourceSet#getResource(URI, boolean)    */  public CDOResource getResource(String path);  /**    * Returns the root resource of the repository.    * <p> 

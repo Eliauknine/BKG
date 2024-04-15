@@ -1,0 +1,1 @@
+ 	 * Gallery and item size will be updated.	 *  	 * @param keepLocation 	 * 		if true, the current scrollbars position ratio is saved and restored 	 * 		even if the gallery size has changed. (Visible items stay visible) 	 */  protected void updateStructuralValues(boolean keepLocation) { } }

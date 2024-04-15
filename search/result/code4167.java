@@ -1,0 +1,1 @@
+	public void dispose() { 		GlobalParsingManager.getInstance().removeParserClient(userModelParserClientFactoryVersionDependent, project); 		IPath location = project.getLocation(); 		if (location == null) { } } 

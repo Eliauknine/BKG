@@ -1,0 +1,1 @@
+          </with>      </activeWhen>       <class class="org.eclipse.papyrus.views.modelexplorer.handler.OpenHandler">          <parameter name="open_parameter" value="close">          </parameter>       </class>    </handler>    <handler commandId="org.eclipse.papyrus.views.modelexplorer.popup.open.new.command"> }

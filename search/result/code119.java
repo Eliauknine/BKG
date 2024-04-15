@@ -1,0 +1,1 @@
+ protected void applyIDMappings(InternalCommitContext context, OMMonitor monitor){     { CDOID id = revision.getID();  if (adjustMaxID && idHandler.compare(id, maxID) > 0)       {  maxID = id;       } } } 

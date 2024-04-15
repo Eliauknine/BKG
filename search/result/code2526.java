@@ -1,0 +1,1 @@
+  PictogramElement eventDefinitionShape = null;  for (PictogramElement pe : container.getChildren()) {  if (pe.getLink() != null) {  EList<EObject> objects = pe.getLink().getBusinessObjects();  if (objects.size()>0 && objects.get(0) instanceof EventDefinition) {  eventDefinition = (EventDefinition)objects.get(0);  eventDefinitionShape = pe;  break; 					} 				} 			} }

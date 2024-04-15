@@ -1,0 +1,1 @@
+  e.printStackTrace();			} 		} else if (selectedElement instanceof IFile) {  if (((IFile) selectedElement).getFileExtension().equals("elementtypesconfigurations")) {  String selectedFilePath = ((IFile) selectedElement).getFullPath().toString();  Resource outputResource = resourceSet.getResource(URI.createURI(selectedFilePath), true); }

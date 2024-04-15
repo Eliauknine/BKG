@@ -1,0 +1,1 @@
+ 		<nature>org.eclipse.jdt.core.javanature</nature>		<nature>net.sf.eclipsecs.core.CheckstyleNature</nature> 		<nature>org.eclipse.pde.api.tools.apiAnalysisNature</nature> 	</natures> </projectDescription> }

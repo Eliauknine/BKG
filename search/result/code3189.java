@@ -1,0 +1,1 @@
+  // get the actual message for this task - if  // any  if (j + 1 < phpTokens.length) {  ITextRegion phpNextToken = phpTokens[j + 1];  length = length 												+ phpNextToken.getLength(); 									}  try { } }

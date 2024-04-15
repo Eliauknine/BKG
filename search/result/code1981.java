@@ -1,0 +1,1 @@
+ 	 *            relationship between node and child	 * @since 3.0 	 */ 	final void postLazyInit(ASTNode newChild, ChildPropertyDescriptor property) { 		// IMPORTANT: this method is called by readers 		// ASTNode.this is locked at this point 		// newChild is brand new (so no chance of concurrent access) } }

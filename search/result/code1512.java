@@ -1,0 +1,1 @@
+	}  public IContentProvider getContentProvider(final TreeViewer viewer) {  // workaround for https://bugs.eclipse.org/bugs/show_bug.cgi?id=493711  viewer.setUseHashlookup(true);  if (MODE_PHP == mode) {  if (fContentProvider == null) {  fContentProvider = new PHPOutlineContentProvider(viewer); } } 

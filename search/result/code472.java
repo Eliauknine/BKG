@@ -1,0 +1,1 @@
+ public static final int LICENSING_SECURITY_KEY_SIZE_1024 = 1024; public static final String LICENSING_SECURITY_HASH_ALGO = "licensing.security.hash.algo";   private LicensingProperties() {  // block 	} 

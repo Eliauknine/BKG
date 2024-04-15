@@ -1,0 +1,1 @@
+  fileDir = api.join(fileRoot, repo.workdir().substring(req.user.workspaceDir.length + 1)); if (mergeBase) {  var names = scope.split("..");  var commit0;  repo.getReferenceCommit(names[0])  .then(function(commit) {  return commit; } } }

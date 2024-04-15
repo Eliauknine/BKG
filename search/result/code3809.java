@@ -1,0 +1,1 @@
+   * @author Simon McDuff   * @since 2.0    */  protected class ViewAdapterManager   {  protected Set<CDOObject> objects = new HashBag<CDOObject>();  public ViewAdapterManager()     {     }  public void committedTransaction(CDOTransaction transaction, CDOCommitContext commitContext)     { } } 

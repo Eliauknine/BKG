@@ -1,0 +1,1 @@
+ public Object[] getChildren( ){  if ( this.reportDesignHandle != null )		{  ScriptedDesignVisitor visitor = new ScriptedDesignVisitor( );  return visitor.getScriptNodes( (ReportDesignHandle) reportDesignHandle ) 					.toArray( ); 		}  return new Object[0]; } 

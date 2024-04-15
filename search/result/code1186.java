@@ -1,0 +1,1 @@
+ 	        <File path="../XmlTest_expectedTtcns/www_example_org_pref1_e.ttcn" />	        <File path="../XmlTest_expectedTtcns/www_example_org_pref2_e.ttcn" /> 	        <File path="../XmlTest_expectedTtcns/www_example_org_pref3_e.ttcn" />             </File_Group>             <File_Group name="XmlTest_src" >                 <File path="xmlTest_Shell.ttcn" /> }

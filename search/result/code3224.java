@@ -1,0 +1,1 @@
+	}  public static boolean hasProjectSpecificTempates(IProject project) {  String pref = new ProjectScope(project).getNode(PHPUiPlugin.ID).get(  KEY, null);  if (pref != null && pref.trim().length() > 0) { } 

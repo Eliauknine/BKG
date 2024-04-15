@@ -1,0 +1,1 @@
+  private IFormField m_focusedField; private IMessageBox m_messageBox;  private IFileChooser m_fileChooser;  private PrintDevice m_printDevice;  private Map<String, Object> m_printParameters;  private List<IMenu> m_popupMenus; }

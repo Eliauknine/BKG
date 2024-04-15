@@ -1,0 +1,1 @@
+  if (getvControl().getDomainModelReference() == null) { return false; 			}  if (getvControl().getDomainModelReference().getEStructuralFeatureIterator() == null) {   return false; 			}  return getvControl().getDomainModelReference().getEStructuralFeatureIterator().hasNext(); 		}

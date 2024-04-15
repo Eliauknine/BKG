@@ -1,0 +1,1 @@
+ public synchronized CDOResourceNode[] getElements()  {  CDOResource rootResource = getRootResource();  EList<EObject> contents = rootResource.getContents();  List<CDOResourceNode> elements = new ArrayList<CDOResourceNode>(contents.size());  for (EObject object : contents) } 

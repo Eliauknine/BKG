@@ -1,0 +1,17 @@
+1.2.1	+6	r_public
+1.9.8	+5	r_class
+1.f.e	+18	id|EntityManagerFactoryImpl
+1.28.27	+a	r_implements
+1.33.32	+14	id|EntityManagerFactory
+1.47.46	+1	s_,
+1.49.48	+9	id|Persisten
+1.52.51	+1	(brace
+1.a0.9f	+9	r_protected
+1.aa.a9	+7	r_boolean
+1.b2.b1	+17	id|shouldValidateExistence
+1.c9.c8	+1	suffix:semicolon
+1.cc.cb	+9	r_protected
+1.d6.d5	+7	r_boolean
+1.de.dd	+19	id|commitWithoutPersistRules
+1.f7.f6	+1	suffix:semicolon
+3.1.146	+0	eof

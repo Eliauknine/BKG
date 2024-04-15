@@ -1,0 +1,1 @@
+  *   Alois Zoitl - moved adapter search code to palette *               - cleaned command stack handling for property section  *   Bianca Wiesmayr - create command now has enhanced guess *******************************************************************************/ package org.eclipse.fordiac.ide.fbtypeeditor.properties; }

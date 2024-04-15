@@ -1,0 +1,1 @@
+ public void createControls(final Composite parent, final TabbedPropertySheetPage tabbedPropertySheetPage) { super.createControls(parent, tabbedPropertySheetPage);  createAlgorithmControls(parent); 	}  public void createAlgorithmControls(final Composite parent) { } 

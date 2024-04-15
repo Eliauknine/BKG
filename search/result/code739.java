@@ -1,0 +1,1 @@
+	 * <!-- end-user-doc -->	 * @generated 	 */  public String getAttribute(final String attributeName) {  return org.eclipse.fordiac.ide.model.Annotations.GEN.getAttribute(this, attributeName); 	}  /** 	 * <!-- begin-user-doc --> 	 * <!-- end-user-doc --> 

@@ -1,0 +1,1 @@
+ public boolean isSet(InternalEObject eObject, EStructuralFeature feature){  value = convertToEMF(eObject, revision, feature, NO_INDEX, value);  Object defaultValue = feature.getDefaultValue();  return !ObjectUtil.equals(value, defaultValue);       } 

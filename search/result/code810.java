@@ -1,0 +1,1 @@
+             <desc>Link text and title seem too short.</desc>         </description>     </checkitem>     <checkitem type="warning" id="C_57.2">         <guideline>             <gItem id="13.1" name="WCAG"/>             <gItem techniques="H30" id="2.4.4" name="JIS"/> }

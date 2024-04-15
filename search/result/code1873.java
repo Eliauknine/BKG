@@ -1,0 +1,1 @@
+  final LogMessage logMessage = VersioningFactory.eINSTANCE.createLogMessage(); if (getUsersession() != null) {  logMessage.setAuthor(getUsersession().getUsername()); 		}  else {  logMessage.setAuthor(Messages.ProjectSpaceBase_Unknown_Author); 		}  logMessage.setClientDate(new Date()); }

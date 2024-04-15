@@ -1,0 +1,1 @@
+  // final String notifyUsers = "Notify users"; for (final ESExtensionElement c : new ESExtensionPoint(  COMMITDIALOG_TRAY_EXTENSION_POINT) 			.getExtensionElements()) {  final String name = c.getAttribute("name");   final CommitDialogTray tray = trays.get(name);  if (tray != null) { } } }

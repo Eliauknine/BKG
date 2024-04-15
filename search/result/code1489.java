@@ -1,0 +1,1 @@
+ 		if (parent instanceof ISourceModule) { 			ISourceModule sourceModule = (ISourceModule) parent; 			if (isNamespaceSupported(sourceModule)) { 				// if namespaces are supported, add use statements node: } } }

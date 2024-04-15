@@ -1,0 +1,1 @@
+import org.eclipse.team.internal.ccvs.core.ICVSRepositoryLocation;import org.eclipse.team.internal.ccvs.core.util.KnownRepositories; import org.eclipse.team.internal.ui.PixelConverter; import org.eclipse.ui.*; public class PasswordManagementPreferencePage extends PreferencePage implements IWorkbenchPreferencePage { } 

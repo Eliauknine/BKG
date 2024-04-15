@@ -1,0 +1,1 @@
+  uri="http://www.eclipse.org/papyrus/model2doc/core/1.0.0/BuiltInTypes" class="org.eclipse.papyrus.model2doc.emf.documentstructure.provider.DocumentStructureItemProviderAdapterFactory$BuiltInTypesChildCreationExtender"/>    </extension> </plugin> }

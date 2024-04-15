@@ -1,0 +1,1 @@
+  this.getPrimaryShape().setOrientation(position);			}  if (usageEditPart != null && interfaceRealizationEditPart != null) {  // this.getPrimaryShape().setRequired(true);  // this.getPrimaryShape().setProvided(true);  Point anchor = usageEditPart.getPrimaryShape().getEnd();  Rectangle bounds = this.getFigure().getBounds(); }

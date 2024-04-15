@@ -1,0 +1,1 @@
+ 		}		if (builder.length() > 0) { 			HTMLPrinter.insertPageProlog(builder, 0, getStyleSheet()); 			HTMLPrinter.addPageEpilog(builder); 			return new PHPDocumentationBrowserInformationControlInput(previousInput, element, builder.toString(), 					leadingImageWidth); }

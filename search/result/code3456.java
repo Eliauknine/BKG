@@ -1,0 +1,1 @@
+	 * @override	 */  public ErrorResult calculateError(ReferenceScenarioDataMap reference, ReferenceScenarioDataMap data) {  final ReferenceScenarioDataMapImpl _ref = (ReferenceScenarioDataMapImpl)reference;  final ReferenceScenarioDataMapImpl _data = (ReferenceScenarioDataMapImpl)data; } 

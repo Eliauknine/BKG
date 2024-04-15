@@ -1,0 +1,1 @@
+ Bundle-Activator: org.eclipse.papyrus.infra.gmfdiag.common.Activator{ Bundle-Vendor: %providerName Bundle-ActivationPolicy: lazy Bundle-ClassPath: . Bundle-Version: 3.104.0.qualifier Bundle-Localization: plugin Bundle-Name: %pluginName Bundle-ManifestVersion: 2 } 

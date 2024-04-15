@@ -1,0 +1,1 @@
+ public void testWrongSavePoint() throws Exception{  CDOSession session = openModel1Session(); session.getPackageRegistry().putEPackage(getModel1Package());  CDOTransactionImpl transaction1 = (CDOTransactionImpl)session.openTransaction();  // Client1  CDOResource resource1 = transaction1.createResource("/test1");  Company company1 = getModel1Factory().createCompany(); } 

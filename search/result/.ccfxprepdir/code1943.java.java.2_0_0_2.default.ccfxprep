@@ -1,0 +1,7 @@
+1.3.2	+a0	l_string|"kurz,\nsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrsehrlang,\nkurz"
+1.a3.a2	+1	s_,
+1.a5.a4	+c	id|modifyString
+1.b1.b0	+1	)paren
+1.b2.b1	+1	suffix:semicolon
+1.b5.b4	+1	)brace
+2.1.b7	+0	eof

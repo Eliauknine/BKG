@@ -1,0 +1,1 @@
+  connection = RouterUtil.getConnectionRouterFactory(null).createConnectionFigure();  String status = getModel().getAttribute(HIDEN_CON);  if (connection instanceof HideableConnection) { 			((HideableConnection) connection) 					.setHidden((status != null && status.equalsIgnoreCase(HIDDEN) ? true : false)); } }

@@ -1,0 +1,1 @@
+ public void testDetach() throws Exception{  msg("Attaching viewB");  final CDOView viewB = sessionB.openTransaction();  viewB.setInvalidationNotificationsEnabled(true);  msg("Loading resource");  final CDOResource resourceB = viewB.getResource("/test1"); } 

@@ -1,0 +1,1 @@
+import org.eclipse.rwt.RWT;import org.eclipse.rwt.service.IServiceHandler; import org.eclipse.scout.commons.StringUtility; import org.eclipse.swt.widgets.Shell; public class RwtScoutDownloadHandler implements IServiceHandler {  private File m_file;  private URI m_bundleURI; } 

@@ -1,0 +1,1 @@
+ protected void requesting(ExtendedDataOutputStream out) throws IOException{     } CDOClassRef classRef = feature.getContainingClass().createClassRef();  CDOModelUtil.writeClassRef(out, classRef);  out.writeInt(feature.getFeatureID());  if (PROTOCOL.isEnabled())     {  PROTOCOL.format("Writing fromIndex: {0}", fromIndex); } 

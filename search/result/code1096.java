@@ -1,0 +1,1 @@
+ private void checkExpressionOperands(final CompilationTimeStamp timestamp, final{ 			} return; 		}  temporalAssignment = reference2.getRefdAssignment(timestamp, true);  if (temporalAssignment == null) {  setIsErroneous(true);  return; 		} 

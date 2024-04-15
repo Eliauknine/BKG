@@ -1,0 +1,1 @@
+ public static class WWindowImpl extends WLayoutedWidgetImpl<Stage, Pane, MWindow{  private static final String KEY_STAGE_UNDECORATED_DEPRECATED = "efx.window.undecorated";  private static final String KEY_STAGE_ROOT_CONTENT = "efx.window.root.fxml";     private StackPane overlayContainer = new StackPane();  /** } 

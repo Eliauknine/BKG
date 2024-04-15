@@ -1,0 +1,1 @@
+    </configIni>   <launcherArgs>       <programArgs>-product org.eclipse.epp.package.reporting.product</programArgs>       <programArgsWin>--launcher.XXMaxPermSize 256M</programArgsWin>       <vmArgs>-Dosgi.requiredJavaVersion=1.5 }

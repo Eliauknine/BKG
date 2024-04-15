@@ -1,0 +1,1 @@
+ private static final CredentialsProvider createCredentialsProvider(final Credent{ 	}  protected Response execute(Request request, URI uri) throws ClientProtocolException, IOException {  ProxyHelper.setAuthenticator();  return HttpClientProxyUtil.proxyAuthentication(executor, uri).execute(request); 	} 

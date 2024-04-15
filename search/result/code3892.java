@@ -1,0 +1,1 @@
+ 			class="org.eclipse.php.internal.ui.editor.adapter.AdapterFactoryProviderForPhp">			<contentType id="org.eclipse.php.core.phpsource" /> 		</adapterFactoryDescription> 	</extension> 	<extension point="org.eclipse.core.filebuffers.annotationModelCreation"> }

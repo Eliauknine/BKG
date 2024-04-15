@@ -1,0 +1,1 @@
+  return markersToCheck;	}  private ArrayList<MarkerToCheck> namingConvention_ttcn_initializer() {  //namingConvention.ttcn  ArrayList<MarkerToCheck> markersToCheck = new ArrayList<MarkerToCheck>(19); }

@@ -1,0 +1,1 @@
+ 		int relevance = PHPFlags.isConstant(flags) ? relevanceConst : relevanceVar;		relevance += subRelevance; 		noProposal = false; 		if (!requestor.isIgnored(CompletionProposal.FIELD_REF)) { 			CompletionProposal proposal = createProposal(CompletionProposal.FIELD_REF, actualCompletionPosition); } }

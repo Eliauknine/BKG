@@ -1,0 +1,1 @@
+    <extension point="org.eclipse.emf.edit.childCreationExtenders"> <!-- @generated mappingdmr -->       <extender  uri="http://org/eclipse/emf/ecp/view/model"  class="org.eclipse.emf.ecp.view.spi.mappingdmr.model.provider.MappingdmrItemProviderAdapterFactory$ViewChildCreationExtender"/>    </extension> }

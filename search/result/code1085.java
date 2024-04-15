@@ -1,0 +1,1 @@
+ public void processStartModules(final List<Module> startModules, final Map<Modul{  startModule.check(timestamp);				}  final List<AssignmentHandler> startAssignments = getAssignmentsFrom(startModule);//puts additional markers!  for (AssignmentHandler assignmentHandler : startAssignments) {  assignmentHandler.initStartParts();  assignmentHandler.assignment.notCheckRoot(); } 

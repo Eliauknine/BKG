@@ -1,0 +1,1 @@
+ public static void checkLegacySystemAvailability(CDOSession session, CDOObject object) throws LegacySystemNotAvailableException   {  if (session.isDisableLegacyObjects() && object instanceof CDOLegacyImpl)     {  throw new LegacySystemNotAvailableException();     } } 

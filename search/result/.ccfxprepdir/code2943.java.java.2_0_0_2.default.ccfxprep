@@ -1,0 +1,9 @@
+1.e.d	+1	)brace
+1.10.f	+d	id|setCopyPolicy
+1.1d.1c	+0	c_func
+1.1d.1c	+1	(paren
+1.1e.1d	+d	id|newCopyPolicy
+1.2b.2a	+1	)paren
+1.2c.2b	+1	suffix:semicolon
+1.36.35	+1	)brace
+2.1.38	+0	eof

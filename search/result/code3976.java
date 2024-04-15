@@ -1,0 +1,1 @@
+ this.forWrite = forWrite;     }  public void execute(InternalCDOObject object, CDOState state, CDOEvent event, Object NULL)     {  CDOID id = object.cdoID();  CDOViewImpl view = (CDOViewImpl)object.cdoView(); 

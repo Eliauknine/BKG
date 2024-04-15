@@ -1,0 +1,1 @@
+ public void analyze(XpandExecutionContext ctx, final Set<AnalysationIssue> issues) {  try {  if (ctx.getCallback() != null) {  ctx.getCallback().pre(this, ctx); 			}  final Type thisType = ctx.getTypeForName(getType().getValue());  if (thisType == null) { } } } 

@@ -1,0 +1,1 @@
+ @Override  public void notifyChanged(Notification notification) {  super.notifyChanged(notification);  if (null != notification.getNewValue()) {  // if newValue is null we are most probably in the deletion process, no update  // is needed  refreshTransitionTooltip();  refresh(); 			} } 

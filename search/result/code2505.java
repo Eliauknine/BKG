@@ -1,0 +1,1 @@
+ import org.eclipse.e4.core.di.extensions.Preference; import org.eclipse.recommenders.injection.InjectionService; import org.eclipse.recommenders.internal.snipmatch.rcp.EclipseGitSnippetRepository.SnippetRepositoryChangedEvent; import com.google.common.eventbus.EventBus; }

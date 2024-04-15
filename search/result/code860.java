@@ -1,0 +1,1 @@
+ 										foundTaskTag.end() - foundTaskTag.start());								int priority = getTaskPriority(taskTags, taskKeyword); 								reportTask(document, context.getFile(), context.getTaskReporter(), foundTaskTag.start(), 										i + 1 < foundTaskTags.size() ? foundTaskTags.get(i + 1) : null, priority); 							}

@@ -1,0 +1,1 @@
+ 	 * This adds property descriptor for the Column Domain References feature.	 * <!-- begin-user-doc --> 	 * <!-- end-user-doc --> 	 * 	 * @generated 	 */  protected void addColumnDomainReferencesPropertyDescriptor(Object object) { } }

@@ -1,0 +1,1 @@
+ public void testAttached() throws Exception{  Category category = (Category)resource.getContents().get(0); Product product = category.getProducts().get(0);  assertEquals(VAT.VAT7, product.getVat());  session.close();     } 

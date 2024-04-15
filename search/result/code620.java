@@ -1,0 +1,1 @@
+ public IManagedContainer getServerContainer(){  protected IManagedContainer createServerContainer()   {  IManagedContainer container = ContainerUtil.createContainer();  Net4jUtil.prepareContainer(container);  CDONet4jServerUtil.prepareContainer(container); } } 

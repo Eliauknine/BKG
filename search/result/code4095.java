@@ -1,0 +1,1 @@
+ protected IMapping createMapping(CDOClass cdoClass){  @Override protected List<CDOClass> getClassesWithObjectInfo()   {  List<CDOClass> result = new ArrayList();  IPackageManager packageManager = getStore().getRepository().getPackageManager();  for (CDOPackage cdoPackage : packageManager.getPackages())     { } } } 

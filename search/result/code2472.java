@@ -1,0 +1,1 @@
+ protected abstract Control renderControl(final GridCell cell, Composite parent){ 	 * 	 */  protected void applyReadOnly() {  for (final GridCell gridCell : controls.keySet()) {  setControlEnabled(gridCell, controls.get(gridCell), !getVElement().isReadonly()); 		} 	} } 

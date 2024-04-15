@@ -1,0 +1,1 @@
+  final Label usernameLabel = new Label(parent, SWT.NONE); final GridData gridData = new GridData(SWT.RIGHT, SWT.CENTER, false, false,  1, 1);  gridData.widthHint = 95;  usernameLabel.setLayoutData(gridData);  usernameLabel.setText(Messages.LoginDialog_Username); 	}

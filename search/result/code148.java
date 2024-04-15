@@ -1,0 +1,1 @@
+ public void setTarget(Notifier newTarget){  if (newTarget == null)    {  // UNINSTALL  EList<Adapter> adapters = resourceSet.eAdapters();  if (!adapters.contains(this))       {  if (hasActiveView())         {  adapters.add(this); // Add me back to the resource set's list of adapters.  return;         }       }     }  else } 

@@ -1,0 +1,1 @@
+ import org.eclipse.emf.common.notify.impl.AdapterImpl; import org.eclipse.emf.emfstore.internal.common.model.util.FileUtil; import org.eclipse.emf.emfstore.internal.server.model.versioning.ChangePackage; import org.eclipse.emf.emfstore.internal.server.model.versioning.FileBasedChangePackage; import org.eclipse.emf.emfstore.internal.server.model.versioning.VersioningFactory; }

@@ -1,0 +1,1 @@
+ Manifest-Version: 1.0Bundle-ManifestVersion: 2 Bundle-Name: %pluginName Bundle-SymbolicName: org.eclipse.sirius.services.diagram Bundle-Version: 6.1.0.qualifier Bundle-Vendor: %providerName Bundle-RequiredExecutionEnvironment: JavaSE-1.8 }

@@ -1,0 +1,1 @@
+ protected Realm createRealm(){  User adminUser = realm.addUser("Administrator", "0000"); adminUser.getGroups().add(adminsGroup);  OM.LOG.info("Security realm " + realmPath + " created");  return realm;   } 

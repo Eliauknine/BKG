@@ -1,0 +1,1 @@
+   */ private final class RollbackTransition implements ITransition<CDOState, CDOEvent, InternalCDOObject, Object>   {  private CDOState state;  public RollbackTransition(CDOState newState)     {  state = newState;     }  public void execute(InternalCDOObject object, CDOState state, CDOEvent event, Object NULL)     {  changeState(object, this.state);     }   } 

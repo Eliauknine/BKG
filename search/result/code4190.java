@@ -1,0 +1,1 @@
+  IContextService ctxtService = (IContextService) getSite().getService(IContextService.class); fRememberedContextActivation = ctxtService.activateContext("org.eclipse.tm.terminal.TerminalPreferencePage");   synchronized (fSecondaryTerminalCountMutex) {  setPartName(ViewMessages.PROP_TITLE + " " + fSecondaryTerminalCount++);  		}  setupControls(wndParent);  setupActions(); }

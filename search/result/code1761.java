@@ -1,0 +1,1 @@
+import java.lang.reflect.Method; import org.eclipse.ease.modules.IEnvironment; public interface ICodeFactory {  String getSaveVariableName(String variableName);  String createFunctionWrapper(IEnvironment environment, String moduleVariable, Method method); } 

@@ -1,0 +1,1 @@
+ */public class CDOPackageRegistryImpl extends EPackageRegistryImpl implements InternalCDOPackageRegistry {  public static final EModelElement[] SYSTEM_ELEMENTS = new EModelElement[8];  private static final ContextTracer TRACER = new ContextTracer(OM.DEBUG, CDOPackageRegistryImpl.class); } 

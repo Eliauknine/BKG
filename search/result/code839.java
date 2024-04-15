@@ -1,0 +1,1 @@
+ import org.eclipse.emf.diffmerge.ui.util.MiscUtil;import org.eclipse.emf.diffmerge.ui.viewers.AbstractComparisonViewer; import org.eclipse.emf.diffmerge.ui.viewers.ComparisonViewer; import org.eclipse.emf.ecore.provider.EcoreItemProviderAdapterFactory; import org.eclipse.emf.ecore.resource.Resource; import org.eclipse.emf.ecore.resource.ResourceSet; }

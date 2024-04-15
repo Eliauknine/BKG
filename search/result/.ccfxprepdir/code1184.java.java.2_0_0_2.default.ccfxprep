@@ -1,0 +1,10 @@
+1.4.3	+7	id|execute
+1.b.a	+0	c_func
+1.b.a	+1	(paren
+1.c.b	+e	id|tc_integerList
+1.1a.19	+0	c_func
+1.1a.19	+1	(paren
+1.1b.1a	+1	)paren
+1.1c.1b	+1	)paren
+1.1d.1c	+1	suffix:semicolon
+2.1.a7	+0	eof

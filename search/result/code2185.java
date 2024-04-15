@@ -1,0 +1,1 @@
+ public IMarker[] getValidationMarkersList(EObject eObject, int depth, String mar{  // URI of eObj  String[] tmp = ValidationUtil.splitURI(eObject);  if (tmp.length < 2) {  return new IMarker[0]; 		}  String eObjURI = tmp[0]; } 

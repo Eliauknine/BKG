@@ -1,0 +1,1 @@
+  final String path; if (lastPathDelimiter == -1) {  path = projectRelPath; 		}  else {  path = projectRelPath.substring(0, projectRelPath.lastIndexOf("/") + 1);  		}  final String includes = "bin.includes";  }

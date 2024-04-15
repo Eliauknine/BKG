@@ -1,0 +1,1 @@
+ 				} String text = btn.getText();  if ("SWT.BALLOON".equals(text)) {  style |= SWT.BALLOON; 				} else if ("SWT.ICON_INFORMATION".equals(text)) {  style |= SWT.ICON_INFORMATION; 				} else if ("SWT.ICON_ERROR".equals(text)) { }

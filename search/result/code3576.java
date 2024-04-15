@@ -1,0 +1,1 @@
+ public void draw(GC gc, GalleryItem item, int index, int x, int y,{  String description = null;  int descriptionFontHeight = 0;  if (item.getText(1) != null) {  gc.setFont(descriptionFont);  description = RendererHelper.createLabel(item.getText(1), gc,  width - useableHeight - 10); } } 

@@ -1,0 +1,1 @@
+ <h1 id="ReleaseNotesforSirius">Release Notes for Sirius</h1>{  <a href="#sirius6.0.0">Changes in Sirius 6.0.0</a> <ol style="list-style: disc;">  <li>  <a href="#UserVisibleChanges7">User-Visible Changes</a>  </li>  <li>  <a href="#SpecifierVisibleChanges5">Specifier-Visible Changes</a> } 

@@ -1,0 +1,1 @@
+ function postIndex(req, res) { var repo;  var resetType = req.body.Reset;  var filePath = path.join(req.user.workspaceDir, req.params["0"]);  return clone.getRepo(req)  .then(function(_repo) { } } }

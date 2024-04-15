@@ -1,0 +1,1 @@
+  if (index==null) result = roomExt.getPortClassName(((SPPRef)item))+"_"+msg.getName()+"_broadcast(&self->constData->"+item.getName()+argtext+")";  else  result = roomExt.getPortClassName(((SPPRef)item))+"_"+msg.getName()+"(&self->constData->"+item.getName()+argtext+", "+index+")"; 		}

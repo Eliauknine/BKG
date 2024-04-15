@@ -1,0 +1,1 @@
+ package org.eclipse.ui.internal.ide.dialogs;import org.eclipse.core.resources.IContainer; import org.eclipse.core.resources.IProject; import org.eclipse.swt.widgets.Composite; import org.eclipse.swt.widgets.Control; import org.eclipse.ui.PlatformUI; }

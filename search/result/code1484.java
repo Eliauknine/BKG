@@ -1,0 +1,1 @@
+  return fs.readdirAsync(filePath)  .then(function(directoryFiles) {  return Promise.map(directoryFiles, function(entry) {  return write(zip, base, filePath + entry);  }, { concurrency: SUBDIR_SEARCH_CONCURRENCY });  });  }  zip.file(filePath, { name: filePath.substring(base.length).replace(/\\/g, "/") }

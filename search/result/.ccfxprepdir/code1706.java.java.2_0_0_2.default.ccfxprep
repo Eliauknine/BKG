@@ -1,0 +1,13 @@
+1.5.4	+1	)brace
+1.8.7	+1	)brace
+1.b.a	+6	r_return
+1.12.11	+8	id|decorate
+1.1a.19	+0	c_func
+1.1a.19	+1	(paren
+1.1b.1a	+13	id|customLabelProvider
+1.2e.2d	+1	s_,
+1.30.2f	+2	id|op
+1.32.31	+1	)paren
+1.33.32	+1	suffix:semicolon
+1.36.35	+1	)brace
+2.1.38	+0	eof

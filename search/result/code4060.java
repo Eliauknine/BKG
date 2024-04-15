@@ -1,0 +1,1 @@
+ protected void writeFeature(CDOFeatureImpl feature){  boolean many = feature.isMany(); boolean containment = feature.isContainment();  int idx = feature.getFeatureIndex();  DBUtil.insertRow(connection, store.getDBAdapter(), CDODBSchema.FEATURES, id, classID, featureID, name, type,  packageURI, classifierID, many, containment, idx);   } 

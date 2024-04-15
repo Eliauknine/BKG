@@ -1,0 +1,1 @@
+ protected CDOID getResourceNodeID(CDOID folderID, String name){     { return getRootOrTopLevelResourceNodeID(name);     }  else if (name == null)     {  throw new IllegalArgumentException("name");     } } 

@@ -1,0 +1,1 @@
+ protected IStoreAccessor ensureChunk(InternalCDORevision revision, EStructuralFe{  protected InternalCDORevision loadRevision(CDOID id, int referenceChunk)  {  IStoreAccessor accessor = StoreThreadLocal.getAccessor();  return (InternalCDORevision)accessor.readRevision(id, referenceChunk);   }  /** } 

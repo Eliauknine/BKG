@@ -1,0 +1,1 @@
+  private static final String ORG_ECLIPSE_XTEXT_UI_TASKMARKER = "org.eclipse.xtext.ui.taskmarker"; private static final String SL_COMMENT = "SL_COMMENT";  private static final String ML_COMMENT = "ML_COMMENT";  // state  private String pluginId;  private IResource resource; }

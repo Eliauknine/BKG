@@ -1,0 +1,1 @@
+      * @throws IOException     *             In case of error      */  private void handleImage(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse, FilterChain chain) throws ServletException, IOException {  // requestURI = /images/projectname/path/to/a/folder/image.png  String requestURI = httpServletRequest.getRequestURI(); } }

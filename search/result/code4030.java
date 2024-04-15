@@ -1,0 +1,1 @@
+ public Font getFont(Object obj){  @Override protected void fillContextMenu(IMenuManager manager, ITreeSelection selection)   {  if (selection.size() == 1)     {  Object obj = selection.getFirstElement();  if (obj instanceof IBuddy)       {  manager.add(new RemoveAction(obj));       }     }   } } 

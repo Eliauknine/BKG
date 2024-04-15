@@ -1,0 +1,1 @@
+ public void testChunkWithTemporaryObject() throws Exception{  CDOSession session = openModel1Session(); CDOTransaction transaction = session.openTransaction();  transaction.setLoadRevisionCollectionChunkSize(10);  CDOResource resource = transaction.getResource("/test1"); } 

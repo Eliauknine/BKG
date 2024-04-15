@@ -1,0 +1,1 @@
+ * */ public class UICreateBranchController extends  AbstractEMFStoreUIController<ESPrimaryVersionSpec> implements  ESCommitCallback {  private final ProjectSpace projectSpace;  private int dialogReturnValue; } 

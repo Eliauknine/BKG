@@ -1,0 +1,1 @@
+ 		protected boolean isInteresting(ASTNode node) {			if (node.sourceStart() <= variableOffset) { 				if (node instanceof Assignment) { 					Assignment tmp = (Assignment) node; 					if (tmp.getValue().start() <= variableOffset && tmp.getValue().end() > variableOffset) { 						return false; 					} 				} 				return true; 			} } }

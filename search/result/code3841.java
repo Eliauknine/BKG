@@ -1,0 +1,1 @@
+ public void testLoadObject() throws Exception{  CDOFeatureAnalyzerModelBased featureanalyzerModelBased = new CDOFeatureAnalyzerModelBased();  transaction.setFeatureAnalyzer(featureanalyzerModelBased);  transaction.setLoadRevisionCollectionChunkSize(10);  msg("Getting resource"); } 

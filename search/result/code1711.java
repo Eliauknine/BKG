@@ -1,0 +1,1 @@
+ <?eclipse version="3.4"?><plugin>    <extension  point="org.eclipse.emf.emfstore.client.ui.uiRunnableProvider">       <provider  class="org.eclipse.emf.emfstore.internal.client.ui.transaction.PrivilegedRunnableProvider">       </provider> }

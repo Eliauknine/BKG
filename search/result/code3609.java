@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.common.revision.CDOReferenceAdjuster; import org.eclipse.emf.ecore.EClassifier; import org.eclipse.emf.ecore.EEnum; import org.eclipse.emf.ecore.EEnumLiteral; import java.io.IOException; import java.util.Date; }

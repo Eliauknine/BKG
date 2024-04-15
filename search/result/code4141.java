@@ -1,0 +1,1 @@
+ public void draw(GC gc, GalleryItem item, int index, int x, int y, int width, in{  transY = transY >> 1; gc.setForeground(selected ? this.selectionForegroundColor : this.foregroundColor);  gc.setFont(textFont);  gc.drawText(text, x + useableHeight + 5, y + transY , true); 			}  // Draw description  if (description != null && displayDescription) { } 

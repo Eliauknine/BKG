@@ -1,0 +1,1 @@
+ 		<File path="../xsd/www_example_org_pref1.xsd" />		<File path="../xsd/www_example_org_pref2.xsd" /> 		<File path="../xsd/www_example_org_pref3.xsd" />             </File_Group>             <File_Group name="XmlTest_xsds" >                 <File path="../XmlTest_xsds/XmlTest_boolean.xsd" /> }

@@ -1,0 +1,1 @@
+ share.setImage(MarketplaceClientUiPlugin.getInstance()				.getImageRegistry() 				.get(MarketplaceClientUiPlugin.ITEM_ICON_SHARE));  share.getAccessible().addAccessibleListener(new AccessibleAdapter() {  @Override  public void getName(AccessibleEvent e) { } } 

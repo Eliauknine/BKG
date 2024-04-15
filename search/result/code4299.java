@@ -1,0 +1,1 @@
+  class="org.eclipse.team.internal.ui.actions.ConfigureProjectAction"  menubarPath="team.main/projectGroup"  enablesFor="1"  id="org.eclipse.team.ui.ConfigureProject">          </action>       </objectContribution>    </extension> }

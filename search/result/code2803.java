@@ -1,0 +1,1 @@
+ import org.eclipse.bpmn2.modeler.ui.features.flow.MessageFlowFeatureContainer;import org.eclipse.emf.ecore.EClass; import org.eclipse.emf.ecore.EObject; import org.eclipse.graphiti.features.IAddFeature; import org.eclipse.graphiti.features.ICreateFeature; import org.eclipse.graphiti.features.IDeleteFeature; }

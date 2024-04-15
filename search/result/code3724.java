@@ -1,0 +1,1 @@
+ private void send(Collection<CDOXATransactionCommitContext> xaContexts, final IP{  futures.add(executorService.submit(xaContext));      }  for (Future<Object> future : futures)       {  future.get();       }     } 

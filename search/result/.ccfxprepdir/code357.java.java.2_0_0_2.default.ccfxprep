@@ -1,0 +1,13 @@
+1.1.0	+6	r_public
+1.8.7	+9	r_interface
+1.12.11	+12	id|IKernelPreferences
+1.25.24	+1	(brace
+1.28.27	+5	r_final
+1.2e.2d	+6	r_static
+1.35.34	+6	id|String
+1.3c.3b	+15	id|KERNEL_PREFERENCES_ID
+1.52.51	+1	s_=
+1.54.53	+21	l_string|"org.eclipse.papyrus.moka.kernel"
+1.75.74	+1	suffix:semicolon
+1.77.76	+1	)brace
+2.1.7a	+0	eof

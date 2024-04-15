@@ -1,0 +1,1 @@
+ protected Set<IDBTable> mapClasses(CDOClassImpl... cdoClasses){  Set<IDBTable> affectedTables = new HashSet<IDBTable>(); if (cdoClasses != null && cdoClasses.length != 0)     {  IMappingStrategy mappingStrategy = store.getMappingStrategy();  for (CDOClassImpl cdoClass : cdoClasses)       {  IClassMapping mapping = mappingStrategy.getClassMapping(cdoClass); } } } 

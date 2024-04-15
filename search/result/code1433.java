@@ -1,0 +1,1 @@
+ define({//Default message bundle{  "Regular expression" : "Regular expression", "Search options" : "Search options",  "Global search" : "Global search",  "Orion Home" : "Orion Home",  "Close notification" : "Close notification",  "OpPressSpaceMsg" : "Operations - Press spacebar to show current operations",  "Toggle side panel" : "Toggle side panel", } 

@@ -1,0 +1,1 @@
+ 		} final int lineCount = text.getLineCount();  int height = lineCount * text.getLineHeight();  final int maxHeight = getMaxTextHeight();  final int minHeight = getMinTextHeight();  if (height > maxHeight) { }

@@ -1,0 +1,1 @@
+ 		 */ protected String getLabel(String typeName) {  try {  return DocumentstructuretemplateEditPlugin.INSTANCE.getString("_UI_" + typeName + "_type");   			} catch (MissingResourceException mre) {  DocumentstructuretemplateEditorPlugin.INSTANCE.log(mre); 			}  return typeName; 		} }

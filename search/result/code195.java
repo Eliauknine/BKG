@@ -1,0 +1,1 @@
+  @Override  protected String[] fillTypeCombo() {  List<String> list = new ArrayList<>();  for (DataType dataType : getDataTypeLib().getDataTypesSorted()) {  list.add(dataType.getName()); 		}  return list.toArray(new String[0]); } }

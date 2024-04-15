@@ -1,0 +1,1 @@
+  fMonitor.worked(100);	} catch(Exception e) {  org.eclipse.ve.internal.java.core.JavaVEPlugin.log(e) ; 	}  finally {          JavaVEPlugin.log ("JavaBeanModelBuilder.build(), Done.", Level.FINE) ;   fMonitor.done(); 	}

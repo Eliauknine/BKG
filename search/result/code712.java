@@ -1,0 +1,1 @@
+ 					getWizard().getContainer().run(true, true, pm -> {						pm.beginTask(PHPUnitMessages.PHPUnitSearchEngine_Searching, IProgressMonitor.UNKNOWN); 						List<IType> elements = searchEngine.findPHPUnitClassesByTestCase(scriptProject, true, false,  new SubProgressMonitor(pm, IProgressMonitor.UNKNOWN)); 						elementsList.addAll(elements); 						pm.done(); 					}); }

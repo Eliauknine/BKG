@@ -1,0 +1,1 @@
+ helper.assertWarning(clazz.eContainer(), XTEND_IMPORT, IMPORT_WILDCARD_DEPRECATED);	}  @Test public void testPrivateUnusedField() throws Exception {  XtendClass clazz = clazz("import java.util.List class X { private List sb }");  helper.assertWarning(clazz.eContainer(), XTEND_FIELD,FIELD_LOCALLY_NEVER_READ , "not"); 

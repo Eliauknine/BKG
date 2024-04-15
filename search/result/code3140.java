@@ -1,0 +1,1 @@
+ Import-Package: com.mongodb;version="[2.0.0,3.0.0)",{  org.bson.io;version="[2.0.0,3.0.0)", org.bson.types;version="[2.0.0,3.0.0)",  org.bson.util;version="[2.0.0,3.0.0)" Export-Package: org.eclipse.emf.cdo.tests.mongodb;version="4.0.0",  org.eclipse.emf.cdo.tests.mongodb.bundle;version="4.0.0" } 

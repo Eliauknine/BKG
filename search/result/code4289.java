@@ -1,0 +1,1 @@
+  expProgressMonitor.worked(1);		      }  catch (Exception e) {  if (JavaVEPlugin.isLoggingLevel(Level.WARNING)) {  JavaVEPlugin.log("Skipping expression: "+codeRef.getCodeContent(),Level.WARNING) ;  		      		  JavaVEPlugin.log(e, Level.WARNING); 		      	} }

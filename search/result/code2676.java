@@ -1,0 +1,1 @@
+ private void handleTableRowSelected(ITable table, ITableRow tableRow) throws Pro{  if (tableRow == null) {  //Make sure there always is selected row. if NodePageSwitch is enabled the same page and therefore the same table is on different pageForms  selectPageTableRowIfNecessary(table);  return;     } } 

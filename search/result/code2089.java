@@ -1,0 +1,1 @@
+ import org.eclipse.core.databinding.DataBindingContext;import org.eclipse.core.databinding.UpdateValueStrategy; import org.eclipse.core.databinding.observable.value.IObservableValue; import org.eclipse.emf.databinding.EMFUpdateValueStrategy; import org.eclipse.emf.ecore.EStructuralFeature; import org.eclipse.emf.ecore.EStructuralFeature.Setting; }

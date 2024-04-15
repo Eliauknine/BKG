@@ -1,0 +1,1 @@
+ private boolean hasCompatibleMethod(IMethod filterMethod, IType typeToFindIn){  private boolean isCompatibleMethod(IMethod filterMethod, IMethod method,  boolean filterOverrides) throws ModelException {  return false; 	}  /** } 

@@ -1,0 +1,1 @@
+ @Override  public void viewpointSelected(Viewpoint selectedViewpoint) {  update(selectedViewpoint);   }  @Override  public void viewpointDeselected(Viewpoint deselectedViewpoint) {  update(deselectedViewpoint);   } 

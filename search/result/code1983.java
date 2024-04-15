@@ -1,0 +1,1 @@
+ 	 * Appends the start, length parameters to the buffer	 */ 	protected void appendInterval(StringBuffer buffer) { 		buffer.append(" start='").append(start).append("' length='").append(length).append("'");    	} }

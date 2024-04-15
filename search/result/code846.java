@@ -1,0 +1,1 @@
+ */@Component(name = "EMFFormsDomainExpanderImpl") public class EMFFormsDomainExpanderImpl implements EMFFormsDomainExpander {  private final Set<EMFFormsDMRExpander> emfFormsDMRExpanders = new CopyOnWriteArraySet<EMFFormsDMRExpander>();  /** 	 * Called by the framework to add an {@link EMFFormsDMRExpander} to the set of DMR expanders. 	 * } 

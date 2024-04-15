@@ -1,0 +1,1 @@
+		 * (non-Javadoc)		 *  		 * @seeorg.eclipse.ui.dialogs.FilteredItemsSelectionDialog.ItemsFilter# 		 * isSubFilter 		 * (org.eclipse.ui.dialogs.FilteredItemsSelectionDialog.ItemsFilter) 		 */ 		@Override 		public boolean isSubFilter(ItemsFilter filter) { } 

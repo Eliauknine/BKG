@@ -1,0 +1,1 @@
+       <editor  class="org.eclipse.amalgam.explorer.activity.ui.api.editor.ActivityExplorerEditor"  default="false"  icon="icons/full/obj16/menu-overview.gif"  id="org.eclipse.amalgam.explorer.activity.ui.editor.activityExplorerEditor"  name="%editor.name"> }

@@ -1,0 +1,1 @@
+             <keywordReference id="org.eclipse.ui.ide.project">             </keywordReference>             <keywordReference  id="org.eclipse.epp.mpc.projectnature">             </keywordReference> }

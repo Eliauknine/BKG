@@ -1,0 +1,1 @@
+                <iterate  ifEmpty="false"  operator="and">                   <test  property="org.eclipse.core.resources.projectNature"  value="org.eclipse.ptp.rdt.sync.core.remoteSyncNature">                   </test>                </iterate>             </visibleWhen>             <dynamic }

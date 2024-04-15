@@ -1,0 +1,1 @@
+ import org.eclipse.scout.commons.logger.ScoutLogManager; import org.eclipse.scout.rt.ui.rap.AbstractRwtEnvironment; import org.eclipse.scout.rt.ui.rap.window.filedownloader.RwtScoutDownloadHandler; import org.eclipse.swt.events.DisposeEvent; import org.eclipse.swt.events.DisposeListener; import org.eclipse.swt.widgets.Shell; /**  * @since 3.8.0 }

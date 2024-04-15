@@ -1,0 +1,1 @@
+ import org.eclipse.net4j.util.lifecycle.ILifecycleEvent;import org.eclipse.net4j.util.lifecycle.ILifecycleEvent.Kind; import org.eclipse.net4j.util.lifecycle.LifecycleEventAdapter; import org.eclipse.emf.common.util.URI; import org.eclipse.emf.ecore.EObject; }

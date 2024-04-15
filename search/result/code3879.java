@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.tests.model1.Company; import org.eclipse.emf.cdo.tests.model1.Order; import org.eclipse.emf.cdo.tests.model1.OrderDetail; import org.eclipse.emf.cdo.util.CDOUtil; import org.eclipse.emf.common.util.URI; import org.eclipse.emf.ecore.resource.ResourceSet; import org.eclipse.emf.ecore.util.EcoreUtil; }

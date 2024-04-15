@@ -1,0 +1,1 @@
+ protected void work(Reference<? extends InternalCDORevision> reference){  InternalCDORevision revision = removeRevision(id, version); if (revision == null)     {  fireEvent(new EvictionEventImpl(this, id, version));     }  else     {  // Should not happen with garbage collector triggered eviction  fireEvent(new EvictionEventImpl(this, revision));     }   } 

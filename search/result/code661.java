@@ -1,0 +1,1 @@
+	 * @return {@link MarkerType} or <code>null</code> if it is not found.	 */  public MarkerType getType(String typeId) {  Map<String, MarkerType> all = getTypesTable();  if (all.containsKey(typeId)) {  return all.get(typeId); 		}  return null; 	}  /** 

@@ -1,0 +1,1 @@
+	 *	 * @param view the {@link VView} 	 * @param sampleData the sample data to be displayed in the view 	 * */  public void render(final VView view, EObject sampleData) {  if (adapter != null) {  removeAdapter(); } } 

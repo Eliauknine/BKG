@@ -1,0 +1,1 @@
+  IModelProvider provider = new JSONConnector(new BaSyxConnector(hostName, hostPort)); // Create proxy, if necessary  String path = address.replace(hostName + ":" + hostPort, "");  if (!path.isEmpty() && !path.equals("/")) {  provider = new VABElementProxy(path, provider); 		} }

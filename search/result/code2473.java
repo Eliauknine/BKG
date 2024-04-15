@@ -1,0 +1,1 @@
+ 	 * @throws NoPropertyDescriptorFoundExeption this is thrown when no property descriptor can be found	 * @since 1.3 	 */  protected abstract Control renderControl(final GridCell cell, Composite parent) throws NoRendererFoundException,  NoPropertyDescriptorFoundExeption;  /** }

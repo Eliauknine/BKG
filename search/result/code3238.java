@@ -1,0 +1,1 @@
+  private String createTypeComment(IType type, String lineDelimiter)  throws CoreException {  // String[] typeParameterNames=  // StubUtility.getTypeParameterNames(type.getFields());  return CodeGeneration.getTypeComment(type.getScriptProject(), type 				.getTypeQualifiedName(), /* typeParameterNames */null, } }

@@ -1,0 +1,1 @@
+ public class TerminalView extends ViewPart implements ITerminalView, ITerminalLi{  protected boolean fMenuAboutToShow;  private ISettingsStore fStore;  /** Remember the item with which we contributed the shortcut to unregister them again! */  private IContextActivation fRememberedContextActivation; } 

@@ -1,0 +1,1 @@
+   } protected IUrlTarget computeTargetAuto(String link) {  if (isEmailLink(link) || (isTelLink(link))) {  return UrlTarget.SELF;     }  else if (isHttpLink(link)) {  return UrlTarget.BLANK;     }  return UrlTarget.AUTO; }

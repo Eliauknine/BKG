@@ -1,0 +1,1 @@
+  *******************************************************************************/ package org.eclipse.equinox.internal.p2.ui; import org.eclipse.equinox.p2.query.QueryUtil; import java.io.*; import java.net.URI; import java.net.URISyntaxException; }

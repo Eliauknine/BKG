@@ -1,0 +1,1 @@
+  if (callback) { var storageKey = preferences.listenForChangedSettings(SETTINGS_SECTION, function (e) {  if (e.key === storageKey) {  callback();   }  }.bind(this));  }  }    EditorPreferences.prototype = /** @lends edit.EditorPreferences.prototype */ {  _initialize: function(prefs) {  var settings = prefs.get(SETTINGS_KEY) || {}; } }

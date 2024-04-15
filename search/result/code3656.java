@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.common.revision.delta.CDORevisionDelta;import org.eclipse.emf.cdo.eresource.CDOResource; import org.eclipse.emf.common.util.EList; import org.eclipse.emf.common.util.URI; import org.eclipse.emf.ecore.EClass; import org.eclipse.emf.ecore.resource.ResourceSet; }

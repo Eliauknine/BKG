@@ -1,0 +1,1 @@
+ private boolean includesExactAndDown(CDORevision revision, CDORevisionProvider r{  String revisionPath = CDORevisionUtil.getResourceNodePath(revision, revisionProvider); String path = getPath();  int length = revisionPath.length();  if (length < path.length())     {  return false;     }  revisionPath = revisionPath.substring(0, length);  return revisionPath.equals(path);   } 

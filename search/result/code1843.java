@@ -1,0 +1,1 @@
+ public EMFFormsAbstractSpreadsheetRenderer<VTableControl> getRendererInstance( VTableControl vElement, ViewModelContext viewModelContext) {  return new EMFFormsSpreadsheetTableControlRenderer(emfformsDatabinding, emfformsLabelProvider, reportService,  emfformsSpreadsheetRendererFactory, vtViewTemplateProvider, emfFormsIdProvider, converterRegistry); 	} 

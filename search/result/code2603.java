@@ -1,0 +1,1 @@
+ * @since 4.0 <!-- end-user-doc --> * @generated  */ public class ModelElementItemProvider extends ItemProviderAdapter implements IEditingDomainItemProvider,  IStructuredItemContentProvider, ITreeItemContentProvider, IItemLabelProvider, IItemPropertySource,  ITableItemLabelProvider, ITableItemColorProvider, ITableItemFontProvider, IItemColorProvider, IItemFontProvider { } 

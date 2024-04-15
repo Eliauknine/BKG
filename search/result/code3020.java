@@ -1,0 +1,1 @@
+ SyncMenuOperation_2=Null command sent by UI element{ SyncMenuOperation_3=Synchronization ErrorSyncMenuOperation_4=Disable auto-sync error messages until next successful sync SyncMenuOperation_5=Synchronization error for project:  WorkspaceConfigName=Workspace BRPPage_RemoteProviderLabel=Remote Provider: } 

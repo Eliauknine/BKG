@@ -1,0 +1,1 @@
+ bool CCommFB::createInterfaceSpec(const char *paConfigString, SFBInterfaceSpec &paInterfaceSpec){   TIdentifier tempstring;  char *sParamA = 0;  char *sParamB = 0;   paInterfaceSpec.m_nNumEIs = 2;   paInterfaceSpec.m_nNumEOs = 2; } }

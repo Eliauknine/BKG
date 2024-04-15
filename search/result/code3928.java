@@ -1,0 +1,1 @@
+ private String repositoryName;  private boolean disableLegacyObjects;  public OpenSessionRequest(IChannel channel, String repositoryName, boolean disableLegacyObjects)   {  super(channel);  this.repositoryName = repositoryName;  this.disableLegacyObjects = disableLegacyObjects;   }  @Override 

@@ -1,0 +1,1 @@
+ private static final PerfTracer REVISION_LOADING = new PerfTracer(OM.PERF_REVISION_LOADING, CDORevisionManagerImpl.class);  private StringCompressor packageURICompressor = new StringCompressor(true);  public CDOClientProtocol()   { } 

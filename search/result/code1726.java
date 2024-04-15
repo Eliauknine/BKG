@@ -1,0 +1,1 @@
+  * Contributors:  *     itemis - Initial API and implementation  *     itemis - [458862] Navigation from problem markers in Check Validation view to model editors and Model Explorer view broken  *  * </copyright>  */ }

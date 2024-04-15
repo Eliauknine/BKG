@@ -1,0 +1,1 @@
+ protected List<InternalCDORevision> loadRevisions(Collection<CDOID> ids, int ref{  List<InternalCDORevision> revisions = new ArrayList<InternalCDORevision>(); for (CDOID id : ids)     {  InternalCDORevision revision = (InternalCDORevision)accessor.readRevision(id, referenceChunk);  revisions.add(revision);     } } 

@@ -1,0 +1,1 @@
+ define("orion/editor/actions", [ //$NON-NLS-0${  }.bind(this) };  textView.addEventListener("ModelChanged", this._lastEditListener.onModelChanged); //$NON-NLS-0$    textView.setAction("undo", function() { //$NON-NLS-0$  if (this.undoStack) {  this.undoStack.undo(); } 

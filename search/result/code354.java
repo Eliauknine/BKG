@@ -1,0 +1,1 @@
+ @Override  public void run() {  ScopedPreferenceStore store = new ScopedPreferenceStore(ConfigurationScope.INSTANCE, KERNEL_PREFERENCES_ID);  File serverExecutable = new File(store.getString(MQTT_SERVER_PATH));  if (serverExecutable.exists() && serverExecutable.isFile()) {  ProcessBuilder builder = new ProcessBuilder().inheritIO(); } } 

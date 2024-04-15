@@ -1,0 +1,1 @@
+ private void handleTableRowsInserted(ITable table, ITableRow[] tableRows) throws{  setTableRowDrillDownStyle(table, tableRows);  }  protected void selectPageTableRowIfNecessary(final ITable pageDetailTable) throws ProcessingException {  if (!m_pageFormConfig.isKeepSelection() || pageDetailTable == null || pageDetailTable.getRowCount() == 0) {  return;     } } 

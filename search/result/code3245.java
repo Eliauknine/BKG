@@ -1,0 +1,1 @@
+ public SourceRange getReplacementRange(ICompletionContext context){  AbstractCompletionContext completionContext = (AbstractCompletionContext) context;  int length = completionContext.getPrefix().length();  int start = completionContext.getOffset() - length;  int prefixEnd = completionContext.getPrefixEnd(); } 

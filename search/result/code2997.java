@@ -1,0 +1,1 @@
+ public String getInterfaceItemMessageText(InterfaceItem item, Message msg, Array{  if (index==null)  result = roomExt.getPortClassName(p)+"_"+msg.getName()+"_broadcast(&self->constData->"+item.getName()+argtext+")";  else  result = roomExt.getPortClassName(p)+"_"+msg.getName()+"(&self->constData->"+item.getName()+argtext+", "+index+")"; 				} 			} 

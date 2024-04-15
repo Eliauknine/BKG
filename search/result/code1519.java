@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecp.emf2web.util.AbstractReferenceHelper;import org.eclipse.emf.ecp.view.spi.model.VDomainModelReference; import org.eclipse.emf.ecp.view.spi.model.VFeaturePathDomainModelReference; /**  * @author Stefan Dirix }

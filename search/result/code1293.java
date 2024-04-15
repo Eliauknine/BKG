@@ -1,0 +1,1 @@
+ 		boolean isUseConstStatement = false;		if (context instanceof UseStatementContext) { 			nsUseGroupPrefix = ((UseStatementContext) context).getGroupPrefixBeforeOpeningCurly(); 			isUseConstStatement = ((UseStatementContext) context).isUseConstStatement(); 		} }

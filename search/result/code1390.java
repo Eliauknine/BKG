@@ -1,0 +1,1 @@
+  var stashesPromises = []; return clone.getRepo(req)  .then(function(repo) {  fileDir = api.join(fileRoot, repo.workdir().substring(req.user.workspaceDir.length + 1));  return git.Stash.foreach(repo, function(index, message, oid) {  if (filter && message.indexOf(filter) === -1) return;  stashesPromises.push(repo.getCommit(oid) } } }

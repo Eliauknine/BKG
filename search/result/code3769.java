@@ -1,0 +1,1 @@
+ private static final ContextTracer PROTOCOL = new ContextTracer(OM.DEBUG_PROTOCOL, CommitTransactionPhase2Indication.class);  public CommitTransactionPhase2Indication()   {   }  @Override  protected short getSignalID()   {  return CDOProtocolConstants.SIGNAL_COMMIT_TRANSACTION_PHASE2;   }  @Override 

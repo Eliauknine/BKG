@@ -1,0 +1,1 @@
+  for (final HistoryInfo info : resultCandidates) { if (info.getPrimarySpec().getIdentifier() != -1 				&& (biggest && info.getPrimarySpec().compareTo(result) == 1 || !biggest && info.getPrimarySpec() 				.compareTo(result) == -1)) {  result = info.getPrimarySpec(); 			} 		} }

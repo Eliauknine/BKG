@@ -1,0 +1,1 @@
+ @Order(10)  public class DefaultField extends AbstractImageField {  @Override  protected int getConfiguredDragType() {  return TYPE_FILE_TRANSFER;         }  @Override  protected int getConfiguredDropType() {  return TYPE_FILE_TRANSFER; } } 

@@ -1,0 +1,1 @@
+ import org.eclipse.emf.internal.cdo.InternalCDOObject;import org.eclipse.emf.internal.cdo.util.FSMUtil; import org.eclipse.core.resources.IFile; import org.eclipse.core.resources.IMarker; import org.eclipse.core.resources.IResource; }

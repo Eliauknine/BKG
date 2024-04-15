@@ -1,0 +1,1 @@
+  */package org.eclipse.scada.configuration.component.tests; import junit.framework.TestCase; import junit.textui.TestRunner; import org.eclipse.scada.configuration.component.ComponentFactory; import org.eclipse.scada.configuration.component.MappedSourceValue; }

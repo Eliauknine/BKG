@@ -1,0 +1,1 @@
+  *******************************************************************************/package org.eclipse.ptp.internal.rdt.sync.ui.preferences; import org.eclipse.jface.dialogs.Dialog; import org.eclipse.jface.window.Window; import org.eclipse.ptp.internal.rdt.sync.ui.messages.Messages; }

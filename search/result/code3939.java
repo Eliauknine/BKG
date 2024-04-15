@@ -1,0 +1,1 @@
+ map.put(CDOProtocolConstants.PROTOCOL_NAME, factory);  }  public static void prepareContainer(IManagedContainer container, boolean disableLegacyObjects)   {  container.registerFactory(new CDOClientProtocolFactory());  container.addPostProcessor(new LegacyObjectDisabler(disableLegacyObjects));   

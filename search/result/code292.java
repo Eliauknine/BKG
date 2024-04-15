@@ -1,0 +1,1 @@
+ public void export(IFile typeFile, String destination, boolean forceOverwrite, L{  // check differences of the files using the compare editor  boolean diffs = false;  if (!overwrite && (null != opener)) {  for (StoredFiles sf : writtenFiles) {  if ((null != sf.getNewFile()) && (null != sf.getOldFile())) {  opener.setName(sf.getNewFile().getName()); } } } } 

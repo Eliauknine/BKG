@@ -1,0 +1,1 @@
+ 	 */ private Composite createComposite(Composite parent) {  final Composite composite = new Composite(parent, SWT.NONE);  composite.setBackground(parent.getBackground());  GridLayoutFactory.fillDefaults().numColumns(1).equalWidth(false).applyTo(composite);  GridDataFactory.fillDefaults().grab(true, true).align(SWT.FILL, SWT.FILL).applyTo(composite);  return composite; } }

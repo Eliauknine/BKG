@@ -1,0 +1,14 @@
+1.4.3	+1	s_*
+1.5.4	+1	s_/
+1.7.6	+6	id|Layout
+1.e.d	+f	id|getColumnLayout
+1.1d.1c	+0	c_func
+1.1d.1c	+1	(paren
+1.1e.1d	+3	r_int
+1.22.21	+a	id|numColumns
+1.2c.2b	+1	s_,
+1.2e.2d	+7	r_boolean
+1.36.35	+a	id|equalWidth
+1.40.3f	+1	)paren
+1.41.40	+1	suffix:semicolon
+3.1.69	+0	eof

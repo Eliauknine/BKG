@@ -1,0 +1,17 @@
+1.2.1	+4	id|data
+1.6.5	+1	s_:
+1.7.6	+1	(brace
+1.13.12	+1	s_-
+1.15.14	+2c	l_string|"Agent/Configure:adam.brousseau88@gmail.com"
+1.4b.4a	+1	s_-
+1.4d.4c	+2a	l_string|"Agent/Connect:adam.brousseau88@gmail.com"
+1.82.81	+1	s_-
+1.84.83	+2d	l_string|"Agent/Disconnect:adam.brousseau88@gmail.com"
+1.bc.bb	+1	s_-
+1.be.bd	+2a	l_string|"Job/Configure:adam.brousseau88@gmail.com"
+1.f3.f2	+1	s_-
+1.f5.f4	+1b	l_string|"Overall/Administer:admins"
+1.11b.11a	+1	s_-
+1.11d.11c	+14	l_string|"Job/Read:anonymous"
+1.132.131	+1	)brace
+2.1.135	+0	eof

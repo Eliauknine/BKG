@@ -1,0 +1,1 @@
+                       </pluginExecutionFilter>                      <action><ignore /></action>                     </pluginExecution>                     <pluginExecution>                       <pluginExecutionFilter>                         <groupId>org.jacoco</groupId> }

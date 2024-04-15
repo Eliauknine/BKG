@@ -1,0 +1,1 @@
+  final VTableDomainModelReference tableDMR = (VTableDomainModelReference) domainModelReference;  IValueProperty valueProperty;  try {  valueProperty = Activator.getDefault().getEMFFormsDatabinding().getValueProperty(tableDMR); 		} catch (final DatabindingFailedException ex) {  Activator.getDefault().getReportService().report(new DatabindingFailedReport(ex));  return; } }

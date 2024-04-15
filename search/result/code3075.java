@@ -1,0 +1,1 @@
+ define(['require', 'dojo', 'dijit','orion/explorer', 'orion/util', 'orion/fileCl{  this.fileClient = fileClient;   this._resultLocation = resultLocation;  this.searchStr = searchStr.toLowerCase();  this._treeRoot = {  isRoot: true, } } 

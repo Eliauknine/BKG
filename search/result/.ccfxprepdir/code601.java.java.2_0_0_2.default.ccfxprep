@@ -1,0 +1,13 @@
+1.bf.be	+1	s_@
+1.c0.bf	+8	id|Override
+1.cc.cb	+6	r_public
+1.d3.d2	+4	r_void
+1.d8.d7	+15	id|handleDeclarationLink
+1.ed.ec	+0	c_func
+1.ed.ec	+1	(paren
+1.ee.ed	+d	id|IModelElement
+1.fc.fb	+a	id|linkTarget
+1.106.105	+1	)paren
+1.108.107	+1	(brace
+1.10a.109	+1	)brace
+2.1.10d	+0	eof

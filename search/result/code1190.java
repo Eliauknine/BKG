@@ -1,0 +1,1 @@
+ @Override  public void run() {  try {  final VView view = ViewProviderHelper.getView(eObject, context);  final ViewModelContext modelContext = ViewModelContextFactory.INSTANCE 					.createViewModelContext( } } 

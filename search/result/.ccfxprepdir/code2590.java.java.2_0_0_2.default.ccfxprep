@@ -1,0 +1,17 @@
+1.1c4.1c3	+a	id|Comparator
+1.1ce.1cd	+1	s_<
+1.1cf.1ce	+1	s_?
+1.1d0.1cf	+1	s_>
+1.1d2.1d1	+14	id|getMatchIDComparator
+1.1e6.1e5	+0	c_func
+1.1e6.1e5	+1	(paren
+1.1e7.1e6	+1	)paren
+1.1e8.1e7	+1	suffix:semicolon
+1.29e.29d	+7	r_boolean
+1.2a6.2a5	+c	id|keepMatchIDs
+1.2b2.2b1	+0	c_func
+1.2b2.2b1	+1	(paren
+1.2b3.2b2	+1	)paren
+1.2b4.2b3	+1	suffix:semicolon
+1.2b6.2b5	+1	)brace
+2.1.2b8	+0	eof

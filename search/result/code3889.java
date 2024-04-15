@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.tests.NoLegacyTest; import org.eclipse.emf.cdo.tests.NonCDOResourceTest; import org.eclipse.emf.cdo.tests.ResourceTest; import org.eclipse.emf.cdo.tests.RevisionDeltaTest; import org.eclipse.emf.cdo.tests.RevisionHolderTest; import org.eclipse.emf.cdo.tests.RollbackTest; import org.eclipse.emf.cdo.tests.StateMachineTest; }

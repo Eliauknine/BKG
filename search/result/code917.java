@@ -1,0 +1,1 @@
+   * If loading stream is defined via {@link IPersistentModelScope.Editable#setStream(java.io.InputStream)},   * then only {@link IPersistentModelScope#getHoldingResource()} is taken into account as root resource.    */  public static interface Editable extends IFragmentedModelScope, IPersistentModelScope.Editable {  // Nothing more   } 

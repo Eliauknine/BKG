@@ -1,0 +1,1 @@
+ package org.eclipse.ease.ui.dnd;import java.io.File; import java.util.Collection; import java.util.HashSet; import org.eclipse.core.runtime.CoreException; import org.eclipse.core.runtime.IConfigurationElement; }

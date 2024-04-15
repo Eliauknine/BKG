@@ -1,0 +1,1 @@
+ protected final IMergeViewerItem.Container createBasicContainer(EObject eObject){  if (!isEmpty(diffs)) {  Diff diff = diffs.iterator().next();  ret = createInsertionPoint(diff, fSide, fAdapterFactory); 			} 		} 

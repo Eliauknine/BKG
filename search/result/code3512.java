@@ -1,0 +1,1 @@
+ protected void handleTimeout(long untouched){  cancel(new TimeoutRuntimeException("Timeout after " + untouched + " millis"));    }  private void scheduleTimeout()   {  timeoutTask = new TimerTask() } 

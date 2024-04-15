@@ -1,0 +1,1 @@
+ public List<ICustomShortcut> getCustomShortcuts() { return this.customShortcuts; 	}    public IFacetManager getFacetManager() {  return this.facetManager; 	}    public List<IFacetSetShortcut> getFacetSetShortcuts() {  return this.facetSetShortcuts; 	}    @Override  public void dispose() {  this.facetManager.removeListener(this.facetMgrListener); } 

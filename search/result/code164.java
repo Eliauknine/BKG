@@ -1,0 +1,1 @@
+  }  public static CDOLockState copyLockState(CDOLockState lockState)   {  CheckUtil.checkArg(lockState instanceof CDOLockStateImpl, "lockState instanceof CDOLockStateImpl");  return ((CDOLockStateImpl)lockState).copy();   

@@ -1,0 +1,1 @@
+  private IViewPart getView(final String ID, boolean restore) { // Find out view using the specified ID  IViewPart view = null;  IViewReference viewReferences[] = PlatformUI.getWorkbench() 				.getActiveWorkbenchWindow().getActivePage().getViewReferences();  int i = 0;  while (view == null && i < viewReferences.length) {  if (viewReferences[i].getId().equals(ID)) { } } } }

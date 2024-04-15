@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.tests.model1.Product1; import org.eclipse.emf.cdo.tests.model1.SalesOrder; import org.eclipse.emf.cdo.tests.model1.VAT; import org.eclipse.emf.cdo.transaction.CDOTransaction; import org.eclipse.emf.cdo.util.CDOUtil; import org.eclipse.emf.cdo.util.CommitException; }

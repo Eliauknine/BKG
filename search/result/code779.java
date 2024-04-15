@@ -1,0 +1,1 @@
+ import org.eclipse.fordiac.ide.gef.editparts.InterfaceEditPart; import org.eclipse.fordiac.ide.gef.editparts.LabelDirectEditManager; import org.eclipse.fordiac.ide.gef.editparts.NameCellEditorLocator; import org.eclipse.fordiac.ide.model.libraryElement.Color; import org.eclipse.fordiac.ide.model.libraryElement.Device; import org.eclipse.fordiac.ide.model.libraryElement.FB; }

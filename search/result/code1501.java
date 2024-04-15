@@ -1,0 +1,1 @@
+ 		String[] parameter = new String[args.size()]; 		String[] initializers = new String[args.size()]; 		for (int = 0; < args.size(); a++) { 			Argument arg = (Argument) args.get(a); 			parameter[a] = arg.getName(); } }

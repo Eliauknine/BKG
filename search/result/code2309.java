@@ -1,0 +1,1 @@
+  label="%LoadUnloadCustoms" style="push">                <visibleWhen  checkEnabled="false">                   <with  variable="activePart">                      <adapt  type="org.eclipse.emf.facet.custom.core.ICustomizationManagerProvider">                      </adapt>                   </with>                </visibleWhen>             </command> }

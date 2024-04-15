@@ -1,0 +1,1 @@
+ protected MarketplaceCategory findMarketplaceCategory(IProgressMonitor monitor){  SubMonitor progress = SubMonitor.convert(monitor, Messages.MarketplaceDiscoveryStrategy_catalogCategory, 10000);  try {  for (CatalogCategory candidate : getCategories()) {  if (candidate.getSource() == source) {  catalogCategory = (MarketplaceCategory) candidate; 				} } } } 

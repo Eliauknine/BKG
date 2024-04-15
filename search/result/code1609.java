@@ -1,0 +1,1 @@
+  return null; final String candidate = className.substring(0, lastDot);  final Map<String, Collection<String>> packages = JavaPackagesCompletionProvider.getPackages();  if (JavaPackagesCompletionProvider.containsPackage(candidate))  return candidate; }

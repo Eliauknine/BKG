@@ -1,0 +1,1 @@
+	 */ public static String getDebugHost(ILaunchConfiguration launchConfiguration) {  try {  String url = launchConfiguration.getAttribute(  Server.BASE_URL, "");  if (url == null || url.length() == 0) {  return null; 			} } } 

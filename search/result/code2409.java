@@ -1,0 +1,1 @@
+ 		if (isInitialized) {			codeFormatterPreferences.brace_position_for_class = getComboValue(classDeclaration); 			codeFormatterPreferences.brace_position_for_function = getComboValue(methodDeclaration); 			codeFormatterPreferences.brace_position_for_block = getComboValue(blocks); 			codeFormatterPreferences.brace_position_for_switch = getComboValue(switchCase); 		} }

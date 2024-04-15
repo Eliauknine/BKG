@@ -1,0 +1,1 @@
+import org.eclipse.papyrus.infra.nattable.configuration.PapyrusColumnHeaderStyleConfiguration;import org.eclipse.papyrus.infra.nattable.configuration.PapyrusColumnResizeBindingsConfiguration; import org.eclipse.papyrus.infra.nattable.dataprovider.BodyDataProvider; public class ColumnHeaderLayerStack extends AbstractLayerTransform { } 

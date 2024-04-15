@@ -1,0 +1,1 @@
+ private Repository getRepository(){  try    {  CDOServerProtocol protocol = (CDOServerProtocol)getProtocol();  IRepositoryProvider repositoryProvider = protocol.getInfraStructure();  return (Repository)repositoryProvider.getRepository(repositoryName);     }  catch (RuntimeException ex) } 

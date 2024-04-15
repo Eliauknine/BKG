@@ -1,0 +1,1 @@
+ public static Test suite(){  suite.addTestSuite(ComplexTest.class); suite.addTestSuite(CDOAutomaticPackageRefTest.class);  suite.addTestSuite(CDOPackageRefTest.class);  suite.addTestSuite(RevisionDeltaTest.class);  suite.addTestSuite(HbTransactionDeadLockTest.class);  suite.addTestSuite(HibernatePackageRegistryTest.class);  suite.addTestSuite(ContainmentTest.class); } 

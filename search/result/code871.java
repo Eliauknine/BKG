@@ -1,0 +1,1 @@
+ public class UserFavoritesService extends AbstractDataStorageService implements{  private static final Pattern JSON_OWNER_PROFILE_URL_ATTRIBUTE_PATTERN = Pattern 			.compile(String.format(JSON_ATTRIBUTE_REGEX, "html_profile_url"), Pattern.MULTILINE);   private static final String KEY = "mpc_favorites";   private static final int RETRY_COUNT = 3; } 

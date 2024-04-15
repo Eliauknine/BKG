@@ -1,0 +1,1 @@
+  private void updateButtonEnablement() {  fEditButton.setEnabled(false);  removeButton.setEnabled(false);  fUpButton.setEnabled(false);  fDownButton.setEnabled(false);  int index = fPatternTable.getSelectionIndex();  if (index >= 0) {  fEditButton.setEnabled(true);  removeButton.setEnabled(true);  if (index > 0) {  fUpButton.setEnabled(true); 			} } } }

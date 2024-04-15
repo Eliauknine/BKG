@@ -1,0 +1,1 @@
+ @Override  public boolean visit(NamespaceDeclaration s) throws Exception {  if (fileScope) {  fileScope = false;  popScope(); 			}  pushScope(s.sourceStart(), s.sourceEnd());  return super.visit(s); 		}  @Override  public boolean endvisit(NamespaceDeclaration s) throws Exception {  popScope();  return super.visit(s); 		}  @Override 

@@ -1,0 +1,1 @@
+ protected void readReferences(IDBStoreAccessor storeAccessor, CDORevisionImpl re{  protected List<IAttributeMapping> createAttributeMappings(CDOFeature[] features)   {  List<IAttributeMapping> attributeMappings = new ArrayList();  for (CDOFeature feature : features)     {  if (feature.isReference()) } } } 

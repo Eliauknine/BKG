@@ -1,0 +1,1 @@
+  **************************************************************************/package org.eclipse.emf.internal.cdo.util; import org.eclipse.emf.cdo.CDOObject; import org.eclipse.emf.cdo.CDOSession; import org.eclipse.emf.cdo.CDOTransaction; }

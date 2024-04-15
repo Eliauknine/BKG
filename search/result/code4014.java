@@ -1,0 +1,1 @@
+  private IPreferenceStore fColorPreferences;  /** Contains region to style mapping */  private static final Map fColorTypes = new HashMap(); // String (token type), String (color)  static {  // Normal text:  fColorTypes.put(PHPRegionTypes.PHP_STRING, PreferenceConstants.EDITOR_NORMAL_COLOR); } }

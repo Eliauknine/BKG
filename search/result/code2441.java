@@ -1,0 +1,1 @@
+ 	 */ protected ViewModelWizardNewFileCreationPage newFileCreationPage;  /** 	 * Remember the selection during initialization for populating the default 	 * container. <!-- begin-user-doc --> <!-- end-user-doc --> }

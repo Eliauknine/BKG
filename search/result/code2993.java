@@ -1,0 +1,1 @@
+ 			isMethod = type == ASTNode.FUNCTION_DECLARATION					|| parent.getLocationInParent() == FunctionName.NAME_PROPERTY 					|| parent.getLocationInParent() == FunctionInvocation.FUNCTION_PROPERTY 					|| type == ASTNode.FULLY_QUALIFIED_TRAIT_METHOD_REFERENCE; 			if (dispatcherType != null 					&& phpVersion.isGreaterThan(PHPVersion.PHP5_3)) { } }

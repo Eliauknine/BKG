@@ -1,0 +1,1 @@
+ #    Obeo - initial API and implementation# ==================================================================== pluginName = Sirius Services - Diagram API providerName = Eclipse Modeling Project aasiriusDiagramImagePathProvider_name=Sirius Diagram Image Path Provider }

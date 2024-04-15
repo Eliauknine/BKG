@@ -1,0 +1,1 @@
+ 				if (fullTypeReference.getNamespace() != null) {					hasNamespace = true; 					namespaceName = fullTypeReference.getNamespace().getName(); 					if (usePartInfo.get(namespaceName) != null) { 						namespaceName = usePartInfo.get(namespaceName).getFullyQualifiedName(); 					} 				} 			}

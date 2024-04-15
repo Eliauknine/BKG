@@ -1,0 +1,1 @@
+  return new UpdateFeature(fp);		}  protected static void createPortFigure(Port port, boolean refport,  ContainerShape containerShape,  GraphicsAlgorithm invisibleRectangle, Color darkColor, Color brightDolor) { }

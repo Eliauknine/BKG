@@ -1,0 +1,16 @@
+1.2.1	+9	r_protected
+1.c.b	+4	r_void
+1.11.10	+e	id|cancelChildren
+1.1f.1e	+0	c_func
+1.1f.1e	+1	(paren
+1.21.20	+1	)paren
+1.22.21	+1	(brace
+1.25.24	+5	id|child
+1.2a.29	+1	s_.
+1.2b.2a	+6	id|cancel
+1.31.30	+0	c_func
+1.31.30	+1	(paren
+1.33.32	+1	)paren
+1.34.33	+1	suffix:semicolon
+1.37.36	+1	)brace
+2.1.3a	+0	eof

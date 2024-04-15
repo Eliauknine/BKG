@@ -1,0 +1,12 @@
+1.4.3	+1	s_*
+1.5.4	+1	s_/
+1.7.6	+6	r_public
+1.e.d	+12	id|EStructuralFeature
+1.20.1f	+1	s_[
+1.21.20	+1	s_]
+1.23.22	+b	id|clearValues
+1.2e.2d	+0	c_func
+1.2e.2d	+1	(paren
+1.2f.2e	+1	)paren
+1.30.2f	+1	suffix:semicolon
+2.1.4e	+0	eof

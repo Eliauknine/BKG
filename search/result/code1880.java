@@ -1,0 +1,1 @@
+ return copyAndResolveUser(authInfo.getUser());	}  // TODO: rename  public ESUser copyAndResolveUser(ESUser esUser) {  final ACUser tmpUser = (ACUser) ESUserImpl.class.cast(esUser).toInternalAPI();  final ACUser user = ModelUtil.clone(tmpUser); 

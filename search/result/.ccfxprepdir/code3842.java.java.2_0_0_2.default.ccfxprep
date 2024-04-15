@@ -1,0 +1,15 @@
+1.2.1	+6	r_return
+1.9.8	+4	r_null
+1.d.c	+1	suffix:semicolon
+1.12.11	+1	)brace
+1.15.14	+6	r_public
+1.1c.1b	+3	r_int
+1.20.1f	+22	id|getLoadRevisionCollectionChunkSize
+1.42.41	+0	c_func
+1.42.41	+1	(paren
+1.43.42	+1	)paren
+1.49.48	+1	(brace
+1.4c.4b	+6	r_return
+1.53.52	+1	l_int|0
+1.54.53	+1	suffix:semicolon
+2.1.5b	+0	eof

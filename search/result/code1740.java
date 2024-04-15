@@ -1,0 +1,1 @@
+ 	 */	private void initializeControls() { 		if (originalFile != null) { 			resourceGroup.setContainerFullPath(originalFile.getParent() 					.getFullPath()); 			resourceGroup.setResource(originalFile.getName()); 		} else if (originalName != null) { 			resourceGroup.setResource(originalName); } } }

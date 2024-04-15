@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.common.branch.CDOBranchVersion; import org.eclipse.emf.cdo.common.commit.CDOCommitInfoHandler; import org.eclipse.emf.cdo.common.id.CDOID; import org.eclipse.emf.cdo.common.lob.CDOLobHandler; import org.eclipse.emf.cdo.common.lock.IDurableLockingManager.LockArea.Handler; import org.eclipse.emf.cdo.common.model.CDOClassifierRef; }

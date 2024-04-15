@@ -1,0 +1,1 @@
+ public void partActivated(IWorkbenchPartReference partRef) { if (ViewEditorPart.class.isInstance(partRef.getPart(true))) {  final ViewEditorPart part = (ViewEditorPart) partRef.getPart(true);  setView(part.getView());  if (updateAutomatic) {  render(view); 					} 				} 			} 

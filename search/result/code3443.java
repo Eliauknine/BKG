@@ -1,0 +1,1 @@
+ public class EntityManagerFactoryImpl implements EntityManagerFactory, Persisten{  /** Default to determine if does-exist should be performed on persist. */  protected boolean shouldValidateExistence;  protected boolean commitWithoutPersistRules;  /** 	 * Will return an instance of the Factory. Should only be called by } 

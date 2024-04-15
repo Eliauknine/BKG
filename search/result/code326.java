@@ -1,0 +1,1 @@
+ class ZendPHPUnitUserErrorException extends Exception{ function filterTrace($trace){  $filteredTrace = array();      $blacklist = null;  if (class_exists('Blacklist')) {  $blacklist = new Blacklist(); } } } 

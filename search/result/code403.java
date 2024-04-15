@@ -1,0 +1,1 @@
+ import org.eclipse.emf.common.util.ResourceLocator; import org.eclipse.emf.edit.provider.ComposeableAdapterFactory; import org.eclipse.emf.edit.provider.IChildCreationExtender; import org.eclipse.emf.edit.provider.IEditingDomainItemProvider; }

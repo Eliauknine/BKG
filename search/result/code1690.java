@@ -1,0 +1,1 @@
+  xsi:type="setup:VariableTask"  name="xtext.site"  value="http://download.eclipse.org/modeling/tmf/xtext/updates/releases/2.8.4/"/>   <setupTask  xsi:type="setup:CompoundTask"  name="Eclipse IDE Plugins"> }

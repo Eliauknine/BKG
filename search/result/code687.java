@@ -1,0 +1,1 @@
+  // restore indenting  IDocument document = scriptContext.getDocument();  String indenting = ScriptTemplateContext.calculateIndent(  document, scriptContext.getStart());  String delimeter = TextUtilities 						.getDefaultLineDelimiter(document);  String info = templateBuffer.getString();  return info.replaceAll(delimeter + indenting, delimeter); }

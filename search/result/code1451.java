@@ -1,0 +1,1 @@
+ define([{  'i18n!orion/widgets/nls/messages', 'orion/webui/littlelib',  'orion/PageLinks',  'orion/webui/dropdown' ], function(messages, lib, PageLinks, Dropdown) {  function UserMenu(options) {  this._displaySignOut = true; } } } 

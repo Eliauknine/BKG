@@ -1,0 +1,1 @@
+ 	 */ private static String resource(String resource) {  try {  InputStream in = CreateAssets.class.getClassLoader().getResourceAsStream("testsuite/"+resource);  return IOUtils.toString(in, "UTF-8"); 		} catch (IOException e) {  throw new RuntimeException(e); } } }

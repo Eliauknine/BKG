@@ -1,0 +1,1 @@
+public class TerminalView extends ViewPart implements ITerminalView, ITerminalListener {  public static final String FONT_DEFINITION = "terminal.views.view.font.definition";   protected static final String fSecondaryTerminalCountMutex = "";   protected static int fSecondaryTerminalCount = 0;  protected ITerminalViewControl fCtlTerminal; } 

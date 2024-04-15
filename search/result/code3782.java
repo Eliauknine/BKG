@@ -1,0 +1,1 @@
+ 		} IMenuManager navigateMenu = menu.findMenuUsingPath(IWorkbenchActionConstants.M_NAVIGATE);  if (navigateMenu != null) {  navigateMenu.appendToGroup(IWorkbenchActionConstants.SHOW_EXT, fOpenHierarchy); 		}

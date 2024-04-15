@@ -1,0 +1,1 @@
+//		System.err.println("\t Getcurrent: " + Display.getCurrent());//		System.err.println("\t GetDefault: " + Display.getDefault()); //		System.err.println("\t Variable: " + display);   //		new Exception().printStackTrace(System.err);    display.syncExec(new Runnable() {  public void run() {  tmpObj = cdt.getSelection(); } } 

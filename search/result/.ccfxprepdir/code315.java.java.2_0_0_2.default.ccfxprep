@@ -1,0 +1,253 @@
+1.3.2	+8	l_string|"events"
+1.b.a	+1	s_:
+1.d.c	+1	s_[
+1.13.12	+1	(brace
+1.16.15	+6	l_string|"type"
+1.1c.1b	+1	s_:
+1.1e.1d	+4	l_string|"ee"
+1.22.21	+1	s_,
+1.25.24	+7	l_string|"title"
+1.2c.2b	+1	s_:
+1.2e.2d	+a	l_string|"Dev.next"
+1.38.37	+1	s_,
+1.3b.3a	+6	l_string|"date"
+1.41.40	+1	s_:
+1.43.42	+10	l_string|"March 24, 2020"
+1.53.52	+1	s_,
+1.56.55	+a	l_string|"end-date"
+1.60.5f	+1	s_:
+1.62.61	+10	l_string|"March 27, 2020"
+1.72.71	+1	s_,
+1.75.74	+e	l_string|"locationName"
+1.83.82	+1	s_:
+1.85.84	+16	l_string|"Broomfield, Colorado"
+1.9b.9a	+1	s_,
+1.9e.9d	+d	l_string|"description"
+1.ab.aa	+1	s_:
+1.ad.ac	+f7	l_string|"Come to dev.next to learn with the practitioners, experts, and creators of the technologies that you care about. Get hands-on experience from the workshops and further your knowledge about various technologies and concepts during the conference."
+1.1a4.1a3	+1	s_,
+1.1a7.1a6	+a	l_string|"infoLink"
+1.1b1.1b0	+1	s_:
+1.1b2.1b1	+1c	l_string|"https://www.devdotnext.com"
+1.1ce.1cd	+1	s_,
+1.1d1.1d0	+e	l_string|"registration"
+1.1df.1de	+1	s_:
+1.1e1.1e0	+25	l_string|"https://www.devdotnext.com/register"
+1.206.205	+1	s_,
+1.209.208	+9	l_string|"address"
+1.212.211	+1	s_:
+1.214.213	+1	(brace
+1.217.216	+8	l_string|"street"
+1.21f.21e	+1	s_:
+1.221.220	+16	l_string|"500 Interlocken Blvd"
+1.237.236	+1	s_,
+1.23a.239	+5	l_string|"zip"
+1.23f.23e	+1	s_:
+1.241.240	+7	l_string|"80021"
+1.248.247	+1	s_,
+1.24b.24a	+6	l_string|"city"
+1.251.250	+1	s_:
+1.253.252	+c	l_string|"Broomfield"
+1.25f.25e	+1	s_,
+1.262.261	+9	l_string|"country"
+1.26b.26a	+1	s_:
+1.26d.26c	+f	l_string|"United States"
+1.27c.27b	+1	s_,
+1.27f.27e	+8	l_string|"geoLoc"
+1.287.286	+1	s_:
+1.289.288	+1	(brace
+1.28c.28b	+5	l_string|"lat"
+1.291.290	+1	s_:
+1.293.292	+b	l_string|"39.927670"
+1.29e.29d	+1	s_,
+1.2a1.2a0	+5	l_string|"lon"
+1.2a6.2a5	+1	s_:
+1.2a8.2a7	+d	l_string|"-105.119890"
+1.2be.2bd	+1	)brace
+1.2c6.2c5	+1	)brace
+1.2cc.2cb	+1	)brace
+1.2cd.2cc	+1	s_,
+1.2d3.2d2	+1	(brace
+1.2d6.2d5	+6	l_string|"type"
+1.2dc.2db	+1	s_:
+1.2de.2dd	+4	l_string|"ee"
+1.2e2.2e1	+1	s_,
+1.2e5.2e4	+7	l_string|"title"
+1.2ec.2eb	+1	s_:
+1.2ee.2ed	+b	l_string|"Devvox UK"
+1.2f9.2f8	+1	s_,
+1.2fc.2fb	+6	l_string|"date"
+1.302.301	+1	s_:
+1.304.303	+e	l_string|"May 13, 2020"
+1.312.311	+1	s_,
+1.315.314	+a	l_string|"end-date"
+1.31f.31e	+1	s_:
+1.321.320	+e	l_string|"May 15, 2020"
+1.32f.32e	+1	s_,
+1.332.331	+e	l_string|"locationName"
+1.340.33f	+1	s_:
+1.342.341	+18	l_string|"London, United Kingdom"
+1.35a.359	+1	s_,
+1.35d.35c	+d	l_string|"description"
+1.36a.369	+1	s_:
+1.36c.36b	+cb	l_string|"Devoxx UK is 3-day conference where developers and architects come together and explore the latest technology advancements and fascinating ideas, with some of the most inspiring speakers in our sector."
+1.437.436	+1	s_,
+1.43a.439	+e	l_string|"registration"
+1.448.447	+1	s_:
+1.44a.449	+1a	l_string|"https://www.devoxx.co.uk"
+1.464.463	+1	s_,
+1.467.466	+9	l_string|"address"
+1.470.46f	+1	s_:
+1.472.471	+1	(brace
+1.475.474	+8	l_string|"street"
+1.47d.47c	+1	s_:
+1.47f.47e	+29	l_string|"Business Design Centre, 52 Upper Street"
+1.4a8.4a7	+1	s_,
+1.4ab.4aa	+5	l_string|"zip"
+1.4b0.4af	+1	s_:
+1.4b2.4b1	+8	l_string|"N1 0QH"
+1.4ba.4b9	+1	s_,
+1.4bd.4bc	+6	l_string|"city"
+1.4c3.4c2	+1	s_:
+1.4c5.4c4	+8	l_string|"London"
+1.4cd.4cc	+1	s_,
+1.4d0.4cf	+9	l_string|"country"
+1.4d9.4d8	+1	s_:
+1.4db.4da	+10	l_string|"United Kingdom"
+1.4eb.4ea	+1	s_,
+1.4ee.4ed	+8	l_string|"geoLoc"
+1.4f6.4f5	+1	s_:
+1.4f8.4f7	+1	(brace
+1.4fb.4fa	+5	l_string|"lat"
+1.500.4ff	+1	s_:
+1.502.501	+b	l_string|"51.535439"
+1.50d.50c	+1	s_,
+1.510.50f	+5	l_string|"lon"
+1.515.514	+1	s_:
+1.517.516	+b	l_string|"-0.104220"
+1.52b.52a	+1	)brace
+1.533.532	+1	)brace
+1.539.538	+1	)brace
+1.53a.539	+1	s_,
+1.540.53f	+1	(brace
+1.543.542	+6	l_string|"type"
+1.549.548	+1	s_:
+1.54b.54a	+4	l_string|"ee"
+1.54f.54e	+1	s_,
+1.552.551	+7	l_string|"title"
+1.559.558	+1	s_:
+1.55b.55a	+f	l_string|"Devvox France"
+1.56a.569	+1	s_,
+1.56d.56c	+6	l_string|"date"
+1.573.572	+1	s_:
+1.575.574	+10	l_string|"April 15, 2020"
+1.585.584	+1	s_,
+1.588.587	+a	l_string|"end-date"
+1.592.591	+1	s_:
+1.594.593	+10	l_string|"April 17, 2020"
+1.5a4.5a3	+1	s_,
+1.5a7.5a6	+e	l_string|"locationName"
+1.5b5.5b4	+1	s_:
+1.5b7.5b6	+16	l_string|"Porte Maillot, Paris"
+1.5cd.5cc	+1	s_,
+1.5d0.5cf	+d	l_string|"description"
+1.5dd.5dc	+1	s_:
+1.5df.5de	+2	l_string|""
+1.5e1.5e0	+1	s_,
+1.5e4.5e3	+e	l_string|"registration"
+1.5f2.5f1	+1	s_:
+1.5f4.5f3	+17	l_string|"https://www.devoxx.fr"
+1.60b.60a	+1	s_,
+1.60e.60d	+9	l_string|"address"
+1.617.616	+1	s_:
+1.619.618	+1	(brace
+1.61c.61b	+8	l_string|"street"
+1.624.623	+1	s_:
+1.626.625	+1d	l_string|"2 Place De La Porte Maillot"
+1.643.642	+1	s_,
+1.646.645	+5	l_string|"zip"
+1.64b.64a	+1	s_:
+1.64d.64c	+7	l_string|"75017"
+1.654.653	+1	s_,
+1.657.656	+6	l_string|"city"
+1.65d.65c	+1	s_:
+1.65f.65e	+7	l_string|"Paris"
+1.666.665	+1	s_,
+1.669.668	+9	l_string|"country"
+1.672.671	+1	s_:
+1.674.673	+8	l_string|"France"
+1.67c.67b	+1	s_,
+1.67f.67e	+8	l_string|"geoLoc"
+1.687.686	+1	s_:
+1.689.688	+1	(brace
+1.68c.68b	+5	l_string|"lat"
+1.691.690	+1	s_:
+1.693.692	+b	l_string|"48.878590"
+1.69e.69d	+1	s_,
+1.6a1.6a0	+5	l_string|"lon"
+1.6a6.6a5	+1	s_:
+1.6a8.6a7	+a	l_string|"2.282360"
+1.6bb.6ba	+1	)brace
+1.6c3.6c2	+1	)brace
+1.6c9.6c8	+1	)brace
+1.6ca.6c9	+1	s_,
+1.6d0.6cf	+1	(brace
+1.6d3.6d2	+6	l_string|"type"
+1.6d9.6d8	+1	s_:
+1.6db.6da	+4	l_string|"ee"
+1.6df.6de	+1	s_,
+1.6e2.6e1	+7	l_string|"title"
+1.6e9.6e8	+1	s_:
+1.6eb.6ea	+28	l_string|"Cloud Native for Java Day @ KubeCon EU"
+1.713.712	+1	s_,
+1.716.715	+6	l_string|"date"
+1.71c.71b	+1	s_:
+1.71e.71d	+10	l_string|"March 30, 2020"
+1.72e.72d	+1	s_,
+1.731.730	+e	l_string|"locationName"
+1.73f.73e	+1	s_:
+1.741.740	+f	l_string|"Amsterdam RAI"
+1.750.74f	+1	s_,
+1.753.752	+d	l_string|"description"
+1.760.75f	+1	s_:
+1.762.761	1.91f.91e	l_string|"Cloud Native for Java (CN4J) day is full-day of expert talks, demos, and thought-provoking sessions focused on enterprise applications implemented using open source vendor-neutral Jakarta EE (successor of Java EE) and Eclipse MicroProfile specifications on Kubernetes. The open source Jakarta EE and MicroProfile communities are backed by the world&#x2019;s leading innovators in Java, including IBM, Oracle, Fujitsu, Payara, Red Hat, and Tomitribe. "
+1.91f.91e	+1	s_,
+1.922.921	+a	l_string|"infoLink"
+1.92c.92b	+1	s_:
+1.92e.92d	+2e	l_string|"http://eclipse-5413615.hs-sites.com/cn4j-day"
+1.95c.95b	+1	s_,
+1.95f.95e	+e	l_string|"registration"
+1.96d.96c	+1	s_:
+1.96f.96e	+4c	l_string|"https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/"
+1.9bb.9ba	+1	s_,
+1.9be.9bd	+9	l_string|"address"
+1.9c7.9c6	+1	s_:
+1.9c9.9c8	+1	(brace
+1.9cc.9cb	+8	l_string|"street"
+1.9d4.9d3	+1	s_:
+1.9d6.9d5	+10	l_string|"Europaplein 24"
+1.9e6.9e5	+1	s_,
+1.9e9.9e8	+5	l_string|"zip"
+1.9ee.9ed	+1	s_:
+1.9f0.9ef	+9	l_string|"1078 GZ"
+1.9f9.9f8	+1	s_,
+1.9fc.9fb	+6	l_string|"city"
+1.a02.a01	+1	s_:
+1.a04.a03	+b	l_string|"Amsterdam"
+1.a0f.a0e	+1	s_,
+1.a12.a11	+9	l_string|"country"
+1.a1b.a1a	+1	s_:
+1.a1d.a1c	+d	l_string|"Netherlands"
+1.a2a.a29	+1	s_,
+1.a2d.a2c	+8	l_string|"geoLoc"
+1.a35.a34	+1	s_:
+1.a37.a36	+1	(brace
+1.a3a.a39	+5	l_string|"lat"
+1.a3f.a3e	+1	s_:
+1.a41.a40	+b	l_string|"52.341484"
+1.a4c.a4b	+1	s_,
+1.a4f.a4e	+5	l_string|"lon"
+1.a54.a53	+1	s_:
+1.a56.a55	+a	l_string|"4.888201"
+1.a69.a68	+1	)brace
+2.1.a6b	+0	eof

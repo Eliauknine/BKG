@@ -1,0 +1,1 @@
+ private void cleanUp(CDOCommitContext commitContext){  firstSavepoint.setNextSavepoint(null); firstSavepoint.getSharedDetachedObjects().clear();  // Bug 283985 (Re-attachment)  formerRevisionKeys.clear();  cleanRevisions.clear();  dirty = false;  conflict = 0; } 

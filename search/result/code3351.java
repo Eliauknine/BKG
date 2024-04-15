@@ -1,0 +1,1 @@
+ private IDiscoveryItemFactory discoveryItemFactory;  public MarketplaceViewer(Catalog catalog, IShellProvider shellProvider, MarketplaceWizard wizard) {  super(catalog, shellProvider, wizard.getContainer(), wizard.getConfiguration());  this.browser = wizard; } 

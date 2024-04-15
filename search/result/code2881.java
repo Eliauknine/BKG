@@ -1,0 +1,1 @@
+ private boolean verifyChecksum( RepositoryLayout.Checksum checksum, Object actua{             } String act = String.valueOf( actual );  if ( inlinedChecksum != null && inlinedChecksum.equalsIgnoreCase( act ) )             {  try                 { } } 

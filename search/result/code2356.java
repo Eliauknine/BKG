@@ -1,0 +1,1 @@
+   } void fillOperation(FormStackNewOperation operation) {  if (StringUtility.hasText(getFormId())) {  operation.setFormIdSignature(SignatureCache.createTypeSignature(Long.class.getName()));  operation.setFormIdName(getFormId());     } }

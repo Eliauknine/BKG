@@ -1,0 +1,1 @@
+ private File basedir; @Inject  public EclipseGitSnippetRepository(@Named(SNIPMATCH_BASEDIR) File basedir, SnipmatchRcpPreferences prefs) {  String remoteUri = prefs.getLocation();  this.basedir = new File(basedir, Urls.mangle(remoteUri));  this.delegate = new GitSnippetRepository(this.basedir, remoteUri); } 

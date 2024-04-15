@@ -1,0 +1,1 @@
+  /** 	 * Checks whether too many failed requests were recorded. 	 *  	 * @param username the user 	 * @return <code>true</code> if there were to many failed requests, <code>false</code> otherwise 	 */ }

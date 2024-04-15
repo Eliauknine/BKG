@@ -1,0 +1,1 @@
+ 	protected StyledString appendStyledParameterList(StyledString buffer, CompletionProposal methodProposal) {		String[] parameterNames = methodProposal.findParameterNames(null); 		String[] parameterTypes = null; 		if (parameterNames != null) { 			final Integer paramLimit = (Integer) methodProposal } } }

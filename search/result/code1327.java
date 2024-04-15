@@ -1,0 +1,1 @@
+   */ public static List<String> getResolvedTypeParamValueSignature(IType focusType, String levelFqn, int typeParamIndex) {  List<IType> typeParamsValue = getResolvedTypeParamValue(focusType, levelFqn, typeParamIndex);  List<String> result = new ArrayList<>(typeParamsValue.size());  for (IType t : typeParamsValue) {  result.add(SignatureUtils.getTypeSignature(t)); } } 

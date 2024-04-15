@@ -1,0 +1,1 @@
+ /** The Compilable element importer_ erro r_ version not set. */ public static String CompilableElementImporter_ERROR_VersionNotSet;  /** The device importer_ erro r_ resource name has to be set. */  public static String DEVImporter_ERROR_ResourceNameHasToBeSet; 

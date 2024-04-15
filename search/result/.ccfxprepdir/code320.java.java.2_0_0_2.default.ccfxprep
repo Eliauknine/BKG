@@ -1,0 +1,10 @@
+1.3.2	+e	id|setImageAnchor
+1.11.10	+0	c_func
+1.11.10	+1	(paren
+1.12.11	+15	id|TextContentAnchorType
+1.27.26	+1	s_.
+1.28.27	+c	id|AS_CHARACTER
+1.34.33	+1	)paren
+1.35.34	+1	suffix:semicolon
+1.37.36	+1	)brace
+2.1.39	+0	eof

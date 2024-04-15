@@ -1,0 +1,1 @@
+ public class ClassDescriptor extends CoreDescriptor<AttributeGroup, DescriptorEv{  protected CMPPolicy cmpPolicy; protected CachePolicy cachePolicy;  protected MultitenantPolicy multitenantPolicy;  //manage fetch group behaviors and operations  protected FetchGroupManager fetchGroupManager; } 

@@ -1,0 +1,1 @@
+   */ public List<CDOResource> queryResources(String pathPrefix)   {  checkOpen();  CDOQuery resourceQuery = createQuery(CDOProtocolConstants.QUERY_LANGUAGE_RESOURCES, pathPrefix);  return resourceQuery.getResult(CDOResource.class);   }  public CDOResourceImpl getResource(CDOID resourceID)   {  if (resourceID == null || resourceID.isNull()) } 

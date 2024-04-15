@@ -1,0 +1,1 @@
+ import org.eclipse.core.runtime.Status;import org.eclipse.emf.ecp.view.spi.util.swt.ImageRegistryService; import org.eclipse.emf.ecp.view.template.model.VTViewTemplateProvider; import org.eclipse.swt.graphics.Image; import org.osgi.framework.BundleContext; import org.osgi.framework.ServiceReference; }

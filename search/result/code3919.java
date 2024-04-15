@@ -1,0 +1,1 @@
+ public interface MangoPackage extends EPackage{    */ int VALUE_FEATURE_COUNT = 1;  /**    * Returns the meta object for class '{@link org.eclipse.emf.cdo.tests.mango.ValueList <em>Value List</em>}'. <!--    * begin-user-doc --> <!-- end-user-doc --> } 

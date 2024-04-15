@@ -1,0 +1,1 @@
+  commandStack = commandStackBuffer;	}

@@ -1,0 +1,1 @@
+	} @Override  public String createStaticFieldWrapper(final IEnvironment environment, final String moduleVariable, final Field field) {  return PythonHelper.getSaveName(field.getName()) + " = " + moduleVariable + '.' + field.getName() + '\n'; 	

@@ -1,0 +1,1 @@
+ return null;	}  public static IArtifactRepository getArtifactRepository(IProvisioningAgent agent, URI repoURL) {  IArtifactRepositoryManager manager = (IArtifactRepositoryManager) agent.getService(IArtifactRepositoryManager.SERVICE_NAME);  try {  if (manager != null) } 

@@ -1,0 +1,15 @@
+1.2.1	+6	r_public
+1.9.8	+9	r_interface
+1.13.12	+c	id|MangoFactory
+1.20.1f	+7	r_extends
+1.28.27	+8	id|EFactory
+1.30.2f	+1	(brace
+1.35.34	+1	s_*
+1.36.35	+1	s_/
+1.38.37	+5	id|Value
+1.3e.3d	+b	id|createValue
+1.49.48	+0	c_func
+1.49.48	+1	(paren
+1.4a.49	+1	)paren
+1.4b.4a	+1	suffix:semicolon
+3.1.bd	+0	eof

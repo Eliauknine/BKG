@@ -1,0 +1,1 @@
+	} private class VariableValidatorVisitor extends PHPASTVisitor {  public VariableValidatorVisitor(PHPModuleDeclaration module) {  pushScope(0, module.end());  fileScope = true;  List<VarComment> varComments = module.getVarComments();  varCommentList = new ArrayList<>(module.getVarComments().size());  varCommentList.addAll(varComments); } 

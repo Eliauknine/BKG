@@ -1,0 +1,12 @@
+1.5.4	+1	s_*
+1.6.5	+1	s_/
+1.8.7	+4	r_void
+1.d.c	+e	id|addFileChooser
+1.1b.1a	+0	c_func
+1.1b.1a	+1	(paren
+1.1c.1b	+c	id|IFileChooser
+1.29.28	+2	id|fc
+1.2b.2a	+1	)paren
+1.2c.2b	+1	suffix:semicolon
+1.7b.7a	+1	)brace
+2.1.7d	+0	eof

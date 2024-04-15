@@ -1,0 +1,1 @@
+ public void modify(final Object element, final String property, final Object val{  cmd = new ChangeNameCommand(data, value.toString()); break;  case TYPE:  DataType type = typeDropDown.getType((String) value);  if (type == null) {  return; 				} } 

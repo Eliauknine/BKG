@@ -1,0 +1,1 @@
+  featureName="value" dataValue="resolveable"/>    </changes>   </releases>   <releases>     <changes xsi:type="history:OperationChange">       <changes xsi:type="history:Create" target="view.ecore#/" referenceName="eClassifiers"  element="view.ecore#//ViewModelProperties"> }

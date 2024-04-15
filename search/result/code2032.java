@@ -1,0 +1,1 @@
+ /**	 * Default implementation of window 	 */  public static class WWindowImpl extends WLayoutedWidgetImpl<Stage, Pane, MWindow> implements WWindow<Stage> {  private boolean support3d;  private Pane rootPane;  private BorderPane trimPane; } 

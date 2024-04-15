@@ -1,0 +1,1 @@
+  }); autoUpdater.on("update-downloaded", /* @callback */ function(event, releaseNotes, releaseName, releaseDate, updateURL) {  updateDownloaded = true;  if (!updateDialog) {  electron.dialog.showMessageBox({  type: 'question', } } }

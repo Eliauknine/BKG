@@ -1,0 +1,1 @@
+ 		boolean found = false; 		IBuildpathEntry[] rawBuildpath = project.getRawBuildpath(); 		for (IBuildpathEntry entry : rawBuildpath) { 			if (entry.isContainerEntry() 					&& entry.getPath().equals(LANGUAGE_CONTAINER_PATH)) { 				found = true; 				break; } } }

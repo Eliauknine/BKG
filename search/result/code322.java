@@ -1,0 +1,1 @@
+package org.eclipse.papyrus.model2doc.odt.internal.util; import org.eclipse.papyrus.model2doc.odt.internal.editor.ODTEditor; import com.sun.star.text.TextContentAnchorType; /**  * This Writer allows to write an image in cell of an XTextTable  */ public class CellImageWriter extends ParagraphImageWriter {  /** 	 * Constructor. 	 * } 

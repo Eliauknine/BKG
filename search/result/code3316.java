@@ -1,0 +1,1 @@
+ CDOPreferencePage.7=EMF invalidation notifications:{ CDORemoteSessionsView_0=Message from {0}CDORemoteSessionsView_1=Message to {0} CDORemoteSessionsView_2=Message: CDOStateFilter.0=conflict CDOStateFilter.1=transient CDOStateFilter.2=new } 

@@ -1,0 +1,1 @@
+import org.eclipse.core.resources.IMarker;import org.eclipse.titan.regressiontests.designer.Designer_plugin_tests; import org.eclipse.titan.regressiontests.library.MarkerToCheck; public class AST_warnings_tests { } 

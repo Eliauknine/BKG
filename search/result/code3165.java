@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.spi.common.revision.InternalCDORevisionDelta;import org.eclipse.emf.cdo.spi.common.revision.InternalCDORevisionManager; import org.eclipse.emf.cdo.transaction.CDOMerger; import org.eclipse.net4j.util.CheckUtil; import org.eclipse.emf.spi.cdo.DefaultCDOMerger.ConflictException; import java.util.Map; import java.util.Set; }

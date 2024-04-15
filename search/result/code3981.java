@@ -1,0 +1,1 @@
+ public void testTransient() throws Exception{  CDOResource resource = transaction.getResource("/my/resource");  Product product = (Product)resource.getContents().get(0);  assertEquals(VAT.VAT7, product.getVat());  session.close();     } 

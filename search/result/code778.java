@@ -1,0 +1,1 @@
+ import org.eclipse.gef.EditPart;import org.eclipse.gef.EditPolicy; import org.eclipse.gef.GraphicalEditPart; import org.eclipse.gef.editparts.ZoomManager; import org.eclipse.gef.tools.DirectEditManager; import org.eclipse.jface.util.IPropertyChangeListener; import org.eclipse.jface.util.PropertyChangeEvent; }

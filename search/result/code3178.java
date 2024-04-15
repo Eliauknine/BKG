@@ -1,0 +1,1 @@
+ public void execute(InternalCDOObject object, CDOState state, CDOEvent event, InternalCDOTransaction transaction)    {  InternalCDORevisionManager revisionManager = transaction.getSession().getRevisionManager();  CDORevisionKey revKey = transaction.getFormerRevisionKeys().get(object);  CDOID id = revKey.getID();  object.cdoInternalSetID(id); } 

@@ -1,0 +1,1 @@
+ protected void invokeInternal2(final WorkflowContext ctx, final ProgressMonitor{ 		} executionContext.setResourceManager(getResourceManager());  if (callback != null) {  executionContext.setCallBack(callback); 		}  if (fileEncoding != null) { } 

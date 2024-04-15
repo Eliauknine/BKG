@@ -1,0 +1,1 @@
+ public static final Short SHORT_DEFAULT = new Short(SHORT_DEFAULT_PRIMITIVE);  public static final CDOType BOOLEAN = new CDOTypeImpl("BOOLEAN", 22, false, BOOLEAN_DEFAULT)   {  public void writeValue(CDODataOutput out, Object value) throws IOException     { } } 

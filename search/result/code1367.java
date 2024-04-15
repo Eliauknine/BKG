@@ -1,0 +1,1 @@
+ 			try {				int flags = context.getEnclosingType().getFlags(); 				if (!PHPFlags.isNamespace(flags)) { 					String pref = PHPVersion.PHP5_4.isLessThan(context.getPhpVersion()) ? prefix.toLowerCase() : prefix; 					for (String keyword : KEYWORDS) { 						if (keyword.startsWith(pref)) { } } } } }

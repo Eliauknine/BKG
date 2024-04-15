@@ -1,0 +1,1 @@
+ private static IType[] getFunctionArrayReturnType(IType[] types,{ 				.getModuleDeclaration(sourceModule, null); IContext context = ASTUtils.findContext(sourceModule,  moduleDeclaration, offset);  IEvaluatedType evaluatedType;  boolean usePhpDoc = (mask & USE_PHPDOC) != 0; } 

@@ -1,0 +1,1 @@
+ define({//Default message bundle{  "Help": "Help", "Report Bug": "Report Bug",  "Keyboard Shortcuts": "Keyboard Shortcuts",  "Settings": "Settings",  "userSettings": "User Profile",  "View profile of ": "View profile of ", } 

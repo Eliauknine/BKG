@@ -1,0 +1,1 @@
+ public static void assertHasFlags(String message, IMember member, int flags) thr{  /**    * fails if the service interface is not registered as proxy service in the projects plugin.xml.    *     * @param project    * @param serviceInterface    */ } 

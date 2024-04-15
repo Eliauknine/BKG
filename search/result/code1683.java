@@ -1,0 +1,1 @@
+ chapter:MigrationGuide[Migration Guide]{ bindFeatureResolverbindTableFeaturesProvider bindEmfSelectionHelper bindResourceSaveStrategy bindResourceManager bindIContentProvider } 

@@ -1,0 +1,1 @@
+  return new Path(uriString).removeTrailingSeparator();	}  /** 	 * Reads the model namespace (i.e. XML namespace) of given {@link IFile file}. Returns meaningful result only if 	 * the {@link IFile file}

@@ -1,0 +1,1 @@
+ public void adjustReferences(CDOReferenceAdjuster revisionAdjuster){  resourceID = (CDOID)revisionAdjuster.adjustReference(resourceID); containerID = revisionAdjuster.adjustReference(containerID);  EStructuralFeature[] features = classAdapter.getAllPersistentFeatures();  for (int i = 0; i < features.length; i++)     {  EStructuralFeature feature = features[i]; } } 

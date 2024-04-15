@@ -1,0 +1,1 @@
+  openTray(tray); notificationsButton.setText(name + " <<");   final Rectangle bounds = getShell().getBounds();  bounds.x -= 100;  getShell().setBounds(bounds); 							} else {  closeTray();  notificationsButton.setText(name + " >>");   final Rectangle bounds = getShell().getBounds();  bounds.x += 100;  getShell().setBounds(bounds); 							}

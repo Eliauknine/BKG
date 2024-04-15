@@ -1,0 +1,15 @@
+1.4.3	+6	r_return
+1.b.a	+e	id|markersToCheck
+1.19.18	+1	suffix:semicolon
+1.1c.1b	+1	)brace
+1.1f.1e	+7	r_private
+1.27.26	+9	id|ArrayList
+1.30.2f	+1	s_<
+1.31.30	+d	id|MarkerToCheck
+1.3e.3d	+1	s_>
+1.40.3f	+21	id|expression_tests_ttcn_initializer
+1.61.60	+0	c_func
+1.61.60	+1	(paren
+1.62.61	+1	)paren
+1.64.63	+1	(brace
+2.1.112	+0	eof

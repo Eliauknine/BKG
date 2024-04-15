@@ -1,0 +1,15 @@
+1.2.1	+6	r_return
+1.9.8	+9	id|sessionID
+1.12.11	+1	suffix:semicolon
+1.15.14	+1	)brace
+1.18.17	+6	r_public
+1.1f.1e	+7	r_boolean
+1.27.26	+16	id|isDisableLegacyObjects
+1.3d.3c	+0	c_func
+1.3d.3c	+1	(paren
+1.3e.3d	+1	)paren
+1.42.41	+1	(brace
+1.45.44	+6	r_return
+1.4c.4b	+14	id|disableLegacyObjects
+1.60.5f	+1	suffix:semicolon
+2.1.65	+0	eof

@@ -1,0 +1,1 @@
+  *     itemis - [427461] Add progress monitor to resource load options (useful for loading large models) *     itemis - [442342] Sphinx doen't trim context information from proxy URIs when serializing proxyfied cross-document references  *     itemis - [468171] Model element splitting service  *  * </copyright>  */ }

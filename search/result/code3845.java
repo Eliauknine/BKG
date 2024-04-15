@@ -1,0 +1,1 @@
+ public void testReadNative() throws Exception{  msg("Opening session");  CDOSession session = openModel1Session();  session.setReferenceChunkSize(10);  msg("Attaching transaction");  CDOTransaction transaction = session.openTransaction(); } 

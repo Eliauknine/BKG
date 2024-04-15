@@ -1,0 +1,1 @@
+	 * Render the contents of the {@link VView}.	 *  	 * @param view -the {@link VView} 	 * @throws ECPRendererException on rendering fail 	 * */  public void render(final VView view) {  this.view = view;  adapter = new EContentAdapter() {  /** } } 

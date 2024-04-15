@@ -1,0 +1,1 @@
+ return PlanExecutionHelper.executePlan(result, engine, context, progress);	}  public static URI[] getArtifactRepositories(IProvisioningAgent agent) {  IArtifactRepositoryManager manager = (IArtifactRepositoryManager) agent.getService(IArtifactRepositoryManager.SERVICE_NAME);  if (manager == null)  // TODO log here 

@@ -1,0 +1,1 @@
+ @Override  public String getLabel(Object element) {  if (element instanceof LicensingRequirement) {  LicensingRequirement requirement = (LicensingRequirement) element;  return requirement.getFeatureName(); 		}  return super.getLabel(element); 	} 

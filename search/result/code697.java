@@ -1,0 +1,1 @@
+  int startLine = document.getLineOfOffset(s.x); int endLine = document.getLineOfOffset(s.x + s.y);  IRegion line = document.getLineInformation(startLine);  return startLine != endLine 					|| (s.x == line.getOffset() && s.y == line.getLength()); 		} catch (BadLocationException x) {  return false; 		}

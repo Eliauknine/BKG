@@ -1,0 +1,1 @@
+ protected void initTestClasses(List<Class<? extends ConfigTest>> testClasses){  testClasses.add(Bugzilla_261218_Test.class); testClasses.add(Bugzilla_265114_Test.class);  testClasses.add(Bugzilla_266857_Test.class);  // TODO testClasses.add(NonCDOResourceTest.class);  // TODO testClasses.add(GeneratedEcoreTest.class); } 

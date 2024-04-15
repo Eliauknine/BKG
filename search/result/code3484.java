@@ -1,0 +1,1 @@
+ public void analyze(XpandExecutionContext ctx, final Set<AnalysationIssue> issue{  try { ctx = (XpandExecutionContext) ctx.cloneWithResource(this);  if (ctx.getCallback() != null) {  ctx.getCallback().pre(this, ctx); 			}  checkDuplicateDefinitions(issues); } } 

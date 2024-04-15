@@ -1,0 +1,1 @@
+ */public class TypeManager extends QueueWorker<ObjectEntry> implements ITypeManager {  private Repository repository;  private boolean persistent;  private ConcurrentMap<CDOID, CDOClassRef> objectTypes = new ConcurrentHashMap();  private PackageURIMap packageURIMap; } 

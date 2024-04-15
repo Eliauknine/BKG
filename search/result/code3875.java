@@ -1,0 +1,1 @@
+ public void testDetachPersistedResource() throws Exception{  transaction.commit();  CDOID resourceID = resource.cdoID();  detachResource(rset, resource);  assertEquals(true, transaction.getDetachedObjects().contains(resourceID));   } 

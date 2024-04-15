@@ -1,0 +1,1 @@
+ public CDOList getList(EStructuralFeature feature, int size)   {  int featureIndex = getFeatureIndex(feature);  InternalCDOList list = (InternalCDOList)getValue(featureIndex);  if (list == null && size != -1) } 

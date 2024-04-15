@@ -1,0 +1,1 @@
+ protected boolean detectUndoContainer(CDOTransaction transaction, InternalCDORev{  return true;  }  protected boolean ignore(EStructuralFeature feature)   {  return false;   }  protected boolean ignore(CDORevision revision)   {  return !((InternalCDORevision)revision).isUnchunked();   } 

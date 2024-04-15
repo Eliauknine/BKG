@@ -1,0 +1,1 @@
+         } protected EObject importListItem(EObject object, EStructuralFeature feature) {  final JbpmImportDialog dialog = new JbpmImportDialog();  dialog.open();  final IType selectedType = dialog.getIType();  final Definitions definitions = ModelUtil.getDefinitions(object); }

@@ -1,0 +1,1 @@
+ * @author Eike Stepper * @noimplement This interface is not intended to be implemented by clients.  */ public interface CDOSession extends CDOProtocolSession, IContainer<CDOView> {  /**    * Returns an instance of {@link Repository} that describes the model repository this {@link CDOSession session} is } 

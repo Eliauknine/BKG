@@ -1,0 +1,1 @@
+ type record A{ 	record of record {		XSD.Integer e optional, 		record { 			record length(1 .. infinity) of Ipv4 ipv4addresses, 			record length(1 .. infinity) of Ipv6 ipv6addresses 		} f optional, 		XSD.String g optional 	} d_list } 

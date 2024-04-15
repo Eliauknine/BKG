@@ -1,0 +1,1 @@
+  point="org.eclipse.ui.preferencePages">      <page  class="org.eclipse.emf.cdo.internal.ui.preferences.CDOPreferencePage"  id="org.eclipse.emf.cdo.ui.preferences.CDOPreferencePage"  name="CDO">      </page>   </extension> }

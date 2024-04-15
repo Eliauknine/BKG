@@ -1,0 +1,1 @@
+ private void checkSuperclass(TypeReference superClass, boolean isInterface, Stri{ 		}	}  private boolean findElement(TypeReferenceInfo info) {  String name = info.getFullyQualifiedName();  if (elementExists.containsKey(name)) { } 

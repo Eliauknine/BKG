@@ -1,0 +1,1 @@
+ public void writeRevision(IDBStoreAccessor accessor, CDORevision revision, OMMon{     { // TODO Better monitoring  monitor.begin(10);  if (revision.getVersion() > 1 && hasFullRevisionInfo())       {  writeRevisedRow(accessor, (InternalCDORevision)revision);       } } } 

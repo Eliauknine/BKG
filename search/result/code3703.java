@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.tests.model1.Company;import org.eclipse.emf.cdo.util.CDOUtil; import org.eclipse.emf.internal.cdo.CDOTransactionImpl; import org.eclipse.emf.internal.cdo.util.FSMUtil; /** }

@@ -1,0 +1,1 @@
+ define([{  contentType: ["text/x-markdown"]}); // open file with browser, no associated orion.navigate.openWith command means that any content type is valid //		if (!parent.window.isElectron) {  provider.registerService("orion.edit.editor", {}, {  id: "orion.viewer.raw",  name: messages["Browser"], } } 

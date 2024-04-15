@@ -1,0 +1,1 @@
+ 			if (tri.getNamespaceName() != null) {				fullyQualifiedName = tri.getNamespaceName(); 			} 			fullyQualifiedName += NamespaceReference.NAMESPACE_DELIMITER + usePart.getNamespace().getName(); 			if (!fullyQualifiedName.startsWith(NamespaceReference.NAMESPACE_DELIMITER)) { 				fullyQualifiedName = NamespaceReference.NAMESPACE_DELIMITER + fullyQualifiedName; 			} 		}

@@ -1,0 +1,1 @@
+	 *         is incompatibleS	 */  public static AbstractPHPSourceParser createParser(PHPVersion phpVersion) {  if (PHPVersion.PHP4 == phpVersion) {  return new org.eclipse.php.internal.core.compiler.ast.parser.php5.PhpSourceParser(); 		}  if (PHPVersion.PHP5 == phpVersion) {  return new org.eclipse.php.internal.core.compiler.ast.parser.php5.PhpSourceParser(); 		} } 

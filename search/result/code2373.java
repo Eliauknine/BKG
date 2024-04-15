@@ -1,0 +1,1 @@
+  /**   * fails if the type does not have supertype (superclass or interface) with the <code>superTypeFqn</code> (fully    * qualified name).    *     * @param message    * @param type    * @param superTypeFqn }

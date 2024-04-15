@@ -1,0 +1,1 @@
+ void update_nodes(char *hostlist_path){      * Multiple consecutive spaces in the message will cause parsing errors      * in the Java code handling the response.  */  char *res;  char *valstr;  char hostname[256]; } 

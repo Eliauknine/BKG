@@ -1,0 +1,1 @@
+  final Map<String, Object> extensionToFactoryMap = resourceSet			.getResourceFactoryRegistry().getExtensionToFactoryMap();  extensionToFactoryMap.put(Resource.Factory.Registry.DEFAULT_EXTENSION,  new XMIResourceFactoryImpl());  resourceSet.getPackageRegistry().put(VViewPackage.eNS_URI,  VViewPackage.eINSTANCE);  final Resource resource = resourceSet.createResource(uri); }

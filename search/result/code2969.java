@@ -1,0 +1,1 @@
+ m_requestId = id; m_fileName = fileName;  m_contentType = contentType;  RWT.getServiceManager().registerServiceHandler(m_requestId, this);   }  public RwtScoutDownloadHandler(String id, File file, String contentType, String fileName) { 

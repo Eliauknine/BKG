@@ -1,0 +1,1 @@
+ public void connect(ID remote, IConnectContext joinContext) throws ContainerConn{  try { getSharedObjectManager().addSharedObject(presenceHelperID, presenceHelper, null);  super.connect(remote, joinContext); 		} catch (final ContainerConnectException e) {  disconnect();  throw e; } } 

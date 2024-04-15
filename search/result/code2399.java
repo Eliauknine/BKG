@@ -1,0 +1,1 @@
+	public ArrayCreation(int start, int end, AST ast, List elements) {		this(start, end, ast, elements == null ? null 				: (ArrayElement[]) elements.toArray(new ArrayElement[elements 						.size()]), true, null); 	} 

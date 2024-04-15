@@ -1,0 +1,1 @@
+ 						&& StringUtils.startsWithIgnoreCase(elementFullName, prefix)) {					completionName = elementFullName.substring(prefix.length()); 				} 			} else if (removeDollar && completionName.startsWith("$")) {  				completionName = completionName.substring(1); 			}

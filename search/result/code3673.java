@@ -1,0 +1,1 @@
+ public Set<CDOObject> handleInvalidation(long timeStamp, Set<CDOIDAndVersion> di{         { CDOStateMachine.INSTANCE.detachRemote(detachedObject);  detachedObjects.add(detachedObject);  if (FSMUtil.isConflict(detachedObject))           {  if (conflicts == null)             { } } } } 

@@ -1,0 +1,1 @@
+ public final void open(){  prepareOpen(); CDOSession session = ((CDORepositoryImpl)repository).openCheckout(this);  view = openView(session);  view.addListener(new LifecycleEventAdapter()             {  @Override } } 

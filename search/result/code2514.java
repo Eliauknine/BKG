@@ -1,0 +1,1 @@
+ @Override public void setBusinessObject(EObject object) {  if (object instanceof ConditionalEventDefinition) {  ConditionalEventDefinition ced = (ConditionalEventDefinition)object;  if (ced.getCondition()==null) {  object = createModelObject(FormalExpression.class); } } } 

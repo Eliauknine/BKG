@@ -1,0 +1,1 @@
+	} public String getLabel() {  IPreferencePage page = preferenceNode.getPage();  if (page != null && page.getDescription() != null 				&& page.getDescription().length() != 0) {  return preferenceNode.getLabelText() + separator 					+ page.getDescription(); 		}  return preferenceNode.getLabelText(); 	

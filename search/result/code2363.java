@@ -1,0 +1,1 @@
+ /**   * fails if the member does not have the <b><code>public</code></b> flag. <br>    * The following example for private static member.    *     * <pre>    * SdkAssert.assertPrivate(aMember).assertStatic().assertNoMoreFlags();    * </pre>    *     * @param message    * @param member    * @return {@link FlagAssert} where the private flag is not anymore included. 

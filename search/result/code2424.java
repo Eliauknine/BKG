@@ -1,0 +1,1 @@
+ public ESPrimaryVersionSpec doRun(final IProgressMonitor monitor){  throws ESException { final ESPrimaryVersionSpec oldBaseVersion = localProject.getBaseVersion();  ESPrimaryVersionSpec newBaseVersion;  final ESPrimaryVersionSpec headVersion = localProject.resolveVersionSpec(  ESVersionSpec.FACTORY.createHEAD(oldBaseVersion.getBranch()), } } 

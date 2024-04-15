@@ -1,0 +1,1 @@
+   * A mergeable difference with editing features.   * All concrete classes implementing IMergeableDifference must also implement this interface.    */  public static interface Editable extends IMergeableDifference, IDifference.Editable {  /**      * Core behavior for mergeIn(Role, IMergePolicy) ignoring dependencies      * @param destination_p non-null destination role } 

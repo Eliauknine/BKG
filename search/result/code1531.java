@@ -1,0 +1,1 @@
+  val result = new LinkedList<GenerationInfo> val modelGenerator = new EcoreJsonGenerator  val formsGenerator = new FormsJsonGenerator(new ReferenceHelperImpl)  for (view : views) {  val eClass = view.rootEClass  val schemaIdentifier = eClass.name } }

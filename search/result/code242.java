@@ -1,0 +1,1 @@
+ protected CreateInterfaceElementCommand newCreateCommand(IInterfaceElement inter{  isInput, pos);	}  @Override  protected INamedElement getInputType(Object input) {  if (input instanceof FBTypeEditPart) { } } 

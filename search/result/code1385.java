@@ -1,0 +1,1 @@
+  .then(function(commit) { thisCommit = commit;  if(isAnnotated) {  var tagger = git.Signature.default(theRepo);  }  return isAnnotated ? theRepo.createTag (commit, name, message, tagger) : theRepo.createLightweightTag(commit, name);  }) }

@@ -1,0 +1,1 @@
+  return true;	}  private boolean createViewModelFile() {  final IProject p = projectDescriptors.get(0).getProject();  final IPath path = p.getFolder("viewmodels").getFullPath().append(selectedEClass.getName() + ".view");   }

@@ -1,0 +1,1 @@
+ 			return;		IDebuggerSettings settings = DebuggerSettingsManager.INSTANCE 				.findSettings(debuggerOwner.getUniqueId(), debuggerId); 		boolean repaint = false; 		if (debuggerSettingsSection != null) { 			debuggerSettingsComposite.dispose(); 			repaint = true; } }

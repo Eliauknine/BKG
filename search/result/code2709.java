@@ -1,0 +1,1 @@
+  createAddRowButton(clazz, buttonComposite);  createRemoveRowButton(clazz, buttonComposite);  if (!isEmbedded() && getStructuralFeature().isUnsettable()) {  unsetButton = new Button(buttonComposite, SWT.PUSH);  unsetButton.setToolTipText(getUnsetButtonTooltip());  unsetButton.setImage(Activator.getImage("icons/delete.png"));  } }

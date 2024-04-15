@@ -1,0 +1,1 @@
+ private NSURIMapping addChangesForDomainModel(URI resourceURI, Release release){    <extension point="org.eclipse.emf.edit.childCreationExtenders">       <extender  uri="http://org/eclipse/emf/ecp/view/model"  class="org.eclipse.emf.ecp.view.spi.group.model.provider.GroupItemProviderAdapterFactory$ViewChildCreationExtender"/>    </extension> } 

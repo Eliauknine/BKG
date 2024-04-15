@@ -1,0 +1,1 @@
+  *    Henrik Rentz-Reichert - mwenz - Bug 376544 - bug in re-connecting connection with identical start and end anchor *    mwenz - Bug 394801 - AddGraphicalRepresentation doesn't carry properties  *    mwenz - Bug 421754 - Absolute position of active Shape nested in inactive ContainerShape is calculated incorrectly  *  * </copyright>  * }

@@ -1,0 +1,1 @@
+  *  * Contributors:  *  Vincent Lorenzo (CEA LIST) vincent.lorenzo@cea.fr - Initial API and implementation  *  Vincent Lorenzo (CEA LIST) vincent.lorenzo@cea.fr - Bug 569246  *****************************************************************************/ package org.eclipse.papyrus.model2doc.integration.emf.documentstructuretemplate.representation.architecture; }

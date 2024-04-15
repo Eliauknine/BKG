@@ -1,0 +1,1 @@
+ 	 * @return copy of the controls map	 * @since 1.3 	 */  protected final Map<GridCell, Control> getControls() {  if (controls == null) {  return Collections.emptyMap(); 		}  return new LinkedHashMap<GridCell, Control>(controls); 	}  /** }

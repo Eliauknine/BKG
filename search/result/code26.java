@@ -1,0 +1,1 @@
+ 		<version>0.0.1-SNAPSHOT</version>	</parent> 	<artifactId>org.eclipse.papyrus.views.modelexplorer</artifactId> 	<version>4.1.0-SNAPSHOT</version> 	<packaging>eclipse-plugin</packaging> </project> }

@@ -1,0 +1,1 @@
+ public static void assertElementSequenceInSource(IMember... elements) throws Jav{  /**    * fails if the elements does not appear in the arrays sequence in the source code.    *     * @param message    * @param elements    * @throws JavaModelException } 

@@ -1,0 +1,1 @@
+ public <P extends IProperty> P getProperty({ 				.value(getPropertyOfChild(indexDomainModelReference						.getTargetDMR()));  // property.value(valueProperty);  return (P) property.value(value); 	} 

@@ -1,0 +1,1 @@
+ private int[] computeTblColumnWidths( ITableContent table, int tblWidth ){  int[] tblColumns = new int[colCount]; int count = 0;  int total = 0;  for ( int i = 0; i < colCount; i++ ) 		{  IColumn col = table.getColumn( i ); } } 

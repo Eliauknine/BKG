@@ -1,0 +1,1 @@
+ protected void addURIDescriptor(Object object){  /**    * Base abstract to add CDO debug information to PropertiesView. Users wanting to add new information to the    * Properties View can subclass this class instead of directly implementing {@link IItemPropertyDescriptor}.    *    * @since 2.0    * @author Victor Roldan Betancort } 

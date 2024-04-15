@@ -1,0 +1,1 @@
+  /**     * This adds property descriptor for the Reference Name Expression      * feature. <!-- begin-user-doc --> <!-- end-user-doc -->      *       * @generated      */  protected void addReferenceNameExpressionPropertyDescriptor(Object object) { } }

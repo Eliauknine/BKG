@@ -1,0 +1,1 @@
+ public boolean canFinish() { if (selectEClassPage != null) {  selectedEClass = selectEClassPage.getSelectedEClass();  return selectedEClass != null && newFileCreationPage.isPageComplete(); 		}  return false; 	} 

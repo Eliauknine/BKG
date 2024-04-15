@@ -1,0 +1,1 @@
+	 *	 * @generated 	 */  public static final String FORMATTED_FILE_EXTENSIONS = DocumentstructuretemplateEditorPlugin.INSTANCE.getString("_UI_DocumentStructureTemplateEditorFilenameExtensions").replaceAll("\\s*,\\s*", ", ");     /** 	 * This caches an instance of the model package. 

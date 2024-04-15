@@ -1,0 +1,1 @@
+	 *             problems on file access	 */  @WrapToScript  public String readFile(final Object location, @ScriptParameter(defaultValue = "-1") final int bytes)  throws Exception {  final IFileHandle handle = getFileHandle(location, IFileHandle.READ);  if (handle != null) { } } 

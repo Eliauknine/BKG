@@ -1,0 +1,1 @@
+ notify(updatedSession_p, SessionListener.REPRESENTATION_CHANGE); 	}  @Override  public void viewpointSelected(Viewpoint selectedViewpoint) {  update(selectedViewpoint); 	}  @Override  public void viewpointDeselected(Viewpoint deselectedViewpoint) {  update(deselectedViewpoint); 	

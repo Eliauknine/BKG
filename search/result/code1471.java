@@ -1,0 +1,1 @@
+ Export-Package: org.eclipse.ease,{  org.eclipse.ease.engine, org.eclipse.ease.modules,  org.eclipse.ease.service,  org.eclipse.ease.tools Bundle-ActivationPolicy: lazy Bundle-Activator: org.eclipse.ease.Activator Bundle-Name: EASE Core (Incubation) } 

@@ -1,0 +1,1 @@
+  newFileCreationPage = getNewFileCreationPage(); addPage(newFileCreationPage); 	}

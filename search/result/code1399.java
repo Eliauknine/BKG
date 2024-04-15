@@ -1,0 +1,1 @@
+ function getIndex(req, res) { var repo;  var index;  var filePath = path.join(req.user.workspaceDir, req.params["0"]);  return clone.getRepo(req)  .then(function(repoResult) {  repo = repoResult;  filePath = api.toURLPath(filePath.substring(repo.workdir().length));  return repo;  })  .then(function(repo) { } } }

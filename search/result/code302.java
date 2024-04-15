@@ -1,0 +1,1 @@
+ public final class CDOClassInfoImpl implements InternalCDOClassInfo, Adapter.Int{  private EStructuralFeature[] allPersistentContainments;  private int[] persistentFeatureIndices;  private int settingsFeatureCount; } 

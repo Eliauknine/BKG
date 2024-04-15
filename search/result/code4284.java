@@ -1,0 +1,1 @@
+  builder.setDiagram(fVEModel) ;  fBeanModel = builder.build() ;  if (fBeanModel!=null)  fBeanModel.setSourceSynchronizer(fSrcSync) ;	  TimerTests.basicTest.stopStep("Parsing");   TimerTests.basicTest.startStep("Decoding");   buildCompositionModel(new SubProgressMonitor(pm,60)) ; 		}  pm.done();  TimerTests.basicTest.stopStep("Decoding");      }

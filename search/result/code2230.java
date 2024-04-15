@@ -1,0 +1,1 @@
+  for (int i = 1; i < columnCount; i++) { final TableColumn column = columns[i];  column.pack();  if (column.getWidth() < COLUMN_WIDTH) {  column.setWidth(COLUMN_WIDTH);             }         }     }

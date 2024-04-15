@@ -1,0 +1,15 @@
+1.31.30	+6	r_public
+1.38.37	+8	id|ISession
+1.41.40	+b	id|openSession
+1.4c.4b	+0	c_func
+1.4c.4b	+1	(paren
+1.4d.4c	+11	id|CDOServerProtocol
+1.5f.5e	+8	id|protocol
+1.67.66	+1	s_,
+1.69.68	+7	r_boolean
+1.71.70	+14	id|disableLegacyObjects
+1.85.84	+1	)paren
+1.87.86	+6	r_throws
+1.8e.8d	+18	id|SessionCreationException
+1.a6.a5	+1	suffix:semicolon
+2.1.a9	+0	eof

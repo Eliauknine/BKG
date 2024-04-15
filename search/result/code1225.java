@@ -1,0 +1,1 @@
+ import org.eclipse.emf.compare.ResourceLocationChange;import org.eclipse.emf.compare.internal.merge.MergeMode; import org.eclipse.emf.compare.provider.ISemanticObjectLabelProvider; import org.eclipse.emf.compare.utils.MatchUtil; import org.eclipse.emf.compare.utils.ReferenceUtil; import org.eclipse.emf.ecore.EObject; }

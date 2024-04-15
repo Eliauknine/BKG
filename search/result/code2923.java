@@ -1,0 +1,1 @@
+ * Uses ResourceMatchers (e.g. PathResourceMatcher, RegexResourceMatcher, and WildcardResourceMatcher) to match the * "patterns" entered to actual files in the project.  */ public class SyncFileFilterDialog extends Dialog {  private static final Display display = Display.getCurrent();  private final IProject project; } 

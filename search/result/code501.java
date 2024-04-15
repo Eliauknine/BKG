@@ -1,0 +1,1 @@
+ private static final long serialVersionUID = 1L;  public HelloWorldFormData() {   }  public Message getMessage() {  return getFieldByClass(Message.class);   }  public static class Message extends AbstractValueFieldData<String> {  private static final long serialVersionUID = 1L;  public Message() {     }   } 

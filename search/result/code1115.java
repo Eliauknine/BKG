@@ -1,0 +1,1 @@
+  tableViewer.getGrid()				.addKeyListener(new GridPasteKeyListener(tableViewer.getGrid().getDisplay(), getVElement(),  getEMFFormsDatabinding(), converterService, true));  // TODO MS  // tableViewer.getGrid().addKeyListener(new GridNewLineKeyListener() {  // } }

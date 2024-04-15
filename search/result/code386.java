@@ -1,0 +1,1 @@
+  protected: CBaseCommFB(const CStringDictionary::TStringId pa_nInstanceNameId, CResource *pa_poSrcRes, forte::com_infra::EComServiceType pa_eCommServiceType);  static char *extractLayerIdAndParams(char **paRemainingID, char **paLayerParams);  /*!\brief Generate layer ID formed by root with prefix and suffix }

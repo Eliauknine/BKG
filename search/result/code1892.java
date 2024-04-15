@@ -1,0 +1,1 @@
+ public void replaceContent(File tempDir) throws IOException { IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_35, new KeywordAnalyzer());  conf.setOpenMode(OpenMode.CREATE_OR_APPEND);  try (IndexWriter writer = new IndexWriter(index, conf)) {  writer.deleteAll();  writer.addIndexes(FSDirectory.open(tempDir));  writer.commit();         }     } 

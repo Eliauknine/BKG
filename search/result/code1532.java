@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecp.emf2web.json.util.ReferenceHelperImpl{ import org.eclipse.emf.ecp.view.spi.model.VViewimport org.eclipse.emf.ecp.emf2web.json.generator.seed.SeedWrapper import org.eclipse.emf.ecp.emf2web.controller.GenerationController /**  * @author Stefan Dirix <sdirix@eclipsesource.com> } 

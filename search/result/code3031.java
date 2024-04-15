@@ -1,0 +1,1 @@
+ protected Command trigger(TransactionalEditingDomain domain, Notification notifi{  //I think that only Set and Unset are required to get all changes in the model  case Notification.SET:  case Notification.UNSET:  return getSynchronizationCommand(domain);  default:  break; } 

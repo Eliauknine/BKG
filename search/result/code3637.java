@@ -1,0 +1,1 @@
+ private Collection<CDOID> detachedObjects;  public InvalidationEvent(InternalCDOView view, long timeStamp, Set<CDOIDAndVersion> dirtyOIDs,  Collection<CDOID> detachedObjects)     {  super(CDOSessionImpl.this);  this.view = view;  this.timeStamp = timeStamp;  this.dirtyOIDs = dirtyOIDs;  this.detachedObjects = detachedObjects;     } 

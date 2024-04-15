@@ -1,0 +1,1 @@
+  return count;} protected void reverseParse (IProgressMonitor pm) throws CodeGenException {  try {  fSrcSync.getUpdateStatus().setBottomUpProcessing(true);  pm.beginTask(CodegenMessages.getString("JavaSourceTranslator.16"),100);  } }

@@ -1,0 +1,1 @@
+ RESID_PP_SUBSYSFACTORY_TYPES_TOOLTIP=System types supported by this factory{ #=============================================================# NEW FILTER WIZARD... #============================================================= RESID_NEWFILTER_TITLE=New RESID_NEWFILTER_PAGE_TITLE=Filter # PAGE 1 OF NEW FILTER WIZARD... RESID_NEWFILTER_PAGE1_DESCRIPTION=Create new filter  } 

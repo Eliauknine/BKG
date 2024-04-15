@@ -1,0 +1,1 @@
+ public void detach(CDOResourceImpl cdoResource)  {  CDOStateMachine.INSTANCE.detach(cdoResource);  IListener[] listeners = getListeners();  if (listeners != null)     {  fireEvent(new ResourcesEvent(cdoResource.getPath(), ResourcesEvent.Kind.REMOVED), listeners);     }   }  /** 

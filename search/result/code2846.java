@@ -1,0 +1,1 @@
+ define("orion/editor/editor", [ //$NON-NLS-0${  if (typeof this._keyBindingFactory === "function") { //$NON-NLS-0$ this._keyBindingFactory(this, this.getKeyModes(), this._undoStack, this._contentAssist);  } else {  this._keyBindingFactory.createKeyBindings(editor, this._undoStack, this._contentAssist);  }  } 

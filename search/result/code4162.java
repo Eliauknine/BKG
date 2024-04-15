@@ -1,0 +1,1 @@
+  col = new TableColumn(t2, SWT.NONE);  col.setText(Messages.getString("ToolSelectionDialog.2"));   col.setWidth(200);  Display display = composite.getDisplay();  red = display.getSystemColor(SWT.COLOR_RED); }

@@ -1,0 +1,1 @@
+  final List<RenderingResultRow<Control>> list = Collections.singletonList(SWTRenderingHelper.INSTANCE			.getResultRowFactory().createRenderingResultRow(  validationLabel, createControl(parent)));  // TODO remove asap  backwardCompatibleHandleValidation();  return list; 	}

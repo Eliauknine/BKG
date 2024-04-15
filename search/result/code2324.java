@@ -1,0 +1,1 @@
+ public void putUpdate(InputStream stream,{  Calendar time = Calendar.getInstance(); associatedResource.removeAll(DCTerms.modified);  associatedResource.addLiteral(DCTerms.modified, associatedModel.createTypedLiteral(time));  fGraphStore.commit(); 		} catch (UnsupportedEncodingException e) {  e.printStackTrace(); } 

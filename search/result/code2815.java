@@ -1,0 +1,1 @@
+  Message result = message;  changesDone = true;  if (messageList.size()>1) {  PopupMenu popupMenu = new PopupMenu(messageList, labelProvider);  changesDone = popupMenu.show(Display.getCurrent().getActiveShell()); } }

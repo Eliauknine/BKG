@@ -1,0 +1,1 @@
+ */@SuppressWarnings("all") public class StructuredTextScopeProvider extends AbstractDeclarativeScopeProvider {  public SimpleScope scope_VarDeclaration_type(final VarDeclaration context, final EReference ref) {  SimpleScope _xblockexpression = null;     {  final Collection<DataType> candidates = DataTypeLibrary.getInstance().getDataTypes(); } } } 

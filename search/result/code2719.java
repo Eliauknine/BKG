@@ -1,0 +1,1 @@
+  /**   * Gets the scout bundle for the given eclipse project or null if no scout bundle is associated with the given    * project.<br>    * If the bundle graph is currently building, this method blocks until the build has been completed.    *     * @param p    *          the project that belongs to the returned scout bundle }

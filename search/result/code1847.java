@@ -1,0 +1,1 @@
+ viewModel, subViewModelContext, new EMFFormsSpreadsheetRenderTarget({  return numColumns;	}  private VView getView(VTableControl tableControl, EObject domainObject, ViewModelContext viewModelContext)  throws DatabindingFailedException {  VView detailView = tableControl.getDetailView(); } 

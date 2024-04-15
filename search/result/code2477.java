@@ -1,0 +1,1 @@
+public abstract class AbstractSWTRenderer<VELEMENT extends VElement> extends AbstractRenderer<VELEMENT> { private ModelChangeListener listener;  private Map<GridCell, Control> controls;  private SWTRendererFactory rendererFactory;  private boolean renderingFinished; } 

@@ -1,0 +1,1 @@
+ public static class WWindowImpl extends WLayoutedWidgetImpl<Stage, Pane, MWindow{  WCallback<WWindow<Stage>, Boolean> onCloseCallback;  private Boolean maximizedShell;  List<WWidget<?>> lastActivationTree = new ArrayList<WWidget<?>>();  List<WWidget<?>> queuedTree = new ArrayList<WWidget<?>>(); } 

@@ -1,0 +1,1 @@
+  dialog.create(); dialog.getShell().setText(  "CreateFolderAction_title");  WorkbenchHelp.setHelp(dialog.getShell(),  new Object[] { IIDEHelpContextIds.NEW_FOLDER_WIZARD });  DialogCheck.assertDialog(dialog, this);     }

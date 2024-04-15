@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.common.revision.CDOReferenceAdjuster;import org.eclipse.emf.cdo.internal.common.revision.CDOIDMapper; import org.eclipse.emf.internal.cdo.CDOCommitContext; import org.eclipse.emf.internal.cdo.revision.CDOPostCommitReferenceAdjuster; import java.util.HashMap; }

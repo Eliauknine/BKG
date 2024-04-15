@@ -1,0 +1,1 @@
+ 		<version>0.0.1-SNAPSHOT</version>	</parent> 	<artifactId>org.eclipse.papyrus.uml.diagram.common</artifactId> 	<version>3.4.100-SNAPSHOT</version> 	<packaging>eclipse-plugin</packaging> </project> }

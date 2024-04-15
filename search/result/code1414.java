@@ -1,0 +1,1 @@
+  var sha1Filter = query.sha1; var fromDateFilter = query.fromDate ? parseInt(query.fromDate, 10) : 0;  var toDateFilter = query.toDate ? parseInt(query.toDate, 10) : 0;  var filterPath = path.join(req.user.workspaceDir, req.params["0"]);  var behindCount = 0, aheadCount= 0;  function filterCommit(commit) {  if (sha1Filter && commit.sha() !== sha1Filter) return true; } }

@@ -1,0 +1,1 @@
+ @Override  public Image getImage(final Object element) {  // FIXME remove dependency to JSDT (images)  if (((Entry<?, ?>) element).getKey().toString().endsWith("()"))  return Activator.getImage("org.eclipse.wst.jsdt.ui", "/icons/full/obj16/methpub_obj.gif", true);  return Activator.getImage("org.eclipse.wst.jsdt.ui", "/icons/full/obj16/field_public_obj.gif", true); 			} 		

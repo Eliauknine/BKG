@@ -1,0 +1,1 @@
+ Manifest-Version: 1.0 Bundle-ManifestVersion: 2 Bundle-SymbolicName: org.eclipse.emf.cdo.edit; singleton:=true Bundle-Version: 4.2.100.qualifier Bundle-Name: %pluginName Bundle-Vendor: %providerName Bundle-Localization: plugin }

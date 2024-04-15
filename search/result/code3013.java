@@ -1,0 +1,1 @@
+  boolean stop = false; do {  proceedToToken(text, curr, false);  if (text.charAt(curr.pos)!=')') {  String arg = getParam(text, curr);  result.add(arg);  proceedToToken(text, curr); 			}  if (text.charAt(curr.pos)==',') 				++curr.pos;  else  stop = true; 		}  while (!stop);  if (text.charAt(curr.pos)!=')')  return null; 		++curr.pos; }

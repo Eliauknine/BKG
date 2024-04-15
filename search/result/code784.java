@@ -1,0 +1,1 @@
+ public TryCatch_Statement(final StatementBlock tryBlock, final Identifier except{  catchSurroundingBlock = new StatementBlock();  catchSurroundingBlock.setFullNameParent(this);  catchSurroundingBlock.setLocation(exceptionIdentifier.getLocation());  final Type strType = new CharString_Type();  strType.setLocation(exceptionIdentifier.getLocation()); } 

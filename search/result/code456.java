@@ -1,0 +1,1 @@
+ @Override  public RGB getBackground(Object element) {  if (element instanceof LicensingRequirement) {  LicensingRequirement requirement = (LicensingRequirement) element;  Iterable<RestrictionVerdict> restrictions = getRestrictions(requirement.getFeatureIdentifier());  return RestrictionRepresenters.resolveRGB(restrictions); 		}  return super.getBackground(element); 	} 

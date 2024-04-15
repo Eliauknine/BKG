@@ -1,0 +1,1 @@
+ public CDOID getResourceID();    

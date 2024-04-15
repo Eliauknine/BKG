@@ -1,0 +1,1 @@
+ define([{  var explorer = this;  var performDrop = this.dragAndDrop;  var dragStart = function(evt) {  dragStartTarget = evt.target;  };  if (persistAndReplace) {  if (this._oldDragStart) {  node.removeEventListener("dragstart", this._oldDragStart, false); //$NON-NLS-0$ } } } 

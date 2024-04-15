@@ -1,0 +1,1 @@
+	 */ public AbstractChangePackage getLocalChangePackage(boolean canonize) {  final AbstractChangePackage changePackage = ChangePackageUtil.createChangePackage(  Configuration.getClientBehavior().useInMemoryChangePackage() 			);  // copy operations from ProjectSpace  final ESCloseableIterable<AbstractOperation> operations = getLocalChangePackage().operations(); } 

@@ -1,0 +1,1 @@
+  for (final RenderingResultRow<Control> row : renderingResult) {  if (SingleColumnRow.class.isInstance(row)) { 				((SingleColumnRow) row).getControl().setEnabled(false); 			}  else if (DoubleColumnRow.class.isInstance(row)) { 				((DoubleColumnRow) row).getLeftControl().setEnabled(false); 				((DoubleColumnRow) row).getRightControl().setEnabled(false); 			} 		} }

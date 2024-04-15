@@ -1,0 +1,1 @@
+ public void execute(Realm realm){  protected void handleUser(CDOTransaction transaction, Realm realm, Role role, User user) throws Exception   {  user.getRoles().add(role);  transaction.createResourceFolder(getHomeFolder() + "/" + user.getId());   }  @Override } 

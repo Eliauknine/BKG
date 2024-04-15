@@ -1,0 +1,1 @@
+ public abstract class AbstractDeviceManagementInteractor implements IDeviceManag{  private final IDeviceManagementCommunicationHandler commHandler; private final Device device;  private Set<String> fbTypes = null;  private Set<String> adapterTypes = null;  private final List<IDeploymentListener> listeners = new ArrayList<>(); } 

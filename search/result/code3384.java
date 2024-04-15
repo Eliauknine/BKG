@@ -1,0 +1,1 @@
+ public static String[] getProgramArguments({  if (arguments == null || arguments.trim().equals("")) {   return new String[0]; 		}  return VariablesPlugin.getDefault().getStringVariableManager() 				.performStringSubstitution(arguments).split(" ");  	} 

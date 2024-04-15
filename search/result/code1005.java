@@ -1,0 +1,1 @@
+  class="org.eclipse.epp.internal.mpc.ui.commands.ImportFavoritesWizardCommand" commandId="org.eclipse.epp.mpc.ui.command.importFavoritesWizard">       </handler>    </extension>    <extension  point="org.eclipse.ui.commands"> }

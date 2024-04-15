@@ -1,0 +1,1 @@
+ public IManagedContainer getClientContainer(){  protected IManagedContainer createClientContainer()  {  IManagedContainer container = ContainerUtil.createContainer();  Net4jUtil.prepareContainer(container);  container.registerFactory(new ExecutorServiceFactory() } } 

@@ -1,0 +1,1 @@
+ private boolean isSameNamespace(String namespaceName, Program program,{  ISourceModule sourceModule, int offset) { NamespaceDeclaration currentNamespace = getCurrentNamespace(program,  sourceModule, offset - 1);  if (namespaceName.equals(getNamespaceName(currentNamespace))) {  return true; 		} } } 

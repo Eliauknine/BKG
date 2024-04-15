@@ -1,0 +1,1 @@
+ private static String lastSegment(URL url){  private static URL trimSegments(URL url, int count) throws MalformedURLException   {  System.out.println("trimSegments: " + url);  String path = url.getPath();  if (path.endsWith("/"))      { } } } 

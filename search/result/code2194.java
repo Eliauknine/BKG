@@ -1,0 +1,1 @@
+ private void removeSphinxValidationProblemMarker(final IResource resource) throw{  /** 	 * Remove all markers of type {@linkplain IXMLMarker.XML_INTEGRITY_PROBLEM} present on the resource. 	 *  	 * @param resource 	 *            the target {@link IResource} 	 * @see IMarker#getType() } 

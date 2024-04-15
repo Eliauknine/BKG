@@ -1,0 +1,1 @@
+  class="org.eclipse.ecf.internal.ui.actions.SelectProviderAction" icon="icons/messages.gif"  id="org.eclipse.ecf.example.collab.ui.connectAction"  label="Connect to IM/Chat Provider"  style="pulldown"  toolbarPath="org.eclipse.ecf.ui.collaboration"  tooltip="Connect to IM/Chat Provider">          </action>       </actionSet>    </extension> }

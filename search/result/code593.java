@@ -1,0 +1,1 @@
+ 				BrowserInformationControl iControl = new BrowserInformationControl(parent, font,						tooltipAffordanceString) { 					/* 					 * @see org.eclipse.jface.text.IInformationControlExtension5# 					 * getInformationPresenterControlCreator() 					 */ 					@Override } }

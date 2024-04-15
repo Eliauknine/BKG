@@ -1,0 +1,1 @@
+ @Override  public Object removeEntry(int index, CompoundCommand cmd) {  VarDeclaration entry = (VarDeclaration) getEntry(index);  cmd.add(new DeleteMemberVariableCommand(getType(), entry));  return entry; 	} 

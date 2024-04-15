@@ -1,0 +1,1 @@
+ /**   * @see org.eclipse.emf.diffmerge.bridge.api.ICause#getSourceElements()    */  @SuppressWarnings("unchecked")  public Collection<S> getSourceElements() {  Collection<S> result;  if (_source instanceof IPureStructure<?>)  result = ((IPureStructure<S>)_source).asCollection();  else  result = Collections.singletonList(getSource());  return result;   } 

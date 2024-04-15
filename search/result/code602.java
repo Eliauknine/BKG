@@ -1,0 +1,1 @@
+			/*			 * (non-Javadoc) 			 *  			 * @see org.eclipse.jdt.internal.ui.viewsupport.JavaElementLinks .ILinkHandler 			 * #handleInlineJavadocLink(org.eclipse.jdt.core .IModelElement) 			 */ 			@Override 			public void handleInlineLink(IModelElement linkTarget) { } 

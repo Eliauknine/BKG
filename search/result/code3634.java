@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.common.id.CDOIDAndVersion;import org.eclipse.emf.cdo.common.id.CDOIDObjectFactory; import org.eclipse.emf.cdo.common.model.CDOPackageRegistry; import org.eclipse.emf.cdo.common.revision.delta.CDORevisionDelta; import org.eclipse.emf.cdo.session.CDOSession; import org.eclipse.emf.cdo.spi.common.model.InternalCDOPackageRegistry; }

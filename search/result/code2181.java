@@ -1,0 +1,1 @@
+  /** 	 * Get the greater severity code from set of {@link org.eclipse.core.resources.IMarker IMarkers}. 	 *  	 * @param markers 	 *            An array of {@link org.eclipse.core.resources.IMarker IMarkers}. 	 * @return The greater severity code from the {@link org.eclipse.core.resources.IMarker IMarker} array }

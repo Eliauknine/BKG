@@ -1,0 +1,1 @@
+ import org.eclipse.net4j.util.ui.views.ContainerItemProvider;import org.eclipse.net4j.util.ui.views.IElementFilter; import org.eclipse.emf.ecore.EPackage; import org.eclipse.jface.action.IMenuManager; }

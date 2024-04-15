@@ -1,0 +1,1 @@
+  IScoutBundle[] getBundles(IScoutBundleFilter filter); /**    * Gets the scout bundle the given java element is in or null if no scout bundle exists for the given element.<br>    * If the bundle graph is currently building, this method blocks until the build has been completed.    *     * @param je    *          the java element }

@@ -1,0 +1,1 @@
+ Export-Package: org.eclipse.internal.net4j;version="4.0.0";{  org.eclipse.net4j.http.tests, org.eclipse.net4j.tests,  org.eclipse.net4j.defs",  org.eclipse.internal.net4j.buffer;version="4.0.0";  x-friends:="org.eclipse.net4j.http.server,  org.eclipse.net4j.jvm,  org.eclipse.net4j.tcp, } 

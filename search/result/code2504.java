@@ -1,0 +1,1 @@
+ public void setLocation(@Preference(Constants.P_SNIPPETS_REPO) String newValue){  String old = location; location = newValue;  if (old != null) {  bus.post(new SnippetRepositoryChangedEvent());         }     } 

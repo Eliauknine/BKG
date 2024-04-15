@@ -1,0 +1,1 @@
+ private NamespaceDeclaration getCurrentNamespace(Program program,{  ISourceModule sourceModule, int offset) {  SourceType ns = (SourceType) PHPModelUtils.getCurrentNamespace(  sourceModule, offset);  ASTNode node = null;  try {  node = program.getElementAt(ns.getSourceRange().getOffset()); } } } 

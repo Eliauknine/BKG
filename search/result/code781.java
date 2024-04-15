@@ -1,0 +1,1 @@
+ function completeTransfer(req, res, tempFile, file, fileName, xferOptions, shoul{ function getXfer(req, res) { var rest = req.params["0"];  var file = fileUtil.getFile(req, rest);  if (path.extname(file.path) !== ".zip") {  return writeError(400, res, "Export is not zip");  }  getXferFrom(req, res, file); } } 

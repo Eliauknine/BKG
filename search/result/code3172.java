@@ -1,0 +1,1 @@
+  ContentType oldContentType = contentType; contentType = newContentType;  fireContentTypeChange(oldContentType, newContentType);  doQuery(null, null, tag); 	}  private void fireContentTypeChange(ContentType oldValue, ContentType newValue) {  Object source = this;  String property = CONTENT_TYPE_PROPERTY; }

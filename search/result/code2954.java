@@ -1,0 +1,1 @@
+ /**   * @author Eike Stepper    */  public static final class NoFeatures extends CDOUndoDetectorImpl   {  @Override  protected boolean ignore(EStructuralFeature feature)     {  return true;     }   } 

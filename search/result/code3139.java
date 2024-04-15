@@ -1,0 +1,1 @@
+ Manifest-Version: 1.0Bundle-ManifestVersion: 2 Bundle-SymbolicName: org.eclipse.emf.cdo.tests.objectivity;singleton:=true Bundle-Version: 4.0.0.qualifier Require-Bundle: org.eclipse.emf.cdo.server.objectivity;bundle-version="[4.0.0,5.0.0)",  org.eclipse.emf.cdo.tests;bundle-version="[4.0.0,5.0.0)" Bundle-RequiredExecutionEnvironment: J2SE-1.5 }

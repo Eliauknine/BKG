@@ -1,0 +1,1 @@
+ 		} catch (CoreException e) { 			// Should not happened 		} 		if (openInBrowser) { 			openBrowser(launch, parametersInitializer); 		} else { 			openUrlConnection(launch, parametersInitializer); 		} 		if (launch instanceof PHPLaunch) { 			((PHPLaunch) launch).pretendRunning(false); 		}

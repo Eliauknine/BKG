@@ -1,0 +1,1 @@
+  ITableRow selectedRow = pageTable.getSelectedRow(); if (!PageFormManager.isDrillDownPage(MobileDesktopUtility.getPageFor(getPage(), selectedRow))) {  if (selectedRow != null) {  handleTableRowSelected(pageTable, selectedRow);       }  else {  selectPageTableRowIfNecessary(pageTable);       }     }   }

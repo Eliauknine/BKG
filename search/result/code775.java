@@ -1,0 +1,1 @@
+ nameText.addModifyListener(new ModifyListener() { public void modifyText(final ModifyEvent e) {  removeContentAdapter();  executeCommand(new ChangeNameCommand(getType(), nameText.getText()));  addContentAdapter(); 			} 		}); 

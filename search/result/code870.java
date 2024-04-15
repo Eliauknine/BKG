@@ -1,0 +1,1 @@
+ private static String getAttribute(Pattern attributePattern, String attributeNam{  private String getFavoritesListUrl(String entryBody, String id) {  String marketplaceBaseUri = getMarketplaceBaseUri();  String explicitUrl = getAttribute(JSON_LIST_URL_ATTRIBUTE_PATTERN, null, entryBody);  if (explicitUrl != null && explicitUrl.trim().length() > 0) {  try { } } } } 

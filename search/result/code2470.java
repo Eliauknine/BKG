@@ -1,0 +1,1 @@
+ protected void setControlEnabled(GridCell gridCell, Control control, boolean ena{ 	 * 	 */  protected void applyVisible() {  for (final GridCell gridCell : controls.keySet()) {  final Object layoutData = controls.get(gridCell).getLayoutData();  if (GridData.class.isInstance(layoutData)) {  final GridData gridData = (GridData) layoutData; } } } } 

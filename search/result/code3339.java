@@ -1,0 +1,1 @@
+ public CreateBranchActionDelegate(){  @Override protected void preRun() throws Exception   {  InputDialog dialog = new InputDialog(new Shell(), "Create new branch",  "Please specify the name of the new branch", "", new BranchNameInputValidator());  if (dialog.open() == Dialog.OK)     { } } } 

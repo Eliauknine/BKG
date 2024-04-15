@@ -1,0 +1,1 @@
+ protected CDOClassImpl getObjectType(CDOID id){  protected Set<IDBTable> mapPackages(CDOPackageImpl... cdoPackages)   {  Set<IDBTable> affectedTables = new HashSet();  if (cdoPackages != null && cdoPackages.length != 0)     {  for (CDOPackageImpl cdoPackage : cdoPackages) } } } 

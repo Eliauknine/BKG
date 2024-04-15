@@ -1,0 +1,1 @@
+ * @author Simon McDuff * @since 2.0  */ public class CDOXATransactionCommitContext implements Callable<Object>, CDOIDProvider, CDOCommitContext {  private CDOXATransactionImpl transactionManager; } 

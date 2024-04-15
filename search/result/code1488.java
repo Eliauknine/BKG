@@ -1,0 +1,1 @@
+		public UseStatementsNode(ISourceModule sourceModule) {			super((ModelElement) sourceModule, PHPUIMessages.PHPOutlineContentProvider_useStatementsNode, 0, null); 			fSourceModule = sourceModule; 		} 

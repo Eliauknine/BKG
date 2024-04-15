@@ -1,0 +1,1 @@
+  private def dispatch JsonElement createJsonFormsElement(VContainer container){ val jsonObject = new JsonObject 		jsonObject.withType(container.type) 		jsonObject.withElements(container.children) 	} }

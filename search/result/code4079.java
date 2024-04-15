@@ -1,0 +1,1 @@
+ protected void doActivate() throws Exception{  File stateFolder = new File(OM.BUNDLE.getStateLocation()); File repositoryFolder = new File(stateFolder, repository.getUUID());  IOUtil.mkdirs(repositoryFolder);  packageURIMap = new PackageURIMap(new File(repositoryFolder, "package.uris"));  packageIDMap = new PackageIDMap(new File(repositoryFolder, "package.ids")); } 

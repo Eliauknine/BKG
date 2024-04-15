@@ -1,0 +1,1 @@
+ typedef struct struct3_t{  * <b>Requirements traceability</b> *      - REQ_FUNC_001  */ typedef enum enum1 {     leteral1 = MAX_SIZE, /**< Comment of leteral1 */     leteral2, /**< Comment of leteral2 */     leteral3 = 255 /**< Comment of leteral3 */ } } 

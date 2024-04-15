@@ -1,0 +1,1 @@
+  private void notifyFocusLostOnLastFocusControl() {  Control focusControl = m_focusLostListener.getFocusControl();  Event focusEvent = new Event();  focusEvent.widget = focusControl;  focusControl.notifyListeners(SWT.FocusOut, focusEvent);     }  private void handleTraverseTabKey() { } }

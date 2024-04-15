@@ -1,0 +1,1 @@
+  private void addActionSet(MPerspective perspective, MPerspective temporary) { List<String> tags = perspective.getTags();  List<String> extendedTags = temporary.getTags();  for (String extendedTag : extendedTags) {  if (!tags.contains(extendedTag)) {  tags.add(extendedTag); 			} 		} } }

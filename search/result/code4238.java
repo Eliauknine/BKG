@@ -1,0 +1,1 @@
+  // if header is not null, we add it to our list of headers if (header != null) {  long fileSize = header.getSize();  // if the header name does not match the entry name  if (!header.getName().equals(entry.getName())) { } } }

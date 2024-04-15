@@ -1,0 +1,1 @@
+ Require-Bundle: org.eclipse.ui;bundle-version="3.4.0",{  org.eclipse.compare;bundle-version="3.4.0",  com.ibm.icu;bundle-version="3.8.1",  org.eclipse.dltk.core,  org.eclipse.dltk.ui Bundle-ActivationPolicy: lazy Export-Package: org.eclipse.php.internal.ui,  org.eclipse.php.internal.ui.actions, } 

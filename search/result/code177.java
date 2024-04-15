@@ -1,0 +1,1 @@
+ local permissionsTemplates = import '../../templates/permissions.libsonnet';{  // https://bugs.eclipse.org/bugs/show_bug.cgi?id=559384          ["Job/Configure"]  // https://bugs.eclipse.org/bugs/show_bug.cgi?id=559384#c3           + ["Agent/Configure", "Agent/Connect", "Agent/Disconnect"],       },       {  // https://bugs.eclipse.org/bugs/show_bug.cgi?id=553268 } 

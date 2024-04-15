@@ -1,0 +1,1 @@
+ AbstractLockObjectsAction.0=Error AbstractLockObjectsAction.1=Cannot obtain locks BranchSelectionDialog_0=Change View Target BranchSelectionDialog_1=Please choose the target Branch BranchSelectionDialog_2=The selected branch point is current }

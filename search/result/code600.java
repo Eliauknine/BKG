@@ -1,0 +1,1 @@
+ 	/**	 * Creates and returns formatted message for the given constant with its hex 	 * value. 	 *  	 * @param constantValue 	 *             the constant value 	 * @param hexValue 	 *             the hex value 	 * @return formatted string with constant and hex values 	 * @since 3.4 	 */ }

@@ -1,0 +1,17 @@
+1.9.8	+4	id|type
+1.e.d	+1	s_=
+1.10.f	+2	id|fp
+1.12.11	+1	s_.
+1.13.12	+10	id|getParameterType
+1.23.22	+0	c_func
+1.23.22	+1	(paren
+1.24.23	+1	)paren
+1.25.24	+1	s_.
+1.26.25	+7	id|getName
+1.2d.2c	+0	c_func
+1.2d.2c	+1	(paren
+1.2e.2d	+1	)paren
+1.2f.2e	+1	suffix:semicolon
+1.36.35	+1	)brace
+1.3d.3c	+1	)brace
+2.1.3f	+0	eof

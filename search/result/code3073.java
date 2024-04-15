@@ -1,0 +1,1 @@
+ define(['require', 'dojo', 'dijit','orion/explorer', 'orion/util', 'orion/fileCl{  span = dojo.create("span", null, col, "only"); if(item.type === "file"){  this.getExpandImage(tableRow, span, "core-sprite-file");  } else {  var that = this;  dojo.connect(tableRow, "onclick", tableRow, function() { } } } 

@@ -1,0 +1,1 @@
+  if (ecorePath == null) { return; 						}  if (ecorePath.contains(delta.getResource().getFullPath().toString())) {  final ViewModelEditorCallback viewModelEditorCallback = viewModelViewModelEditorMapping 								.get(view);  if (viewModelEditorCallback == null) { } } }

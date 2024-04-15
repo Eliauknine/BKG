@@ -1,0 +1,1 @@
+	public static void addNonAccessibleReferenceProposal(IInvocationContext context, IProblemLocation problem,			Collection<IScriptCompletionProposal> proposals, int kind, int relevance) throws CoreException { 		ASTNode selectedNode = problem.getCoveringNode(context.getASTRoot()); 		if (selectedNode == null) { 			return; 		} } 

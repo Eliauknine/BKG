@@ -1,0 +1,1 @@
+ return repository.getStore().getCDOIDObjectFactory();  }  /**    * @since 2.0    */  public CDOID resolveReferenceProxy(CDORevision revision, CDOFeature feature, CDOReferenceProxy proxy, int currentIndex)   {  throw new UnsupportedOperationException("Reference proxies not supported on server side");   

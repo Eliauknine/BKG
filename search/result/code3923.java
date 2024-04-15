@@ -1,0 +1,1 @@
+   <eClassifiers xsi:type="ecore:EClass" name="Value">     <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>   </eClassifiers> </ecore:EPackage> }

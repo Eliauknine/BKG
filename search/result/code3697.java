@@ -1,0 +1,1 @@
+ public void testAttachingResourceVeto() throws Exception  {  CDOSession session = openModel1Session();  CDOTransactionImpl transaction = (CDOTransactionImpl)session.openTransaction();  transaction.addHandler(new CDODefaultTransactionHandler()     {  @Override } } 

@@ -1,0 +1,13 @@
+1.2.1	+6	r_public
+1.9.8	+6	r_static
+1.10.f	+a	id|FlagAssert
+1.1b.1a	+d	id|assertPrivate
+1.28.27	+0	c_func
+1.28.27	+1	(paren
+1.29.28	+7	id|IMember
+1.31.30	+6	id|member
+1.37.36	+1	)paren
+1.39.38	+6	r_throws
+1.40.3f	+12	id|JavaModelException
+1.52.51	+1	(brace
+3.1.1c7	+0	eof

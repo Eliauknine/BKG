@@ -1,0 +1,1 @@
+  if (properties == null) { return viewMap.keySet().iterator().next(); 		}  VView bestFitting = null;  int maxNumberFittingKeyValues = -1;  for (final VView view : viewMap.keySet()) {  final Map<String, String> viewFilter = viewMap.get(view).getKeyValuPairs(); } }

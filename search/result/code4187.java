@@ -1,0 +1,1 @@
+ package org.eclipse.ui.internal.quickaccess; import org.eclipse.jface.preference.IPreferenceNode; import org.eclipse.jface.preference.IPreferencePage; import org.eclipse.jface.resource.ImageDescriptor; import org.eclipse.swt.graphics.Image; import org.eclipse.ui.IWorkbenchWindow; }

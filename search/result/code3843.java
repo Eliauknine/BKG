@@ -1,0 +1,1 @@
+  **************************************************************************/package org.eclipse.emf.cdo.tests; import org.eclipse.emf.cdo.CDOSession; import org.eclipse.emf.cdo.CDOTransaction; import org.eclipse.emf.cdo.analyzer.CDOFetchRuleManager; }

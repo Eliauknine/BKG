@@ -1,0 +1,1 @@
+  git.Repository.open(dir) .then(function(repo) {  var base = path.basename(dir);  var location = api.join(fileRoot, repo.workdir().substring(req.user.workspaceDir.length + 1));  pushRepo(repos, repo, base, location, null, [], function() { cb(); });  })  .catch(function() { } }

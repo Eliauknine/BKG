@@ -1,0 +1,1 @@
+  /** 	 * Obtains the model that should persist an {@code object}. 	 *  	 * @param object 	 *            an object to be persisted as new root of managed EMF {@code Resource} 	 *  	 * @return the model that is best suited to persist the {@code object}, or {@code null} if none 	 * @since 2.0 	 */ }

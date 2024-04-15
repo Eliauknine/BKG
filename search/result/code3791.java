@@ -1,0 +1,1 @@
+ private IMethod findMethod(ISourceModule unit, String simpleMethodName){  final IModelElement[] elements = unit.getChildren(); for (int i = 0; i < elements.length; i++) {  if (elements[i].getElementType() == ISourceModule.METHOD) {  IMethod method = (IMethod) elements[i];  if (method.getElementName().equals(simpleMethodName)) {  return method; 				} 			} 		} } 

@@ -1,0 +1,10 @@
+1.5.4	+1	s_*
+1.6.5	+1	s_/
+1.8.7	+3	r_int
+1.c.b	+4	id|size
+1.10.f	+0	c_func
+1.10.f	+1	(paren
+1.11.10	+1	)paren
+1.12.11	+1	suffix:semicolon
+1.14.13	+1	)brace
+2.1.16	+0	eof

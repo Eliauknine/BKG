@@ -1,0 +1,1 @@
+  * * Contributors:  *  Vincent Lorenzo (CEA LIST) vincent.lorenzo@cea.fr - Initial API and implementation  *  *****************************************************************************/ package org.eclipse.papyrus.views.modelexplorer.handler; }

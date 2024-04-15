@@ -1,0 +1,1 @@
+  // init logging var log4js = require('log4js');  log4js.configure(path.join(__dirname, 'config/log4js.json'));  var logger = log4js.getLogger('server');  if (dev) {  logger.info('Development mode: client code will not be cached.'); } }

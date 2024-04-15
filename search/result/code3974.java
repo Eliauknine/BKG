@@ -1,0 +1,1 @@
+ protected void indicating(ExtendedDataInputStream in) throws IOException{  CDOClassRef classRef = CDOModelUtil.readClassRef(in);  int featureID = in.readInt();  CDOClass cdoClass = classRef.resolve(getPackageManager());  feature = cdoClass.lookupFeature(featureID);  if (PROTOCOL.isEnabled())     {  PROTOCOL.format("Read feature: {0}", feature); } } 

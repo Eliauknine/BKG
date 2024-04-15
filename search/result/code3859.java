@@ -1,0 +1,1 @@
+ public List<CDORevision> getRevisions(Collection<CDOID> ids, int referenceChunk); public List<CDORevision> getRevisionsByTime(Collection<CDOID> ids, int referenceChunk, long timeStamp);  /**    * @since 2.0    */  public CDOID resolveReferenceProxy(CDORevision revision, CDOFeature feature, CDOReferenceProxy proxy, int accessIndex); 

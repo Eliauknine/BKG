@@ -1,0 +1,1 @@
+ final AdapterFactoryLabelProvider labelProvider = new AdapterFactoryLabelProvider( adapterFactory);  final ElementTreeSelectionDialog etsd = new ElementTreeSelectionDialog(shell, labelProvider,   getContentProvider());  etsd.setAllowMultiple(false);  etsd.setValidator(new ISelectionStatusValidator() {  @Override  public IStatus validate(Object[] selection) { } } 

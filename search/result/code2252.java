@@ -1,0 +1,1 @@
+ * @noreference This class is not intended to be referenced by clients. * @noextend This class is not intended to be subclassed by clients.  * @since 1.4  *   */ @SuppressWarnings("restriction") public class DefaultReferenceService implements ReferenceService { } 

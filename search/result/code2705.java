@@ -1,0 +1,1 @@
+  deleteRows(deletionList);  final List<?> containments = (List<?>) modelElement.eGet(getStructuralFeature());  if (containments.size() < getStructuralFeature().getUpperBound()) {  addButton.setEnabled(true); 				}  if (containments.size() <= getStructuralFeature().getLowerBound()) {  removeButton.setEnabled(false); 				} 			}

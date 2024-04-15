@@ -1,0 +1,1 @@
+  * marker interface for weak event listener WeakEventListener's are removed from * scout's models automatically when their reference (WeakReference) is null.  * NOTE: weak listeners should be referenced by their host since the model will  * not hold valid reference to weak objects. best practise is to have member  * variable referencing every weak listener.  */ }

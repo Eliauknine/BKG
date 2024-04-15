@@ -1,0 +1,1 @@
+ versionViewer.setInput(type);			} 		}  commandStack = commandStackBuffer; 	}  @Override  public void executeCommand(Command cmd) {  if (null != type && null != commandStack && cmd.canExecute()) {  commandStack.execute(cmd); 		

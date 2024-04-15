@@ -1,0 +1,1 @@
+ protected ContainerShape createNewShape(ContainerShape oldShape, ICreateFeature{  FlowElement newObject;  ContainerShape newShape;  Object[] created = createFeature.create(createContext);  if (created[0] instanceof List) {  // this will happen if the createFeature is CompoundCreateFeature } } 

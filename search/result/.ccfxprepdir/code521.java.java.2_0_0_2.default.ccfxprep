@@ -1,0 +1,5 @@
+1.4.3	+1	s_*
+1.6.5	+4	id|they
+1.b.a	+3	id|can
+1.e.d	2.1.d5	l_string|'t handle. (see {@link org.eclipse.jdt.core.dom.AST#apiLevel()}).	 *  	 * @return Returns the root of the AST corresponding to the current compilation 	 *         unit. 	 */ 	Program getASTRoot(); }&r;&n;
+2.1.d5	+0	eof

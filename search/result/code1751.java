@@ -1,0 +1,1 @@
+ private final Font italic = JFaceResources.getFontRegistry().getItalic(JFaceResources.DEFAULT_FONT);  @Override  public void applyStyles(TextStyle textStyle) {  textStyle.font = italic;  textStyle.foreground = JFaceResources.getColorRegistry().get("QUALIFIER_COLOR"); 		} 

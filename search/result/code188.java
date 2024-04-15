@@ -1,0 +1,1 @@
+  @Override  protected Object[] getInputs(Object inputElement) {  InterfaceList interfaceList = getInterfaceListFromInput(inputElement);  if (null != interfaceList) {  return interfaceList.getInputVars().toArray(); 			} } }

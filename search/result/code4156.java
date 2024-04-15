@@ -1,0 +1,1 @@
+             </command>      </menuContribution>    </extension> </plugin> }

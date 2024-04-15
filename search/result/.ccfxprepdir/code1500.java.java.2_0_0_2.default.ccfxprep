@@ -1,0 +1,9 @@
+1.7.6	+c	id|initializers
+1.13.12	+1	s_[
+1.14.13	+1	id|a
+1.15.14	+1	s_]
+1.17.16	+1	s_=
+1.19.18	+d	id|DEFAULT_VALUE
+1.26.25	+1	suffix:semicolon
+1.2b.2a	+1	)brace
+2.1.2d	+0	eof

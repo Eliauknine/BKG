@@ -1,0 +1,1 @@
+  // read eclipse packages BundleContext context = FrameworkUtil.getBundle(JavaPackagesCompletionProvider.class).getBundleContext();  for (Bundle bundle : context.getBundles()) {  for (String packageName : getExportedPackages(bundle))  registerPackage(packageName); 			} }

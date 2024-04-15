@@ -1,0 +1,14 @@
+1.3.2	+f	id|overlayProvider
+1.13.12	+1	s_=
+1.15.14	+3	r_new
+1.19.18	+14	id|OverlayImageProvider
+1.2d.2c	+0	c_func
+1.2d.2c	+1	(paren
+1.2e.2d	+12	id|getResourceLocator
+1.40.3f	+0	c_func
+1.40.3f	+1	(paren
+1.41.40	+1	)paren
+1.42.41	+1	)paren
+1.43.42	+1	suffix:semicolon
+1.45.44	+1	)brace
+3.1.5e	+0	eof

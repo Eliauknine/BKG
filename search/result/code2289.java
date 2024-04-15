@@ -1,0 +1,1 @@
+  line = line.substring(0, end) 							+ ">\n" + filePathAttribute + "\n</extension>\n" + line.substring(end + 2, line.length());   					}  else {  final String filePathAttribute = "<file filePath=\""  							+ modelFile.getProjectRelativePath().toString() + "\"/>";   line = line.concat("\n" + filePathAttribute + "\n");   					}  extensionAdded = true; 				}

@@ -1,0 +1,1 @@
+  info.declarationStart = assignment.sourceStart(); fInfoStack.push(info);  if (assignment.getOperatorType() == Assignment.OP_EQUAL) {  fRequestor.enterField(info); 			} else {  ISourceElementRequestor sourceElementRequestor = (ISourceElementRequestor) fRequestor;  sourceElementRequestor.enterFieldCheckDuplicates(info); 			}  fNodes.push(assignment); 		}

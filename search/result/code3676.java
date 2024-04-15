@@ -1,0 +1,1 @@
+ public Set<CDOObject> getConflicts(){  Set<CDOObject> conflicts = new HashSet<CDOObject>(); for (CDOObject object : getDirtyObjects().values())     {  if (FSMUtil.isConflict(object))       {  conflicts.add(object);       }     }  for (CDOObject object : getDetachedObjects().values())     {  if (FSMUtil.isConflict(object))       {  conflicts.add(object);       } } } 

@@ -1,0 +1,1 @@
+ public void write(CDODataOutput out, int referenceChunk, CDOBranchPoint security{  CDOPermission permission = permissionProvider.getPermission(this, securityContext); out.writeByte(permission.getBits());  if (permission != CDOPermission.NONE)     {  if (!isUnchunked() && referenceChunk != 0)       { } } } 

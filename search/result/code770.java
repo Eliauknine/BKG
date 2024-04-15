@@ -1,0 +1,1 @@
+public class NameRepository { public static final Set<String> RESERVED_KEYWORDS =  Collections.unmodifiableSet(new HashSet<String>(Arrays.asList(new String[] {  "VAR", "END_VAR", "CONSTANT",     "SUPER", "RETURN",   } } 

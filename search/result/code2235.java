@@ -1,0 +1,1 @@
+ return image;	}  public static Image getLocalPluginIconImage(String iconPath) {  return getPluginIconImage(PLUGIN_ID, iconPath); 	}  public static ImageDescriptor getLocalImageDescriptor(String iconPath) {  return getImageDescriptor(PLUGIN_ID, iconPath); 	

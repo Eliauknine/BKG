@@ -1,0 +1,17 @@
+1.2.1	+4	r_else
+1.7.6	+2	r_if
+1.a.9	+0	c_cond
+1.a.9	+1	(paren
+1.b.a	+2	id|to
+1.e.d	+1	s_<
+1.f.e	+1	s_=
+1.11.10	+d	id|floatingIndex
+1.1f.1e	+1	s_&
+1.20.1f	+1	s_&
+1.22.21	+d	id|floatingIndex
+1.30.2f	+1	s_<
+1.32.31	+4	id|from
+1.36.35	+1	)paren
+1.37.36	+1	(brace
+1.45.44	+1	)brace
+2.1.48	+0	eof

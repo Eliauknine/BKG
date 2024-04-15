@@ -1,0 +1,1 @@
+    <extension point="org.eclipse.emf.edit.childCreationExtenders">       <extender  uri="http://org/eclipse/emf/ecp/view/model"  class="org.eclipse.emf.ecp.view.spi.label.model.provider.LabelItemProviderAdapterFactory$ViewChildCreationExtender"/>    </extension> }

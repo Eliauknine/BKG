@@ -1,0 +1,1 @@
+  private void createLogMessageText(Composite contents) {  txtLogMsg = new Text(contents, SWT.MULTI | SWT.LEAD | SWT.BORDER);  GridDataFactory.fillDefaults().grab(true, false).span(2, 1) 			.align(SWT.FILL, SWT.TOP).hint(1, 45).applyTo(txtLogMsg);  String logMsg = StringUtils.EMPTY;  final LogMessage logMessage = changes.getLogMessage(); } }

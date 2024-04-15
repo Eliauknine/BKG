@@ -1,0 +1,1 @@
+ public static synchronized PluginContainer getInstance(){  if (instance == null)    {  PluginContainer container = new PluginContainer();  container.activate();  instance = container; // Leave instance==null in case of Throwable in activate() } } 

@@ -1,0 +1,1 @@
+ public Object evaluate(final Object[] parameters, ExecutionContext ctx) { try {  if (ctx.getCallback() != null) {  ctx.getCallback().pre(this, ctx); 			}  if (cached) {  final List<Object> l = Arrays.asList(parameters); } } } 

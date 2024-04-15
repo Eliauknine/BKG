@@ -1,0 +1,1 @@
+  resourceSet = servicesRegistry.getService(ModelSet.class);  // Install shard resource handling  new ShardResourceLocator(resourceSet);  // Resolve possible shard URI  uri = EditorUtils.resolveShardRoot(  ICrossReferenceIndex.getInstance(resourceSet), uri);  // Load it up  resourceSet.loadModels(uri); }

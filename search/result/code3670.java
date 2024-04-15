@@ -1,0 +1,1 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="no"?><component id="org.eclipse.emf.cdo.server" version="2">     <resource path="src/org/eclipse/emf/cdo/internal/server/RevisionManager.java" type="org.eclipse.emf.cdo.internal.server.RevisionManager">         <filter id="576720909">             <message_arguments> }

@@ -1,0 +1,1 @@
+ package org.eclipse.ve.internal.java.codegen.editorpart;/*  *  $RCSfile: JavaVisualEditorPart.java,v $  *  $Revision: 1.94 $  $Date: 2005-04-04 22:21:24 $   */ import java.io.ByteArrayOutputStream; }

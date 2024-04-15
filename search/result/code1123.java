@@ -1,0 +1,1 @@
+  GraphicalEditPart gmfpart = (GraphicalEditPart) part;  DropObjectsRequest dropObjectsRequest = new DropObjectsRequest();  ArrayList<EObject> list = new ArrayList<EObject>();  list.add(gmfpart.resolveSemanticElement());  dropObjectsRequest.setObjects(list);  dropObjectsRequest.setLocation(gmfpart.getFigure().getBounds().getLocation()); }

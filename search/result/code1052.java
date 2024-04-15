@@ -1,0 +1,1 @@
+ 				buf.append("@param <").append(typeParameterNames[i]).append('>');  			} 		} 		for (int i = 0; i < paramNames.length; i++) { 			if (buf.length() > 0) { 				buf.append(lineDelimiter).append(lineStart); 			} 			buf.append("@param ").append(paramNames[i]);  		} 		if (null != newExceptions) { 			for (Iterator<String> iterator = newExceptions.iterator(); iterator.hasNext();) { }

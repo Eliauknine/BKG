@@ -1,0 +1,1 @@
+       CComLayer *m_poTopOfComStack; unsigned int m_unComInterruptQueueCount; //!< number of triggers pending from the network       CComLayer *m_apoInterruptQueue[cg_unCommunicationInterruptQueueSize];     }

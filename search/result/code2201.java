@@ -1,0 +1,1 @@
+ */ @Deprecated public class XmlDateControlText extends AbstractTextControl {  private static final DateFormat CHECK_FORMAT = new SimpleDateFormat("yyyy-MM-DD", Locale.ENGLISH);   private static final Pattern CHECK_PATTERN = Pattern.compile("^\\d{4}-\\d{2}-\\d{2}$");   private Button bDate; } 

@@ -1,0 +1,1 @@
+	public void traverseTopDown(Visitor visitor) {		accept(visitor); 		if (arrayDereferenceList != null) { 			arrayDereferenceList.traverseTopDown(visitor); 		} 		if (chainingMethodOrProperty != null) { 			for (VariableBase variableBase : chainingMethodOrProperty) { 				variableBase.traverseTopDown(visitor); } } } 

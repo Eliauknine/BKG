@@ -1,0 +1,1 @@
+  // if header is not null, we add it to our list of headers  if (header != null) {  // add header   blockHeaders.add(header);  // determine how many blocks make up the contents of the file  long fileSize = header.getSize();  int numFileBlocks = (int)(fileSize / BLOCK_SIZE);  numFileBlocks += (fileSize % BLOCK_SIZE) > 0 ? 1 : 0; } }

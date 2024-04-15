@@ -1,0 +1,1 @@
+ --TEST--Test Method Parameter with self:CONST --FILE-- <? class myClass { const BAZ = 'test'; function foo($a = self::|) {} } ?> --EXPECT-- field(BAZ) }

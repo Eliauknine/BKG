@@ -1,0 +1,1 @@
+import org.eclipse.swt.widgets.Shell;import org.eclipse.ui.IEditorPart; import org.eclipse.ui.dialogs.PreferencesUtil; import org.eclipse.ui.preferences.ScopedPreferenceStore; import org.eclipse.uml2.uml.Class; public class ExecutionEngineLaunchDelegate extends LaunchConfigurationDelegate implements ILaunchConfigurationDelegate { } 

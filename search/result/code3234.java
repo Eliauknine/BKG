@@ -1,0 +1,1 @@
+ private boolean preparePhpRegions(Collection<StyleRange> holdResults,{  from = partitionStartOffset - regionStart; length = partitionLength; 			}  phpTokens = region.getPhpTokens(from, Math.min(length, region 					.getLength()));  ITextRegion prevElement = null;  for (int i = 0; i < phpTokens.length; i++) {  ITextRegion element = phpTokens[i]; } 

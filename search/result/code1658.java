@@ -1,0 +1,1 @@
+ public class FileBasedChangePackageImpl extends EObjectImpl implements FileBased{  /**	 * @generated NOT 	 */  private static final String EMPTY_CHANGE_PACKAGE = XmlTags.XML_HEADER + XmlTags.CHANGE_PACKAGE_START 		+ XmlTags.CHANGE_PACKAGE_END;  /** } 

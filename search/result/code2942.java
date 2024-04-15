@@ -1,0 +1,1 @@
+  return (returningPolicy != null);    }

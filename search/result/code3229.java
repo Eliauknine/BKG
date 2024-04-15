@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.common.revision.delta.CDOListFeatureDelta; import org.eclipse.emf.cdo.common.revision.delta.CDOMoveFeatureDelta; import org.eclipse.emf.cdo.common.revision.delta.CDORemoveFeatureDelta; import org.eclipse.net4j.util.ObjectUtil; import org.eclipse.net4j.util.collection.Pair; }

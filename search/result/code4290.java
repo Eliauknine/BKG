@@ -1,0 +1,1 @@
+  Iterator itr = fBeanModel.getBeans().iterator() ; ArrayList badExprssions = new ArrayList() ;  while (itr.hasNext()) {  if (isDown(pm))  return;  BeanPart bean = (BeanPart) itr.next() ;  Collection expressions = new ArrayList(bean.getRefExpressions()) ;  expressions.addAll((Collection)bean.getRefEventExpressions()) ; } }

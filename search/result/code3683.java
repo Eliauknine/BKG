@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.tests.model1.Address; import org.eclipse.emf.cdo.util.CDOUtil; import org.eclipse.emf.internal.cdo.util.FSMUtil; import org.eclipse.emf.spi.cdo.ObjectConflictResolver.MergeLocalChangesPerFeature; /** }

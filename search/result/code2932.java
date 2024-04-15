@@ -1,0 +1,1 @@
+  if (hash.containsKey("bugs")) {  Object[] bugs = (Object[]) hash.get("bugs");   if (bugs.length == 0) {  return (Date[]) result.toArray(); // early return if map is empty 			}  for (Object o : bugs) {  @SuppressWarnings("unchecked") } } }

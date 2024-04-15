@@ -1,0 +1,1 @@
+  ImportHandler importer = new ImportHandler(); importer.setCreateVariables( dialog.isCreateVariables() );  final Interface iface = importer.createInterface(definitions, null, selectedType);  EList<EObject> list = (EList<EObject>) object.eGet(feature);  list.add(iface);  return iface; }

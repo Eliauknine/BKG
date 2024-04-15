@@ -1,0 +1,1 @@
+ *******************************************************************************/ package org.eclipse.passage.lic.base; public final class LicensingProperties {  public static final String LICENSING_FEATURE_IDENTIFIER = "licensing.feature.identifier";  } 

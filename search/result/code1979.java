@@ -1,0 +1,1 @@
+ 			// check for just one property left			if (m.size() == 1) { 				// convert to more efficient representation 				Map.Entry[] entries = (Map.Entry[]) m.entrySet().toArray( 						new Map.Entry[1]); 				this.property1 = entries[0].getKey(); 				this.property2 = entries[0].getValue(); 			} }

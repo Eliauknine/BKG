@@ -1,0 +1,1 @@
+  "Dependency": "Dependency", "UnnamedCommand": "Unnamed",  "searchInFolder": "Folder Search...",  "Global Search": "Global Search...",  "ClickEditLabel": "Click to edit",  "ProjectInfo": "Project Information",  "Name": "Name", }

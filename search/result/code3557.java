@@ -1,0 +1,1 @@
+ throw new IllegalStateException(MessageFormat.format(Messages.getString("CDOClassifierRef.0"), packageURI));     }  return EMFUtil.getClassifier(ePackage, classifierID);   }  @Override  public String toString()   {  return MessageFormat.format("CDOClassifierRef({0}, {1

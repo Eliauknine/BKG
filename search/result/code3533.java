@@ -1,0 +1,1 @@
+ private IRepositoryProvider repositoryProvider;  private StringIO packageURICompressor = StringIO.DIRECT;  // XXX Enable compression again!  // private StringIO packageURICompressor = new StringCompressor(false);  public CDOServerProtocol(IRepositoryProvider repositoryProvider)   { } }

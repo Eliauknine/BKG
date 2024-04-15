@@ -1,0 +1,1 @@
+  viewer.setContentProvider(new ArrayContentProvider()); viewer.setSorter(new ViewerSorter());  refreshInput();  selection = ViewersObservables.observeSingleSelection(viewer);  initDataBindings();     }

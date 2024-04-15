@@ -1,0 +1,1 @@
+ 		<j:Company x:Key="myCompany">			<j:Company.employees> 				<x:Array Type="j:Employee"> 					<j:Employee Name="Thomas" Age="32" Sex="female"/> 					<j:Employee Name="Jin" Age="27" Sex="male"/> 				</x:Array> 			</j:Company.employees> 		</j:Company> }

@@ -1,0 +1,1 @@
+ @Override public void refresh() {  super.refresh();  CommandStack commandStackBuffer = commandStack;  commandStack = null;  if (null != type) {  openEditorButton.setEnabled(getType().getType() instanceof StructuredType); } } 

@@ -1,0 +1,1 @@
+  private URL loadFromFile(String path) {  try {  if (!path.startsWith(FILE_PREFIX)) {  path = FILE_PREFIX + path; 			}  URL url = new URL(path);  if (url.getContent() != null) {  return url; 			} 		} catch (final Exception e) { 		}  return null; } }

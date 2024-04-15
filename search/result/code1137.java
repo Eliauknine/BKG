@@ -1,0 +1,1 @@
+ import org.eclipse.gmf.runtime.diagram.ui.editparts.IGraphicalEditPart;import org.eclipse.gmf.runtime.diagram.ui.requests.CreateConnectionViewRequest.ConnectionViewDescriptor; import org.eclipse.gmf.runtime.notation.View; import org.eclipse.papyrus.uml.diagram.common.commands.CommonDeferredCreateConnectionViewCommand; /**  * This class is used to create connection view }

@@ -1,0 +1,1 @@
+	public static void addUnimplementedMethodsProposals(IInvocationContext context, IProblemLocation problem,			Collection<IScriptCompletionProposal> proposals) { 		ISourceModule cu = context.getCompilationUnit(); 		ASTNode selectedNode = problem.getCoveringNode(context.getASTRoot()); 		if (selectedNode == null) { 			return; 		} } 

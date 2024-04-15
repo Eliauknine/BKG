@@ -1,0 +1,1 @@
+ 			cancelPressed(); 		} else if (NEW_PROJ_ID == buttonId) { 			newProjectWizard = PHPProjectCreationWizardProxy.getProjectWizard(); 			newProjectWizard.init(PlatformUI.getWorkbench(), 					StructuredSelection.EMPTY); 			WizardDialog dialog = new WizardDialog(getShell(), newProjectWizard); 			if (dialog.open() == Window.OK) { 				resourceGroup.refresh(); } }

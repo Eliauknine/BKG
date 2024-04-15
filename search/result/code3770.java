@@ -1,0 +1,1 @@
+ */public class CommitTransactionPhase1Indication extends CommitTransactionIndication {  public CommitTransactionPhase1Indication()   {   }  @Override  protected short getSignalID()   {  return CDOProtocolConstants.SIGNAL_COMMIT_TRANSACTION_PHASE1;   }  @Override } 

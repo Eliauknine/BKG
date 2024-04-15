@@ -1,0 +1,1 @@
+ package org.eclipse.emf.ecp.view.model.provider.xmi;import java.io.IOException; import java.util.HashMap; import java.util.LinkedHashMap; import java.util.Map; import org.eclipse.core.runtime.IConfigurationElement; import org.eclipse.core.runtime.Platform; import org.eclipse.emf.common.util.URI; import org.eclipse.emf.ecore.EClass; }

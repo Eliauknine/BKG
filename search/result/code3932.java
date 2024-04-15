@@ -1,0 +1,1 @@
+ protected void handleFailOver(IChannel oldChannel, IChannel newChannel, IConnect{  protected void doBeforeActivate() throws Exception  {  super.doBeforeActivate();  if (channel == null && connector == null)     {  throw new IllegalStateException("channel == null && connector == null"); } } } 

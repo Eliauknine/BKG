@@ -1,0 +1,1 @@
+	 */ @Override  public String getText(Object object) {  final String label = ((VTableControl) object).getName();  return label == null || label.length() == 0 ?  getString("_UI_TableControl_type") :  getString("_UI_TableControl_type") + " " + label; } 

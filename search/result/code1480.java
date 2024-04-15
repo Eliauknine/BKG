@@ -1,0 +1,1 @@
+  }).catch(function() { return repo.getCommit(names[1]);  })  .then(function(commit1) {  git.Merge.base(repo, commit0, commit1).then(function(oid) {  if (oid) {  log(repo, oid.tostrS());  } else {  writeResponse(true);  }  });  }).catch(function(err) {  writeError(400, res, err.message);  });  }

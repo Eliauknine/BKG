@@ -1,0 +1,1 @@
+ import org.eclipse.papyrus.model2doc.emf.documentstructuretemplate.DocumentStructureTemplateFactory; import org.eclipse.papyrus.model2doc.emf.documentstructuretemplate.DocumentStructureTemplatePackage; import org.eclipse.papyrus.model2doc.emf.documentstructuretemplate.provider.DocumentstructuretemplateEditPlugin; import org.eclipse.core.runtime.Path; }

@@ -1,0 +1,1 @@
+	}  /** 	 * {@inheritDoc} 	 */  /** 	 * {@inheritDoc} 	 *  	 * @deprecated 	 */  @Deprecated  @Override  public void resetValidation() {  if (validationLabel == null || validationLabel.isDisposed()) {  return; 		}  updateValidationColor(null);  validationLabel.setImage(null);  validationLabel.setToolTipText("");  	}  /** 	 * {@inheritDoc

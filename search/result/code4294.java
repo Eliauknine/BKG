@@ -1,0 +1,1 @@
+ 		activityId="org.eclipse.team.examples.filesystem"		categoryId="org.eclipse.categories.teamCategory"> 	</categoryActivityBinding>  <!-- Pessimistic Provider bindings -->      <activity 		name="%activity.team.examples.pessimistic.name" 		description="%activity.team.examples.pessimistic.description" }

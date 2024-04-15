@@ -1,0 +1,1 @@
+  try { resource.load(loadOptions); 		} catch (final IOException exception) {  Activator.log(exception);  if (ViewModelUtil.isDebugMode()) {  dispose();  throw new IllegalStateException(exception); 			} 		}  return resource; 	}

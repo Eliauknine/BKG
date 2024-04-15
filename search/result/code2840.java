@@ -1,0 +1,1 @@
+  sidebarToolbar = lib.node("sidebarToolbar"), //$NON-NLS-0$ editorDomNode = lib.node("editor"); //$NON-NLS-0$  var editor, inputManager, settings;  function renderToolbars(metadata) {  if (!metadata) { return; }  var toolbar = lib.node("pageActions"); //$NON-NLS-0$ } }

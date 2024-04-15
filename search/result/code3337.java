@@ -1,0 +1,1 @@
+ NewResourceAction_0=Creating CDO resource{ NewResourceFolderAction_0=Creating CDO folderNewResourceNodeAction_0=Enter the name Node.0=Sessions Node.2=Packages Node.4=Resources RemoveResourceAction_1=Delete Resource } 

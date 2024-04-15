@@ -1,0 +1,1 @@
+  /**    * Registers text resource in the {@link ResourceManager}.    *     * @param content    *          the content of the resource to add.    * @return the web url of the resource valid for calls from outside }

@@ -1,0 +1,1 @@
+ define("orion/editor/editor", [ //$NON-NLS-0${ 		 * @returns {Array} the editor key modes.		 */  getKeyModes: function() {  return this._textView.getKeyModes();  },  /** 		 * Returns <code>true</code> if the editor is dirty; <code>false</code> otherwise. 		 * @returns {Boolean}  } 

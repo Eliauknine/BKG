@@ -1,0 +1,1 @@
+ public void modify(final Object element, final String property, final Object val{  private TableViewer algorithmViewer; private Composite composite;  TableViewer getAlgorithmViewer() {  return algorithmViewer; 	}  private BasicFBType type;  private CommandStack commandStack; } 

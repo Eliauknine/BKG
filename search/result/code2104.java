@@ -1,0 +1,1 @@
+  final VTableDomainModelReference tableDomainModelReference = VTableDomainModelReference.class				.cast(setting.getEObject());  final EClass eclass = EReference.class.cast(  tableDomainModelReference.getEStructuralFeatureIterator().next()).getEReferenceType();  final Collection<EClass> classes = ECPUtil.getSubClasses(VViewPackage.eINSTANCE 				.getDomainModelReference()); }

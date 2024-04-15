@@ -1,0 +1,1 @@
+       </not>      <then>         <xmlproperty keeproot="false">           <url url="${env.HUDSON_URL}/job/${env.JOB_NAME}/${env.BUILD_NUMBER}/api/xml?tree=actions[causes[shortDescription]]" />         </xmlproperty>         <loadresource property="build.trigger">           <propertyresource name="action.cause.shortDescription" /> }

@@ -1,0 +1,1 @@
+ 	 * Move the scrollbar to reflect the current visible items position.	 *  	 * @param bar 	 *  - the scroll bar to move 	 * @param clientSize 	 *  - Client (visible) area size 	 * @param totalSize 	 *  - Total Size 	 */  private void updateScrollBarProperties(ScrollBar bar, int clientSize,  int totalSize) { } }

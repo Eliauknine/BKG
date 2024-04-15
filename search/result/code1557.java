@@ -1,0 +1,1 @@
+ 	<parent>		<groupId>org.eclipse.papyrus.designer</groupId> 		<artifactId>org.eclipse.papyrus.designer.languages</artifactId> 		<version>0.7.0</version> 	</parent> 	<artifactId>org.eclipse.papyrus.designer.languages.common</artifactId> 	<packaging>pom</packaging> }

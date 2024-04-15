@@ -1,0 +1,12 @@
+1.3.2	+1a	id|getOptimisticLockingPolicy
+1.1d.1c	+0	c_func
+1.1d.1c	+1	(paren
+1.1e.1d	+1	)paren
+1.1f.1e	+1	s_.
+1.20.1f	+14	id|initializeProperties
+1.34.33	+0	c_func
+1.34.33	+1	(paren
+1.35.34	+1	)paren
+1.36.35	+1	suffix:semicolon
+1.47.46	+1	)brace
+2.1.49	+0	eof

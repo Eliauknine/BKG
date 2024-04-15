@@ -1,0 +1,1 @@
+ protected void collectNewChildDescriptors(Collection<Object> newChildDescriptors{ 			(createChildParameter			(VCategorizationPackage.Literals.CATEGORY__COMPOSITE,  VViewFactory.eINSTANCE.createControl())); 	} 

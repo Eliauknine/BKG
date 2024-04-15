@@ -1,0 +1,10 @@
+1.2.1	+6	id|define
+1.8.7	+0	c_func
+1.8.7	+1	(paren
+1.9.8	+1	s_[
+1.a.9	+22	l_string|'i18n!orion/navigate/nls/messages'
+1.2c.2b	+1	s_,
+1.2e.2d	+17	l_string|'orion/webui/littlelib'
+1.45.44	+1	s_,
+1.47.46	2.1.1a2	l_string|'orion/i18n{  var createFunction = function(name) { if (name) {  var location = parentItem.Location;  var functionName = isDirectory ? "createFolder" : "createFile";  var deferred = fileClient[functionName](location, name, {select: true});  progressService.showWhile(deferred, i18nUtil.formatMessage(messages["Creating ${0}"], name)).then( } } } &r;&n;
+2.1.1a2	+0	eof

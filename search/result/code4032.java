@@ -1,0 +1,1 @@
+ public static Test suite(){  suite.addTestSuite(SynchronizingCorrelatorTest.class);  suite.addTestSuite(TestBufferPool.class);  suite.addTestSuite(SecurityTest.class);  suite.addTestSuite(ConnectorTest.class);  // $JUnit-END$  return suite; } 

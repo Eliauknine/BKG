@@ -1,0 +1,12 @@
+1.5.4	+4	r_this
+1.9.8	+1	s_.
+1.a.9	+8	id|elements
+1.12.11	+1	s_.
+1.13.12	+3	id|add
+1.16.15	+0	c_func
+1.16.15	+1	(paren
+1.17.16	+c	id|arrayElement
+1.23.22	+1	)paren
+1.24.23	+1	suffix:semicolon
+1.27.26	+1	)brace
+2.1.29	+0	eof

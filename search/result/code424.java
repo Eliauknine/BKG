@@ -1,0 +1,1 @@
+  Label containerLabel = new Label(composite, SWT.LEFT); 			{  containerLabel.setText(DocumentstructuretemplateEditorPlugin.INSTANCE.getString("_UI_ModelObject"));   GridData data = new GridData();  data.horizontalAlignment = GridData.FILL; } }

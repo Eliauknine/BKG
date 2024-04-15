@@ -1,0 +1,1 @@
+ import org.eclipse.emf.edit.provider.IItemLabelProvider;import org.eclipse.emf.edit.provider.ReflectiveItemProviderAdapterFactory; import org.eclipse.sirius.business.api.session.Session; import org.eclipse.sirius.services.common.api.SiriusServicesCommonOptionalUtils; import org.osgi.framework.Bundle; }

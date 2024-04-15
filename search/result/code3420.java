@@ -1,0 +1,1 @@
+ public void postCommit(CommitTransactionResult result){  cleanUp();  Map<CDOIDTemp, CDOID> idMappings = result.getIDMappings();  fireEvent(new FinishedEvent(CDOTransactionFinishedEvent.Type.COMMITTED, idMappings));         }  catch (RuntimeException ex)         { } 

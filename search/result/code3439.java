@@ -1,0 +1,1 @@
+	 * @see javax.persistence.EntityManagerFactory#getProperties()	 * @since Java Persistence API 2.0 	 */  public Map getProperties() {  // TODO  throw new PersistenceException("Not Yet Implemented"); 	}  /** 

@@ -1,0 +1,1 @@
+	 * @return TableSorter	 */  public TableComparator getSorterFor(String type) {  if (hierarchyOrders.containsKey(type)) {  return hierarchyOrders.get(type); 		}  TableComparator sorter = findSorterInChildren(type, getRootType());  if (sorter == null) {  return new TableComparator(new IField[0], new int[0], new int[0]); 		} } 

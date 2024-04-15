@@ -1,0 +1,1 @@
+ 		} catch (PartInitException e) { String error = Messages.CreateDiagramWizard_OpeningEditorError;  IStatus status = new Status(IStatus.ERROR, ExamplesCommonPlugin.getID(), error, e);  ErrorDialog.openError(getShell(), Messages.CreateDiagramWizard_ErrorOccuredTitle, null, status);  return false; 		}

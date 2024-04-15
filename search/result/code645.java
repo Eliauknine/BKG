@@ -1,0 +1,1 @@
+	 * @return FieldMarkerGroup or <code>null</code>	 */  public MarkerGroup getMarkerGroup(String categoryName) {  if (markerGroups.containsKey(categoryName)) {  return markerGroups.get(categoryName); 		}  return null; 	}  /** 

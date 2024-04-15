@@ -1,0 +1,15 @@
+1.2.1	+6	r_return
+1.9.8	+4	r_this
+1.d.c	+1	suffix:semicolon
+1.10.f	+1	)brace
+1.13.12	+6	r_public
+1.1a.19	+e	id|SessionManager
+1.29.28	+11	id|getSessionManager
+1.3a.39	+0	c_func
+1.3a.39	+1	(paren
+1.3b.3a	+1	)paren
+1.3f.3e	+1	(brace
+1.42.41	+6	r_return
+1.49.48	+e	id|sessionManager
+1.57.56	+1	suffix:semicolon
+2.1.5a	+0	eof

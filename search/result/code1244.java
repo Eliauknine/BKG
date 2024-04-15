@@ -1,0 +1,1 @@
+  WizardDialog dialog = new WizardDialog(getShell(), wizard); dialog.create();  dialog.getShell().setText("CreateFileAction_title");  WorkbenchHelp.setHelp(dialog.getShell(),  new Object[] { IIDEHelpContextIds.NEW_FILE_WIZARD });  DialogCheck.assertDialog(dialog, this);     }

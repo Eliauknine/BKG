@@ -1,0 +1,1 @@
+		}	}  public static void removeArtifactRepository(IProvisioningAgent agent, URI location) {  IArtifactRepositoryManager manager = (IArtifactRepositoryManager) agent.getService(IArtifactRepositoryManager.SERVICE_NAME);  if (manager == null)  // TODO log here  return;  manager.removeRepository(location); 	

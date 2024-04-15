@@ -1,0 +1,1 @@
+  * Contributors: *    Stuart McCulloch (Sonatype, Inc.) - initial API and implementation  *******************************************************************************/ package org.eclipse.sisu.launch; import java.lang.ref.Reference; import java.lang.ref.WeakReference; }

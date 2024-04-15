@@ -1,0 +1,1 @@
+ import org.eclipse.core.resources.IProject; import org.eclipse.core.resources.IProjectDescription; import org.eclipse.core.resources.IResource; import org.eclipse.core.resources.IWorkspaceRoot; import org.eclipse.core.resources.ResourcesPlugin; import org.eclipse.core.runtime.CoreException; }

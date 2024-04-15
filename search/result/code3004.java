@@ -1,0 +1,1 @@
+  /**	 * Writes the <b>content.opf</b> file. 	 *  	 * @param rootFolder 	 *            the folder where to write the file. 	 * @throws IOException 	 */  private void writeOPF(File opfFile) throws IOException { } }

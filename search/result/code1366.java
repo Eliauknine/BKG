@@ -1,0 +1,1 @@
+ 			}		} 		PHPVersion phpVersion = context.getPhpVersion();  if (phpVersion.isGreaterThan(PHPVersion.PHP5_3)) { 			if (CALLABLE.startsWith(prefix)) { 				reporter.reportKeyword(CALLABLE, suffix, replaceRange); 			}

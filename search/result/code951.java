@@ -1,0 +1,1 @@
+ public void init(IEditorSite site, IEditorInput input){  try {  basicCommandStack = new BasicCommandStack();  loadView(false, false); 		} // BEGIN SUPRESS CATCH EXCEPTION  catch (final Exception e) {// END SUPRESS CATCH EXCEPTION } } 

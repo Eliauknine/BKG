@@ -1,0 +1,1 @@
+ return Collector.emptyCollector();	}  public static URI[] getMetadataRepositories(IProvisioningAgent agent) {  IMetadataRepositoryManager manager = (IMetadataRepositoryManager) agent.getService(IMetadataRepositoryManager.SERVICE_NAME);  if (manager == null)  // TODO log here 

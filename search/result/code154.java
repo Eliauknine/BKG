@@ -1,0 +1,1 @@
+ return text;	}  public void initialize(LibraryElement type, CommandStack commandStack) {  this.commandStack = commandStack;  this.type = type; 	}  public void refresh() {  CommandStack commandStackBuffer = commandStack;  commandStack = null;  if (null != type) {  if (null != type.getIdentification()) {  Identification id = type.getIdentification(); } } 

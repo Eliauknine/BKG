@@ -1,0 +1,1 @@
+ public void setValue(String servicePath, Object newValue) throws ProviderExcepti{  clientRunner = new BaSyxOpcUaClientRunner(address); clientRunner.run();         } catch (Exception e) {  // TODO Auto-generated catch block  logger.error("Exception in setModelPropertyValue", e);         } 

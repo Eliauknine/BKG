@@ -1,0 +1,1 @@
+ Export-Package: org.eclipse.papyrus.languages.designer.common.texteditor.model,{ 	<parent>		<groupId>org.eclipse.papyrus.designer</groupId> 		<artifactId>org.eclipse.papyrus.designer.languages.common</artifactId> 		<version>0.7.0</version> 	</parent> 	<artifactId>org.eclipse.papyrus.designer.languages.common.texteditor.model</artifactId> 	<packaging>eclipse-plugin</packaging> } 

@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecp.view.spi.model.VViewModelProperties;import org.eclipse.emf.ecp.view.spi.provider.IViewProvider; import org.osgi.service.component.annotations.Component; /**  * The IViewProvider provides views from the workspace. }

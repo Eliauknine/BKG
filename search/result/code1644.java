@@ -1,0 +1,1 @@
+ private void createPasswordField(Composite parent) { passwordField = new Text(parent, SWT.BORDER | SWT.PASSWORD);  final GridData gridData = new GridData(SWT.LEFT, SWT.CENTER, false, false, 1, 1);  gridData.widthHint = 300;  passwordField.setLayoutData(gridData);  passwordField.addModifyListener(new ModifyListener() {  public void modifyText(ModifyEvent e) { } } } 

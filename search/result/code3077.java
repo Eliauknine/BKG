@@ -1,0 +1,1 @@
+ void refreshFigureForGraphicsAlgorithm(final GraphicsAlgorithm graphicsAlgorithm{  label.setText(text.getValue());  refreshFlowTextAlignment(label, text);  refreshFont(text, label);  label.setOpaque(text.getFilled());  label.setRequestFocusEnabled(false);  label.invalidateTree(); 		} else if (graphicsAlgorithm instanceof Text && figure instanceof GFText) { } 

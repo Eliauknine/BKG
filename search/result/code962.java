@@ -1,0 +1,1 @@
+  var ipcRenderer = electron.ipcRenderer; ipcRenderer.on('collect-tabs-info',function(event, arg){  var iframes = document.querySelectorAll(".tabContent");  var tabUrls = Array.prototype.map.call(iframes,function(iframe){  return iframe.contentWindow.location.href.replace(/http:\/\/localhost:\w+\//, "");  });  ipcRenderer.send("collected-tabs-info-" + arg, tabUrls);  }); }

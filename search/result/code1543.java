@@ -1,0 +1,1 @@
+  *    mgorning - Bug 347262 - DirectEditingFeature with TYPE_DIALOG type *    mgorning - Bug 377419 - Hide text in underlying GA while DirectEditing is enabled  *    pjpaulin - Bug 352120 - Now uses IDiagramContainerUI interface  *  * </copyright>  * }

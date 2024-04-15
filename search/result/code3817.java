@@ -1,0 +1,1 @@
+ private CDOStateMachine(){  init(CDOState.INVALID_CONFLICT, CDOEvent.DETACH_REMOTE, IGNORE); init(CDOState.INVALID_CONFLICT, CDOEvent.RELOAD, InvalidTransition.INSTANCE);  init(CDOState.INVALID_CONFLICT, CDOEvent.COMMIT, InvalidTransition.INSTANCE);  init(CDOState.INVALID_CONFLICT, CDOEvent.ROLLBACK, new RollbackTransition(CDOState.INVALID));   } 

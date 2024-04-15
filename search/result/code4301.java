@@ -1,0 +1,1 @@
+ <ul>  <li>public IEditorDescriptor getDefaultEditor(IFile file)</li>  <li>public void setDefaultEditor(IFile file, String editorId)</li>  <li>public ImageDescriptor getImageDescriptor(IFile file)</li>  </ul>  </li> 

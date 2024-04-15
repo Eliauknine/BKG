@@ -1,0 +1,1 @@
+ Bundle-Vendor: %providerName{  featureName="value" dataValue="-1" oldDataValue="0"/>    <changes xsi:type="history:Set" element="view.ecore#//Control/labelAlignment"  featureName="defaultValueLiteral" dataValue="Default" oldDataValue="Left"/>   </releases> </history:History> } 

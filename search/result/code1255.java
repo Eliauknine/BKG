@@ -1,0 +1,1 @@
+ import org.eclipse.jface.viewers.StructuredSelection;import org.eclipse.osgi.util.NLS; import org.eclipse.swt.widgets.Shell; import org.eclipse.ui.help.WorkbenchHelp; import org.eclipse.ui.internal.IWorkbenchHelpContextIds; import org.eclipse.ui.internal.WorkbenchMessages; import org.eclipse.ui.internal.WorkbenchPlugin; }

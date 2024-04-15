@@ -1,0 +1,1 @@
+ 		mainComposite = parent; 		Composite debuggerChoice = new Composite(parent, SWT.NONE); 		GridLayout dcLayout = new GridLayout(); 		dcLayout.numColumns = 3; 		debuggerChoice.setLayout(dcLayout); 		debuggerChoice.setLayoutData(new GridData(SWT.FILL, SWT.FILL, true, 				false)); }

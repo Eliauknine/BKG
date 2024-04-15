@@ -1,0 +1,1 @@
+	} public static boolean isPotentialFavoritesList(String url) {  return url != null && FAVORITES_URL_PATTERN.matcher(url).find(); 	}  public static void triggerInstall(SolutionInstallationInfo info) { 

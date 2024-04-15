@@ -1,0 +1,1 @@
+	public void childrenAccept(Visitor visitor) {		if (arrayDereferenceList != null) { 			arrayDereferenceList.accept(visitor); 		} 		if (chainingMethodOrProperty != null) { 			for (VariableBase variableBase : chainingMethodOrProperty) { 				variableBase.accept(visitor); } } } 

@@ -1,0 +1,1 @@
+ public void testAttachingObjectVeto() throws Exception  {  CDOSession session = openModel1Session();  CDOTransactionImpl transaction = (CDOTransactionImpl)session.openTransaction();  Order order = getModel1Factory().createOrder();  OrderDetail orderDetail = getModel1Factory().createOrderDetail(); } 

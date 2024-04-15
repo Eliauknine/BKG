@@ -1,0 +1,1 @@
+ return lastSavepoint.getAllDetachedObjects();  }  public synchronized Map<InternalCDOObject, CDORevisionKey> getFormerRevisionKeys()   {  return formerRevisionKeys;   }  @Override  protected synchronized CDOID getXRefTargetID(CDOObject target)   {  CDORevisionKey key = formerRevisionKeys.get(target);  if (key != null)     {  return key.getID(); } 

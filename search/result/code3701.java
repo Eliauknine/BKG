@@ -1,0 +1,1 @@
+ public void testisDirty() throws Exception{  CDOSession session = openModel1Session(); session.getPackageRegistry().putEPackage(getModel1Package());  CDOTransactionImpl transaction1 = (CDOTransactionImpl)session.openTransaction();  CDOSavepoint savePoint0 = transaction1.setSavepoint();  // Client1 } 

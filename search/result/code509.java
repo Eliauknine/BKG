@@ -1,0 +1,1 @@
+ public void removed(Notifier notifier, Adapter adapter){  private static final EObservableAdapterList.Listener[] ADAPTERS_LISTENERS = { ADAPTERS_LISTENER };  /**    * Optimized storage of {@link CDOObject#cdoView()} and {@link CDOObject#cdoState()}.    * } 

@@ -1,0 +1,1 @@
+  if (persp == null) { return; 		}  EContextService contextService = window.getContext().get(EContextService.class);  String tag = ModeledPageLayout.ACTION_SET_TAG + actionSetID;  if (!persp.getTags().contains(tag)) {  persp.getTags().add(tag);  contextService.activateContext(actionSetID); 		}     }

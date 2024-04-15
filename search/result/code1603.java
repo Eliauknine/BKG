@@ -1,0 +1,1 @@
+  final VViewModelProperties properties = VViewFactory.eINSTANCE.createViewModelLoadingProperties(); properties.addInheritableProperty(EMFFormsSWTConstants.USE_ON_MODIFY_DATABINDING_KEY,  EMFFormsSWTConstants.USE_ON_MODIFY_DATABINDING_VALUE);  ECPSWTViewRenderer.INSTANCE.render(emfFormsParent, newObject, properties); 		} catch (final ECPRendererException e) { 		}

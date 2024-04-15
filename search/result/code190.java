@@ -1,0 +1,1 @@
+ public Object getValue(Object element, String property) { switch (property) {  case ARRAY_SIZE:  int arraySize = ((VarDeclaration) element).getArraySize();  return (arraySize <= 0) ? "" : String.valueOf(arraySize);   case INITIAL_VALUE:  if (((VarDeclaration) element).getValue() == null) { } } } 

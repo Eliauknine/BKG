@@ -1,0 +1,1 @@
+ <extension point="org.eclipse.emf.edit.childCreationExtenders">      <extender  class="org.eclipse.emf.ecp.view.spi.custom.model.provider.CustomItemProviderAdapterFactory$ViewChildCreationExtender"  uri="http://org/eclipse/emf/ecp/view/model"/>    </extension> org.eclipse.emf.ecp.view.custom.model.provider.CustomItemProviderAdapterFactory$ViewChildCreationExtender</plugin> }

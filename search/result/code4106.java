@@ -1,0 +1,1 @@
+ 	 * @param array	 * @param object 	 * @param index 	 *  : if index == -1, item is added at the end of the array. 	 * @return 	 */  protected Object[] _arrayAddItem(Object[] array, Object object, int index) { } }

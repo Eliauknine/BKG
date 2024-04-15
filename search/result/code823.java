@@ -1,0 +1,1 @@
+   */ public boolean covers(IDifference difference_p, EMFDiffNode node_p) {  return difference_p instanceof IValuePresence &&         ((IValuePresence)difference_p).isUnrelatedToContainmentTree();   }  /** 

@@ -1,0 +1,1 @@
+  SourceRange replaceRange = getReplacementRange(concreteContext); List<IField> result = new LinkedList<IField>();  for (IType type : concreteContext.getLhsTypes()) {  try {  ITypeHierarchy hierarchy = getCompanion() } } }

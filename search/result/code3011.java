@@ -1,0 +1,1 @@
+ discardDeleteRow(TableRow deletedRow){ discardDeleteRows(TableRow deletedRow) discarding DeletedRow by index (or array of indexes) makes no sense, because if the row is deleted, the row do not have an index anymore. Migration: ITable#clearDeletedRows() is deprecated, use ITable#discardAllDeletedRows() instead. } 

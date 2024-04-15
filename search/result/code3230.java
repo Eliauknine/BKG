@@ -1,0 +1,1 @@
+ public synchronized boolean remove(E element){  System.arraycopy(elements, 0, array, 0, i);            }  if (i + 1 < length - 1)             {  System.arraycopy(elements, i + 1, array, i, length - 1 - i);             } 

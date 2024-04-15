@@ -1,0 +1,1 @@
+ Bundle-RequiredExecutionEnvironment: JavaSE-1.6Bundle-Vendor: Eclipse Modeling Project Require-Bundle: org.eclipse.emf.ecp.view.migrator;bundle-version="[1.5.0,2.0.0)",  org.eclipse.emf.edapt.history;bundle-version="[1.0.0,2.0.0)" Export-Package: org.eclipse.emf.ecp.view.edapt;version="1.7.0" Bundle-Activator: org.eclipse.emf.ecp.view.edapt.Activator }

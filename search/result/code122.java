@@ -1,0 +1,1 @@
+ public byte[] encrypt(String userID, byte[] data, String algorithmName, byte[] s{  try     {  return SecurityUtil.encrypt(data, password, algorithmName, salt, count);     }  catch (RuntimeException ex)     { } } 

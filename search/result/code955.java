@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecp.view.spi.provider.ViewProviderHelper;import org.eclipse.emf.edit.domain.AdapterFactoryEditingDomain; import org.eclipse.emf.edit.provider.ComposedAdapterFactory; import org.eclipse.jface.dialogs.MessageDialog; import org.eclipse.jface.dialogs.ProgressMonitorDialog; import org.eclipse.jface.operation.IRunnableWithProgress; }

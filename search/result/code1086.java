@@ -1,0 +1,1 @@
+ public void computeAnalyzeOnlyDefinitionsFlag(final List<Module> allModules, fin{ //		if (Float.compare(brokenModulesRatio, (float) BROKEN_MODULE_LIMIT) < 0) {//			analyzeOnlyAssignments = true; //		}  analyzeOnlyAssignments = true; 	} 

@@ -1,0 +1,1 @@
+  .then(function(entry) { if (entry.isFile()) {  if (req.query.parts === "meta") {  var result = treeJSON(path.join(refLocation, entry.path()), git.Tree.entryName(entry), 0, entry.isDirectory(), 0);  result.ETag = entry.sha();  createParents(result);  return res.status(200).json(result); } } } }

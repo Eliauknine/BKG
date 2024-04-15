@@ -1,0 +1,1 @@
+  private void createTime(Body b) { VPanel bodyPanel = bodyPanels[bodyPanels.length - 1];  timePanel = new AnalogTimePicker(cdt, this);  timePanel.setParent(bodyPanel);  bodyPanel.getLayout(VStackLayout.class).setDefault(timePanel, false); } }

@@ -1,0 +1,1 @@
+ HelpTemplate_concepts = Generate 'Concepts' category{ HelpTemplate_tasks = Generate 'Tasks' categoryHelpTemplate_reference = Generate 'Reference' category HelpTemplate_samples = Generate 'Samples' category BuilderNewWizard_wtitle = New plug-in project with sample project builder and nature BuilderTemplate_title = Sample Project Builder and Nature } 

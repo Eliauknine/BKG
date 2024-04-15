@@ -1,0 +1,1 @@
+         </filter>    </resource>     <resource path="src/org/eclipse/emf/cdo/internal/server/TransactionCommitContextImpl.java" type="org.eclipse.emf.cdo.internal.server.TransactionCommitContextImpl$TransactionPackageManager">         <filter id="574619656">             <message_arguments>                 <message_argument value="CDOPackageManager"/> }

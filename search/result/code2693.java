@@ -1,0 +1,1 @@
+ 	 * @return the y coordinate	 */  private int getRelativeToDiagramY(Shape shape) {  int ret = 0;  if (!(shape instanceof ConnectionDecorator)) {  while (shape != null && !(shape instanceof Diagram)) {  ret = ret + getYOfPictogramElement(shape);  shape = shape.getContainer(); 			} 		} else { } } }

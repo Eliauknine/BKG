@@ -1,0 +1,1 @@
+ return new CDOClassifierRef(storeRevision.getEClass());  }  public InternalCDORevision readRevision(CDOID id, int referenceChunk)   {  InternalCDORevision storeRevision = getStore().getRevision(id);  // IRevisionManager revisionManager = getStore().getRepository().getRevisionManager(); 

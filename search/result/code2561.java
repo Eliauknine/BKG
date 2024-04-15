@@ -1,0 +1,1 @@
+ private PropertiesForm createPropertiesForm(SashForm sash, AdminBroker adminBrok{  final FormToolkit toolkit = new FormToolkit(sash.getDisplay()); final PropertiesForm frm = new PropertiesForm(sash, SWT.NONE, adminBroker, this);  frm.setText("Properties");  frm.setFont(JFaceResources.getHeaderFont());  toolkit.decorateFormHeading(frm); } 

@@ -1,0 +1,1 @@
+ protected String getTrigger(ITextViewer viewer, IRegion region){ 	} /** 	 * Returns the relevance of template. The default implementation returns 	 * zero. 	 * 	 * @param template 	 *                     the template to compute the relevance for 	 * @return the relevance of <code>template</code> 	 */  protected int getRelevance(Template template) { } 

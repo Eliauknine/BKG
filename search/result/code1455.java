@@ -1,0 +1,1 @@
+ <ul class="layoutRight commandList pageActions userMenu" id="userMenu"> <li>  <button id="userTrigger" class="dropdownTrigger commandImage">  <span class="commandSprite core-sprite-silhouette"></span>  </button>  <ul id="userDropdown" class="dropdownMenu" role="menu"></ul>  </li> }

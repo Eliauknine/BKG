@@ -1,0 +1,1 @@
+ package org.eclipse.ve.internal.java.codegen.core; /*  *  $RCSfile: JavaSourceTranslator.java,v $  *  $Revision: 1.67 $  $Date: 2005-04-09 01:19:15 $   */ import java.text.MessageFormat; import java.util.*; }

@@ -1,0 +1,1 @@
+ private function writeTest(Test $test, $event, $isTestCase = false){  $this->dataProviderNumerator = 0; elseif ($event == 'end')  $this->dataProviderNumerator = - 1;    try {  $ex = explode('::', $test->getName(), 2);  $class = new ReflectionClass($ex[0]); } } 

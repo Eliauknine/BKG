@@ -1,0 +1,1 @@
+ protected void didAdd(int index, Adapter newObject){  @Override protected void didRemove(int index, Adapter oldObject)         {  if (!FSMUtil.isTransient(CDOObjectImpl.this))           {  cdoView().unsubscribe(CDOObjectImpl.this, oldObject); } } } 

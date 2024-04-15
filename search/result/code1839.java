@@ -1,0 +1,1 @@
+	 *      java.util.Collection)	 */  @Override  public void doDelete(InternalProject project, Collection<Object> objects) {  project.getEditingDomain().getCommandStack().execute(DeleteCommand.create(project.getEditingDomain(), objects)); 	} 

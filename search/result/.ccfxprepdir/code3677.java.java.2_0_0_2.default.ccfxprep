@@ -1,0 +1,14 @@
+1.2.1	+6	r_return
+1.9.8	+8	id|instance
+1.11.10	+1	suffix:semicolon
+1.14.13	+1	)brace
+1.17.16	+6	r_public
+1.1e.1d	+12	id|EStructuralFeature
+1.31.30	+19	id|cdoInternalDynamicFeature
+1.4a.49	+0	c_func
+1.4a.49	+1	(paren
+1.4b.4a	+3	r_int
+1.4f.4e	+10	id|dynamicFeatureID
+1.5f.5e	+1	)paren
+1.63.62	+1	(brace
+2.1.ab	+0	eof

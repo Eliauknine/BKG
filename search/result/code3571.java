@@ -1,0 +1,1 @@
+ return null;  }  public static String getParentURI(EPackage ePackage)   {  EPackage superPackage = ePackage.getESuperPackage();  String parentURI = superPackage == null ? null : superPackage.getNsURI();  return parentURI;   }  public static EPackage getTopLevelPackage(EPackage ePackage)   {  EPackage superPackage = ePackage.getESuperPackage(); 

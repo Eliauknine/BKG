@@ -1,0 +1,1 @@
+  private final Map<EObject, Map<EStructuralFeature, Diagnostic>> featureErrorMap = new HashMap<EObject, Map<EStructuralFeature, Diagnostic>>();  /** 	 *  	 * @param tableControlConfiguration the {@link TableControlConfiguration} to use when creating the table }

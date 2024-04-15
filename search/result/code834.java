@@ -1,0 +1,1 @@
+ public abstract class AbstractComparisonViewer extends Viewer{  /** The current input (initially null) */ private EMFDiffNode _input;  /** The last command that was executed before the last save */  private Command _lastCommandBeforeSave; } 

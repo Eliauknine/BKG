@@ -1,0 +1,15 @@
+1.2.1	+9	r_protected
+1.c.b	+4	r_void
+1.11.10	+b	id|reportAlias
+1.1c.1b	+0	c_func
+1.1c.1b	+1	(paren
+1.1d.1c	+13	id|ICompletionReporter
+1.31.30	+8	id|reporter
+1.39.38	+1	s_,
+1.3b.3a	+6	id|String
+1.42.41	+6	id|suffix
+1.48.47	+1	s_,
+1.49.48	+1	(brace
+1.50.4f	+1	)brace
+1.56.55	+1	)brace
+2.1.59	+0	eof

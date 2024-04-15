@@ -1,0 +1,1 @@
+ protected InternalCDORevision loadRevisionByVersion(CDOID id, int referenceChunk{  IStoreAccessor accessor = StoreThreadLocal.getAccessor(); if (getRepository().isSupportingAudits())     {  return (InternalCDORevision)accessor.readRevisionByVersion(id, referenceChunk, version);     }  InternalCDORevision revision = loadRevision(id, referenceChunk); } 

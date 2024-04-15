@@ -1,0 +1,1 @@
+  suite.addTestSuite(DependencyOnSelf.class);  suite.addTestSuite(DisabledExplanation.class);  suite.addTestSuite(DropinsScenario.class);  suite.addTestSuite(ExplanationDeepConflict.class);  suite.addTestSuite(ExplanationForOptionalDependencies.class);  suite.addTestSuite(ExplanationForPartialInstallation.class); }

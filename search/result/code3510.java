@@ -1,0 +1,1 @@
+ package org.eclipse.php.astview; import org.eclipse.php.core.ast.nodes.ASTNode; import org.eclipse.php.internal.core.ast.visitor.ApplyAll; /**  * For give range finds the node covered and the node covering. }

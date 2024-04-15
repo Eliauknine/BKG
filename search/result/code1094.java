@@ -1,0 +1,1 @@
+ public static void checkGetreply(final CompilationTimeStamp timestamp, final Sta{ 			}  if (redirectParameter != null) {  redirectParameter.getLocation().reportSemanticError(PARAMETERREDIRECTWITHOUTSIGNATURE); 			} 		} 

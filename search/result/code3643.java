@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.common.id.CDOIDUtil;import org.eclipse.emf.cdo.common.io.CDODataInput; import org.eclipse.emf.cdo.common.io.CDODataOutput; import org.eclipse.emf.cdo.common.protocol.CDOProtocolConstants; import org.eclipse.emf.cdo.common.revision.CDORevision; import org.eclipse.emf.cdo.spi.common.revision.InternalCDORevision; }

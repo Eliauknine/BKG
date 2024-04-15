@@ -1,0 +1,1 @@
+ * * @generated  */ public final class DocumentstructuretemplateEditPlugin extends EMFPlugin {  /** 	 * Keep track of the singleton. 	 * <!-- begin-user-doc --> 	 * <!-- end-user-doc --> 	 * 	 * @generated 	 */  public static final DocumentstructuretemplateEditPlugin INSTANCE = new DocumentstructuretemplateEditPlugin();  /** 	 * Keep track of the singleton. } 

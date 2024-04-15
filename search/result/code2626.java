@@ -1,0 +1,1 @@
+  @Override  protected IWizard getNewWizardInstance() {  SearchFormNewWizard wizard = new SearchFormNewWizard(m_scoutRes);  if (m_type != null) {  wizard.setTablePage(m_type);  IMethod titleMethod = TypeUtility.getMethod(m_type, "getConfiguredTitle");  if (TypeUtility.exists(titleMethod)) { } } } }

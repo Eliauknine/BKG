@@ -1,0 +1,1 @@
+ CDOItemProviderAdapter.30=The change subscription policies associated with the u{ CDOItemProviderAdapter.31=URICDOItemProviderAdapter.32=URI CDOItemProviderAdapter.33=URI for this CDOObject CDOItemProviderAdapter.4=Version CDOItemProviderAdapter.5=Version CDOItemProviderAdapter.6=The version of this object } 

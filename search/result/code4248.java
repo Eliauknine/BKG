@@ -1,0 +1,1 @@
+ Object[] array = getListeners(); for (int i = 0; i < array.length; i++) {  final ICheckStateListener l = (ICheckStateListener) array[i];  Platform.run(new SafeRunnable() {  public void run() {  l.checkStateChanged(event);                 } } } 

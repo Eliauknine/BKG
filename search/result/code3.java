@@ -1,0 +1,1 @@
+  /** 	 * This allows to delete resource from the uri. 	 *  	 * @param uri 	 *            The uri of the resource to delete. 	 * @return <code>true</code> if the resource is deleted, <code>false</code> otherwise. }

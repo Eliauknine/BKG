@@ -1,0 +1,1 @@
+ 			}); removeButton = new Button(buttonArea, SWT.PUSH);  removeButton.setFont(composite.getFont());  setButtonLayoutData(removeButton);  removeButton.setEnabled(false);  removeButton 					.setText(WorkbenchMessages.ContentTypes_fileAssociationsRemoveLabel);  removeButton.addSelectionListener(new SelectionAdapter() {  /* 				 * (non-Javadoc) }

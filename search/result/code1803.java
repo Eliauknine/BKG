@@ -1,0 +1,1 @@
+ 		boolean resize = computedSize.y > previousSize.y;		if (resize) { 			shell.setSize(shell.computeSize(previousClientArea.width, 					computedSize.y, true)); 		} else { 			// Workaround for incorrect redrawing in GTK 3 			shell.setRedraw(false); } }

@@ -1,0 +1,1 @@
+ 	 * @param packages 	 */  private void addViewModels(Set<String> packages) {  packages.add("http://org/eclipse/emf/ecp/view/model");   packages.add("http://org/eclipse/emf/ecp/view/custom/model");   packages.add("http://org/eclipse/emf/ecp/view/dynamictree/model");   packages.add("http://org/eclipse/emf/ecp/view/group/model");  } }

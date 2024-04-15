@@ -1,0 +1,1 @@
+ */@RunWith(Suite.class) @SuiteClasses({TestClassDiagram.class, TestCommunicationDiagram.class, TestProfile.class,  TestSequenceDiagram.class, TestUseCaseDiagram.class,}) public class AllUML2Tests {  /** } 

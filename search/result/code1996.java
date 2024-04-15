@@ -1,0 +1,1 @@
+  name="UML::SequenceNode"  identifier="org.eclipse.papyrus.uml.SequenceNode"  hint="UML::SequenceNode"  editHelperClassName="org.eclipse.papyrus.uml.service.types.helper.ActivityNodeHelper">     <iconEntry  xmi:id="_SdB4z1YCEeS0WsAAtVmToA"  iconPath="/icons/full/obj16/SequenceNode.gif" }

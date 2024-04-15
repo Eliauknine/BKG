@@ -1,0 +1,1 @@
+  m_info.setSessionId(session.getId()); m_info.setUserId(session.getUserId());  m_info.setUserAgent(session.getUserAgent());  try {  m_info.setSubject(Subject.getSubject(AccessController.getContext()));     } }

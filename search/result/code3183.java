@@ -1,0 +1,1 @@
+ private void cleanUp(CDOCommitContext commitContext){  for (CDOObject object : commitContext.getDetachedObjects().values())       {  formerRevisionKeys.remove(object);       }    for (CDOObject object : commitContext.getDirtyObjects().values())       {  formerRevisionKeys.remove(object);       }     } 

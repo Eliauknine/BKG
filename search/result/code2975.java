@@ -1,0 +1,1 @@
+ 				|| contextClass == NamespaceDeclContext.class) { 			return new ICompletionStrategy[] { new NamespacesStrategy(context) }; 		} 		if (contextClass == GotoStatementContext.class) { 			return new ICompletionStrategy[] { new GotoStatementStrategy( 					context) }; } }

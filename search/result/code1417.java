@@ -1,0 +1,1 @@
+  module.exports.handleRemoteError = handleRemoteError; module.exports.foreachSubmodule = foreachSubmodule;  module.exports.getRepoByPath = getRepoByPath;  return express.Router()  .use(bodyParser.json())  .get('/workspace*', getClone)  .get('/file/:rootDir*', getClone)  .put('/file*', putClone)  .delete('/file*', deleteClone)  .post('*', postInit); }

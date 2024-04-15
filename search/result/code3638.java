@@ -1,0 +1,1 @@
+  } /**    * @since 2.0    */  public void fireInvalidationEvent(long timeStamp, Set<CDOIDAndVersion> dirtyOIDs, Collection<CDOID> detachedObjects,  InternalCDOView excludedView)   {  fireEvent(new InvalidationEvent(excludedView, timeStamp, dirtyOIDs, detachedObjects));   

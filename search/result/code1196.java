@@ -1,0 +1,1 @@
+ protected static final Pattern EMPTY_STR_PATTERN = Pattern.compile(""); protected static final Pattern NOT_EMPTY_STR_PATTERN = Pattern.compile("^.+$");  private final Set<Object> parentMatches = new HashSet<Object>();  public XViewerTextFilter(XViewer xViewer) {  this.xViewer = xViewer; } 

@@ -1,0 +1,1 @@
+ private IPreferenceNode preferenceNode;  /* package */PreferenceElement(IPreferenceNode preferenceNode, PreferenceProvider preferenceProvider) {  super(preferenceProvider);  this.preferenceNode = preferenceNode; 	}  public void execute() { } 

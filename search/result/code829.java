@@ -1,0 +1,1 @@
+   */ public boolean isUIFiltering(IDifferenceCategory category_p) {  return category_p.isVisible() && category_p.isModifiable() &&  _activeCategories.contains(category_p) &&         (category_p.mayCoverPendingDifferences() || category_p.isInFocusMode());   }  /**    * Return whether the given match represents an element addition/deletion    * @param match_p non-null match 

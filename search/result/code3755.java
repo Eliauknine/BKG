@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.common.model.CDOFeature;import org.eclipse.emf.cdo.common.model.CDOType; import org.eclipse.emf.cdo.common.revision.CDORevision; import org.eclipse.emf.cdo.server.db.IAttributeMapping; import org.eclipse.emf.cdo.server.db.IClassMapping; import org.eclipse.emf.cdo.server.db.IDBStore; }

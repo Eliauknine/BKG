@@ -1,0 +1,1 @@
+ getSite().registerContextMenu(menuMgr, this.tree);	}  @Override  public boolean isDirty() {  // TODO Auto-generated method stub  return false; 	}  @Override  public boolean isSaveAsAllowed() {  // TODO Auto-generated method stub  return false; 	

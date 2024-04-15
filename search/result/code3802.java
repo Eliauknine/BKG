@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.internal.common.CDODataOutputImpl;import org.eclipse.emf.cdo.spi.common.InternalCDOPackage; import org.eclipse.emf.internal.cdo.CDOCommitContext; import org.eclipse.emf.internal.cdo.InternalCDOSession; import org.eclipse.emf.internal.cdo.bundle.OM; import org.eclipse.emf.internal.cdo.revision.CDOListWithElementProxiesImpl; }

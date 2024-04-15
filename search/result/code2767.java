@@ -1,0 +1,1 @@
+ public abstract class BaseCDORevision extends AbstractCDORevision{  private static final PerfTracer WRITING = new PerfTracer(OM.PERF_REVISION_WRITING, BaseCDORevision.class);  private static final byte UNSET_OPCODE = 0;  private static final byte SET_NULL_OPCODE = 1; } 

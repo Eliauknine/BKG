@@ -1,0 +1,1 @@
+                 <message_argument value="1"/>            </message_arguments>         </filter>     </resource>     <resource path="src/org/eclipse/emf/ecp/view/spi/model/VViewPackage.java" type="org.eclipse.emf.ecp.view.spi.model.VViewPackage$Literals">         <filter comment="SPI" id="403767336"> }

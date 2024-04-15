@@ -1,0 +1,1 @@
+ public static String ViewModelSelectControlSWTRenderer_ErrorNoEClass;  public static String ViewModelSelectControlSWTRenderer_ErrorNoSelection;  public static String ViewModelSelectControlSWTRenderer_ErrorNoVElement;  static {  // initialize resource bundle  NLS.initializeMessages(BUNDLE_NAME, Messages.class); } 

@@ -1,0 +1,1 @@
+ public void modify(final Object element, final String property, final Object val{  cmd = new ChangeCommentCommand(data, value.toString()); break;  case INIT:  cmd = new ChangeInitialValueCommand(data, value.toString());  break;  case ARRAY:  cmd = new ChangeArraySizeCommand(data, value.toString()); } 

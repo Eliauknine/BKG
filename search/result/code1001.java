@@ -1,0 +1,1 @@
+  class="org.eclipse.epp.internal.mpc.ui.commands.ShowFavoritesCommand" commandId="org.eclipse.epp.mpc.ui.command.showFavorites">       </handler>    </extension>    <extension  point="org.eclipse.ui.commands"> }

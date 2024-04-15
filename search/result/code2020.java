@@ -1,0 +1,1 @@
+  if (delegate != null) { delegate.animate(getWidget(), () -> {  this.eventBroker.send(Constants.WINDOW_HIDDEN, this.mWindow); 					}); 				} else {  getWidget().hide();  this.eventBroker.send(Constants.WINDOW_HIDDEN, this.mWindow); } }

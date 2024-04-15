@@ -1,0 +1,1 @@
+ 	 * Remove all markers directly attached to this eObject (depth set to IValidationMarkerManager.DEPTH_ZERO), to its	 * direct children (depth set to IValidationMarkerManager.DEPTH_ONE), or to itself and all its children (depth set 	 * to IValidationMarkerManager.DEPTH_INFINITE) 	 *  	 * @param eObject 	 *            the target eObject 	 * @param depth }

@@ -1,0 +1,1 @@
+  path = removeSMElementPrefix(path); if (endsWithValue(splitted)) { // Request for the value of an property  String idShortPath = path.replace("/value", "");  return submodelAPI.getSubmodelElementValue(idShortPath);                 } else if (isInvocationListPath(splitted)) {  List<String> idShorts = getIdShorts(splitted); } }

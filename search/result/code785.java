@@ -1,0 +1,1 @@
+ 	 */ @Override  protected Command createAddCommand(ChangeBoundsRequest request, EditPart child, Object constraint) {  if (child instanceof LifelineEditPart) {  return UnexecutableCommand.INSTANCE; 		}  return super.createAddCommand(request, child, constraint); } }

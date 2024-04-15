@@ -1,0 +1,1 @@
+ 	private void showFailure(final PHPUnitElement failure) {		postSyncRunnable(() -> { 			if (!isDisposed()) { 				// https://bugs.eclipse.org/bugs/show_bug.cgi?id=517513 				// fDiffTrace.showFailure(failure); 				fFailureTrace.showFailure(failure); 			} 		}); } }

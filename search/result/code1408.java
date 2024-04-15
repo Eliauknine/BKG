@@ -1,0 +1,1 @@
+  var key = util.decodeURIComponent(req.params.key); clone.getRepo(req)  .then(function(repo) {  var fileDir = api.join(fileRoot, repo.workdir().substring(req.user.workspaceDir.length + 1));  var configFile = api.join(repo.path(), "config");  args.readConfigFile(configFile, function(err, config) {  if (err) { } } } }

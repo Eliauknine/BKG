@@ -1,0 +1,1 @@
+ private void applyIDMappings(CDORevision[] revisions){     }  }  protected void rollback()   {  unlockObjects();  if (accessor != null)     {  try       {  accessor.rollback();       }  catch (RuntimeException ex)       {  OM.LOG.warn("Problem while rolling back  the transaction", ex);       }     }   } 

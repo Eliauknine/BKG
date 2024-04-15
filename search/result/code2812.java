@@ -1,0 +1,1 @@
+ 				} Participant result = participant;  changesDone = true;  if (participantList.size()>1) {  PopupMenu popupMenu = new PopupMenu(participantList, labelProvider);  changesDone = popupMenu.show(Display.getCurrent().getActiveShell()); }

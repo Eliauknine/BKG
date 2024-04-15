@@ -1,0 +1,1 @@
+       <command  defaultHandler="org.eclipse.emf.ecp.emf2web.ui.json.internal.handler.ExportJSONFormsHandler"  id="org.eclipse.emf.ecp.emf2web.ui.json.exportJSONSchemaCommand"  name="Export to JSONForms">       </command>    </extension>    <extension }

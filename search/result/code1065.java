@@ -1,0 +1,1 @@
+ public AbstractPickList(Composite parent, int style, List<PickListFeatures> list{  picker = new ComboViewer(comp, SWT.DROP_DOWN | SWT.BORDER | SWT.READ_ONLY);  final Combo control = picker.getCombo();  control.setLayoutData(new GridData(SWT.BEGINNING, SWT.CENTER, false, false));  // ComboContentAdapter controlContentAdapter = new ComboContentAdapter()  // { } } 

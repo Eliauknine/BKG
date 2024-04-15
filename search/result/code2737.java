@@ -1,0 +1,1 @@
+ protected CDOPermission convertPermission(Access permission){  protected CDOPermission authorize(CDORevision revision, CDORevisionProvider revisionProvider, CDOBranchPoint securityContext, ISession session, Access defaultAccess, Permission[] permissions)   {  boolean setUser = defaultAccess == null;  if (setUser)     { } } } 

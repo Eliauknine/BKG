@@ -1,0 +1,1 @@
+   * @since 2.0    */  @Override  public final NotificationChain eBasicSetContainer(InternalEObject newContainer, int newContainerFeatureID, NotificationChain msgs)   {  InternalEObject oldContainer = eInternalContainer();  Resource.Internal oldResource = eDirectResource(); } 

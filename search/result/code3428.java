@@ -1,0 +1,1 @@
+ public synchronized void setCollectionLoadingPolicy(CDOCollectionLoadingPolicy p{  if (collectionLoadingPolicy != policy)      {  collectionLoadingPolicy = policy;  fireEvent(new CollectionLoadingPolicyEventImpl());       }     } 

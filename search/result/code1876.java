@@ -1,0 +1,1 @@
+	 */ public void applyChanges(PrimaryVersionSpec baseSpec, List<AbstractChangePackage> incomingChangePackages,  AbstractChangePackage myChanges, IProgressMonitor progressMonitor, boolean runChecksumCheckOnBaseSpec)  throws ESException {  // revert local changes  notifyPreRevertMyChanges(getLocalChangePackage()); } 

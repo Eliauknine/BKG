@@ -1,0 +1,1 @@
+ 		<TableViewer.contentProvider>			<j:ContentProvider/> 		</TableViewer.contentProvider> 		<TableViewer.labelProvider> 			<DefaultColumnViewerLabelProvider/> 		</TableViewer.labelProvider> 		<TableViewer.table HeaderVisible="true" LinesVisible="true"> 			<TableColumn width="150" text="Name"/> 			<TableColumn width="150" text="Age"/> }

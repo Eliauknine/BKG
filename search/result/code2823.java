@@ -1,0 +1,1 @@
+ import org.eclipse.bpmn2.RootElement; import org.eclipse.bpmn2.modeler.core.features.AbstractBpmn2CreateFeature; import org.eclipse.graphiti.features.IFeatureProvider; import org.eclipse.graphiti.features.context.ICreateContext; }

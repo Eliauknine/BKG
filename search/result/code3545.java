@@ -1,0 +1,1 @@
+ protected Object basicSet(EStructuralFeature feature, Object value){  catch (ArrayIndexOutOfBoundsException ex)    {  throw new IllegalArgumentException(MessageFormat.format(  Messages.getString("AbstractCDORevision.20"), feature, classAdapter), ex);       }   } 

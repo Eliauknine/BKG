@@ -1,0 +1,1 @@
+    }  }  public Session openSession(CDOServerProtocol protocol, boolean disableLegacyObjects) throws SessionCreationException   {  int id = ++lastSessionID;  if (TRACER.isEnabled())     {  TRACER.trace("Opening session " + id);     }  Session session = new Session(this, protocol, id, disableLegacyObjects);  synchronized (sessions)     {  sessions.put(id, session); 

@@ -1,0 +1,1 @@
+  } /**    * @since 2.0    */  public static byte[] encrypt(byte[] data, char[] password, String algorithmName, byte[] salt, int count) throws NoSuchAlgorithmException,  InvalidKeySpecException, NoSuchPaddingException, InvalidKeyException, InvalidAlgorithmParameterException, IllegalBlockSizeException, BadPaddingException   {  // Create PBE parameter set 

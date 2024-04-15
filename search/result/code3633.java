@@ -1,0 +1,1 @@
+ public void viewDetached(InternalCDOView view);  public void handleCommitNotification(long timeStamp, Set<CDOIDAndVersion> dirtyOIDs,  Collection<CDOID> detachedObjects, Collection<CDORevisionDelta> deltas, InternalCDOView excludedView);  public void handleSyncResponse(long timestamp, Set<CDOIDAndVersion> dirtyOIDs, Collection<CDOID> detachedObjects); 

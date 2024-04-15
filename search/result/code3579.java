@@ -1,0 +1,1 @@
+ public void draw(GC gc, GalleryItem item, int index, int x, int y,{  else gc.fillRectangle(x, y, width, height);  if (item.getText() != null && showLabels) {  gc.fillRoundRectangle(x, y + height - fontHeight, width,  fontHeight, selectionRadius, selectionRadius); 			} } 

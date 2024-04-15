@@ -1,0 +1,1 @@
+ 						} final int widthAfterChange = sectionComposite.getSize().x;  if (widthBeforeChange != widthAfterChange) {  scrolledComposite.setMinHeight(sectionComposite.computeSize(widthAfterChange, SWT.DEFAULT).y);  widthBeforeChange = widthAfterChange; 						}

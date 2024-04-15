@@ -1,0 +1,1 @@
+  String widget = label.toString();  Point size = label.getSize();  String labelText = label.getText();  if (labelText.isEmpty())  return;  //compute the size with no line wrapping  Point preferred = label.computeSize(SWT.DEFAULT, SWT.DEFAULT); }

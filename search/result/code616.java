@@ -1,0 +1,1 @@
+ */public interface IManagedContainer extends IContainer<Object>, ILifecycle {  public IRegistry<IFactoryKey, IFactory> getFactoryRegistry();  public IManagedContainer registerFactory(IFactory factory); } 

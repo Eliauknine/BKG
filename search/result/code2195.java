@@ -1,0 +1,1 @@
+  /** 	 * Remove all markers of type {@link IValidationMarker.MODEL_VALIDATION_PROBLEM} present on the resource. 	 *  	 * @param resource 	 *            the target {@link IResource} 	 * @see IMarker#getType() }

@@ -1,0 +1,1 @@
+ public AbstractChangePackage mergeResolvedConflicts(ChangeConflictSet conflictSe{  mergeResult.addAll(acceptedMineList);  final AbstractChangePackage result = ChangePackageUtil.createChangePackage(  Configuration.getClientBehavior().useInMemoryChangePackage() 			);  // dup op in mergeResult  result.addAll(mergeResult); } 

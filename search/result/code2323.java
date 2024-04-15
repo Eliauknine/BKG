@@ -1,0 +1,1 @@
+public class JenaLDPRDFSource extends LDPRDFSource {  public static String UNSPECIFIED_USER = "http://unspecified.user"; // TODO: How to handle this properly?  public static final String CONSTRAINTS_URI =  UriBuilder.fromPath(LDPService.ROOT_APP_URL).path("constraints.ttl").build().toString(); } 

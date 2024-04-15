@@ -1,0 +1,1 @@
+ Require-Bundle: org.eclipse.core.runtime,{  org.eclipse.emf.ecore.xmi;visibility:=reexport,  org.eclipse.e4.core.services,  org.apache.log4j,  org.eclipse.fordiac.ide.model.commands Bundle-Vendor: Eclipse 4diac Bundle-ActivationPolicy: lazy Bundle-Version: 1.10.1.qualifier } 

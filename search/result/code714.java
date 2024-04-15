@@ -1,0 +1,1 @@
+		 * Set filter to "match everything" mode.		 *  		 * @param matchEverything 		 *            if <code>true</code>, {@link #matchItem(Object)} always 		 *            returns true. If <code>false</code>, the filter is 		 *            enabled. 		 */ 		public void setMatchEverythingMode(boolean matchEverything) { 			this.fMatchEverything = matchEverything; } 

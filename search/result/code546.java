@@ -1,0 +1,1 @@
+ For example ```http://localhost:8080/images/org.eclipse.emf.ecore.edit/icons/ful{ http://localhost:8080/images/PROJECT_NAME/PATH_TO_RESOURCE?fragment=EOBJECT_FRAGMENT``` For example, ```http://localhost:8080/images/basicfamily.modeling.sample/model/MyModel.basicfamily?fragment=_duh2kO9BKz_XL45```. ## GraphQL HTTP } 

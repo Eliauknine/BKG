@@ -1,0 +1,1 @@
+ public void testAdapterPolicy_NONE() throws Exception{  msg("Opening transaction");  CDOTransaction transaction = session.openTransaction();  transaction.options().setCacheReferenceType(ReferenceType.WEAK);  transaction.createResource("/resA").getContents().add(companyA); } 

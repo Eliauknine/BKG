@@ -1,0 +1,1 @@
+  * Contributors: *   CEA LIST - Initial API and implementation  *   Nicolas FAUVERGUE (ALL4TEC) nicolas.fauvergue@all4tec.net - Bug #471903  *  *****************************************************************************/ package org.eclipse.papyrus.infra.nattable.listener; }

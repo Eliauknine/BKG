@@ -1,0 +1,1 @@
+ public SpaceModule( final ClassSpace space, final BeanScanning scanning ){  // ---------------------------------------------------------------------- /**      * Applies new wiring {@link Strategy} to the current module.      *       * @param _strategy The new strategy      * @return Updated module } 

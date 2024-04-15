@@ -1,0 +1,1 @@
+/** * @author Eike Stepper  */ public class LegacyObjectDisabler implements IElementProcessor {  private boolean disableLegacyObjects;  public LegacyObjectDisabler(boolean disableLegacyObjects)   {  this.disableLegacyObjects = disableLegacyObjects;   }  public LegacyObjectDisabler()   {  this(true);   } } 

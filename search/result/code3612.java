@@ -1,0 +1,1 @@
+   *    * @since 2.0    */  public InternalCDORevision readRevisionByTime(CDOID id, int referenceChunk, long timeStamp);  /**    * Returns the <code>CDOID</code> of the resource node with the given folderID and name if resource with this 

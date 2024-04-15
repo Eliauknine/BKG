@@ -1,0 +1,1 @@
+  *    Simon McDuff - http://bugs.eclipse.org/226778      *    Simon McDuff - http://bugs.eclipse.org/213402  *    Simon McDuff - http://bugs.eclipse.org/246705  **************************************************************************/ package org.eclipse.emf.cdo.eresource.impl; }

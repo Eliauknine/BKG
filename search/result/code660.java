@@ -1,0 +1,1 @@
+  String defaultEntryId = attributeGrouping.getDefaultGroupingEntry();  if (defaultEntryId != null) {  if (idsToEntries.containsKey(defaultEntryId)) {   MarkerGroupingEntry entry = idsToEntries.get(defaultEntryId);  entry.setAsDefault(attributeGrouping.getMarkerType()); 				} else {  IDEWorkbenchPlugin.log(NLS.bind( } } }

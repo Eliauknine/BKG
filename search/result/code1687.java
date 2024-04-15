@@ -1,0 +1,1 @@
+ </location><location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit"> <unit id="org.junit" version="0.0.0"/> <repository location="http://download.eclipse.org/tools/orbit/downloads/drops/R20140525021250/repository/"/> </location> </locations> </target> }

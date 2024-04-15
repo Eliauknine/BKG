@@ -1,0 +1,1 @@
+  id="org.eclipse.ui.propertypages.resource.filters"  name="%PropertyPages.resource.filters">          <enabledWhen>             <or>             	<adapt type="org.eclipse.core.resources.IProject"/>            		<adapt type="org.eclipse.core.resources.IFolder"/>            	</or>          </enabledWhen>       </page>       <page }

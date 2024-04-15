@@ -1,0 +1,1 @@
+	 * been used yet, the item is created and SWT.SetData event is fired.	 *  	 * @param index 	 *  : index of the item. 	 * @return : the GalleryItem or null if index is out of bounds 	 */  public GalleryItem getItem(int index) { } 

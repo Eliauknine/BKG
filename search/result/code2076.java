@@ -1,0 +1,1 @@
+ public DeleteReferenceAction(EditingDomain editingDomain, Setting setting, Refer{  super(editingDomain, setting); // TODO remove PlatformUI  setImageDescriptor(Activator.getImageDescriptor("icons/delete.png"));   setToolTipText(LocalizationServiceHelper.getString(DeleteReferenceAction.class,  ReferenceMessageKeys.DeleteReferenceAction_DeleteReference)); 	} 

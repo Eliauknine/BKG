@@ -1,0 +1,1 @@
+ import org.eclipse.ui.PlatformUI;import org.eclipse.ui.WorkbenchException; import org.eclipse.ui.contexts.IContextService; import org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor; import org.eclipse.ui.internal.e4.compatibility.CompatibilityPart; import org.eclipse.ui.internal.e4.compatibility.CompatibilityView; }

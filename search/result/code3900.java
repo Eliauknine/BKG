@@ -1,0 +1,1 @@
+ Export-Package: org.eclipse.xtext.ui.common.editor.codecompletion,{ Import-Package: org.eclipse.ui.texteditor.templatesEclipse-RegisterBuddy: org.eclipse.xtext.log4j Eclipse-BuddyPolicy: registered } 

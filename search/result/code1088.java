@@ -1,0 +1,1 @@
+ this.extensionAdditions.setFullNameParent(this);	}  public void setExceptionSpecification(final ExceptionSpecification exceptionSpecification) {  this.exceptionSpecification = exceptionSpecification; 

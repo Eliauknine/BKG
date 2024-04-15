@@ -1,0 +1,1 @@
+//@formatter:off @RunWith(Suite.class) @SuiteClasses({ TestInteractionOverviewDiagramActivityTN.class, TestInteractionOverviewDiagramChildNode.class, }) //@formatter:on public class AllCanonicalTests {  // Junit 4 test case } 

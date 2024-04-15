@@ -1,0 +1,1 @@
+  true); // TODO: proivde util method  final ESHistoryQuery<ESModelElementQuery> api = query.toAPI();  final List<ESHistoryInfo> infos =  projectSpace.toAPI().getHistoryInfos(api, new NullProgressMonitor());  return infos; 	}

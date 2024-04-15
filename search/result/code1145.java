@@ -1,0 +1,1 @@
+  for (Object currentRequired : requiredInterface) { EObject interfaceRequired = null;  if (currentRequired instanceof NewElementRepresentation) {  interfaceRequired = ((NewElementRepresentation) currentRequired).getEObject(); 			} else { } } }

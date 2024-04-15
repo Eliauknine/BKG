@@ -1,0 +1,1 @@
+  * Contributors: *  Camille Letavernier (CEA LIST) camille.letavernier@cea.fr - Initial API and implementation  *****************************************************************************/ package org.eclipse.papyrus.customization.model.customizationplugin; import org.eclipse.emf.common.util.EList; import org.eclipse.emf.ecore.EObject; }

@@ -1,0 +1,1 @@
+       </description>    </context>    <context id="ReferenceWidgetStyle">      <description>  <!-- Start of user code ReferenceWidgetStyle description -->  <!-- End of user code ReferenceWidgetStyle description -->       </description>    </context>    <context id="ListWidgetStyle">      <description> }

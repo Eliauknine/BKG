@@ -1,0 +1,1 @@
+ Bundle-Version: 1.7.0.qualifier{  /* Trigger the migration */  final Migrator migrator = new Migrator(uri, new CustomMigrationClassLoader());  final Release release = migrator.getRelease(0);  migrator.migrateAndSave(Collections.singletonList(resourceURI), release, null,  new NullProgressMonitor()); } 

@@ -1,0 +1,60 @@
+1.2.1	+7	id|Require
+1.9.8	+1	s_-
+1.a.9	+6	id|Bundle
+1.10.f	+1	s_:
+1.12.11	+3	id|org
+1.15.14	+1	s_.
+1.16.15	+7	id|eclipse
+1.1d.1c	+1	s_.
+1.1e.1d	+3	id|emf
+1.21.20	+1	s_.
+1.22.21	+3	id|ecp
+1.25.24	+1	s_.
+1.26.25	+4	id|view
+1.2a.29	+1	s_.
+1.2b.2a	+7	id|section
+1.32.31	+1	s_.
+1.33.32	+5	id|model
+1.38.37	+1	suffix:semicolon
+1.39.38	+6	id|bundle
+1.3f.3e	+1	s_-
+1.40.3f	+7	id|version
+1.47.46	+1	s_=
+1.48.47	+4c	l_string|"[1.5.0,2.{ Import-Package: org.eclipse.emfforms.spi.common.report;version="
+1.94.93	+1	l_int|1
+1.95.94	+1	s_.
+1.96.95	+1	l_int|6
+1.97.96	+1	s_.
+1.98.97	+1	l_int|0
+1.99.98	+26	l_string|",  org.eclipse.jface.layout;version="
+1.bf.be	+1	l_int|0
+1.c0.bf	+1	s_.
+1.c1.c0	+1	l_int|0
+1.c2.c1	+1	s_.
+1.c3.c2	+1	l_int|0
+1.c4.c3	+1d	l_string|",  org.eclipse.swt;version="
+1.e1.e0	+1	l_int|0
+1.e2.e1	+1	s_.
+1.e3.e2	+1	l_int|0
+1.e4.e3	+1	s_.
+1.e5.e4	+1	l_int|0
+1.e6.e5	+24	l_string|",  org.eclipse.swt.layout;version="
+1.10a.109	+1	l_int|0
+1.10b.10a	+1	s_.
+1.10c.10b	+1	l_int|0
+1.10d.10c	+1	s_.
+1.10e.10d	+1	l_int|0
+1.10f.10e	+25	l_string|",  org.eclipse.swt.widgets;version="
+1.134.133	+1	l_int|0
+1.135.134	+1	s_.
+1.136.135	+1	l_int|0
+1.137.136	+1	s_.
+1.138.137	+1	l_int|0
+1.139.138	+29	l_string|",  org.eclipse.ui.forms.events;version="
+1.162.161	+1	l_int|0
+1.163.162	+1	s_.
+1.164.163	+1	l_int|0
+1.165.164	+1	s_.
+1.166.165	+1	l_int|0
+1.167.166	2.1.16d	l_string|", } &r;&n;
+2.1.16d	+0	eof

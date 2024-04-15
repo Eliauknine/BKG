@@ -1,0 +1,15 @@
+1.3.2	+13	id|newFileCreationPage
+1.17.16	+1	s_=
+1.19.18	+16	id|getNewFileCreationPage
+1.2f.2e	+0	c_func
+1.2f.2e	+1	(paren
+1.30.2f	+1	)paren
+1.31.30	+1	suffix:semicolon
+1.33.32	+7	id|addPage
+1.3a.39	+0	c_func
+1.3a.39	+1	(paren
+1.3b.3a	+13	id|newFileCreationPage
+1.4e.4d	+1	)paren
+1.4f.4e	+1	suffix:semicolon
+1.52.51	+1	)brace
+2.1.54	+0	eof

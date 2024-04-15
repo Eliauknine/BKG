@@ -1,0 +1,1 @@
+ void update_nodes(char *hostlist_path){     current_hostlist = malloc(current_hostlist_limit * sizeof(char *)); malloc_check(current_hostlist, __FUNCTION__, __LINE__);  while (res != NULL) {  char *cp;  /*              * Process only non-blank, non-comment lines } } 

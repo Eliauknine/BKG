@@ -1,0 +1,15 @@
+1.2.1	+6	r_return
+1.9.8	+d	id|m_fileChooser
+1.16.15	+1	suffix:semicolon
+1.19.18	+1	)brace
+1.1c.1b	+6	r_public
+1.23.22	+b	id|IMessageBox
+1.2f.2e	+d	id|getMessageBox
+1.3c.3b	+0	c_func
+1.3c.3b	+1	(paren
+1.3d.3c	+1	)paren
+1.3f.3e	+1	(brace
+1.42.41	+6	r_return
+1.49.48	+c	id|m_messageBox
+1.55.54	+1	suffix:semicolon
+2.1.5a	+0	eof

@@ -1,0 +1,15 @@
+1.2.1	+4	r_else
+1.7.6	+2	r_if
+1.a.9	+0	c_cond
+1.a.9	+1	(paren
+1.c.b	+5	id|color
+1.11.10	+1	s_.
+1.12.11	+10	id|equalsIgnoreCase
+1.22.21	+0	c_func
+1.22.21	+1	(paren
+1.24.23	+8	l_string|"Maroon"
+1.2d.2c	+1	)paren
+1.2f.2e	+1	)paren
+1.30.2f	+1	(brace
+1.34.33	+1	)brace
+2.1.37	+0	eof

@@ -1,0 +1,1 @@
+ 		String nsUseGroupPrefix = null;		if (context instanceof UseStatementContext) { 			nsUseGroupPrefix = ((UseStatementContext) context).getGroupPrefixBeforeOpeningCurly(); 		} 		int extraInfo = getExtraInfo(); }

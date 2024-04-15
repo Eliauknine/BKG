@@ -1,0 +1,1 @@
+ public static VView createViewModel(IFile modelFile, EClass selectedEClass, IFil{  final EClass ec = (EClass) ep.getEClassifier(selectedEClass.getName());  view.setRootEClass(ec);  // Update the VView-EClass mapping  if (selectedEcore != null) {  view.setEcorePath(selectedEcore.getFullPath().toString()); } } 

@@ -1,0 +1,1 @@
+  private static final String CHECKED_DEFAULT = "icons/checked.png";  private static final String UNCHECKED_DEFAULT = "icons/unchecked.png";   private static ServiceReference<ImageRegistryService> imageRegistryServiceReference;  private static ImageData checked; }

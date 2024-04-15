@@ -1,0 +1,1 @@
+ public static ColumnsInfo createChart( IForeignContent content, int width ){  return new ColumnsInfo( column );	}  private static int getElementWidth(IContent content, int width) 	{  DimensionType value = content.getWidth( ); } 

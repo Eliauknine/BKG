@@ -1,0 +1,1 @@
+  version="1.7.0.qualifier" provider-name="%providerName"  license-feature="org.eclipse.license"  license-feature-version="0.0.0">    <description url="http://www.eclipse.org/epp/mpc/">       %description }

@@ -1,0 +1,11 @@
+1.5.4	+6	id|parent
+1.c.b	+1	s_=
+1.e.d	+a	id|locateNode
+1.18.17	+1	s_.
+1.19.18	+9	id|getParent
+1.22.21	+0	c_func
+1.22.21	+1	(paren
+1.23.22	+1	)paren
+1.24.23	+1	suffix:semicolon
+1.28.27	+1	)brace
+2.1.b5	+0	eof

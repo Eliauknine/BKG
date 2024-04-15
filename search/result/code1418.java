@@ -1,0 +1,1 @@
+  clone.getRepo(req) .then(function(repo) {  theRepo = repo;  fileDir = api.join(fileRoot, repo.workdir().substring(req.user.workspaceDir.length + 1));  return startPoint ? git.Reference.lookup(repo, "refs/remotes/" + startPoint) : repo.getCurrentBranch();  })  .then(function(reference) { } }

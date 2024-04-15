@@ -1,0 +1,1 @@
+  addOverride(validatorGroup);  addConfigLink(validatorGroup);  addSuspend(validatorGroup);  addValidationBuilder(validatorGroup);  new Label(validatorGroup, SWT.NONE).setLayoutData(new GridData()); }

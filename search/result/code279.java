@@ -1,0 +1,1 @@
+  *   	- Shifted Grid heightHint and Width Hint to WidgetFactory.jav *   Alois Zoitl - extracted helper for ComboCellEditors that unfold on activation  *   Bianca Wiesmayr - improve element insertion  *******************************************************************************/ package org.eclipse.fordiac.ide.fbtypeeditor.ecc.properties; }

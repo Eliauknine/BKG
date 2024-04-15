@@ -1,0 +1,1 @@
+ protected Boolean getBoolean(Object value){  protected CDOClassImpl getObjectType(CDOID id)   {  IRepository repository = store.getRepository();  IPackageManager packageManager = repository.getPackageManager();  CDOClassRef type = repository.getTypeManager().getObjectType(this, id);  return (CDOClassImpl)type.resolve(packageManager); } } 

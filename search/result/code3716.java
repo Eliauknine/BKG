@@ -1,0 +1,1 @@
+ protected boolean resolve(){     }    {  CDOSessionImpl session = (CDOSessionImpl)openModel1Session();  CDOFetchRuleManagerInfo info = new CDOFetchRuleManagerInfo();  session.getRevisionManager().setRuleManager(info);  CDOTransactionImpl transaction = session.openTransaction();  CDOResource resource = transaction.getResource("/test2");  // I don't want to fetch my objects!! } 

@@ -1,0 +1,1 @@
+ public void handleRollback(CDOSavepoint savepoint){       } Map<CDOIDTemp, CDOID> idMappings = Collections.emptyMap();  fireEvent(new FinishedEvent(CDOTransactionFinishedEvent.Type.ROLLED_BACK, idMappings));  for (CDOTransactionHandler handler : getTransactionHandlers())       {  try } 

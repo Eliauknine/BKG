@@ -1,0 +1,1 @@
+ public void attach(InternalCDOObject object, InternalCDOTransaction transaction){  try       {  List<InternalCDOObject> contents = new ArrayList<InternalCDOObject>();  prepare(object, Pair.create(transaction, contents)); } } 

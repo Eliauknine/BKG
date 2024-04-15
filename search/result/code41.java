@@ -1,0 +1,1 @@
+  // Only do this after attaching our listener so that it will be ahead of // any ModelElements created for properties  checkInput();  manageObservableListeners(); 		}  if (valueEditor != null && !valueEditor.isDisposed()) {  checkInput(); 		} 	}

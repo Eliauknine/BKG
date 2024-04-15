@@ -1,0 +1,1 @@
+ private synchronized void unlockObjects(){   { if (!lockedObjects.isEmpty())     {  lockManager.unlock(LockType.WRITE, transaction, lockedObjects);  lockedObjects.clear();     }   }  private void computeDirtyObjects(OMMonitor monitor) } 

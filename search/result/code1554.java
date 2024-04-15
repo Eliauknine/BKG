@@ -1,0 +1,1 @@
+  org.eclipse.papyrus.infra.core.sashwindows.di;bundle-version="1.2.0"Bundle-Vendor: %providerName Bundle-ActivationPolicy: lazy Bundle-Version: 0.7.0 Bundle-Localization: plugin Bundle-Name: %pluginName Bundle-Activator: org.eclipse.papyrus.designer.languages.cpp.cdt.texteditor.Activator }

@@ -1,0 +1,1 @@
+  // try to find the column value type with the local hierarchy first.  String columnValueTypeSignature = DtoUtils.getColumnValueTypeSignature(column);  memberFieldBuilder.setSignature(columnValueTypeSignature);  addSortedField(new CompositeObject(SortedMemberKeyFactory.FIELD_MEMBER + 1, i, columnBeanName), memberFieldBuilder); }

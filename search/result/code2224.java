@@ -1,0 +1,1 @@
+	} @Test  public void invalidContentTypeGivesNotSupportedOPTIONAL() throws IOException {  HttpResponse resp = OSLCUtils.getResponseFromUrl(setupBaseUrl, currentUrl,  creds, "invalid/content-type", headers); 

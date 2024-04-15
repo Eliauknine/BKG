@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecore.EStructuralFeature;import org.eclipse.emf.ecore.util.EObjectContainmentEList; import org.eclipse.emf.ecore.util.EcoreUtil; import org.eclipse.jface.dialogs.MessageDialog; import org.eclipse.jface.viewers.ILabelProvider; import org.eclipse.jface.viewers.ILabelProviderListener; }

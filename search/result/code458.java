@@ -1,0 +1,1 @@
+  case INDEX_IDENTIFIER: return condition.getFeatureIdentifier();  case INDEX_VALID_FROM:  // FIXME: format  return condition.getValidFrom().toString();  case INDEX_VALID_UNTIL:  // FIXME: format  return condition.getValidUntil().toString();  case INDEX_MATCH_VERSION:  // FIXME: human readable  return condition.getMatchVersion(); }

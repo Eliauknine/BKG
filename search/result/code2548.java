@@ -1,0 +1,1 @@
+ public void notifyChanged ( Notification notification ){  case VisualInterfacePackage.FIGURE__BORDER: case VisualInterfacePackage.FIGURE__OPAQUE:  case VisualInterfacePackage.FIGURE__TOOL_TIP:  fireNotifyChanged ( new ViewerNotification ( notification, notification.getNotifier (), false, true ) );  return;  case VisualInterfacePackage.FIGURE__SIZE: } 

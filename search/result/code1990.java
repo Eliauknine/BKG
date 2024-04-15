@@ -1,0 +1,1 @@
+ 		boolean usePhpDoc = (mask & USE_PHPDOC) != 0; 		if (usePhpDoc) { 			PHPDocMethodReturnTypeGoal phpDocGoal = new PHPDocMethodReturnTypeGoal( 					context, types, method); 			evaluatedType = typeInferencer.evaluateTypePHPDoc(phpDocGoal); 			List<IEvaluatedType> possibleTypes = null; 			if (!PHPTypeInferenceUtils.isSimple(evaluatedType)) { } } }

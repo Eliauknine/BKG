@@ -1,0 +1,1 @@
+ public void run() {  Session currentSession = session2.get();  if (currentSession != null) {  ActivityExplorerEditor editor = ActivityExplorerManager.INSTANCE.getEditorFromSession(currentSession);  if (editor == null) {  return; } } } 

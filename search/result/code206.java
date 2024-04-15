@@ -1,0 +1,1 @@
+ @Override public void addEntry(Object entry, int index, CompoundCommand cmd) {  if (entry instanceof VarDeclaration) {  VarDeclaration varEntry = (VarDeclaration) entry;  cmd.add(new InsertVariableCommand(((StructuredType) dataType).getMemberVariables(), varEntry, index)); 		} 	} 

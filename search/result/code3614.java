@@ -1,0 +1,1 @@
+ return storeRevision;  }  public InternalCDORevision readRevisionByTime(CDOID id, int referenceChunk, long timeStamp)   {  return getStore().getRevisionByTime(id, timeStamp);   }  public InternalCDORevision readRevisionByVersion(CDOID id, int referenceChunk, int version)   {  return getStore().getRevisionByVersion(id, version);   

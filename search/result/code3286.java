@@ -1,0 +1,1 @@
+ Java and all Java-based trademarks are trademarks of Sun Microsystems, Inc. in t{    <plugins>       <plugin id="org.eclipse.epp.package.jee"/>       <plugin id="org.eclipse.wtp.epp.package.jee.intro"/>    </plugins>    <features> } 

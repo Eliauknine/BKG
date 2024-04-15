@@ -1,0 +1,1 @@
+ import org.eclipse.net4j.util.event.IEvent; import org.eclipse.net4j.util.event.IListener; import org.eclipse.emf.common.util.EList; import org.eclipse.emf.common.util.URI; import org.eclipse.emf.ecore.EObject; import org.eclipse.emf.ecore.util.EcoreUtil; import java.util.concurrent.locks.Lock; import java.util.concurrent.locks.ReentrantLock; }

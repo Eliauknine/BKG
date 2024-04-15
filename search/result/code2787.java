@@ -1,0 +1,1 @@
+ * This is the central singleton for the Bowling edit plugin. * <!-- begin-user-doc -->  * <!-- end-user-doc -->  * @generated  */ public final class BowlingEditPlugin extends EMFPlugin {  /** 	 * Keep track of the singleton. 	 * <!-- begin-user-doc --> 	 * <!-- end-user-doc --> 	 * @generated 	 */  public static final BowlingEditPlugin INSTANCE = new BowlingEditPlugin(); } 

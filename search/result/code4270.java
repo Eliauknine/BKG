@@ -1,0 +1,1 @@
+  if (fMonitor.isCanceled()) {  fMonitor.done();  return null; 	    }  analyzeEvents(visitorFactoryRule) ;	      fMonitor.worked(100);  if (fMonitor.isCanceled()) {  fMonitor.done();  return null; 	    } }

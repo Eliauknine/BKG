@@ -1,0 +1,1 @@
+ public void addNotification(Notification msg)    {  getData(msg.getNotifier()).setNotification(msg);  fireEvent(dataRegistryEvent);     }  public void removeNotification(Object object)     {  getData(object).deleteNotification();  fireEvent(dataRegistryEvent);     }  public void removeData(Object object) 

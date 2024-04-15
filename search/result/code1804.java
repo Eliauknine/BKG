@@ -1,0 +1,1 @@
+ 		}		if (detectedDebuggerId == null 				&& (modifiedValuesCache.debuggerId == null || modifiedValuesCache.debuggerId 						.equals(PHPDebuggersRegistry.NONE_DEBUGGER_ID))) 			detectedDebuggerId = PHPDebuggersRegistry.NONE_DEBUGGER_ID; 		else if (modifiedValuesCache.debuggerId != null) { 			detectedDebuggerId = modifiedValuesCache.debuggerId; }

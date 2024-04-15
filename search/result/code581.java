@@ -1,0 +1,1 @@
+ import org.eclipse.emf.ecore.EClass;import org.eclipse.emf.ecore.EReference; import org.eclipse.emf.ecore.EcorePackage; import org.eclipse.m2m.atl.emftvm.CodeBlock; import org.eclipse.m2m.atl.emftvm.EmftvmFactory; import org.eclipse.m2m.atl.emftvm.EmftvmPackage; }

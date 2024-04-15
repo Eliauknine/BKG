@@ -1,0 +1,1 @@
+ private function writeTest(Test $test, $event, $isTestCase = false){             } else { $hasPerformed = $test->hasExpectationOnOutput();             }    if (! $hasPerformed && $test->getActualOutput() != null) {  // echo $test->getActualOutput();             } 

@@ -1,0 +1,1 @@
+ static class ScenarioManager { private Collection<ITimeline> timelines = new ArrayList<ITimeline>();  public void play(ITimeline timeline, boolean wait) {  for (ITimeline timelineScenario : timelines) {  if (timelineScenario != timeline) {  timelineScenario.cancel(); 				} 			}  timeline.play(wait); 		}  public void cancel(ITimeline timeline) { } } 

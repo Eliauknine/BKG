@@ -1,0 +1,1 @@
+ public void notifyChanged(Notification notification){ 	 * <!-- begin-user-doc -->	 * <!-- end-user-doc --> 	 *  	 * @generated 	 */  @Override  protected void collectNewChildDescriptors(Collection<Object> newChildDescriptors, Object object) } 

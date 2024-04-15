@@ -1,0 +1,1 @@
+ @Override  protected void catalogUpdated(boolean wasCancelled, boolean wasError) {  super.catalogUpdated(wasCancelled, wasError);  List<CatalogItem> items = getCatalog().getItems();  for (CatalogItem catalogItem : items) {  modifySelection(catalogItem, catalogItem.isSelected()); 		} 	}  public void setInstallSelected(boolean install) { } 

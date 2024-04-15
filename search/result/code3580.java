@@ -1,0 +1,1 @@
+ public void draw(GC gc, GalleryItem item, int index, int x, int y,{  int useableHeight = height;  int fontHeight = 0;  if (item.getText() != null && this.showLabels) {  fontHeight = gc.getFontMetrics().getHeight();  useableHeight -= fontHeight + 2; 		} } 

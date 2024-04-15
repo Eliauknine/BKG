@@ -1,0 +1,1 @@
+ function showPreview(elem) { // (1){ function parsePreview(xml) { // (1)   var ret = {};  var compact = firstChild(firstChild(xml));  var preview = firstChild(  firstChildNamed(compact,'oslc:smallPreview')); // (2)   if (preview) {  var document = firstChildNamed(preview, 'oslc:document');  if (document) ret.uri = document.getAttribute('rdf:resource'); } } } 

@@ -1,0 +1,1 @@
+	 */ public ExpectedValueControlRenderer(VControl vElement, ViewModelContext viewContext,  ReportService reportService) {  super(vElement, viewContext, reportService, emfFormsDatabinding, emfFormsLabelProvider, vtViewTemplateProvider); 	}  private Label text; 

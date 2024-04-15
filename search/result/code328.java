@@ -1,0 +1,1 @@
+ public function handle($errno, $errstr, $errfile, $errline){  if (Error_Warning::$enabled !== TRUE) { return FALSE;             }    $exception = 'Error_Warning';         } elseif ($errno == E_NOTICE) {  //trigger_error($errstr, E_USER_NOTICE); } 

@@ -1,0 +1,1 @@
+ import org.eclipse.emf.cdo.common.branch.CDOBranchPoint;import org.eclipse.emf.cdo.common.id.CDOID; import org.eclipse.emf.cdo.common.id.CDOIDUtil; import org.eclipse.emf.cdo.explorer.CDOExplorerUtil; import org.eclipse.emf.cdo.explorer.checkouts.CDOCheckout; import org.eclipse.emf.cdo.explorer.repositories.CDORepository; }

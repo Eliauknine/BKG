@@ -1,0 +1,17 @@
+1.2.1	+7	id|jenkins
+1.9.8	+1	s_:
+1.a.9	+1	(brace
+1.12.11	+1	s_-
+1.14.13	+2c	l_string|"Agent/Configure:adam.brousseau88@gmail.com"
+1.46.45	+1	s_-
+1.48.47	+2a	l_string|"Agent/Connect:adam.brousseau88@gmail.com"
+1.79.78	+1	s_-
+1.7b.7a	+2d	l_string|"Agent/Disconnect:adam.brousseau88@gmail.com"
+1.af.ae	+1	s_-
+1.b1.b0	+2a	l_string|"Job/Configure:adam.brousseau88@gmail.com"
+1.e2.e1	+1	s_-
+1.e4.e3	+1b	l_string|"Overall/Administer:admins"
+1.106.105	+1	s_-
+1.108.107	+14	l_string|"Job/Read:anonymous"
+1.11d.11c	+1	)brace
+2.1.120	+0	eof

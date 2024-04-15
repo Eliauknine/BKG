@@ -1,0 +1,1 @@
+ protected void indicating(ExtendedDataInputStream in) throws IOException{  PROTOCOL.format("Read repositoryName: {0}", repositoryName);    }  disableLegacyObjects = in.readBoolean();  if (PROTOCOL.isEnabled())     {  PROTOCOL.format("Read disableLegacyObjects: {0}", disableLegacyObjects);     } 

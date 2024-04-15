@@ -1,0 +1,1 @@
+ @Override  public Object execute(Shell shell, IPage[] selection, ExecutionEvent event) {  changeColumnWidths(m_type, m_widthsMap);  return null;   }  @Override  public boolean isVisible() {  return isEditable(m_type) && m_widthsMap != null;   }  public void init(IPage origin) { } 

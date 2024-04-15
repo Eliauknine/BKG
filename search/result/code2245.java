@@ -1,0 +1,1 @@
+  /** 	 * {@inheritDoc} 	 *  	 * @see org.eclipse.emf.ecp.edit.spi.ReferenceService#addExistingModelElements(org.eclipse.emf.ecore.EObject, 	 *      org.eclipse.emf.ecore.EReference) 	 * @since 1.5 }

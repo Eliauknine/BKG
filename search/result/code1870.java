@@ -1,0 +1,1 @@
+	 */ public void mergeBranch(final PrimaryVersionSpec branchSpec, final ConflictResolver conflictResolver,  final IProgressMonitor monitor)  throws ESException {  if (branchSpec == null || conflictResolver == null) {  throw new IllegalArgumentException(Messages.ProjectSpaceBase_Arguments_Must_Not_Be_Null); } } 

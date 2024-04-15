@@ -1,0 +1,1 @@
+ public static String ProjectSpaceBase_Unknown_Author; public static String ProjectSpaceBase_Update_Cancelled_Invalid_Checksum;  public static String ResourcePersister_MissingID;  public static String UsersessionImpl_Invalid_Server_URL;  public static String UsersessionImpl_No_ServerInfo_Set;  public static String UsersessionImpl_Username; 
